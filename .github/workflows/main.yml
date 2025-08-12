@@ -1,74 +1,188 @@
-name: Update Starred Repos
+name: 🤖 Update Starred Repositories
 
 on:
   # 每周一上午9点自动运行（北京时间，UTC+8，所以是UTC时间1点）
   schedule:
     - cron: '0 1 * * 1'
   
-  # 手动触发
-  workflow_dispatch:
+  # 每日更新模式（可选，注释掉则仅周更新）
+  # schedule:
+  #   - cron: '0 2 * * *'  # 每日凌晨2点UTC（北京时间10点）
   
-  # 推送到main分支时触发
-  push:
-    branches: [ main ]
+  # 手动触发，支持选择运行模式
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+        - auto
+        - daily
+        - weekly
+      force_reanalyze:
+        description: '强制重新分析所有仓库'
+        required: false
+        default: false
+        type: boolean
+      sample_size:
+        description: '测试模式：仅分析前N个仓库（留空则全部分析）'
+        required: false
+        type: string
 
 jobs:
   update-starred-repos:
     runs-on: ubuntu-latest
+    timeout-minutes: 60  # 设置超时时间为60分钟
     
     steps:
-    - name: Checkout repository
+    - name: 📥 Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GH_TOKEN }}
+        fetch-depth: 0  # 获取完整历史
         
-    - name: Set up Python
-      uses: actions/setup-python@v4
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         
-    - name: Cache pip dependencies
-      uses: actions/cache@v3
+    - name: 💾 Cache pip dependencies
+      uses: actions/cache@v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
           
-    - name: Install dependencies
+    - name: 📦 Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: Create environment file
+    - name: ⚙️ Configure environment
       run: |
         echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" >> .env
         echo "LLM_API_KEY=${{ secrets.LLM_API_KEY }}" >> .env
-        echo "LLM_API_BASE_URL=${{ secrets.LLM_API_BASE_URL }}" >> .env
-        echo "LLM_MODEL_NAME=${{ secrets.LLM_MODEL_NAME }}" >> .env
+        if [ -n "${{ secrets.LLM_API_BASE_URL }}" ]; then
+          echo "LLM_API_BASE_URL=${{ secrets.LLM_API_BASE_URL }}" >> .env
+        fi
+        if [ -n "${{ secrets.LLM_MODEL_NAME }}" ]; then
+          echo "LLM_MODEL_NAME=${{ secrets.LLM_MODEL_NAME }}" >> .env
+        fi
+        if [ -n "${{ secrets.SILICONFLOW_API_KEY }}" ]; then
+          echo "SILICONFLOW_API_KEY=${{ secrets.SILICONFLOW_API_KEY }}" >> .env
+        fi
         
-    - name: Run main script
+    - name: 🚀 Run analysis
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         LLM_API_BASE_URL: ${{ secrets.LLM_API_BASE_URL }}
         LLM_MODEL_NAME: ${{ secrets.LLM_MODEL_NAME }}
+        SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
       run: |
-        python main_v2.py
+        # 构建命令参数
+        CMD="python main_v3.py"
         
-    - name: Commit and push changes
+        # 添加模式参数
+        if [ -n "${{ github.event.inputs.mode }}" ]; then
+          CMD="$CMD --mode ${{ github.event.inputs.mode }}"
+        else
+          CMD="$CMD --mode auto"
+        fi
+        
+        # 添加强制重新分析参数
+        if [ "${{ github.event.inputs.force_reanalyze }}" = "true" ]; then
+          CMD="$CMD --force-reanalyze"
+        fi
+        
+        # 添加样本大小参数
+        if [ -n "${{ github.event.inputs.sample_size }}" ]; then
+          CMD="$CMD --sample ${{ github.event.inputs.sample_size }}"
+        fi
+        
+        echo "执行命令: $CMD"
+        $CMD
+        
+    - name: 📊 Show statistics
+      if: always()
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git diff --staged --quiet || git commit -m "Auto update starred repositories $(date '+%Y-%m-%d %H:%M:%S')"
+        echo "=== 数据库统计信息 ==="
+        python main_v3.py --stats || echo "无法获取统计信息"
+        
+    - name: 📝 Commit and push changes
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 检查是否有变更
+        if git diff --quiet && git diff --cached --quiet; then
+          echo "没有文件变更，跳过提交"
+          exit 0
+        fi
+        
+        # 添加需要提交的文件
+        git add README.md
+        if [ -f "weekly_report.md" ]; then
+          git add weekly_report.md
+        fi
+        if [ -d "weekly_reports" ]; then
+          git add weekly_reports/
+        fi
+        
+        # 生成提交信息
+        TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S UTC')
+        MODE="${{ github.event.inputs.mode || 'auto' }}"
+        
+        if [ "${{ github.event.inputs.force_reanalyze }}" = "true" ]; then
+          COMMIT_MSG="🔄 强制重新分析所有仓库 - $TIMESTAMP"
+        elif [ -n "${{ github.event.inputs.sample_size }}" ]; then
+          COMMIT_MSG="🧪 测试运行 (前${{ github.event.inputs.sample_size }}个仓库) - $TIMESTAMP"
+        else
+          COMMIT_MSG="🤖 自动更新星标仓库分析 ($MODE 模式) - $TIMESTAMP"
+        fi
+        
+        # 提交变更
+        git commit -m "$COMMIT_MSG" || echo "没有新的变更需要提交"
         git push
         
-    - name: Upload log file
-      uses: actions/upload-artifact@v3
+    - name: 📋 Upload artifacts
+      uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: logs
+        name: analysis-logs-${{ github.run_number }}
         path: |
           starred_repos.log
           debug.log
+          data/starred_repos_v3.db
+        retention-days: 7
+        
+    - name: 📈 Create job summary
+      if: always()
+      run: |
+        echo "## 🎯 运行总结" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**运行时间**: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "**运行模式**: ${{ github.event.inputs.mode || 'auto' }}" >> $GITHUB_STEP_SUMMARY
+        echo "**强制重新分析**: ${{ github.event.inputs.force_reanalyze || 'false' }}" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -n "${{ github.event.inputs.sample_size }}" ]; then
+          echo "**测试模式**: 仅分析前 ${{ github.event.inputs.sample_size }} 个仓库" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📊 数据库统计" >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+        python main_v3.py --stats 2>/dev/null || echo "无法获取统计信息" >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 🔗 相关链接" >> $GITHUB_STEP_SUMMARY
+        echo "- [📚 生成的 README](https://github.com/${{ github.repository }}/blob/main/README.md)" >> $GITHUB_STEP_SUMMARY
+        echo "- [📈 项目仓库](https://github.com/${{ github.repository }})" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "weekly_report.md" ]; then
+          echo "- [📊 本周报告](https://github.com/${{ github.repository }}/blob/main/weekly_report.md)" >> $GITHUB_STEP_SUMMARY
+        fi
