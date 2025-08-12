@@ -465,7 +465,7 @@ GitHub 主题标签：{', '.join(github_topics)}
         logger.info("个人标签数据更新完成")
     
     def generate_readme(self) -> None:
-        """生成 README.md 文件"""
+        """生成优化的 README.md 文件"""
         logger.info("生成 README.md...")
         
         # 获取个人标签统计
@@ -473,50 +473,108 @@ GitHub 主题标签：{', '.join(github_topics)}
         # 在生成前，先规范化一次标签，确保只保留 10 类
         self.db.normalize_personal_tags(ORDERED_CATEGORIES, default_tag='others')
         
-        # 生成内容
-        content = """# ✨ My Starred Repositories ✨
+        # 获取统计信息
+        db_stats = self.db.get_database_stats()
+        total_repos = db_stats.get('repositories_count', 0)
+        
+        # 生成头部内容
+        content = f"""# ✨ My Starred Repositories ✨
 
-A curated list of awesome things I've starred on GitHub.
+[![Stars](https://img.shields.io/badge/Total%20Repos-{total_repos}-blue.svg)](https://github.com/vincent623/My-Starred-Repositories)
+[![AI Powered](https://img.shields.io/badge/AI%20Powered-🤖-brightgreen.svg)](https://github.com/vincent623/My-Starred-Repositories)
+[![Auto Updated](https://img.shields.io/badge/Auto%20Updated-⚡-orange.svg)](https://github.com/vincent623/My-Starred-Repositories/actions)
 
-## Contents
+> 🤖 **AI驱动的GitHub星标仓库智能管理系统** - 自动分析、分类和生成我收藏的优质项目清单
+
+## 📊 统计概览
 
 """
         
-        # 生成目录
-        # 固定分类顺序：仅展示已出现的分类；其余忽略
+        # 添加统计表格
         ordered_tags = [t for t in ORDERED_CATEGORIES if t in tag_stats]
+        content += "| 分类 | 数量 | 占比 |\n"
+        content += "|------|------|------|\n"
+        
         for tag in ordered_tags:
-            anchor = tag.lower().replace(' ', '-').replace('/', '-')
-            content += f"- [{tag}](#{anchor})\n"
+            count = tag_stats[tag]
+            percentage = (count / total_repos * 100) if total_repos > 0 else 0
+            content += f"| {tag} | {count} | {percentage:.1f}% |\n"
+        
+        content += f"\n**总计**: {total_repos} 个精选仓库\n\n"
+        
+        # 生成目录
+        content += "## 📖 分类目录\n\n"
+        for tag in ordered_tags:
+            count = tag_stats[tag]
+            anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
+            content += f"- [{tag}](#{anchor}) ({count}个)\n"
         
         content += "\n---\n\n"
         
-        # 生成分类内容
+        # 生成分类内容（简化版）
         for tag in ordered_tags:
-            anchor = tag.lower().replace(' ', '-').replace('/', '-')
-            content += f"## {tag}\n\n"
+            anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
+            count = tag_stats[tag]
+            content += f"## {tag}\n"
+            content += f"*{count} 个精选项目*\n\n"
             
-            # 获取该标签的仓库
+            # 获取该标签的仓库（限制显示数量）
             repos = self.db.get_repositories_by_personal_tag(tag)
             
-            for repo in sorted(repos, key=lambda x: x['name']):
+            # 按名称排序，只显示前20个
+            sorted_repos = sorted(repos, key=lambda x: x['name'])[:20]
+            
+            for repo in sorted_repos:
                 language = repo.get('language', 'Unknown')
                 summary = repo.get('summary', 'No summary')
-                value = repo.get('value', '')
                 url = repo['html_url']
                 
-                content += f"- **[{repo['name']}]({url})** - ({language}) {summary}"
-                if value:
-                    content += f" - {value}"
-                content += "\n"
+                # 简化显示格式
+                content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
+            
+            # 如果有更多仓库，添加省略号
+            if len(repos) > 20:
+                remaining = len(repos) - 20
+                content += f"\n*...还有 {remaining} 个项目，完整列表请查看数据库*\n"
             
             content += "\n"
         
-        # 添加页脚
-        content += f"""
+        # 添加项目说明和页脚
+        content += f"""---
+
+## 🚀 关于本项目
+
+这是一个**AI驱动的GitHub星标仓库管理系统**，具备以下特性：
+
+- 🤖 **智能分析**: 使用大语言模型自动分析每个仓库的价值和用途
+- 🏷️ **智能分类**: 自动归类到10大技术领域
+- 📊 **数据洞察**: 提供详细的统计分析和趋势洞察
+- ⚡ **自动更新**: 通过GitHub Actions每周自动更新
+- 🔒 **隐私安全**: 本地数据库存储，代码完全开源
+
+### 📋 技术栈
+
+- **后端**: Python 3.11+ + SQLite
+- **AI模型**: 支持OpenRouter、OpenAI、Silicon Flow等多种LLM
+- **自动化**: GitHub Actions
+- **数据处理**: 智能标签合并与去重
+
+### 🎯 快速开始
+
+1. **Fork本仓库**: [My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)
+2. **配置Secrets**: 参考 [GITHUB_ACTIONS_SETUP.md](./GITHUB_ACTIONS_SETUP.md)
+3. **手动运行**: 在Actions页面触发首次运行
+4. **享受自动化**: 每周一自动更新分析
+
+### 📚 文档
+
+- 📖 [详细设置指南](./SETUP.md)
+- ⚙️ [GitHub Actions配置](./GITHUB_ACTIONS_SETUP.md)
+- 📋 [产品需求文档](./prd.md)
+
 ---
-*最后更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
-*自动生成 by My Starred Repositories V3*
+
+*📅 最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | 🤖 自动生成 by [My Starred Repositories V3](https://github.com/vincent623/My-Starred-Repositories)*
 """
         
         # 保存文件
