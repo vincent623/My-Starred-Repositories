@@ -511,19 +511,31 @@ GitHub 主题标签：{', '.join(github_topics)}
         
         content += "\n---\n\n"
         
-        # 生成分类内容（简化版）
+        # 生成分类内容（折叠显示所有项目）
         for tag in ordered_tags:
             anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
             count = tag_stats[tag]
-            content += f"## {tag}\n"
-            content += f"*{count} 个精选项目*\n\n"
             
-            # 获取该标签的仓库（限制显示数量）
+            # 获取该标签的所有仓库
             repos = self.db.get_repositories_by_personal_tag(tag)
+            sorted_repos = sorted(repos, key=lambda x: x['name'])
             
-            # 按名称排序，只显示前20个
-            sorted_repos = sorted(repos, key=lambda x: x['name'])[:20]
+            # 生成折叠标题
+            content += f"## {tag}\n\n"
+            content += f"<details>\n"
+            content += f"<summary><strong>{count} 个精选项目</strong> 👆 点击展开</summary>\n\n"
             
+            # 如果项目较多，添加顶部快速预览（前3个）
+            if count > 3:
+                content += "### 🌟 精选推荐\n\n"
+                for repo in sorted_repos[:3]:
+                    language = repo.get('language', 'Unknown')
+                    summary = repo.get('summary', 'No summary')
+                    url = repo['html_url']
+                    content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
+                content += f"\n### 📋 完整列表 ({count} 个项目)\n\n"
+            
+            # 生成完整项目列表
             for repo in sorted_repos:
                 language = repo.get('language', 'Unknown')
                 summary = repo.get('summary', 'No summary')
@@ -532,12 +544,7 @@ GitHub 主题标签：{', '.join(github_topics)}
                 # 简化显示格式
                 content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
             
-            # 如果有更多仓库，添加省略号
-            if len(repos) > 20:
-                remaining = len(repos) - 20
-                content += f"\n*...还有 {remaining} 个项目，完整列表请查看数据库*\n"
-            
-            content += "\n"
+            content += "\n</details>\n\n"
         
         # 添加项目说明和页脚
         content += f"""---
