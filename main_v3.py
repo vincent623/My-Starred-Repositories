@@ -511,40 +511,44 @@ GitHub 主题标签：{', '.join(github_topics)}
         
         content += "\n---\n\n"
         
-        # 生成分类内容（折叠显示所有项目）
-        for tag in ordered_tags:
+        # 生成精选分类展示（仅显示TOP5分类，每个最多5个项目）
+        top_categories = sorted([(tag, tag_stats[tag]) for tag in ordered_tags], 
+                               key=lambda x: x[1], reverse=True)[:5]
+        
+        content += "## 🔥 精选分类预览\n\n"
+        content += "> 💡 以下仅展示热门分类的部分项目，[查看完整列表](./docs/FULL_LIST.md)\n\n"
+        
+        for tag, count in top_categories:
             anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
-            count = tag_stats[tag]
+            content += f"### {tag} ({count}个)\n\n"
             
-            # 获取该标签的所有仓库
+            # 获取该标签的前5个项目
             repos = self.db.get_repositories_by_personal_tag(tag)
-            sorted_repos = sorted(repos, key=lambda x: x['name'])
+            sorted_repos = sorted(repos, key=lambda x: x['name'])[:5]
             
-            # 生成折叠标题
-            content += f"## {tag}\n\n"
-            content += f"<details>\n"
-            content += f"<summary><strong>{count} 个精选项目</strong> 👆 点击展开</summary>\n\n"
-            
-            # 如果项目较多，添加顶部快速预览（前3个）
-            if count > 3:
-                content += "### 🌟 精选推荐\n\n"
-                for repo in sorted_repos[:3]:
-                    language = repo.get('language', 'Unknown')
-                    summary = repo.get('summary', 'No summary')
-                    url = repo['html_url']
-                    content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
-                content += f"\n### 📋 完整列表 ({count} 个项目)\n\n"
-            
-            # 生成完整项目列表
             for repo in sorted_repos:
                 language = repo.get('language', 'Unknown')
                 summary = repo.get('summary', 'No summary')
                 url = repo['html_url']
-                
-                # 简化显示格式
-                content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
+                # 简化描述（最多100字符）
+                short_summary = summary[:100] + "..." if len(summary) > 100 else summary
+                content += f"- **[{repo['name']}]({url})** `{language}` - {short_summary}\n"
             
-            content += "\n</details>\n\n"
+            if count > 5:
+                content += f"\n*[查看该分类的全部 {count} 个项目](./docs/FULL_LIST.md#{anchor})*\n"
+            content += "\n"
+        
+        # 完整分类列表导航
+        content += "---\n\n"
+        content += "## 📋 完整分类导航\n\n"
+        content += "| 分类 | 项目数 | 查看详情 |\n"
+        content += "|------|--------|----------|\n"
+        for tag in ordered_tags:
+            count = tag_stats[tag]
+            anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
+            content += f"| **{tag}** | {count}个 | [查看详情](./docs/FULL_LIST.md#{anchor}) |\n"
+        
+        content += f"\n> 📋 **[查看完整项目列表 ({total_repos}个)](./docs/FULL_LIST.md)** - 包含所有项目的详细信息和完整描述\n\n"
         
         # 添加项目说明和页脚
         content += f"""---
@@ -588,7 +592,95 @@ GitHub 主题标签：{', '.join(github_topics)}
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(content)
         
-        logger.info("README.md 生成完成")
+        logger.info("轻量版 README.md 生成完成")
+    
+    def generate_full_list(self) -> None:
+        """生成完整的项目列表文档"""
+        logger.info("生成完整项目列表...")
+        
+        # 确保docs目录存在
+        import os
+        os.makedirs('docs', exist_ok=True)
+        
+        # 获取个人标签统计
+        tag_stats = self.db.get_all_personal_tag_stats()
+        
+        # 使用配置中的分类顺序
+        from config import ORDERED_CATEGORIES
+        ordered_tags = [t for t in ORDERED_CATEGORIES if t in tag_stats]
+        
+        # 获取统计信息
+        db_stats = self.db.get_database_stats()
+        total_repos = db_stats.get('repositories_count', 0)
+        
+        content = f"""# 📋 完整项目列表
+
+> 🤖 这是由AI智能分析的{total_repos}个GitHub星标项目的完整清单，按技术领域精心分类
+
+[![返回主页](https://img.shields.io/badge/🏠-返回主页-blue.svg)](../README.md)
+[![AI分析](https://img.shields.io/badge/🤖-AI智能分析-brightgreen.svg)](../README.md)
+
+## 📊 分类统计
+
+| 分类 | 项目数 | 占比 |
+|------|--------|------|
+"""
+        
+        for tag in ordered_tags:
+            count = tag_stats[tag]
+            percentage = (count / total_repos * 100) if total_repos > 0 else 0
+            content += f"| **{tag}** | {count}个 | {percentage:.1f}% |\n"
+        
+        content += f"\n**总计**: {total_repos} 个精选项目\n\n"
+        
+        # 生成分类目录
+        content += "## 📖 快速导航\n\n"
+        for tag in ordered_tags:
+            count = tag_stats[tag]
+            anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
+            content += f"- [{tag}](#{anchor}) ({count}个)\n"
+        
+        content += "\n---\n\n"
+        
+        # 生成详细分类内容
+        for tag in ordered_tags:
+            anchor = tag.lower().replace(' ', '-').replace('/', '-').replace('&', '')
+            count = tag_stats[tag]
+            
+            content += f"## {tag}\n\n"
+            content += f"*{count} 个项目*\n\n"
+            
+            # 获取该标签的所有仓库
+            repos = self.db.get_repositories_by_personal_tag(tag)
+            sorted_repos = sorted(repos, key=lambda x: x['name'])
+            
+            for repo in sorted_repos:
+                language = repo.get('language', 'Unknown')
+                summary = repo.get('summary', 'No summary')
+                url = repo['html_url']
+                content += f"- **[{repo['name']}]({url})** `{language}` - {summary}\n"
+            
+            content += "\n"
+        
+        # 添加页脚
+        content += f"""---
+
+## 📚 相关文档
+
+- 🏠 [返回主页](../README.md)
+- 📖 [设置指南](../SETUP.md)  
+- ⚙️ [GitHub Actions配置](../GITHUB_ACTIONS_SETUP.md)
+- 📋 [产品需求文档](../prd.md)
+
+---
+
+*📅 最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | 🤖 AI智能分析生成*
+"""
+        
+        with open('docs/FULL_LIST.md', 'w', encoding='utf-8') as f:
+            f.write(content)
+        
+        logger.info("完整项目列表生成完成")
     
     def generate_weekly_report(self, new_repos: List[Dict]) -> None:
         """生成每周报告"""
@@ -678,8 +770,9 @@ GitHub主题：{', '.join(repo.get('github_topics', []))}
             # 3. 更新标签数据
             self.update_tags_data()
             
-            # 4. 生成 README.md
+            # 4. 生成轻量版 README.md 和完整项目列表
             self.generate_readme()
+            self.generate_full_list()
             
             # 5. 生成每周报告（按模式/周期控制）
             should_generate_weekly = False
