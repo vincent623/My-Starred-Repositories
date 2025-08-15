@@ -112,14 +112,22 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # 检查是否有变更，避免空提交
+        # 检查是否有文件变更，如果没有就提前退出，避免空提交
         if git diff --quiet && git diff --cached --quiet; then
           echo "没有文件变更，跳过提交"
           exit 0
         fi
         
-        # 添加所有可能变更的文件
-        git add README.md weekly_report.md weekly_reports/ data/ || echo "没有需要添加的文件"
+        # 【关键修改】使用 'git add -A' 来暂存所有变更（新增、修改、删除）
+        # 这比指定具体文件名更健壮，不会因为某个文件不存在而失败
+        echo "正在暂存所有变更..."
+        git add -A
+        
+        # 再次检查暂存区，确保有内容可提交
+        if git diff --cached --quiet; then
+          echo "暂存区为空，可能是 git add 失败或没有需要追踪的文件变更。"
+          exit 0
+        fi
         
         # 生成提交信息
         TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S UTC')
@@ -134,7 +142,10 @@ jobs:
         fi
         
         # 提交变更
+        echo "正在提交变更..."
         git commit -m "$COMMIT_MSG"
+        
+        echo "正在推送到远程仓库..."
         git push
         
     - name: 📋 Upload artifacts
