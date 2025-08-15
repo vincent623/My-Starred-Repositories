@@ -66,7 +66,7 @@ jobs:
         # ======================= 环境变量配置 =======================
         # 敏感信息：从 GitHub Secrets 读取
         # 请确保在仓库的 Settings -> Secrets and variables -> Actions 中设置了这些值
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }} # 如果你不用SiliconFlow，可以删除或留空这个secret
 
