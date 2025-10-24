@@ -1,6 +1,6 @@
 # ✨ My Starred Repositories ✨
 
-[![Stars](https://img.shields.io/badge/Total%20Repos-698-blue.svg)](https://github.com/vincent623/My-Starred-Repositories)
+[![Stars](https://img.shields.io/badge/Total%20Repos-700-blue.svg)](https://github.com/vincent623/My-Starred-Repositories)
 [![AI Powered](https://img.shields.io/badge/AI%20Powered-🤖-brightgreen.svg)](https://github.com/vincent623/My-Starred-Repositories)
 [![Auto Updated](https://img.shields.io/badge/Auto%20Updated-⚡-orange.svg)](https://github.com/vincent623/My-Starred-Repositories/actions)
 
@@ -10,31 +10,31 @@
 
 | 分类 | 数量 | 占比 |
 |------|------|------|
-| AI Agents | 143 | 20.5% |
-| LLMs & Inference | 204 | 29.2% |
-| RAG & Knowledge | 170 | 24.4% |
-| AI Tooling | 202 | 28.9% |
-| Multimodal & Digital Humans | 103 | 14.8% |
-| Data Processing | 120 | 17.2% |
-| Productivity | 315 | 45.1% |
-| Web Tools | 267 | 38.3% |
-| Specialized Apps | 364 | 52.1% |
-| others | 170 | 24.4% |
+| AI Agents | 137 | 19.6% |
+| LLMs & Inference | 208 | 29.7% |
+| RAG & Knowledge | 167 | 23.9% |
+| AI Tooling | 196 | 28.0% |
+| Multimodal & Digital Humans | 99 | 14.1% |
+| Data Processing | 119 | 17.0% |
+| Productivity | 325 | 46.4% |
+| Web Tools | 266 | 38.0% |
+| Specialized Apps | 369 | 52.7% |
+| others | 181 | 25.9% |
 
-**总计**: 698 个精选仓库
+**总计**: 700 个精选仓库
 
 ## 📖 分类目录
 
-- [AI Agents](#ai-agents) (143个)
-- [LLMs & Inference](#llms--inference) (204个)
-- [RAG & Knowledge](#rag--knowledge) (170个)
-- [AI Tooling](#ai-tooling) (202个)
-- [Multimodal & Digital Humans](#multimodal--digital-humans) (103个)
-- [Data Processing](#data-processing) (120个)
-- [Productivity](#productivity) (315个)
-- [Web Tools](#web-tools) (267个)
-- [Specialized Apps](#specialized-apps) (364个)
-- [others](#others) (170个)
+- [AI Agents](#ai-agents) (137个)
+- [LLMs & Inference](#llms--inference) (208个)
+- [RAG & Knowledge](#rag--knowledge) (167个)
+- [AI Tooling](#ai-tooling) (196个)
+- [Multimodal & Digital Humans](#multimodal--digital-humans) (99个)
+- [Data Processing](#data-processing) (119个)
+- [Productivity](#productivity) (325个)
+- [Web Tools](#web-tools) (266个)
+- [Specialized Apps](#specialized-apps) (369个)
+- [others](#others) (181个)
 
 ---
 
@@ -42,55 +42,55 @@
 
 > 💡 以下仅展示热门分类的部分项目，[查看完整列表](./docs/FULL_LIST.md)
 
-### Specialized Apps (364个)
+### Specialized Apps (369个)
 
-- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 该仓库系统整理音视频流媒体领域500+权威资料，涵盖协议、开源项目、实践案例与业界专家，助力开发者高效掌握流媒体核心技术与实战路径。
-- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文英文双语对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出。
-- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向解析视频链接与接口，自动提取无水印视频资源，支持抖音、快手、微博等主流平台。核心亮点为高兼容性与低资源消耗。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于模块化节点设计与跨平台兼容性。
-- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是面向金融领域的开源大语言模型，基于 PyTorch 实现，支持金融问答、情绪分析与技术分析，通过 Hugging Face 提供模型推理服务，具备高可定制性与行业适配性。
+- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统性整理音视频流媒体核心技术资料，涵盖协议、开源项目与实践案例，支持高效学习与工程落地。
+- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目聚合平台，汇聚个人开发者的技术实践与开源项目，通过社区协作展示多样化应用创新，突出本土化开发生态与轻量级实现路径。
+- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文英文双语对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出，核心亮点为低延迟与多语言语调适配。
+- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向解析视频链接并提取无水印资源，支持抖音、快手、微博等主流平台，具备高兼容性与低资源占用优势。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点为模块化节点设计与本地化部署支持。
 
-*[查看该分类的全部 364 个项目](./docs/FULL_LIST.md#specialized-apps)*
+*[查看该分类的全部 369 个项目](./docs/FULL_LIST.md#specialized-apps)*
 
-### Productivity (315个)
+### Productivity (325个)
 
-- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目集合，汇聚多元个人开发成果，涵盖工具、应用与AI创新实践，通过开源协作推动技术共享与生态共建。
-- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文对话、摘要生成与引用分析，提升科研效率。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出方案，支持 OpenAI 函数调用与严格数据验证，提升 LLM 输出的可靠性与可集成性。
-- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript实现跨平台高效交互，显著提升设计效率。
-- **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的 AI 开发助手，通过 CLI 交互实现代码生成与执行，支持多模型调用与工具链集成，核心亮点是“边写边跑”的实时开发体验。
+- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目聚合平台，汇聚个人开发者的技术实践与开源项目，通过社区协作展示多样化应用创新，突出本土化开发生态与轻量级实现路径。
+- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文智能讨论、摘要生成与引文分析，基于 RAG 技术提升科研...
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出解决方案，通过类型安全与 OpenAI 函数调用无缝集成，实现 LLM 输出的精准控制与验证。核心亮点在于简化结构化 JSON 输出的开发流程。
+- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript实现跨平台高效调用，显著提升设计效率。
+- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 基于React与TypeScript的开源简历生成工具，采用TailwindCSS与Material-UI实现高度可定制化界面，支持本地化运行保障隐私安全，无需依赖云端服务即可快速生成响应式简历。
 
-*[查看该分类的全部 315 个项目](./docs/FULL_LIST.md#productivity)*
+*[查看该分类的全部 325 个项目](./docs/FULL_LIST.md#productivity)*
 
-### Web Tools (267个)
+### Web Tools (266个)
 
-- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 该仓库系统整理音视频流媒体领域500+权威资料，涵盖协议、开源项目、实践案例与业界专家，助力开发者高效掌握流媒体核心技术与实战路径。
-- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目集合，汇聚多元个人开发成果，涵盖工具、应用与AI创新实践，通过开源协作推动技术共享与生态共建。
-- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向解析视频链接与接口，自动提取无水印视频资源，支持抖音、快手、微博等主流平台。核心亮点为高兼容性与低资源消耗。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于模块化节点设计与跨平台兼容性。
-- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 一个基于AI的图像内容替换工具，支持用户通过自然语言指令动态替换图像中的特定元素，利用生成式AI实现语义理解与高保真图像生成，核心亮点在于无需专业设计技能即可完成复杂图像编辑。
+- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统性整理音视频流媒体核心技术资料，涵盖协议、开源项目与实践案例，支持高效学习与工程落地。
+- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向解析视频链接并提取无水印资源，支持抖音、快手、微博等主流平台，具备高兼容性与低资源占用优势。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点为模块化节点设计与本地化部署支持。
+- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 一款基于AIGC技术的智能图像替换工具，支持用户通过自然语言指令动态替换图像中指定元素，结合多模态理解与生成能力实现精准语义替换，核心亮点为零样本语义感知与上下文一致性保持。
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的Web界面工具，通过Gradio构建交互式前端，支持文生图、图生图、图像超分等生成任务，集成PyTorch与扩散模型，提供开箱即用的AI图像生成体验。
 
-*[查看该分类的全部 267 个项目](./docs/FULL_LIST.md#web-tools)*
+*[查看该分类的全部 266 个项目](./docs/FULL_LIST.md#web-tools)*
 
-### LLMs & Inference (204个)
+### LLMs & Inference (208个)
 
-- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文英文双语对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出方案，支持 OpenAI 函数调用与严格数据验证，提升 LLM 输出的可靠性与可集成性。
-- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是面向金融领域的开源大语言模型，基于 PyTorch 实现，支持金融问答、情绪分析与技术分析，通过 Hugging Face 提供模型推理服务，具备高可定制性与行业适配性。
-- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、音效与虚拟人说话头的统一理解与生成，基于大模型与多模态技术，支持自然语言驱动的音频内容创作。核心亮点在于跨模态生成与高保真语音合成。
-- **[AtomEcho/AtomBulb](https://github.com/AtomEcho/AtomBulb)** `Unknown` - AtomEcho/AtomBulb 构建标准化评测体系，对主流大语言模型进行多维度、可复现的性能对比，涵盖推理、指令遵循与知识问答等核心能力。
+- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文英文双语对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出，核心亮点为低延迟与多语言语调适配。
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出解决方案，通过类型安全与 OpenAI 函数调用无缝集成，实现 LLM 输出的精准控制与验证。核心亮点在于简化结构化 JSON 输出的开发流程。
+- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是面向金融领域的开源大语言模型，基于 PyTorch 构建并部署于 HuggingFace，支持金融文本生成、情感分析与技术分析，通过 Prompt Engineering 与微调提升专...
+- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、声音与虚拟人说话头的统一理解与生成，基于大语言模型与多模态技术，支持端到端音频内容创作与交互。核心亮点是跨模态语义对齐与高保真语音合成。
+- **[AtomEcho/AtomBulb](https://github.com/AtomEcho/AtomBulb)** `Unknown` - AtomEcho/AtomBulb 对主流大语言模型进行标准化、可复现的评测，通过统一数据集与评估指标，直观比较模型性能，助力研究与选型。
 
-*[查看该分类的全部 204 个项目](./docs/FULL_LIST.md#llms--inference)*
+*[查看该分类的全部 208 个项目](./docs/FULL_LIST.md#llms--inference)*
 
-### AI Tooling (202个)
+### AI Tooling (196个)
 
-- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文对话、摘要生成与引用分析，提升科研效率。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出方案，支持 OpenAI 函数调用与严格数据验证，提升 LLM 输出的可靠性与可集成性。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于模块化节点设计与跨平台兼容性。
-- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript实现跨平台高效交互，显著提升设计效率。
-- **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的 AI 开发助手，通过 CLI 交互实现代码生成与执行，支持多模型调用与工具链集成，核心亮点是“边写边跑”的实时开发体验。
+- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文智能讨论、摘要生成与引文分析，基于 RAG 技术提升科研...
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 提供基于 Pydantic v2 的结构化输出解决方案，通过类型安全与 OpenAI 函数调用无缝集成，实现 LLM 输出的精准控制与验证。核心亮点在于简化结构化 JSON 输出的开发流程。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点为模块化节点设计与本地化部署支持。
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的Web界面工具，通过Gradio构建交互式前端，支持文生图、图生图、图像超分等生成任务，集成PyTorch与扩散模型，提供开箱即用的AI图像生成体验。
+- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript实现跨平台高效调用，显著提升设计效率。
 
-*[查看该分类的全部 202 个项目](./docs/FULL_LIST.md#ai-tooling)*
+*[查看该分类的全部 196 个项目](./docs/FULL_LIST.md#ai-tooling)*
 
 ---
 
@@ -98,18 +98,18 @@
 
 | 分类 | 项目数 | 查看详情 |
 |------|--------|----------|
-| **AI Agents** | 143个 | [查看详情](./docs/FULL_LIST.md#ai-agents) |
-| **LLMs & Inference** | 204个 | [查看详情](./docs/FULL_LIST.md#llms--inference) |
-| **RAG & Knowledge** | 170个 | [查看详情](./docs/FULL_LIST.md#rag--knowledge) |
-| **AI Tooling** | 202个 | [查看详情](./docs/FULL_LIST.md#ai-tooling) |
-| **Multimodal & Digital Humans** | 103个 | [查看详情](./docs/FULL_LIST.md#multimodal--digital-humans) |
-| **Data Processing** | 120个 | [查看详情](./docs/FULL_LIST.md#data-processing) |
-| **Productivity** | 315个 | [查看详情](./docs/FULL_LIST.md#productivity) |
-| **Web Tools** | 267个 | [查看详情](./docs/FULL_LIST.md#web-tools) |
-| **Specialized Apps** | 364个 | [查看详情](./docs/FULL_LIST.md#specialized-apps) |
-| **others** | 170个 | [查看详情](./docs/FULL_LIST.md#others) |
+| **AI Agents** | 137个 | [查看详情](./docs/FULL_LIST.md#ai-agents) |
+| **LLMs & Inference** | 208个 | [查看详情](./docs/FULL_LIST.md#llms--inference) |
+| **RAG & Knowledge** | 167个 | [查看详情](./docs/FULL_LIST.md#rag--knowledge) |
+| **AI Tooling** | 196个 | [查看详情](./docs/FULL_LIST.md#ai-tooling) |
+| **Multimodal & Digital Humans** | 99个 | [查看详情](./docs/FULL_LIST.md#multimodal--digital-humans) |
+| **Data Processing** | 119个 | [查看详情](./docs/FULL_LIST.md#data-processing) |
+| **Productivity** | 325个 | [查看详情](./docs/FULL_LIST.md#productivity) |
+| **Web Tools** | 266个 | [查看详情](./docs/FULL_LIST.md#web-tools) |
+| **Specialized Apps** | 369个 | [查看详情](./docs/FULL_LIST.md#specialized-apps) |
+| **others** | 181个 | [查看详情](./docs/FULL_LIST.md#others) |
 
-> 📋 **[查看完整项目列表 (698个)](./docs/FULL_LIST.md)** - 包含所有项目的详细信息和完整描述
+> 📋 **[查看完整项目列表 (700个)](./docs/FULL_LIST.md)** - 包含所有项目的详细信息和完整描述
 
 ---
 
@@ -145,4 +145,4 @@
 
 ---
 
-*📅 最后更新: 2025-10-23 02:47:12 | 🤖 自动生成 by [My Starred Repositories V3](https://github.com/vincent623/My-Starred-Repositories)*
+*📅 最后更新: 2025-10-24 02:42:12 | 🤖 自动生成 by [My Starred Repositories V3](https://github.com/vincent623/My-Starred-Repositories)*
