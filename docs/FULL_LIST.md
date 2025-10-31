@@ -1,6 +1,6 @@
 # 📋 完整项目列表
 
-> 🤖 这是由AI智能分析的702个GitHub星标项目的完整清单，按技术领域精心分类
+> 🤖 这是由AI智能分析的704个GitHub星标项目的完整清单，按技术领域精心分类
 
 [![返回主页](https://img.shields.io/badge/🏠-返回主页-blue.svg)](../README.md)
 [![AI分析](https://img.shields.io/badge/🤖-AI智能分析-brightgreen.svg)](../README.md)
@@ -10,30 +10,30 @@
 | 分类 | 项目数 | 占比 |
 |------|--------|------|
 | **AI Agents** | 137个 | 19.5% |
-| **LLMs & Inference** | 200个 | 28.5% |
-| **RAG & Knowledge** | 170个 | 24.2% |
-| **AI Tooling** | 215个 | 30.6% |
-| **Multimodal & Digital Humans** | 103个 | 14.7% |
-| **Data Processing** | 125个 | 17.8% |
-| **Productivity** | 308个 | 43.9% |
-| **Web Tools** | 276个 | 39.3% |
-| **Specialized Apps** | 351个 | 50.0% |
-| **others** | 186个 | 26.5% |
+| **LLMs & Inference** | 209个 | 29.7% |
+| **RAG & Knowledge** | 174个 | 24.7% |
+| **AI Tooling** | 208个 | 29.5% |
+| **Multimodal & Digital Humans** | 101个 | 14.3% |
+| **Data Processing** | 122个 | 17.3% |
+| **Productivity** | 329个 | 46.7% |
+| **Web Tools** | 268个 | 38.1% |
+| **Specialized Apps** | 353个 | 50.1% |
+| **others** | 178个 | 25.3% |
 
-**总计**: 702 个精选项目
+**总计**: 704 个精选项目
 
 ## 📖 快速导航
 
 - [AI Agents](#ai-agents) (137个)
-- [LLMs & Inference](#llms--inference) (200个)
-- [RAG & Knowledge](#rag--knowledge) (170个)
-- [AI Tooling](#ai-tooling) (215个)
-- [Multimodal & Digital Humans](#multimodal--digital-humans) (103个)
-- [Data Processing](#data-processing) (125个)
-- [Productivity](#productivity) (308个)
-- [Web Tools](#web-tools) (276个)
-- [Specialized Apps](#specialized-apps) (351个)
-- [others](#others) (186个)
+- [LLMs & Inference](#llms--inference) (209个)
+- [RAG & Knowledge](#rag--knowledge) (174个)
+- [AI Tooling](#ai-tooling) (208个)
+- [Multimodal & Digital Humans](#multimodal--digital-humans) (101个)
+- [Data Processing](#data-processing) (122个)
+- [Productivity](#productivity) (329个)
+- [Web Tools](#web-tools) (268个)
+- [Specialized Apps](#specialized-apps) (353个)
+- [others](#others) (178个)
 
 ---
 
@@ -41,2122 +41,2130 @@
 
 *137 个项目*
 
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过AI自主代理实现代码生成与代码库构建，支持从需求到完整项目结构的自动化生成，核心亮点是端到端的代码工程自动化能力。
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 和 TypeScript 构建的桌面端多 LLM 服务商客户端，支持 OpenAI、Anthropic 等主流模型接入，提供统一交互界面与高效代理调度能力，核心亮点为跨平台统一接入与插件化代理架构。
-- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与安全执行，核心亮点为高性能与可扩展的插件系统。
-- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建人生模拟游戏，通过动态数据分析与生成式叙事实现个性化人生重来体验，核心亮点在于AI驱动的深度人生决策推演与情感化反馈。
-- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化编排的 AI 工作流构建平台，支持低代码/无代码构建复杂 AI Agent 与多智能体系统，集成 LangChain、OpenAI 等主流 LLM 生态，实现高效流程自动化。
-- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 是一个完全本地运行的自主智能体系统，基于 DeepSeek-R1 模型实现无网络 API 依赖的自主思考、网页浏览与代码生成，仅消耗电费即可运行。
-- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 是首个基于多智能体协作的自然语言编程框架，通过角色分工与自主协作实现从需求描述到代码生成的端到端自动化，核心亮点在于模拟真实软件公司运作模式。
-- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个开源的 AI 代理系统，基于 Python 构建，致力于打造无需围墙的开放智能协作环境。通过模块化 Agent 架构与灵活工具链，实现自主任务规划与多轮交互，核心亮点在于极致开放性与可扩展性。
-- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成个性化求职信并自动发送至中国雇主，提升求职效率。核心技术为LLM驱动的文本生成与自动化消息推送。
-- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT API及多款主流大模型的图形化对话工具，支持Agent、文件问答、模型微调与网页搜索，通过简洁UI实现高效多模态交互。
-- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，融合RAG与动态工具调用，高效完成信息检索、分析与报告生成。
-- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，聚焦AI驱动的虚拟形象对话系统，融合多模态交互与个性化生成，实现自然流畅的数字人对话体验，核心亮点在于端到端的Avatar行为建模与上下文感知对话引擎。
-- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue构建的VSCode插件，为MCP开发者提供一站式AI开发支持，集成LLM调用、Agent编排与代码辅助，通过轻量化架构实现高效开发体验。
-- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - Llama-Chinese 仓库聚焦中文 Llama 大模型生态建设，整合最新学习资料与开源资源，支持模型预训练、微调与推理，助力开发者快速构建可商用的中文 LLM 应用。
-- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 该仓库系统整理了大语言模型中情境化心智理论（Theory of Mind）的前沿研究，基于EMNLP Findings 2023论文构建全景知识图谱，聚焦模型理解人类意图、信念与心理状态的能力，助力LLM实现更人性化的交互。
-- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容性的本地化桌面及 Docker AI 应用，支持多模型与多模态，实现本地化智能自动化处理。
-- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG与知识图谱及个性化PageRank，实现大模型对外部文档知识的持续整合与动态更新，提升知识吸收与推理能力。
-- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真应用，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的 Agent 协作架构与跨场景适配能力。
-- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 通过自然语言指令驱动多智能体协作，自动生成定制化软件代码，利用LLM实现需求理解与任务分解，核心亮点为端到端自动化开发流程与高度可扩展的Agent架构。
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的智能开发助手，通过 CLI 交互实现代码生成与自动化操作，支持多模型接入，显著提升开发效率。核心亮点在于低代码、高集成性与可扩展的 AI Agent 架构。
-- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库系统性调研大语言模型代理（LLM Agents）的前沿技术与实践，涵盖架构设计、工具调用、规划推理等核心能力，提供对比分析与实现参考。
-- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3是通义实验室推出的第三代大语言模型系列，基于大规模语料训练，支持多轮对话、代码生成与复杂推理，具备高性能推理能力与多语言支持，核心亮点为更强的上下文理解与生成一致性。
-- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 是一款基于 TypeScript 构建的 AI 驱动型聚合阅读工具，整合 RSS 与区块链技术，实现跨平台内容自动抓取、智能分类与去中心化存证，核心亮点在于 AI 内容理解与去中心化信任机制。
-- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，可自动策划、生成与编辑 YouTube Shorts/TikTok 内容，结合多模态输入与自动化工作流实现端到端短视频生产。
-- **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)** `Python` - SWE-agent 通过大语言模型自动解析 GitHub 问题并生成修复方案，支持代码生成、安全漏洞挖掘与竞赛编程，基于 Agent 架构实现端到端自动化。
-- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构并智能提取数据，支持Markdown输出与RAG集成，实现高效、准确的网页数据自动化采集。
-- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建实时互动AI角色，支持跨平台（移动端/网页/终端）自然对话，集成语音识别与合成，实现高度个性化的AI伴侣体验。
-- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 构建扩展插件生态，通过 Python 实现自动化任务执行与外部系统集成，支持动态调用 API、文件操作与工具链协同，核心亮点为高可扩展性与开箱即用的 Agent 工具集成能力。
-- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主运行的AI智能体，基于大语言模型实现目标驱动的自我规划与执行，核心亮点为无需人工干预的自动化任务闭环。
-- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频化多模态解释，提升 LLM 对数学定理的理解能力，结合 Manim 动画生成与 RAG 机制实现动态推理过程可视化，核心亮点在于将抽象证明转化为可理解的动态视频。
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过AI Agents协同执行市场分析、策略生成与执行，结合实时数据处理与LLM推理，实现自动化、可扩展的智能投研闭环。
-- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作手机应用，通过视觉理解与自然语言交互实现自动化任务执行，核心亮点为端到端的跨应用协作与上下文感知决策。
-- **[The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)** `Python` - PocketFlow 是一个基于流程编排的轻量级 LLM 框架，支持 Agent 自动构建与协作，通过 100 行代码实现复杂智能工作流，核心亮点在于极简设计与 Agent 自生成能力。
-- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - Qbot 是一个完全本地部署的 AI 自动量化交易机器人，基于 Jupyter Notebook 环境实现策略开发与回测，融合深度学习与量化金融模型，支持比特币等加密资产交易，具备高可解释性与隐私安全保障。
-- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一架构支持场景理解与动作规划。
-- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLM的金融领域智能体框架，融合MCP协议与RAG技术，支持多工具协同与可靠执行，提升金融场景自动化与决策准确性。
-- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于大语言模型的自主智能体，通过RESTful API操控真实世界应用，实现自动化任务执行与系统协同。核心亮点为端到端的API驱动决策与执行闭环。
-- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A 是一个开放协议，通过标准化接口实现异构智能体应用间的通信与互操作，基于 TypeScript 构建轻量级服务器与协议栈，核心亮点在于打破智能体孤岛，支持跨平台协同。
-- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强的智能应用构建，支持快速部署个性化 AI 服务，核心亮点在于开箱即用的 AI 工具链与企业级集成能力。
-- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供简洁高效的交互体验，核心亮点为开箱即用的 Agent 通信能力与可定制化 UI。
-- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP工具链，集成AI Agent与多模态处理能力，实现3D内容生成与智能交互的自动化流程，核心亮点在于统一工作流下的跨模态协同与可扩展性架构。
-- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM构建智能对话引导者，通过动态推理与上下文理解驱动深度交互，实现自然流畅的个性化对话体验。
-- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与动态交互，支持“写一次，多端个性化交付”，提升文档创作效率与用户体验。
-- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态知识更新与任务自适应机制，实现LLM在复杂场景下的持续进化与自主决策。
-- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 基于Python构建的翻译智能体，利用LLM实现多语言自动翻译与上下文理解，支持动态调用翻译工具链，提升翻译准确率与本地化适配能力。
-- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - 该仓库为 Anthropic 官方公开的 Skills 项目，提供基于大语言模型的可复用任务执行能力，通过结构化 API 接口封装复杂推理与工具调用逻辑，支持多场景自动化任务编排。核心亮点在于模块化设计与与 Claude 模型深度集成。
-- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化的MCP协议，让AI Agent无缝调用数千个现成爬虫与自动化工具，实现对社交平台、电商、地图等网页数据的高效采集与处理，核心亮点在于开箱即用的可组合数据获取能力。
-- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于多模型支持与Agent Builder构建私有化AI平台，实现文档智能分析、深度研究与企业级搜索，融合RAG与React模式提升信息检索与决策能力。
-- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库系统梳理了500个AI代理在医疗、金融、教育等领域的实际应用案例，通过开源项目链接实现快速落地，展示AI代理在跨行业场景中的多样化解决方案与实践路径。
-- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级RAG系统，通过多智能体协作与反思机制增强信息检索与生成能力，实现更精准、自适应的知识问答与任务执行。
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，集成智能代理与知识检索，提升开发效率与协作质量。核心亮点为AI代理协同与可扩展的开发流水线。
-- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是一个开源平台，用于构建和部署基于 GPT/LLM 的智能代理（AI Agents），支持可视化编排与多渠道集成，核心亮点在于低代码化 Agent 开发与强大的多轮对话管理能力。
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI Agent的网页自动化，让LLM能直接操作浏览器完成在线任务，支持复杂交互与状态管理，核心亮点是低代码接入真实网页环境。
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动贡献的开源深度研究框架，通过多智能体协同与工具链集成（如搜索、爬取、Python 执行），实现自动化深度调研，支持可复用的智能工作流。
-- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现高效任务闭环，核心亮点在于端到端的自动化工作流编排与上下文感知的动态决策。
-- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `TypeScript` - 基于Langchain构建的本地知识增强型LLM应用，支持ChatGLM、Qwen、Llama等模型的RAG与Agent功能，通过Faiss/Milvus实现高效向量检索，提供流式响应与本地化部署能力。
-- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务矩阵系统，通过模块化设计实现任务调度与自动化执行，结合AI Agents与轻量级RAG机制提升任务理解与决策能力，支持多场景高效协同。
-- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 平台，通过集成 AI Agent 与工具链实现自动化消息处理与任务执行，支持多场景交互与外部服务调用，核心亮点为轻量级部署与实时响应。
-- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT通过增强型Agent架构实现ChatGPT自主调用API与联网能力，突破传统模型局限，具备动态推理与工具执行能力，媲美甚至超越NewBing。
-- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码代理，可受控地执行文件创建/编辑、命令运行与浏览器操作，通过权限管控实现安全高效的智能编程辅助。
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 是一个用于编排角色扮演型自主 AI 代理的框架，通过协作智能让多个 AI 代理协同完成复杂任务，支持灵活的任务分工与动态交互。
-- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 该仓库系统整合 prompt engineering、上下文工程、RAG 与 AI Agent 的前沿指南与实践资源，通过 MDX 格式提供可交互的教程与案例，助力用户高效构建智能对话系统。
-- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级应用的开源大模型研发运维平台，通过统一模型管理、GenAI工作流编排与RAG能力，实现LLM全生命周期管理，支持高效SFT与可观测性监控。
-- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程系统讲解大语言模型从原理到实践的完整链路，通过Jupyter Notebook形式实现代码与文档一体化教学，核心亮点在于结合Agent与RAG技术构建可交互的智能应用原型。
-- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体核心原理与实战，基于Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，提供可运行的完整案例。
-- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是由 DeepSeek AI 发布的大规模语言模型，基于海量文本训练，具备强大的自然语言理解与生成能力，支持多轮对话、代码生成与复杂推理任务，采用高效的 Transformer 架构与分布式训练技术实现高性能推理。
-- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 基于TypeScript构建的AI研究代理，通过迭代式搜索、网页抓取与大语言模型融合，实现对任意主题的深度探究与方向自适应优化，核心亮点是极简架构下的高效深度研究闭环。
-- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收录各类AI自主代理项目，涵盖从自动规划到任务执行的完整链路，基于大语言模型实现端到端自动化，核心亮点为生态整合与社区驱动的开放协作。
-- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - 基于AWEL与Agent架构构建的AI原生数据应用开发框架，支持LLM驱动的数据库交互与智能工作流编排，具备私有化部署与安全增强能力，实现高效RAG与自动化数据智能应用开发。
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建私有AI集群，通过轻量化部署与分布式协同实现本地化大模型运行，支持多终端接入与持续推理优化，核心亮点为低门槛、高可用的自建AI基础设施。
-- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术，结合Selenium与大模型能力，实现简历智能匹配与多岗位一键投递，提升求职效率。核心亮点在于个性化申请与全流程自动化。
-- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码方式构建自定义LLM智能体，集成语义搜索与OpenAI等模型，支持快速搭建对话式AI应用，核心亮点为低门槛与模块化流程设计。
-- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 一款面向复杂AI代理构建的开源Python工具集，支持代码驱动的Agent设计、评估与部署，提供灵活的多代理协作与LLM集成能力，核心亮点在于高度可扩展的代理框架与端到端开发体验。
-- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 通过MCP协议实现Cursor AI Agent与Figma的双向通信，支持AI读取设计稿并编程式修改，提升设计协作效率。核心亮点在于原生集成与低代码交互。
-- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过将案例推理（CBR）融入大语言模型，实现数据科学任务的自动化编排与执行，支持从数据理解到建模的端到端流程，显著提升任务成功率与可解释性。
-- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的快速开发与部署，基于Python实现灵活可扩展的流程编排。核心亮点在于模块化设计与对AI工作流的深度适配。
-- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升 LLM 在代码生成与理解中的效率与准确性，核心亮点在于利用输入输出对实现轻量级、可泛化的推理建模。
-- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，融合策略生成、市场理解与执行决策，通过模块化Agent协同实现自动化交易闭环，核心亮点为中文语境下的金融认知对齐与动态策略演化。
-- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，致力于构建以代码为思维核心的 AI Agent，通过简洁的 API 实现自主推理与执行。核心亮点在于将 Agent 的思考过程显式表达为可执行代码，提升可控性与可调试性。
-- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent 通过智能代理架构实现从文本到幻灯片的生成与多维度评估，结合 LLM 与工作流引擎，支持内容生成、结构优化与质量评测，突破传统文本到幻灯片的简单映射。
-- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与文档理解能力，通过智能检索增强大模型生成，实现高效、精准的上下文构建与知识调用。
-- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 面向中文大模型的综合性评测平台，集成303个商用与开源模型，提供超200万条缺陷数据与实时排行榜，支持多维度能力对比与模型优化分析。
-- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持多场景AI Agent与RAG系统快速落地。
-- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于 TypeScript 构建的深度研究 AI 代理，通过持续搜索、阅读网页并推理，直至找到答案或耗尽 token 预算，实现自主探索式信息获取。
-- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务器与客户端，提供简洁、可扩展的通信框架，核心亮点是低延迟、Pythonic设计与对LLM生态的无缝集成。
-- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 基于大模型构建可交互的人类行为模拟体，通过持续记忆与动态决策实现拟人化行为，支持多轮对话与情境演化，核心亮点为真实感与自主性结合。
-- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT构建中文本地化版本，支持自主任务规划与执行，集成GPT-3.5/Turbo API，赋能AI自动化工作流。核心亮点为中文语境优化与社区驱动持续迭代。
-- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统实现自然语言到可运行代码的自动转换，融合LLM与DevOps工具链，支持多语言扩展与现有代码无缝集成，提升开发效率。
-- **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` - FastGPT 是基于 LLM 的知识型平台，通过 RAG、数据处理与可视化工作流编排，实现低门槛构建复杂问答系统，支持多模型接入与快速部署。
-- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建的科学智能代理发现框架，利用AI Agents协同完成科研任务自动化，集成文献检索与实验设计推理，核心亮点为可扩展的领域自适应代理编排机制。
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 提供构建上下文感知推理应用的开源框架，基于 LLM 构建智能代理与知识增强应用，支持多模型集成与模块化组件扩展。
-- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化网页研究与报告生成助手，基于本地运行的LLM与工具链，实现从网页抓取、信息提炼到报告撰写的全链路自动化，支持完全离线使用与隐私保护。
-- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试与部署基于大语言模型的 AI 工作流与多智能体系统，支持灵活组合 LLM 调用与工具链。核心亮点为直观的流程编排与可扩展的组件生态。
-- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码方式编排多智能体协作与自动化流程，集成 OpenAI、Gemini 等主流 LLM 与 MCP 协作框架。
-- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 提供面向AI Agent的PUA（Prompt for User Agent）提示工程集合，基于HTML结构化组织，支持快速构建可复用的智能交互逻辑，核心亮点是模块化、开箱即用的Agent提示模板。
-- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 在 Obsidian 笔记系统中集成 AI Copilot，通过 RAG 与 LLM 深度结合，实现智能问答、内容生成与知识关联，提升知识管理效率。
-- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制聊天机器人，支持多平台快速接入与工作流编排，集成AI画图、语音对话与人设调教，实现高自由度交互体验。
-- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，支持多智能体协作与对话管理，通过结构化提示与上下文记忆实现自然流畅的群组交互，核心亮点为低延迟、高可扩展的实时群聊架构。
-- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于 LangChain 与 LangGraph 构建的 TypeScript 风格 AI PDF 聊天机器人，支持文档理解与多轮对话，核心亮点为结构化 Agent 流程与高效 RAG 集成。
-- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建AI应用商店，实现全栈本地化AI代理交互，支持多模态输入与实时响应，突出隐私安全与开发友好性。
-- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 提供通用 AI Agent 记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮交互与上下文持久化，提升 AI Agent 的连贯性与智能水平。
-- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI、LINE与Vercel构建的AI助手，通过Web端集成实现多平台对话交互，支持自然语言处理与实时响应，核心亮点为低代码部署与跨平台消息互通。
-- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 构建 LLM 与机器学习社区的连接平台，通过统一接口集成模型、工具与数据，支持高效推理与协作。核心亮点为模块化架构与跨模型兼容性。
-- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务需求自动调优提示词，提升LLM响应质量与一致性，核心亮点为任务感知决策与可迭代优化机制。
-- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理系统，通过GUI交互实现Windows自动化任务，融合Agent与Copilot能力，支持多工具协同与上下文记忆。
-- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个用于构建智能体（AI Agents）的编程框架，支持多智能体协作与交互，通过 LLM 驱动实现复杂任务的自动化分解与执行，核心亮点在于灵活的智能体编排与可扩展的通信机制。
-- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个用于 AI 的联邦查询引擎，通过统一接口连接多种数据源并实现智能分析，支持 LLM 与数据库深度融合，是实现 AI 原生数据驱动的核心 MCP 服务。
-- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过持续学习与多模态交互实现个人智能体的演化，核心亮点为自迭代AI自我架构与跨域知识融合能力。
-- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的生成式代理实现，通过轻量化LLM模拟人类行为交互，支持低延迟、低成本的自主智能体系统。核心亮点为可本地部署、高交互性与行为仿真真实性。
-- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 该仓库系统收集与R1（深度推理）相关的重要项目，聚焦大模型在复杂推理任务中的前沿实践，涵盖推理增强、强化学习优化与多阶段推理架构，构建高质量推理模型资源图谱。
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** `TypeScript` - n8n 是一个基于 TypeScript 的开源工作流自动化平台，支持可视化编排与自定义代码，集成 400+ 工具，提供本地部署与云端部署，原生融合 AI 能力实现智能流程自动化。
-- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取网页数据，构建AI Agent实现大规模网络信息的深度推理分析，支持结构化知识生成与智能决策。核心亮点为端到端自动化研究流程与高精度信息聚合。
-- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一种大型语言模型，通过少量示例实现零样本与少样本学习，支持多种自然语言任务。基于海量文本训练，采用自回归生成机制，具备强大的泛化能力与上下文理解能力。
-- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - OpenInterpreter/01 是一款开源语音交互系统，支持桌面、移动设备及ESP32芯片，通过语音指令实现设备控制与任务执行，核心亮点在于跨平台语音指令解析与本地化运行能力。
-- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操控计算机，实现无需编写代码的自动化任务执行，基于大语言模型理解意图并调用系统工具。核心亮点是端到端的指令解析与执行闭环。
-- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - 基于LLM的Python库，通过对话实现数据发现与分析，融合RAG与Pandas操作，支持多模型接入与向量数据库，提升数据探索效率。
-- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，通过RAG与知识图谱增强代码理解，实现对代码库的自主分析与任务执行，核心亮点为代码上下文感知与可扩展的Agent工作流。
-- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器项目，聚焦AI代理与工具链的构建与集成，支持多模态交互与自动化任务执行，核心亮点在于统一生态与可扩展架构。
-- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI协作工作台，支持多模型集成与工作流编排，通过可视化画布实现人机协同的内容创作与知识管理，核心亮点为动态记忆与上下文感知的智能体交互。
-- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - AgentGPT 通过浏览器可视化编排与部署自主 AI 代理，基于 TypeScript 与 LangChain 实现低代码配置，支持 OpenAI 等模型接入，核心亮点为开箱即用的代理构建与可扩展的工具链集成。
-- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能分析系统，融合RAG与LLM技术实现高效知识检索与推理，支持多源数据处理与上下文理解，核心亮点为低延迟响应与可扩展的Agent协同架构。
-- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是面向私有数据的 LLM 应用框架，通过结构化数据索引与检索增强生成（RAG）技术，构建高效、可扩展的 AI Agent。核心亮点在于对多源异构数据的统一接入与智能查询能力。
-- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 通过 LLM 与 RAG 技术实现自然语言到 SQL/数据操作的转换，支持 CSV、Parquet、数据库等多源数据交互，让数据分析变为对话式体验。
-- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大语言模型提供代码生成、错误修复与智能补全，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与自动修复能力。
-- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 基于自然语言指令驱动 ChatGPT 生成 AR 内容，实现从文本到增强现实场景的自动化构建，核心亮点为零代码 AR 创作与多模态语义理解融合。
-- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，模拟人类行为与社会动态，通过多智能体交互实现对复杂社会现象的可解释洞察。
-- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI工具链与智能代理开发，集成了LLM调用、自动化任务编排与数据处理能力，通过模块化设计实现高效AI应用构建，核心亮点在于灵活可扩展的Agent架构与本地化部署支持。
-- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过模块化设计实现多步骤任务的自动化执行，核心亮点在于灵活的 Agent 调度与工具集成能力。
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于Python构建的AI对冲基金团队系统，融合AI Agents与数据处理流程，实现自动化策略生成与市场分析，核心亮点为端到端智能投研闭环。
-- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - 构建基于语音的大型语言模型智能体，采用模块化开源设计，支持语音输入输出与LLM协同，核心亮点为端到端语音交互与可插拔架构。
-- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一个基于上下文工程的主动式 AI 伙伴，通过持续记忆与多模态感知实现智能上下文理解与主动响应，融合 RAG、向量数据库与 Agent 技术提升交互连贯性。
-- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全LLM助手，支持GPT-4、Gemini等多模型接入与Dify工作流编排，实现私有化部署的智能客服与个人助手。
-- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术融合旅游知识库，提供智能推荐与多模态交互体验，助力用户轻松畅游世界。
-- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python构建的AI婴儿助手系统，结合自然语言理解与多模态感知，实现对婴儿行为的智能分析与响应，核心亮点为低延迟实时反馈与个性化成长建议生成。
-- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 该仓库聚焦MCP（Model Control Protocol）生态资源整理与工具支持，整合Claude、DeepSeek、Qwen等模型的MCP客户端与服务端实现，提供统一接入与开发指南，助力开发者快速构建模型协同应用。
-- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多模型切换、多模态输入与知识库增强，实现企业级智能客服与自动化交互。
-- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 一款基于Python的开源深度研究工具，支持私有数据上的多模型推理与检索增强生成，集成Milvus向量数据库与主流大模型（如Claude、Grok、Qwen、DeepSeek），实现高效、可扩展的AI代理式深度调研。
+- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** `Python` - 基于多Agent架构实现无需框架依赖的舆情分析系统，融合深度搜索与情感分析，实时捕捉公共舆论动态，辅助决策预测。
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过自主智能体驱动代码生成与项目构建，支持从需求描述自动生成完整代码库，核心亮点为端到端自动化开发流程。
+- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 的桌面客户端，支持多大模型提供商接入，提供统一界面实现本地化 LLM 调用与对话交互，核心亮点为跨平台兼容与多源模型无缝切换。
+- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与上下文管理，具备高并发与低延迟特性。
+- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建的人生模拟游戏，通过动态数据建模与决策推演，实现个性化人生重来体验，核心亮点在于真实感强的因果推演与多维度人生路径生成。
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化界面构建 AI Agents 的低代码平台，支持 LangChain 等框架集成，通过拖拽组件实现复杂工作流编排，核心亮点在于开箱即用的 Agent 模板与多模型兼容性。
+- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 构建完全本地运行的自主AI代理，基于DeepSeek-R1实现离线推理与自主思考，支持网页浏览与代码生成，零API依赖，仅需电力成本。
+- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 构建多智能体协作框架，通过自然语言编程实现AI软件公司自动化研发流程，利用LLM驱动的Agent协同完成任务分解与代码生成。核心亮点在于端到端的AI工程闭环与角色化Agent分工。
+- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个面向开源智能体的基础设施项目，基于 Python 构建，致力于打造无壁垒的 AI Agent 开发与协作平台，强调开放性与可扩展性，推动下一代自主智能体生态发展。
+- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成定制化求职信并自动发送至中国雇主，实现求职流程智能化。核心亮点为端到端自动化与中文职场语境适配。
+- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT及多款主流大模型的图形化交互工具，支持智能Agent、文件问答、微调训练与网页搜索，通过简洁UI实现多模型统一管理与高效应用。
+- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，支持多轮推理与工具调用，核心亮点为可扩展的自主决策框架与高效知识融合能力。
+- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，通过多模态交互与AI Agent协同，实现个性化数字人对话系统，支持语音、文本与表情同步输出，核心亮点在于低延迟响应与情感化交互设计。
+- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift构建的智能日记应用，利用本地化AI模型实现自然语言记录与情感分析，支持隐私保护下的智能分类与回顾，核心亮点为端到端本地化处理与轻量级高效推理。
+- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue的VSCode插件，集成AI Agent与LLM能力，为MCP开发者提供一体化开发支持，通过智能代码生成与上下文理解提升开发效率。
+- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - 聚焦Llama中文生态建设，整合最新开源资料与模型资源，支持高效训练、推理与应用开发，推动中文LLM技术普及与商业化落地。
+- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 聚焦大语言模型在情境化心智理论（Theory of Mind）上的研究与评估，整合EMNLP 2023最新成果，构建系统性阅读清单，推动AI对人类心理状态的理解能力发展。
+- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容的本地化桌面与 Docker AI 应用，基于 LLM 与向量数据库实现智能问答与自动化任务，支持多模型与多模态交互。
+- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真场景，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的多智能体系统架构。
+- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 基于大语言模型的多智能体协作系统，通过自然语言输入自动生成定制化软件，实现从需求到代码的端到端自动化开发，核心亮点为智能体分工协同与上下文理解能力。
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的智能开发助手，通过 CLI 交互实现代码生成与自动化任务执行，支持多模型接入，提升开发效率。核心亮点是低代码高智能的 AI Agent 模式。
+- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库聚焦大语言模型代理（LLM Agent）的调研与实践，系统梳理Agent架构、工作流设计及关键技术栈，提供可复用的框架与案例参考，核心亮点在于结构化整合Agent生态主流方案。
+- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3 是阿里云通义实验室推出的第三代大语言模型系列，基于海量数据训练，支持多轮对话、代码生成与复杂推理，采用高效推理架构与持续优化的模型蒸馏技术，具备高精度与低延迟特性。
+- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，通过自动化脚本生成、AI 视频编辑与内容分发，实现 YouTube Shorts/TikTok 内容的端到端自动生成，核心亮点在于多阶段 AI Agent 协同工作流。
+- **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)** `Python` - SWE-agent 通过大语言模型自动解析 GitHub 问题并生成修复方案，支持自动化代码修复、安全漏洞挖掘与编程竞赛，基于智能代理架构实现端到端任务执行。
+- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构与内容，实现智能化数据提取与结构化输出，支持Markdown格式。核心亮点为AI驱动的自适应爬取与语义理解。
+- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建可实时对话的AI角色，支持跨平台（移动端、Web、终端）无缝交互，集成语音识别与合成，实现拟人化陪伴体验。
+- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 提供扩展插件支持，通过 Python 实现自动化任务编排与外部工具调用，核心亮点是模块化插件架构与与 LLM Agent 的深度集成。
+- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主智能体系统，基于大语言模型实现任务分解与自动化执行，支持多轮推理与工具调用，核心亮点在于无需人工干预的端到端自主工作流。
+- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频生成技术实现大语言模型定理理解的多模态解释，结合 Manim 动画与 RAG 机制，动态可视化抽象数学推理过程，提升理解可解释性与学习效率。
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过协同决策与动态策略生成实现自动化交易，融合市场分析与风险管理，核心亮点为可扩展的智能体编排与实时策略迭代。
+- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作智能手机应用，通过视觉与文本理解实现跨 app 自动化任务执行，核心亮点为端到端的多模态交互与真实设备级操作能力。
+- **[The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)** `Python` - PocketFlow 是一个百行代码内的轻量级 LLM 框架，支持 Agent 自生成与编排，基于流程化编程实现智能体自治与协作，核心亮点在于极简架构下的高扩展性与自演化能力。
+- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - 基于本地部署的AI量化交易机器人，融合深度学习与交易策略回测，支持比特币等加密资产自动交易，通过Jupyter Notebook实现全流程可解释研究与部署。
+- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一框架，支持场景理解与任务规划。
+- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLMs构建面向金融科技的智能体框架，支持Claude、OpenAI等模型，融合MCP协议与RAG技术，实现高可靠、可复用的自动化金融决策与流程执行。
+- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶级大语言模型资源，涵盖训练、推理、Agent、多模态、编程辅助等全链路内容，提供视频、课程、文档与工具链整合。核心亮点为系统性分类与高时效性更新。
+- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于LLM的自主智能体，通过RESTful API实现对真实应用的自动化控制，具备任务规划、API调用与状态管理能力，核心亮点是端到端的闭环执行与动态推理决策。
+- **[YuyaoGe/Awesome-Vibe-Coding](https://github.com/YuyaoGe/Awesome-Vibe-Coding)** `Unknown` - 该项目聚焦于AI驱动的代码生成与智能编程辅助，通过整合大语言模型与开发环境深度集成，实现自然语言到代码的高效转化，核心亮点在于低门槛的开发者体验与高精度的上下文感知生成能力。
+- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A协议构建开放通信框架，实现异构智能体间无缝互操作，基于TypeScript实现跨平台、低耦合的Agent间协作，核心亮点为标准化接口与去中心化通信机制。
+- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强型智能应用快速构建，支持多场景 AI 应用部署。
+- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供直观、可扩展的交互体验，核心亮点为极简开发与高度可定制的 Agent 交互能力。
+- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP系统，通过AI Agent协同实现多模态内容生成与自动化工作流，融合LLM与工具调用能力，支持复杂创作任务的智能调度与执行。
+- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM的智能对话引导系统，通过动态推理与上下文理解驱动深度交互，实现自然流畅的智能对话体验。核心亮点在于上下文感知的对话策略与实时响应优化。
+- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与交互式呈现，支持“写一次，个性化交付”核心体验。
+- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态反馈机制持续优化代理行为，支持多轮决策与工具调用，实现端到端自主任务执行。
+- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 一个基于Python的翻译智能体，利用LLM驱动实现多语言自动翻译与上下文理解，支持流式输出与错误自纠正，核心亮点在于上下文感知与翻译质量闭环优化。
+- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - Anthropic Skills 是一个面向 AI 工具链的公共仓库，提供可复用的 Python 模块，用于构建基于 Anthropic 模型的智能应用，支持任务分解、工具调用与上下文管理，核心亮点是与 Claude 系列模型深度集成的标准化技能接口。
+- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化协议连接 AI Agent 与海量网页自动化工具，实现对社交媒体、电商等复杂网站的数据自动提取，核心亮点在于开箱即用的可组合爬虫生态与高效 Agent 协作能力。
+- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于Python构建的私有AI平台，支持智能代理构建、深度文档分析与多模型集成，通过RAG与Agent架构实现企业级知识检索与自动化决策。
+- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库汇聚500个AI Agent实际应用案例，覆盖医疗、金融、教育等多个行业，通过开源项目链接展示AI Agent在真实场景中的落地路径，助力开发者快速理解与复用。
+- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级检索增强生成系统，通过多智能体协作与反思机制提升问答与决策能力，实现更精准、动态的知识应用。
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，融合智能Agent协同与知识增强机制，显著提升开发效率与迭代质量。
+- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是开源的 GPT/LLM 代理构建与部署平台，基于 TypeScript 构建，支持可视化编排与多模型集成，核心亮点为低代码 Agent 开发与高效的对话生命周期管理。
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI代理在网页上的自动化操作，使AI能像人类一样浏览、交互与执行任务，核心亮点是无需手动编写复杂爬虫逻辑即可完成网页自动化。
+- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果生成AI研究报告的开源替代Gemini Deep Research工具，使用TypeScript构建，融合检索与生成能力，支持自动化内容整合与结构化输出。
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动主导的开源深度研究框架，融合 LLM 与多工具链（搜索、爬虫、Python 执行），通过可编排的智能体工作流实现自动化深度研究，核心亮点在于社区驱动的 agentic workflow 设计与多工具协同能力。
+- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现复杂任务分解与执行，核心亮点在于高鲁棒性任务流程编排与上下文感知的动态决策。
+- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `Python` - 基于Langchain整合ChatGLM、Qwen、Llama等大模型，构建本地知识库驱动的RAG与Agent应用，支持向量检索与流式响应，核心亮点为多模型兼容与本地化部署。
+- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务管理框架，通过AI Agents实现任务分解与自主执行，结合RAG增强知识调用能力，支持动态任务编排与多工具协同，核心亮点为高灵活性与可扩展的任务自动化体系。
+- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 框架，通过集成 AI Agent 与外部工具实现对话式自动化任务处理，支持动态插件扩展与多模态交互，核心亮点在于低门槛接入与高灵活性的对话编排能力。
+- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT 通过深度集成 API 调用能力，赋予 ChatGPT 实时联网与工具执行能力，支持动态推理与外部交互，实现类 NewBing 的智能代理体验。
+- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码智能体，通过授权协作实现文件创建/编辑、命令执行与浏览器调用，基于 TypeScript 构建，以安全可控的方式提升开发效率。
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 框架通过角色化、自主协同的 AI 代理实现复杂任务的自动化执行，支持多代理协作与动态任务分配，核心亮点在于模块化设计与灵活的代理编排能力。
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 系统整合提示工程、上下文工程、RAG与AI Agent实践指南，通过MDX笔记与案例库提供可复用的AI开发方法论，核心亮点是结构化知识体系与实战资源闭环。
+- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级的开源大模型 DevOps 平台，通过统一模型管理、GenAI 工作流编排与 RAG 集成，实现 LLM 应用的高效研发与部署，支持 SFT、评测与可观测性。
+- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体原理与实践，通过Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，帮助开发者掌握智能体核心能力。
+- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 一个基于AI的迭代式深度研究助手，结合搜索引擎、网页抓取与大语言模型，实现自动优化研究路径与深度挖掘信息，以最简实现打造可进化的研究代理。
+- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收集并整理各类AI自主代理项目，涵盖AutoGPT、BabyAGI、GPT Engineer等主流框架，提供技术演进与实践参考，助力开发者快速构建自动化智能体系统。
+- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - DB-GPT 是基于 AWEL 的 AI 原生数据应用开发框架，通过 Agent 与 RAG 技术实现智能数据库交互，支持私有化部署与安全访问，提升数据应用开发效率。
+- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术实现个性化简历适配与多岗位智能投递，结合Selenium和大模型能力，显著提升求职效率，核心亮点在于全流程自动化与精准内容生成。
+- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码平台构建定制化LLM智能体，支持可视化流程编排与语义搜索集成，快速实现对话式AI应用落地。
+- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 基于Python的代码驱动框架，用于构建、评估与部署复杂AI代理，支持多代理协作与灵活控制，具备高可扩展性与开箱即用的开发体验。
+- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 基于MCP协议实现Cursor AI代理与Figma的双向通信，支持AI读取设计稿并程序化修改，提升设计协作效率。核心亮点为原生集成与低代码交互。
+- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过结合案例推理增强大语言模型，实现数据科学任务的自动化执行，支持从问题理解到代码生成的全流程闭环。核心亮点在于动态检索相似历史案例并融合推理，显著提升任务准确率与可解释性。
+- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的开发与运行，基于Python实现灵活可扩展的自动化流程。核心亮点在于模块化设计与流程编排能力。
+- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于 Ollama 本地部署大模型，为 Obsidian 笔记系统提供 AI 增强能力，支持自然语言查询、内容生成与知识关联，实现私有化、低延迟的智能笔记体验。
+- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升代码理解与生成效率，核心亮点是利用代码 I/O 对比实现轻量级推理建模。
+- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，通过角色分工与协同决策实现自动化交易，结合实时行情与策略推理，提升中文场景下交易智能化水平。
+- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，专为构建“以代码思考”的 AI Agent 设计，通过简洁的 API 实现 Agent 的规划、工具调用与执行循环，核心亮点在于极简架构与代码化决策逻辑。
+- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent基于大语言模型与智能体技术，实现从文本到高质量PPT的自动生成与多维度评估，支持复杂工作流调度与交互式优化，核心亮点在于端到端的智能幻灯片构建与可解释性评价体系。
+- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与检索增强生成技术，实现高效文档理解与上下文构建，核心亮点为支持复杂工作流与多模态知识融合。
+- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 构建覆盖303个中英文大模型的持续更新评测体系，基于超200万条缺陷数据实现全方位能力对比，助力模型优化与研究。
+- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持Agent协同与多模态数据处理，核心亮点为高并发响应与模块化架构设计。
+- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于AI Agents实现持续搜索、阅读网页并推理，直至找到答案或耗尽预算，支持复杂问题的深度探究与信息整合。
+- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务端与客户端，提供简洁API与高性能通信，核心亮点为轻量级、Pythonic设计与对LLM生态的无缝集成。
+- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 构建可交互的生成式虚拟人类，通过大语言模型模拟人类行为与对话，实现拟人化角色的动态交互与情境响应，核心亮点在于行为逻辑的持续演化与多轮对话的上下文连贯性。
+- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全文总结、专业翻译、润色与审稿全流程自动化，通过智能Agent协同提升科研效率，核心亮点在于端到端科研工作流集成与多轮交互式优化。
+- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT的中文本地化版本，支持GPT-3.5-Turbo与GPT-4 API，通过AI Agent实现自主任务规划与执行，赋能个人与团队自动化工作流与内容创作。
+- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的智能体，通过结构化提示工程与动态角色生成实现叙事创作，核心亮点在于可扩展的剧情引擎与上下文记忆机制。
+- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统与大语言模型，将自然语言需求自动转化为可运行代码，无缝集成DevOps工具链，支持多语言扩展与现有代码迭代。核心亮点为端到端自动化与跨语言兼容性。
+- **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` - FastGPT 是基于大语言模型的知识增强平台，通过可视化工作流实现数据处理、RAG检索与AI Agent编排，开箱即用构建复杂问答系统，显著降低开发门槛。
+- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建面向科学发现的AI智能体系统，通过多智能体协作与工具调用实现自动化科研流程，核心亮点为可扩展的Agent架构与领域知识融合能力。
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 是一个开源框架，用于构建基于大语言模型的智能代理（AI Agents），支持多步骤推理、工具调用与外部数据集成，核心亮点在于模块化设计与对主流 LLM 的无缝适配。
+- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化Web研究与报告生成助手，基于Python构建全流程本地运行的AI研究代理，结合网络爬取、信息提取与大模型生成，实现无需云端的数据闭环处理。核心亮点为完全离线、隐私安全、端到端自动化报告生成。
+- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试和部署基于大语言模型的 AI 工作流与多智能体系统，支持模块化组件编排与实时交互。
+- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码构建 AI Agent，集成 LLM、RAG 与工作流编排，实现高效自动化应用开发。
+- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 该仓库提供专为AI Agent设计的PUA提示词集合，基于HTML结构化组织，支持快速配置与复用，提升Agent任务执行效率与上下文理解能力。
+- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 基于OpenAI API与RAG技术，为Obsidian笔记系统打造智能协作者，通过自然语言交互实现知识检索、内容生成与任务自动化，核心亮点是深度集成与上下文感知推理。
+- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制AI聊天机器人，支持多平台快速接入与工作流编排，集成语音、绘图、人设调教等功能，实现个性化交互体验。
+- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，通过智能Agent协作实现多轮对话与任务执行，支持自定义逻辑与上下文管理，核心亮点为高可扩展性与低延迟响应。
+- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于LangChain与LangGraph构建的AI PDF聊天机器人，支持文档问答与多轮交互，核心亮点为结构化文档解析与智能Agent决策流程。
+- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建持续学习的AI应用商店，通过本地化多模态数据驱动AI Agent决策，实现全栈私有化、开发友好型智能助手。
+- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 为 AI Agent 提供通用记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮对话与状态持久化，提升 Agent 智能决策能力。
+- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 是一个连接大语言模型与机器学习社区的系统，通过标准化接口整合 LLM 与 ML 工具链，支持模型协作、任务编排与可复现实验，核心亮点在于统一的 Agent 协作框架与开放的插件生态。
+- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务目标自动迭代优化提示，提升大模型输出质量与任务匹配度，核心亮点为任务理解与自适应提示生成。
+- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理操作系统，通过GUI与Windows原生能力深度融合，实现自动化任务执行与人机交互，核心亮点为本地化运行与跨应用无缝协同。
+- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个面向智能体（Agent）编程的框架，支持多智能体协作与自动化工作流，通过 LLM 驱动的对话机制实现复杂任务分解与执行，核心亮点在于灵活的智能体编排与可扩展的工具集成能力。
+- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个面向 AI 的联邦查询引擎，通过统一接口连接多种数据源并集成 LLM 能力，实现智能数据分析与决策支持，核心亮点在于其作为 MCP 服务器实现跨源 AI 查询与自动化推理。
+- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过智能代理与知识融合实现个性化AI成长，支持多模态交互与跨域能力扩展，核心亮点为自我进化式学习架构。
+- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的Jupyter Notebook实现可交互的生成式代理，模拟人类行为，低延迟、低成本，支持自主决策与动态对话。
+- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 收集并整理所有关于 R1 推理能力的前沿工作，聚焦大模型深度推理技术，涵盖模型架构、训练方法与评估基准，通过 Python 工具链实现统一接入与对比分析。核心亮点为高效整合 DeepSeek、Qwen、GROK 等主流模型的推理能力。
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** `TypeScript` - n8n 是基于 TypeScript 的可视化工作流自动化平台，支持自托管与云部署，集成 400+ 应用，融合低代码/无代码与自定义代码能力，原生支持 AI 能力实现智能自动化。
+- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取的海量网页数据，构建可自主推理的AI Agent实现深度研究。采用TypeScript开发，支持自动化信息搜集、分析与总结，核心亮点为端到端开源的深度研究工作流。
+- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一项基于大规模预训练的语言模型，支持少样本学习，通过海量文本数据训练实现高效自然语言理解与生成，核心亮点在于零样本与少样本泛化能力。
+- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - 开源语音交互系统，支持桌面、移动端及ESP32芯片，通过本地化语音识别与自然语言理解实现全栈语音控制，核心亮点为跨平台低延迟语音交互与边缘设备部署能力。
+- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操作计算机，实现用户用口语指令执行代码、文件操作与系统交互，核心亮点是端到端的代码生成与安全执行能力。
+- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - BambooAI 是基于 LLM 的 Python 库，通过对话式交互实现数据发现与分析，融合 RAG 与工具调用能力，支持多模型接入与向量数据库，提升数据探索效率。
+- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，融合RAG与知识图谱实现代码理解与自动化任务执行，支持动态上下文推理与代码生成。
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器资源，提供可扩展的AI服务基础设施，支持多模态与智能代理协同，核心亮点在于统一接入标准与生态兼容性。
+- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI代理工作台，支持多模型协同与记忆化交互，通过可视化画布实现人机协作的流程编排，打造可扩展的智能工作流引擎。
+- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - 基于浏览器的可视化工具，支持快速组装、配置与部署自主AI智能体，结合LangChain与OpenAI能力实现低代码Agent开发，核心亮点为开箱即用的Agent编排与云端部署体验。
+- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能洞察系统，融合RAG与AI Agent技术，实现多源数据的自动化分析与知识提炼，支持动态推理与上下文感知的智能问答。
+- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是用于构建基于私有数据的 LLM 代理框架，通过结构化数据接入与检索增强生成（RAG）技术，实现高效知识问答与智能决策。
+- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 让用户通过自然语言与数据库、数据湖（SQL、CSV、Parquet）交互，利用 LLMs 和 RAG 技术实现文本转 SQL 与数据洞察，提升数据分析效率。
+- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大模型实现智能代码生成、修复与搜索，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与即时反馈。
+- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 通过自然语言指令驱动ChatGPT生成AR内容，实现零代码构建增强现实体验，结合C语言底层性能优化与AI推理能力，提升交互响应速度与沉浸感。
+- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，通过多智能体交互模拟人类行为与社会动态，实现对复杂社会现象的可解释性研究与洞察。
+- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过结构化任务分解与工具调用实现复杂任务自动化，核心亮点在于可插拔的 Agent 架构与多工具协同执行能力。
+- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于AI Agents与LLMs构建智能投研系统，融合实时数据处理与策略推理，实现自动化交易决策。核心亮点为多智能体协同与动态风险对冲机制。
+- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - vocode-core 是一个模块化开源框架，用于构建基于语音的 LLM 代理，支持语音输入输出、对话管理与工具调用，核心亮点在于全链路语音交互能力与高可扩展性架构。
+- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一款基于上下文工程的主动式 AI 伙伴，通过动态记忆与多模态感知实现持续上下文理解，结合 RAG 与 Agent 技术实现智能交互与任务执行。
+- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术整合旅游知识库，为用户提供智能化、场景化的一站式旅行服务。
+- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python实现的轻量级AI Agent框架，支持多步骤任务规划与工具调用，结合RAG技术增强上下文理解，适用于自动化内容生成与智能问答场景。核心亮点在于模块化设计与低延迟推理能力。
+- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 汇集MCP生态核心资源与工具链，提供Claude、DeepSeek、Qwen等主流模型的MCP服务端与客户端支持，构建统一开发与部署指南，助力AI Agent高效集成与协同。
+- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多轮对话、多模态输入与企业知识库集成，可灵活切换主流大模型，实现企业级智能客服自动化服务。
+- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 基于Python构建的开源深度研究系统，融合多模型推理与向量数据库实现私有数据上的智能检索与推理，支持Claude、Grok、Llama4等主流大模型。核心亮点为可扩展的代理式RAG架构与本地化部署能力。
 
 ## LLMs & Inference
 
-*200 个项目*
+*209 个项目*
 
-- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - ChatTTS 是一个面向日常对话的生成式语音模型，基于 PyTorch 与 torchaudio 构建，支持中英文自由切换的自然语音合成，通过端到端训练实现高保真语音生成，核心亮点为对话感强、语音自然流畅。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 基于 Pydantic v2 构建 LLM 结构化输出的工具库，通过类型注解实现精准输出校验与函数调用，提升生成结果的可预测性与可靠性。
-- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是基于开源金融领域大语言模型的创新项目，通过 HuggingFace 发布训练好的模型，支持金融文本生成、情绪分析与技术分析，结合 Prompt Engineering 与 PyTorch 实现高效推理。核心亮点在于专注金融垂直领域，具备开箱即用的行业适配能力。
-- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、音效与虚拟人物口型同步的生成与理解，基于大模型实现多模态语音内容创作，支持高保真语音合成与Talking Head动画驱动。
-- **[AtomEcho/AtomBulb](https://github.com/AtomEcho/AtomBulb)** `Unknown` - AtomEcho/AtomBulb对主流大语言模型进行标准化、多维度评测，通过统一数据集与评估指标实现直观对比，揭示模型在推理、语言理解与任务执行上的实际表现。
-- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 通过高效可扩展的图神经网络方法，实现异构关系数据中稳定且归纳式的实体嵌入学习，支持图与超图结构，基于 PyTorch 生态构建。核心亮点在于高效率与强泛化性。
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - Litellm 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，通过 OpenAI 兼容接口实现跨平台 LLM 调用，支持自动路由、负载均衡与成本监控。
-- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻与言情网文创作，采用轻量化预训练策略实现高效生成，支持长文本连贯性与风格多样性。
-- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - 基于100% RNN架构的RWKV语言模型构建的开源ChatGPT替代品，支持高效推理与本地部署，核心亮点为高吞吐、低延迟的序列建模能力。
-- **[CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)** `Unknown` - SuperCLUE 是面向中文通用大模型的综合性评估基准，通过多维度任务评测模型性能，支持对齐、推理、对话等能力的量化分析，核心亮点在于覆盖中文场景的全面性与评测标准的严谨性。
-- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款生成与合规分析，核心亮点在于精准的法律语义理解与可解释推理能力。
-- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话模型微调与魔改版本，提供完整训练、推理、评测与部署教程，支持本地化高效部署与中文场景优化。
-- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华大学联合研发的多语言多任务自动语音识别模型，采用端到端训练技术，支持高精度跨语言语音转写与多任务处理，核心亮点在于统一架构下的多语言泛化能力与低延迟推理性能。
-- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建人生模拟游戏，通过动态数据分析与生成式叙事实现个性化人生重来体验，核心亮点在于AI驱动的深度人生决策推演与情感化反馈。
-- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro构建高性能AI代码与内容生成工具，支持OpenAI兼容接口与流式/非流式调用，实现高效、高质量的AI应用体验。
-- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，参考Alpaca设计，支持中文指令遵循任务。核心亮点为轻量级部署与中文语境优化。
-- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - 基于Conformer架构的开源工业级语音识别模型，支持普通话、方言及英文，兼具高精度语音与歌词识别能力，采用端到端训练与多语言融合策略实现SOTA性能。
-- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 是一个完全本地运行的自主智能体系统，基于 DeepSeek-R1 模型实现无网络 API 依赖的自主思考、网页浏览与代码生成，仅消耗电费即可运行。
-- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求封装、流式响应与错误处理，核心亮点是简洁可复用的封装模板与真实场景示例。
-- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，聚焦法律文本理解与生成，通过RAG增强法律知识检索与推理，提供精准法律服务。
-- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大模型的语音生成系统，支持文本到语音、语音克隆与跨语言合成，提供训练、推理与部署全栈能力，实现高自然度、细粒度控制的语音生成。
-- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一款多语言语音理解模型，基于 PyTorch 实现，支持多语言 ASR、语音情感识别与语音事件分类，具备跨语言泛化能力，适用于复杂语音场景的高精度理解。
-- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域的人工智能与大语言模型研究论文整理与实践，通过Jupyter Notebook形式实现理论与代码的闭环验证，核心亮点为可复现的教育AI实验案例。
-- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种轻量级、高效的检索增强生成框架，通过简化检索与生成流程，在保持高准确率的同时大幅提升响应速度，核心亮点为低延迟与易部署。
-- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型实现简化版 RAG，结合高效检索与生成机制，降低部署门槛并提升推理效率，核心亮点在于小模型上的高性能知识增强生成。
-- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库系统整理了嵌入模型相关的优质教程、项目与社区资源，以Jupyter Notebook形式呈现，涵盖主流模型原理与实战应用，便于开发者快速上手与对比评估。
-- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的中小型中文LLM资源，涵盖底座模型、微调应用、数据集与教程，支持低成本本地化AI能力构建。
-- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT/Ollama 构建，可一键生成中英文 PPT 内容，支持自然语言输入直接转换为结构化幻灯片，核心亮点在于低门槛、高效率的智能内容生成与多语言输出能力。
-- **[InternLM/InternLM](https://github.com/InternLM/InternLM)** `Python` - InternLM系列是面向中文场景的开源大语言模型，支持长文本理解与高效推理，采用Flash Attention优化性能，提供从预训练到微调的完整生态。
-- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建可定制的个性化AI导师系统，通过动态提示工程实现自适应学习路径，支持多轮交互式教学与知识反馈优化。
-- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库整理了120+按类别划分的LLM相关库，涵盖模型部署、推理优化、工具集成等，帮助AI工程师高效构建生成式AI应用，核心亮点是分类清晰、资源集中、持续更新。
-- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 是基于 LLM 与视觉模型融合的数字人对话系统，结合 Whisper 语音识别、SadTalker 面部动画生成与多模态交互技术，实现自然流畅的虚拟人物实时对话。核心亮点为高拟真度数字人语音驱动与多模态协同交互。
-- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是一个基于 Python 的 AI 图像生成与风格化工具库，聚焦于多模态内容创作，支持高效模型推理与风格迁移，具备可扩展的生成框架与轻量化部署能力。
-- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 该仓库系统介绍大语言模型的核心原理、技术演进与应用实践，基于Python实现关键模型与训练流程，涵盖预训练、微调与推理全链路。核心亮点为理论与代码结合，适配中文学习与研究需求。
-- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LargeWorldModel/LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模与理解，采用高效序列压缩与跨模态对齐技术，突破传统模型上下文瓶颈。
-- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于PyTorch与Lightning框架实现高效可扩展的LLM全链路工程化，支持多场景快速落地。
-- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - Llama-Chinese 仓库聚焦中文 Llama 大模型生态建设，整合最新学习资料与开源资源，支持模型预训练、微调与推理，助力开发者快速构建可商用的中文 LLM 应用。
-- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术脉络。
-- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过编码率压缩Transformer架构，在保持模型性能的同时显著降低计算与存储开销，采用白盒可解释的稀疏化与编码优化策略，实现高效压缩。
-- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步友好的API调用，核心亮点是原生Swift生态集成与简洁的API设计。
-- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - MadcowD/ell 是一个面向语言模型编程的 Python 库，通过模块化设计简化 LLM 任务开发，支持灵活的提示工程与模型交互，核心亮点在于低门槛构建复杂语言模型应用。
-- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 该仓库系统整理了大语言模型中情境化心智理论（Theory of Mind）的前沿研究，基于EMNLP Findings 2023论文构建全景知识图谱，聚焦模型理解人类意图、信念与心理状态的能力，助力LLM实现更人性化的交互。
-- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG与知识图谱及个性化PageRank，实现大模型对外部文档知识的持续整合与动态更新，提升知识吸收与推理能力。
-- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化实现端侧部署。
-- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT等多模态大模型，实现视频理解与自然语言交互，支持视频问答、字幕生成与多语言模型接入，通过Gradio提供交互界面。
-- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇聚全球优质AI模型资源，涵盖大语言模型、多模态系统及推理工具，通过结构化整理与社区共建，助力开发者快速发现与集成前沿模型。核心亮点为高覆盖率与持续更新的模型生态。
-- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python构建的已弃用推理引擎，曾用于高效部署和运行大语言模型，支持灵活的模型接入与推理调度，核心亮点为轻量级架构与可扩展的推理接口设计。
-- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格理论对大语言模型进行人格化探索，通过Python构建模拟人格特征的对话系统，揭示LLMs在行为模式与表达风格上的多样性，核心亮点在于将心理学框架与AI行为建模结合。
-- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库系统性调研大语言模型代理（LLM Agents）的前沿技术与实践，涵盖架构设计、工具调用、规划推理等核心能力，提供对比分析与实现参考。
-- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现高分辨率实时背景抠图，采用轻量化网络结构与高效推理优化，支持1080p实时处理，精度与速度兼顾。
-- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3是通义实验室推出的第三代大语言模型系列，基于大规模语料训练，支持多轮对话、代码生成与复杂推理，具备高性能推理能力与多语言支持，核心亮点为更强的上下文理解与生成一致性。
-- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 本仓库为大语言模型综述论文的官方GitHub页面，系统梳理LLMs发展历程、核心技术与应用场景，涵盖预训练、指令微调、提示学习、RLHF等关键范式，提供结构化知识图谱与前沿动态追踪。
-- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用VITS架构与GPT-SoVITS联合训练，支持快速、高保真TTS建模，显著降低语音合成门槛。
-- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与响应速度。
-- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用场景下的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在 API 调用任务中的准确率与可靠性，核心亮点为首个系统性评估 LLM 工具调用能力的开源框架。
-- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互式实验与部署环境，支持多种规模的 LLM 推理与微调，核心亮点在于开源透明与易用的本地化部署能力。
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过AI Agents协同执行市场分析、策略生成与执行，结合实时数据处理与LLM推理，实现自动化、可扩展的智能投研闭环。
-- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯混元大模型系列的多语言文本处理模型，基于 Python 构建，支持高效多语言生成与理解，采用大规模预训练与持续优化技术，核心亮点在于跨语言语义对齐与低延迟推理能力。
-- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是一款基于扩散 Transformer 的多分辨率生成模型，具备细粒度中文理解能力，通过 Jupyter Notebook 提供交互式开发与推理能力，支持高精度图像生成与语义对齐。
-- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展、可进化架构，通过模块化设计实现文本生成与内容创作能力的持续迭代。
-- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一架构支持场景理解与动作规划。
-- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured 提供开源 ETL 工具，通过 OCR 与 NLP 技术将 PDF、DOCX 等复杂文档高效转化为结构化数据，支持文本提取、分块与嵌入，赋能 LLM 应用开发。
-- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令遵循，显著提升越南语自然语言理解与生成能力。
-- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及其升级版 MiniGPT-v2 是基于大语言模型与视觉编码器的多模态对话系统，通过对比学习对齐图文表征，实现高质量图像理解与自然语言交互，支持端到端训练与推理。核心亮点是轻量化架构与高性价比性能表现。
-- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶尖LLM资源，涵盖模型训练、推理、Agent、RAG、多模态及编程辅助等全链路内容，提供结构化学习路径与实战工具推荐。
-- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 该仓库汇聚图相关大语言模型的前沿项目与资源，涵盖图结构建模、图神经网络与LLM融合等方向，通过精选高质量开源项目助力研究与开发。核心亮点在于系统性梳理图与语言模型交叉领域的创新实践。
-- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于轻量级深度学习模型实现无需trimap的实时人像抠图，通过端到端网络直接预测Alpha通道，显著提升处理效率与精度。
-- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语种语音训练的开源文生语音模型，采用高效架构实现高自然度与情感表达，性能媲美甚至超越主流商用TTS服务。
-- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 库与 CLI 工具，支持 gpt-3.5-turbo 等模型调用，无需官方 API 密钥即可实现对话交互，核心亮点为开源、易用、兼容性强。
-- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的开发与应用，基于Jupyter Notebook提供可交互的模型训练、微调与推理实践，涵盖多语言支持与本地化优化，核心亮点为面向东南亚语种的高效LLM适配与开源共享。
-- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态知识更新与任务自适应机制，实现LLM在复杂场景下的持续进化与自主决策。
-- **[amazon-science/auto-cot](https://github.com/amazon-science/auto-cot)** `Jupyter Notebook` - 基于大语言模型实现自动链式思维提示，通过自动生成推理过程提升复杂任务的准确率，核心亮点是无需人工设计思维链即可实现高效推理。
-- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量化模型实现移动端实时运行的数字人，采用优化推理架构与高效参数压缩技术，支持低延迟语音驱动动画生成，核心亮点为极致轻量与端侧部署能力。
-- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 该仓库提供基于Shell脚本的LLM排序优化工具，通过自动化策略提升大模型推理效率与输出质量，核心亮点在于轻量级部署与可复用的优化流水线。
-- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能开发的130亿参数中文大语言模型，基于Hugging Face生态构建，支持高效推理与多场景应用，具备优秀的中文理解与生成能力，通过CEval、MMLU等权威评测验证性能。
-- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，适配Hugging Face生态，具备强大通用语言理解与生成能力。
-- **[bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)** `Python` - 基于BitTorrent协议实现大语言模型的分布式推理与微调，通过P2P网络共享计算资源，显著提升本地部署效率，支持LLaMA、Bloom、Falcon等主流模型。
-- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于Boson AI的文本-音频基础模型，实现文本到高质量音频的端到端生成，融合语音合成与自然语言理解，支持多语种、情感化语音输出，核心亮点为高自然度与低延迟推理。
-- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧与最佳实践，涵盖提示工程策略、结构化输入设计与输出优化方法，核心亮点在于系统化提炼高效果提示模式。
-- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于开源全流程训练的0.2B中文对话小模型，支持指令微调与三元组抽取微调，提供从数据清洗到RLHF优化的完整代码链路。
-- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效API代理与调度，核心亮点为多模型一键切换与零成本试用。
-- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目系统整理ChatGPT的开源替代模型，涵盖文本与多模态大模型，提供模型索引与使用指引，助力用户快速定位高性能、可本地部署的AI模型。
-- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 通过本地运行 OpenAI Whisper 实现音频的离线转录与翻译，无需依赖云端服务，保障数据隐私。支持多语言处理，适用于个人与企业级私有化场景。
-- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI模型的在线信息抽取工具，支持零样本事件、实体、关系抽取，可本地运行，适用于非结构化文本结构化处理，核心亮点为开箱即用的LLM驱动信息抽取流程。
-- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 基于LLaMA模型的轻量级本地部署方案，通过优化推理流程实现低资源环境下高效运行，核心亮点为极简配置与开箱即用的本地推理体验。
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 是一个用于编排角色扮演型自主 AI 代理的框架，通过协作智能让多个 AI 代理协同完成复杂任务，支持灵活的任务分工与动态交互。
-- **[databricks/dbrx](https://github.com/databricks/dbrx)** `Python` - 提供DBRX大语言模型的代码示例与资源，支持模型推理与训练，聚焦于高效、可扩展的生成式AI应用开发，核心亮点为与Databricks生态深度集成。
-- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持自然语言交互与任务执行，具备高效推理与企业级部署能力。
-- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程系统讲解大语言模型从原理到实践的完整链路，通过Jupyter Notebook形式实现代码与文档一体化教学，核心亮点在于结合Agent与RAG技术构建可交互的智能应用原型。
-- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 基于吴恩达大模型课程中文版，通过Jupyter Notebook提供LLM入门实践教程，涵盖模型调用、提示工程与应用开发，内容系统、代码可运行，适合快速上手大模型开发。
-- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个高效专家并行通信库，基于 CUDA 实现低延迟、高吞吐的专家间通信，优化大规模语言模型推理中的专家并行计算效率，核心亮点为细粒度通信调度与显存利用率提升。
-- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是由 DeepSeek AI 发布的大规模语言模型，基于海量文本训练，具备强大的自然语言理解与生成能力，支持多轮对话、代码生成与复杂推理任务，采用高效的 Transformer 架构与分布式训练技术实现高性能推理。
-- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款高性能中文大语言模型，基于 Python 构建，支持长上下文与复杂推理任务，采用先进的训练架构与优化策略，实现高效推理与高精度生成。
-- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的多模态大模型，支持视觉与语言深度融合理解，通过动态路由机制提升推理效率与泛化能力，实现高精度图文问答与复杂场景理解。
-- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是面向大规模深度学习模型的分布式训练与推理优化库，通过 ZeRO、模型并行、流水线并行等技术实现高效训练与推理，支持百亿至万亿参数模型。
-- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库整理了 GPT-3 相关的优质资源，涵盖模型应用、工具链与开发实践，助力开发者快速构建基于 GPT-3 的智能应用。核心亮点是资源聚合与场景化指引。
-- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模中文纯文本语料库，涵盖主流与小众文化数据，支持多场景中文NLP训练与研究，为大模型提供高质量、多样性语料支撑。
-- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代AIoT开发平台，基于ESP系列芯片构建，支持本地化AI推理与物联网协同，通过轻量级模型部署实现低功耗智能边缘计算，核心亮点为软硬一体的AIoT集成方案。
-- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的机器学习与大模型可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建私有AI集群，通过轻量化部署与分布式协同实现本地化大模型运行，支持多终端接入与持续推理优化，核心亮点为低门槛、高可用的自建AI基础设施。
-- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 该仓库汇聚8个开源中文语音数据集，涵盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，适用于中文语音模型训练与评测。
-- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源端到端TTS系统，支持高保真语音合成，融合VALLE与VITS前沿技术，实现自然流畅的语音生成。
-- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 基于Llama 2与Code Llama的本地化、离线运行聊天机器人，全程私有化部署，无需数据外传，支持代码生成与自然语言交互，兼具高性能与隐私安全保障。
-- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低内存运行，支持多种量化模型部署，核心亮点为极致性能与跨平台兼容性。
-- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理流水线基于深度学习实现蛋白质-配体复合物结构精准预测，采用端到端神经网络架构，支持多模态输入，显著提升生物分子相互作用建模能力。
-- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 一款面向复杂AI代理构建的开源Python工具集，支持代码驱动的Agent设计、评估与部署，提供灵活的多代理协作与LLM集成能力，核心亮点在于高度可扩展的代理框架与端到端开发体验。
-- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLMs实现从非结构化文本中精准提取结构化信息，支持源文档精准回溯与交互式可视化，提升信息抽取的可解释性与可信度。
-- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 基于Python的提示词优化工具集，支持提示词结构化分析、自动优化与A/B测试，提升LLM输出一致性与效果。核心亮点为可插拔优化策略与可视化调试能力。
-- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术对ChatGLM-6B进行高效微调，支持LoRA与QLoRA，显著降低显存占用并提升训练效率，适用于资源受限环境下的对话模型定制。
-- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流技术，兼容LLaMA、GPT、Qwen、DeepSeek、Gemma等主流架构，提供开箱即用的指令微调与量化训练方案。
-- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升 LLM 在代码生成与理解中的效率与准确性，核心亮点在于利用输入输出对实现轻量级、可泛化的推理建模。
-- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** `Python` - ColossalAI 通过高效的模型并行与分布式计算技术，实现大模型训练与推理的低成本、高性能，支持多类型并行策略与异构硬件部署。
-- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，融合策略生成、市场理解与执行决策，通过模块化Agent协同实现自动化交易闭环，核心亮点为中文语境下的金融认知对齐与动态策略演化。
-- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 高效前沿的分词器库，基于 Rust 实现高性能文本切分，兼容 BERT、GPT 等主流模型，支持研究与生产环境无缝部署。
-- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇集本地运行的AI工具，支持离线部署与隐私保护，涵盖模型推理、Agent构建与自动化工作流，核心亮点为轻量化、可扩展及社区驱动生态。
-- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，提供安全私密的对话体验。
-- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 面向中文大模型的综合性评测平台，集成303个商用与开源模型，提供超200万条缺陷数据与实时排行榜，支持多维度能力对比与模型优化分析。
-- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，提供任务导向的嵌入微调技术，采用三元组损失与负采样策略，提升文本/图像相似性学习效果，支持少样本场景下的高效适配。
-- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT模型从零训练，仅需2小时完成，采用高效优化与轻量化架构设计，显著降低训练成本与资源门槛。
-- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务器与客户端，提供简洁、可扩展的通信框架，核心亮点是低延迟、Pythonic设计与对LLM生态的无缝集成。
-- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 是基于视觉-语言建模的 SVG 生成基础模型，将矢量化任务转化为代码生成，通过多模态输入精准输出高质量 SVG 代码，实现从图像到可编辑矢量的高效转换。
-- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库精选了主流机器学习框架、库与软件，涵盖模型训练、推理、部署全流程，以Python为核心，提供高效、可复用的工具链，助力开发者快速构建AI应用。
-- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦先进检索增强生成（RAG）技术，系统梳理LLM场景下的向量嵌入、检索策略与融合方法，构建可复用的技术路线图与工具链。
-- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的AI系统，通过结构化提示与生成控制实现连贯叙事，核心亮点在于将复杂故事生成分解为可复用的模块化流程。
-- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，直接操作GPU内存与计算，无框架依赖，展现底层模型训练的完整流程与极致性能优化。
-- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，突出可读性与教学价值。
-- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - 基于极简设计实现中等规模GPT的高效训练与微调，采用纯Python与轻量级架构，支持快速实验与部署，核心亮点为简洁性与高性能结合。
-- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 提供灵活的 LLM 推理优化框架，通过动态 KV 缓存管理与高效内存调度，显著提升大模型推理吞吐与延迟表现，支持多种部署场景。
-- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2 实现175B大模型在18GB GPU内存下的全参数微调，基于零阶优化与显存卸载技术，突破显存瓶颈，显著降低大模型调优硬件门槛。
-- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本仓库提供LangChain的中文入门教程，通过实战案例引导开发者快速掌握基于LLM的AI应用开发，涵盖API集成、提示工程与应用构建。核心亮点为中文本土化教学与完整项目示例。
-- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源的 LLM 全流程平台，支持模型训练、推理服务与评估，依托 Vicuna 和 Chatbot Arena 实践，提供高效、可扩展的 LLM 开发与部署方案，核心亮点在于统一的生态支持与社区驱动的评测体系。
-- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳主流大语言模型文本数据集，涵盖构建、评估与训练所需的核心资源，通过结构化分类提升数据获取效率，助力模型研发与优化。
-- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库系统整理并每周更新高质量的机器学习Python库排行榜，涵盖从数据科学到深度学习的全栈工具，通过社区评分与实用性筛选，为开发者提供高效选型参考。
-- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 在单张 4GB GPU 上实现高效推理，采用 QLoRA 量化技术降低显存占用，结合 Jupyter Notebook 提供易用的部署与交互环境，显著降低大模型本地运行门槛。
-- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉接地技术增强多模态大模型的视觉理解与定位能力，结合图像与文本上下文实现精准视觉推理，核心亮点在于端到端的视觉-语言对齐与动态注意力机制。
-- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - 本仓库提供基于Llama模型系列的完整开发指南，通过Jupyter Notebook演示推理、微调与RAG实战，涵盖多云服务商部署，助力开发者快速构建高效LLM应用。
-- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 构建 LLM 与机器学习社区的连接平台，通过统一接口集成模型、工具与数据，支持高效推理与协作。核心亮点为模块化架构与跨模型兼容性。
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是微软开源的前沿文本转语音系统，基于先进声学建模与深度学习技术，实现自然流畅、情感丰富的语音合成，支持多语言与个性化音色定制。
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库通过21个Jupyter Notebook教程，引导初学者快速掌握生成式AI核心技能，涵盖提示工程、大模型调用、RAG构建与多模态应用，结合Azure与OpenAI生态实现端到端实践。
-- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，融合知识图谱与大语言模型，提升复杂查询的准确率与可解释性，支持动态知识融合与多跳推理。
-- **[microsoft/promptbench](https://github.com/microsoft/promptbench)** `Python` - PromptBench 提供统一的大型语言模型评估框架，支持对抗攻击、提示工程与鲁棒性测试，通过标准化评测流程提升模型可靠性与可比性。
-- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的生成式代理实现，通过轻量化LLM模拟人类行为交互，支持低延迟、低成本的自主智能体系统。核心亮点为可本地部署、高交互性与行为仿真真实性。
-- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - MLX 示例仓库提供基于 MLX 框架的 Python 实现案例，聚焦轻量级机器学习模型的高效部署与推理，涵盖模型加载、优化与推理全流程，核心亮点为原生支持 Apple Silicon 加速与低延迟推理。
-- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - mlc-ai/mlc-llm 是一个基于 TVM 的通用大模型部署引擎，通过机器学习编译技术实现跨平台高效推理，支持多种 LLM 模型的轻量化部署与低延迟推理，核心亮点是极致性能优化与硬件自适应能力。
-- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** `Python` - MLflow 是开源的 AI/LLM 开发平台，提供端到端的模型追踪、可观测性与评估能力，支持多框架集成与规模化部署，助力团队高效构建可信 AI 应用。
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 构建模型上下文协议服务端，基于TypeScript实现高效、可扩展的LLM上下文管理与调度，支持多模态与实时推理，核心亮点为标准化上下文接口与低延迟响应。
-- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - FunASR 是基于 PyTorch 的端到端语音识别工具包，支持 Conformer、ParaFormer 等 SOTA 模型，提供语音识别、VAD、标点恢复等能力，开箱即用，性能领先。
-- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 该仓库系统收集与R1（深度推理）相关的重要项目，聚焦大模型在复杂推理任务中的前沿实践，涵盖推理增强、强化学习优化与多阶段推理架构，构建高质量推理模型资源图谱。
-- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成LigerKernel加速与MoE架构优化。
-- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的开源离线语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 构建模型，实现高性能、低延迟的端到端语音转文本。
-- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 该仓库通过 Jupyter Notebook 形式系统化整理 GPT 提示工程实战案例，涵盖提示设计模式、优化技巧与实际应用场景，以可执行代码推动提示工程的标准化与可复用性。
-- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` - 基于Go语言构建的本地化开源AI平台，支持多种模型格式在消费级硬件上运行，无需GPU，提供文本、图像、音频等多模态生成与去中心化推理能力，兼容OpenAI API。
-- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一个完全免费、私有化本地运行的多LLM搜索聚合与答案生成系统，通过多引擎搜索整合结果并交由LLM生成答案，无需GPU即可运行。
-- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本到语音合成引擎，支持情感与风格的精准调控，通过 prompt 引导实现自然流畅的语音生成。
-- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于技术文本生成与理解，支持代码生成、技术文档撰写与知识推理，核心亮点在于领域适配与高效推理能力。
-- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于Obsidian平台的文本生成插件，支持OpenAI、Anthropic、Google及本地LLM，通过API或本地推理实现高效内容创作，核心亮点为多模型无缝切换与本地化部署。
-- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的 Android 实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言翻译，支持蓝牙 LE 传输语音，兼具高隐私性与实时性。
-- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 使用户能在本地设备上运行大型语言模型，支持跨平台部署，采用轻量级 C++ 实现高效推理，核心亮点是无需云端依赖的开源、可商用本地化 LLM 推理能力。
-- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 提供本地化运行主流大模型（如 Llama3、Gemma 3、DeepSeek-R1 等）的轻量级工具，基于 Go 语言实现高效模型服务，支持一键部署与多模态扩展。
-- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于Python的本地化大模型Web界面，支持多种LLM快速部署与交互，提供图形化操作与高级功能，开箱即用，降低本地AI使用门槛。
-- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen 通过知识图谱驱动生成高质量合成数据，提升大模型监督微调效果，结合领域知识增强问答任务性能，实现更精准的语义理解与推理。
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - OpenWebUI 提供开源、自托管的用户友好型大语言模型交互界面，支持 Ollama、OpenAI API 等多源模型接入，通过 Web 界面实现高效 LLM 对话与管理，核心亮点在于低门槛部署与多模型统一管理。
-- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - GPT-2 是开源的大型语言模型，基于 Transformer 架构，通过无监督多任务学习实现通用文本生成。其代码实现支持模型训练与推理，为研究与应用提供基础范式。核心亮点在于首次展示大规模无监督预训练在多种自然语言任务上的泛化能力。
-- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一种大型语言模型，通过少量示例实现零样本与少样本学习，支持多种自然语言任务。基于海量文本训练，采用自回归生成机制，具备强大的泛化能力与上下文理解能力。
-- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 提供基于 OpenAI API 的完整 Jupyter Notebook 示例，涵盖模型调用、提示工程、流式响应等，帮助开发者快速上手构建 LLM 应用，核心亮点是实战性强、文档与代码一体化。
-- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - MotionGPT基于微调的大语言模型，实现文本到3D人体动作的生成，通过PyTorch框架完成端到端训练与推理，核心亮点在于利用LLM的语义理解能力实现自然语言驱动的通用动作合成。
-- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一个4小时的Jupyter Notebook编程工作坊，通过动手实践深入理解大语言模型的实现原理与应用方法，涵盖模型加载、推理、微调等核心环节，代码直观易上手。
-- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 本项目基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点在于教学式代码实现与可复现的完整训练 pipeline。
-- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索平台，结合LLM与数据处理技术，实现自动化数据洞察与分析，支持结构化与非结构化数据的智能解析与可视化。核心亮点为端到端数据理解与可解释性输出。
-- **[sail-sg/sailor2](https://github.com/sail-sg/sailor2)** `Unknown` - Sailor2 是面向东南亚多语言环境的包容性大语言模型，支持包括爪哇语、马来语、泰语等在内的16种区域语言，通过多语言预训练与本地化微调实现跨语言理解与生成，核心亮点在于覆盖广泛且低资源语言。
-- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - 提供Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，原生支持流式响应与错误处理，提升开发者集成效率。
-- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 旨在通过自动化流程从文档中高效提取结构化信息，结合 LLM 与 prompt 工程实现精准内容解析，支持 DOCX 等格式的智能转换与信息抽取。
-- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，利用多模态大模型解析文本与图表，融合AI生成技术实现内容可视化，支持一键输出高质量科普视频。
-- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 机制从知识库中精准检索信息，有效抑制大语言模型的幻觉问题，提升对话事实准确性。
-- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型编程的框架，通过可微分编程与模块化设计，将提示工程转变为可训练的程序逻辑，提升 LLM 应用的可靠性与可复现性。
-- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于Vercel AI SDK与GPT-3.5-turbo，通过微调莎士比亚文学作品构建的AI对话bot，实现风格化文本生成与经典文学语境对话，核心亮点在于精准还原莎士比亚语言风格与修辞特色。
-- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的AI模型，利用深度学习技术实现从文本到自然语音的端到端生成，支持多语言与情感表达，具备高保真音色还原能力。
-- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据集构建方法。
-- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记，涵盖LLMs训练与优化，采用Jupyter Notebook形式实现零门槛实操，核心亮点为即开即用的完整流程与高效轻量级模型支持。
-- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中提炼知识图谱，利用JavaScript实现端到端推理与结构化输出，核心亮点为自动化实体关系抽取与图谱构建。
-- **[verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)** `Jupyter Notebook` - 该数据集收集15,140条ChatGPT提示词，涵盖Reddit、Discord等真实场景，包含1,405条 jailbreak 提示，用于研究LLM安全漏洞与对抗性输入。基于Jupyter Notebook提供可复现分析环境。
-- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - 构建基于语音的大型语言模型智能体，采用模块化开源设计，支持语音输入输出与LLM协同，核心亮点为端到端语音交互与可插拔架构。
-- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量级架构与高效训练策略，支持本地部署与快速推理，核心亮点为低资源占用与中文语义理解优化。
-- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇集中国本土大模型资源与实践，涵盖模型发布、开源项目、应用案例及技术文档，助力开发者快速掌握国内大模型生态。
-- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建灵活可扩展的多模型统一推理框架，支持异构大模型调用与自动路由，提升AI工作流开发效率与部署灵活性。
-- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持多模型一键部署与推理，兼容主流开源模型，实现本地或云端高效运行。
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 基于反向工程实现免费调用GPT-4、GPT-4o、DeepSeek R1等主流大模型API，提供统一Python接口，支持多模型快速切换与本地部署，核心亮点为高可用性与低成本接入。
-- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一套支持多款主流大模型训练的工具链，基于 Python 实现，集成 LoRA/QLoRA 等高效微调技术，可灵活部署于本地或云端，显著降低大模型训练门槛。
-- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级中文对话场景。
-- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书自动化生成，支持原文与译文同步排版，利用LLM进行高质量翻译与内容重构，核心亮点为端到端流程自动化与双语对照排版优化。
-- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大语言模型在小米AI音箱上的交互接入，通过API封装与语音双向通信，实现自然语言对话的本地化部署与低延迟响应，核心亮点为轻量化部署与跨设备语音交互能力。
-- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，提供本地CPU/GPU环境下的训练与部署方案，支持LoRA微调与量化，实现高效中文大模型推理。核心亮点为全链条本地化、低资源适配与中文优化。
-- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本描述生成高质量图像，核心亮点为端侧高效运行与隐私保护。
-- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 本项目提出一种高效训练数据合成方法，用于提升多模态大模型对图表的理解能力，通过构造多样化、语义精准的图表-文本对数据，显著增强模型在复杂图表识别与推理任务中的表现，核心亮点在于数据生成的可控性与可扩展性。
-- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源的双语对话语言模型，基于 GLM 架构，支持中英文高效交互，采用量化推理技术降低部署门槛，具备高性价比的对话理解与生成能力。
-- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B开源双语大语言模型，支持中英文对话理解与生成，采用量化部署与高效推理优化，实现本地化部署与低资源运行。
-- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4系列是开源多语言多模态对话大模型，支持文本、图像等多类型输入，基于高效推理架构实现跨语言智能交互，核心亮点为多模态理解与多语言支持能力。
-- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - GPTCache 是面向大语言模型的语义缓存系统，通过向量相似度匹配实现高效缓存命中，无缝集成 LangChain 与 llama_index，显著降低 LLM 调用成本与延迟。
-- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 一款基于Python的开源深度研究工具，支持私有数据上的多模型推理与检索增强生成，集成Milvus向量数据库与主流大模型（如Claude、Grok、Qwen、DeepSeek），实现高效、可扩展的AI代理式深度调研。
-- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - KnowLM 是一个面向中英文双语的开源大语言模型框架，基于 LLaMA 架构并融合 LoRA 微调与指令调优技术，支持高效预训练与推理，具备强推理与指令遵循能力。
+- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文/英文对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出。
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 该仓库提供基于 Pydantic v2 的结构化输出工具，用于规范 LLM 的函数调用与输出验证，提升 OpenAI 函数调用的可靠性与开发效率，核心亮点为类型安全与无缝集成。
+- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是开源金融领域大语言模型，基于 PyTorch 训练并部署于 Hugging Face，支持金融文本生成、情绪分析与技术分析，结合提示工程与强化学习实现智能投研辅助。核心亮点为领域专精与可复现性。
+- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、声音与虚拟人物口型同步的生成与理解，基于多模态大模型实现跨模态语义对齐，核心亮点为端到端 Talking Head 生成与自然语言驱动的音视频合成。
+- **[AtomEcho/AtomBulb](https://github.com/AtomEcho/AtomBulb)** `Unknown` - AtomEcho/AtomBulb 对主流大语言模型进行标准化、直观化的评测，通过统一数据集与评估指标，量化模型性能差异，助力科研与工程选型。
+- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 提供高效可扩展的归纳实体嵌入模型，基于异构关系数据学习稳定嵌入，支持图与超图结构，采用 PyTorch 生态实现端到端训练与推理。核心亮点为高效率、强泛化性与对动态数据的适应能力。
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - LiteLLM 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，兼容 OpenAI 格式，实现跨平台 LLM 调用与无缝切换，核心亮点为统一接口、自动路由与成本优化。
+- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻、言情等网文创作，采用Python实现高效文本生成，具备长序列建模优势与低推理成本。
+- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - ChatRWKV 是基于 100% RNN 架构的开源聊天模型，类 ChatGPT 交互体验，采用 PyTorch 实现，兼顾高效推理与长序列建模能力，核心亮点为纯 RNN 架构下的高性能语言生成。
+- **[CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)** `Unknown` - SuperCLUE 是面向中文通用大模型的综合性评估基准，通过多维度任务测试模型能力，采用标准化评测流程与公开数据集，核心亮点在于覆盖广泛且贴近实际应用的中文场景评测体系。
+- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款分析与智能问答，核心亮点在于高准确率的法律语义解析与合规推理能力。
+- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的交互界面，实现与大语言模型的实时对话，核心亮点为前后端分离架构与流畅的前端体验。
+- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与上下文管理，具备高并发与低延迟特性。
+- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话微调模型，提供完整训练、推理、评测与部署教程，支持多种魔改权重与实用工具链，助力中文LLM快速落地。
+- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华联合研发的多语言多任务语音识别模型，基于大规模语料联合训练，支持高精度跨语言语音转写与多任务理解，具备端到端推理能力。
+- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建的人生模拟游戏，通过动态数据建模与决策推演，实现个性化人生重来体验，核心亮点在于真实感强的因果推演与多维度人生路径生成。
+- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro的多模型融合架构，提供高性能代码生成与内容创作能力，支持OpenAI兼容接口与流式/非流式响应。
+- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，复用Alpaca范式实现中文任务精准响应，支持轻量化部署与领域适配。
+- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - FireRedASR 是开源工业级语音识别模型，基于 Conformer 架构支持普通话、方言及英语，兼具高精度语音与歌词识别能力，在公开基准上达 SOTA 水平。
+- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 构建完全本地运行的自主AI代理，基于DeepSeek-R1实现离线推理与自主思考，支持网页浏览与代码生成，零API依赖，仅需电力成本。
+- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 构建多智能体协作框架，通过自然语言编程实现AI软件公司自动化研发流程，利用LLM驱动的Agent协同完成任务分解与代码生成。核心亮点在于端到端的AI工程闭环与角色化Agent分工。
+- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码详细演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求构建、响应处理等核心流程，提供清晰的实践路径与错误处理建议，核心亮点是低门槛接入与模块化示例设计。
+- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，通过深度法律知识融合与推理能力，提供精准法律咨询、文书生成与案例分析服务，核心亮点为领域专用LLM与法律语义理解的深度融合。
+- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大语音模型的全栈语音生成系统，支持跨语言语音合成与克隆，融合细粒度控制与端到端训练，实现自然流畅的语音输出。
+- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一个支持多语言的语音理解模型，基于 PyTorch 实现，具备语音识别、情感识别与语音事件分类能力，支持跨语言语音理解，可高效处理多语种语音输入。
+- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域AI与大语言模型研究论文的整理与实证分析，通过Jupyter Notebook实现可复现的实验验证与教学案例演示，核心亮点是融合前沿LLM技术与教育场景的实践闭环。
+- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种简单高效的检索增强生成框架，通过轻量级知识图谱构建与优化检索策略，显著提升 LLM 问答的准确性和响应速度，核心亮点在于低延迟与高精度平衡。
+- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型简化 RAG 架构，实现高效检索增强生成，核心亮点在于低资源部署与易用性设计。
+- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库整理了高质量的嵌入模型教程、项目与社区资源，聚焦于文本嵌入技术的实践与研究，通过Jupyter Notebook形式提供可运行代码与案例，助力开发者快速上手与探索。
+- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的轻量级中文大语言模型，涵盖底座模型、垂直领域微调、数据集与教程，支持低成本本地化应用。
+- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT 与 Ollama 构建，通过自然语言输入自动生成中英文双语 PPT 内容，支持结构化输出与多轮交互优化，核心亮点在于低门槛、高效率的演示文稿自动化生成。
+- **[InternLM/InternLM](https://github.com/InternLM/InternLM)** `Python` - InternLM系列是面向中文场景的开源大语言模型，支持长上下文与高效推理，采用Flash Attention优化训练与部署性能，提供从预训练到微调的完整技术栈。
+- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建的可定制AI导师系统，通过动态提示工程实现个性化学习路径，支持多场景知识辅导与互动式教学。
+- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库系统整理了120+类 LLM 相关库，按类别分类便于快速查找与选型，助力 AI 工程师高效构建生成式 AI 应用。核心亮点为结构化归类与持续更新的生态导航。
+- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 构建基于 LLM 与视觉模型的数字人对话系统，融合 Whisper 语音识别、SadTalker 驱动虚拟形象，实现语音驱动的拟人化交互，具备高沉浸感与实时响应能力。
+- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，引导ChatGPT模拟猫娘人格，实现拟人化交互体验，核心亮点在于情感化角色设定与自然语言反馈的深度融合。
+- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 本项目系统讲解大语言模型原理与实践，涵盖预训练、微调、推理优化等核心技术，结合Python代码实现与中文案例，助力开发者掌握LLM全链路技术。
+- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模，采用高效序列处理与跨模态对齐技术，突破传统模型上下文瓶颈。
+- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于 PyTorch 与 Lightning 构建，支持高效分布式训练与推理优化，核心亮点为开箱即用的可扩展训练流水线与低资源部署能力。
+- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - 聚焦Llama中文生态建设，整合最新开源资料与模型资源，支持高效训练、推理与应用开发，推动中文LLM技术普及与商业化落地。
+- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方GitHub页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术演进脉络。
+- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过白盒架构设计实现 Transformer 模型的高效压缩与稀疏化，基于代码级可解释的率失真优化，显著降低模型冗余度而不牺牲性能。
+- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步兼容的调用接口，核心亮点是与Swift生态无缝集成且支持现代Swift语法。
+- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - 一个面向语言模型编程的Python库，提供结构化工具链支持提示工程与模型编排，提升LLM应用开发效率。核心亮点在于统一API抽象与可复用的提示模板机制。
+- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 聚焦大语言模型在情境化心智理论（Theory of Mind）上的研究与评估，整合EMNLP 2023最新成果，构建系统性阅读清单，推动AI对人类心理状态的理解能力发展。
+- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG、知识图谱与个性化PageRank，实现大模型对多源外部文档的持续知识融合与动态更新，提升推理准确性与上下文连贯性。
+- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的类 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化，实现端侧高性能多模态感知。
+- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT架构实现视频理解与多轮对话，支持多大模型接入，通过Gradio构建交互界面，实现视频问答与内容生成。核心亮点为多模态理解与通用对话能力融合。
+- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇集高质量大模型相关项目，涵盖模型开发、部署与应用，聚焦前沿技术整合与实践范例，助力开发者快速构建AI解决方案。
+- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python的已弃用推理引擎，用于高效运行大语言模型，支持模型部署与推理服务，核心亮点为轻量级架构与多模型兼容性。
+- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格类型对大语言模型进行心理特质建模与探索，通过Python实现模型行为模拟与分类分析，揭示LLM的“性格”差异与交互模式。
+- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现实时高分辨率背景抠图，采用轻量化网络结构与高效推理优化，支持视频流与高清图像的快速精准边缘分割。
+- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3 是阿里云通义实验室推出的第三代大语言模型系列，基于海量数据训练，支持多轮对话、代码生成与复杂推理，采用高效推理架构与持续优化的模型蒸馏技术，具备高精度与低延迟特性。
+- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 该仓库为《大型语言模型综述》论文的官方GitHub页面，系统梳理LLM发展脉络，涵盖预训练、指令微调、提示学习、思维链及RLHF等核心技术，提供结构化知识图谱与文献索引。
+- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与能效比。
+- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用（Tool Calls）上的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在真实 API 调用任务中的准确率与可靠性。
+- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互的训练与推理环境，支持灵活的模型定制与实验，核心亮点在于开放性与可复现性。
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过协同决策与动态策略生成实现自动化交易，融合市场分析与风险管理，核心亮点为可扩展的智能体编排与实时策略迭代。
+- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯 Hunyuan 系列多语言大模型，基于 Python 实现，支持多语言理解和生成，通过高效推理架构实现低延迟高吞吐，核心亮点为跨语言语义对齐与端到端多语言任务处理能力。
+- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是基于多分辨率扩散 Transformer 架构的中文图像生成模型，结合细粒度中文理解能力，通过 Jupyter Notebook 实现高效实验与可视化，支持高精度语义驱动图像生成。
+- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展与可进化架构，通过模块化设计实现文本生成与内容创作的灵活部署。
+- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一框架，支持场景理解与任务规划。
+- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured.io 通过开源 ETL 工具链高效转换复杂文档为结构化数据，支持 PDF、DOCX 等多格式，集成 OCR 与 NLP 能力，实现端到端文档解析与预处理。
+- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLMs构建面向金融科技的智能体框架，支持Claude、OpenAI等模型，融合MCP协议与RAG技术，实现高可靠、可复用的自动化金融决策与流程执行。
+- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令跟随，显著提升越南语自然语言生成能力。
+- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及 MiniGPT-v2 为多模态大模型提供开源实现，通过视觉编码器与语言模型的轻量级对齐，实现图像理解与自然语言交互。核心亮点在于低资源部署与强泛化能力。
+- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶级大语言模型资源，涵盖训练、推理、Agent、多模态、编程辅助等全链路内容，提供视频、课程、文档与工具链整合。核心亮点为系统性分类与高时效性更新。
+- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 汇集图相关大模型的前沿项目与资源，涵盖图神经网络与大语言模型融合的技术实践，聚焦图结构数据的智能理解与生成，核心亮点为体系化整理与高价值开源生态聚合。
+- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语言语音数据训练的开源文本到语音模型，采用高效架构实现高保真与情感表达，性能媲美甚至超越主流商业TTS服务。
+- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 封装与命令行工具，支持 gpt-3.5-turbo 等模型调用，实现无需官方 API 密钥的本地化交互，核心亮点为开源可扩展与跨平台兼容。
+- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的构建与应用，基于 Jupyter Notebook 提供可复现的训练、微调与推理实验，支持多语言文本处理与本地化模型部署，核心亮点为面向东南亚语种的 LLM 适配与工程化实践。
+- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态反馈机制持续优化代理行为，支持多轮决策与工具调用，实现端到端自主任务执行。
+- **[amazon-science/auto-cot](https://github.com/amazon-science/auto-cot)** `Jupyter Notebook` - 基于GPT-3等大语言模型实现自动思维链提示（Auto-CoT），通过自动生成推理链提升模型复杂任务推理能力，核心亮点为无需人工设计思维链即可显著提升准确率。
+- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量级神经网络架构，实现移动端实时渲染的数字人模型，通过优化参数与推理效率，支持低功耗设备上的高保真语音驱动动画生成。
+- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 基于 Shell 脚本实现 LLM 排序优化的轻量级工具，通过动态提示工程与反馈循环提升大模型输出质量，核心亮点为无需复杂框架即可集成至现有工作流。
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `JavaScript` - 收集并整理主流聊天机器人（如ChatGPT、Claude、Gemini）的系统提示词，通过JavaScript实现结构化提取与解析，支持快速对比分析与安全研究。核心亮点在于高精度提取与可扩展的提示词库管理。
+- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能研发的130亿参数中文大语言模型，基于Python实现，支持多场景对话与文本生成，具备强中文理解与生成能力，通过Hugging Face生态实现高效部署与评测。
+- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，具备强推理与对话能力，适用于各类NLP场景。
+- **[bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)** `Python` - 基于BitTorrent协议实现大模型分布式推理与微调，利用志愿者计算资源加速LLM部署，支持Bloom、Llama、Falcon等主流模型，显著提升本地化推理效率。
+- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于LoRA微调训练，支持Stable Diffusion模型的高效图像生成定制，采用PyTorch与Hugging Face生态实现灵活训练流程，核心亮点为低资源消耗下的高精度模型适配。
+- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于文本-音频基础模型，实现跨模态语义理解与生成，支持语音合成、音频描述、文本到音频转换等任务，采用端到端训练与多任务学习提升泛化能力。
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧，涵盖提示工程设计、结构化输出优化与模型交互策略，核心亮点在于可复用的模式化模板与实战经验提炼。
+- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于0.2B参数的中文对话小模型ChatLM-mini-Chinese，开源全链路训练流程，涵盖数据清洗、tokenizer训练、预训练、SFT及RLHF，支持三元组抽取等下游任务微调。
+- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效代理与调用，核心亮点为多模型兼容与零成本试用。
+- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目汇聚ChatGPT开源替代模型，涵盖文本与多模态大模型，提供模型列表与性能参考，助力开发者快速选型与部署。
+- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI的LLM实现事件抽取与信息抽取的在线工具，支持零样本学习，可本地部署运行，适用于非结构化文本中的关键事件与关系提取。
+- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 提供一键部署LLaMA大模型的轻量级方案，基于本地容器化运行，无需复杂配置，显著降低本地运行大模型的技术门槛。
+- **[databricks/dbrx](https://github.com/databricks/dbrx)** `Python` - 提供DBRX大语言模型的代码示例与资源，支持模型推理与训练，聚焦生成式AI应用开发，核心亮点为开箱即用的LLM集成与优化推理路径。
+- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持文本生成、对话理解等任务，具备高效推理与企业级部署能力。核心亮点在于结合 Databricks 生态实现模型全生命周期管理。
+- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程通过Jupyter Notebook形式系统讲解大语言模型的原理与实践，涵盖从基础概念到RAG实现的完整流程，结合实战案例帮助用户快速上手LLM开发与应用。
+- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 本仓库提供吴恩达大模型系列课程的中文实践教程，通过Jupyter Notebook形式系统讲解LLM入门核心内容，涵盖模型理解、训练与应用全流程，代码可运行、案例贴近实战。
+- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个基于 CUDA 的高效专家并行通信库，通过优化跨设备专家路由与通信，显著提升大规模模型推理的并行效率，核心亮点在于低延迟、高吞吐的专家间通信机制。
+- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是一款高性能大语言模型，支持通用文本生成与推理任务，具备强上下文理解与代码生成能力，采用高效推理架构实现低延迟响应。
+- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款大规模语言模型，基于 Python 实现，支持高效推理与部署，具备强大的文本生成与理解能力，核心亮点在于优化的架构设计与开源生态兼容性。
+- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的先进多模态大模型，支持视觉与语言的深度理解与推理，通过动态路由机制提升模型效率与表达能力。
+- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是基于 PyTorch 的深度学习优化库，通过 ZeRO、模型并行、流水线并行等技术实现千亿乃至万亿参数模型的高效训练与推理，显著降低显存占用与通信开销。
+- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库汇集GPT-3相关优质项目与资源，涵盖模型应用、工具链及开发实践，助力开发者快速构建基于GPT-3的AI应用。核心亮点为生态整合与实战导向。
+- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模多源异构中文语料库，覆盖主流与小众文化内容，支持从新闻到火星文的全类型文本数据，为中文NLP模型训练与研究提供高质量数据基础。
+- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的 ML 与 LLM 可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
+- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1推理模型构建的开源聊天应用，通过实时网络搜索增强对话上下文，实现高精度、动态知识响应。核心亮点为轻量化架构与端到端集成。
+- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建家庭级AI集群，通过轻量化部署与分布式协作实现本地化大模型运行，支持多设备协同与低延迟推理，核心亮点为零云端依赖与高度可扩展的边缘计算架构。
+- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - 提供SAM 2模型的推理代码、预训练权重下载及交互式示例，支持高效图像分割，核心亮点为零样本泛化与高精度掩码生成。
+- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型下载链接及使用示例，支持零样本图像分割，通过提示（prompt）实现高效精准分割，核心亮点为通用性强、部署便捷。
+- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 构建高质量中文语音语料库，整合8个开源数据集，覆盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，支持语音合成与语音识别模型训练。
+- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源高保真TTS系统，融合VALLE与VITS优势，支持多语言零样本语音合成，具备自然流畅的语音生成能力。
+- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 一款自托管、离线运行的类ChatGPT聊天机器人，基于Llama 2与Code Llama，100%私有化，数据不离开本地设备，支持代码生成与推理。
+- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低资源部署，采用ggml张量计算库，支持多种LLM模型本地运行，核心亮点为极致性能与跨平台兼容性。
+- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理管道基于深度学习精确预测生物分子复合物结构，采用图神经网络与多模态建模技术，实现蛋白质-蛋白质、蛋白质-DNA/RNA等复杂相互作用的高精度建模，核心亮点在于对生物大分子复合物的端到端联合建模能力。
+- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLM实现从非结构化文本中精准提取结构化信息，支持源文档精准溯源与交互式可视化，提升信息抽取的可解释性与可信度。
+- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 该仓库专注于提示词优化的从零实现，通过Python构建可复用的提示工程框架，支持动态优化、A/B测试与评估，提升LLM输出质量与一致性，核心亮点为模块化设计与轻量级部署。
+- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术实现ChatGLM-6B的高效微调，支持LoRA与QLoRA，显著降低显存消耗并提升训练效率，便于在消费级硬件上部署定制化对话模型。
+- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大语言模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流方法，兼容LLaMA、Gemma、Qwen、DeepSeek等多架构，提升训练效率与资源利用率。
+- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升代码理解与生成效率，核心亮点是利用代码 I/O 对比实现轻量级推理建模。
+- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** `Python` - ColossalAI 通过高效模型并行与异构训练技术，显著降低大模型训练与推理成本，支持超大规模模型在多GPU集群上快速部署。核心亮点在于原生支持多种并行策略与高吞吐训练优化。
+- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，通过角色分工与协同决策实现自动化交易，结合实时行情与策略推理，提升中文场景下交易智能化水平。
+- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 基于Rust实现的高性能分词器，支持BERT、GPT等主流模型，兼顾研究与生产需求，通过零拷贝与内存优化实现极致速度。
+- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇聚本地化运行的AI工具，支持离线部署与隐私保护，提供模型推理、工具集成与开发支持，核心亮点为全栈本地AI生态聚合与社区驱动维护。
+- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，无需依赖云端服务，保障数据隐私与安全。
+- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 构建覆盖303个中英文大模型的持续更新评测体系，基于超200万条缺陷数据实现全方位能力对比，助力模型优化与研究。
+- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，实现任务导向的嵌入微调，采用三元组损失与负采样技术提升相似性学习效果，支持少样本场景下的高效嵌入优化。
+- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持Agent协同与多模态数据处理，核心亮点为高并发响应与模块化架构设计。
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT从零训练，2小时内完成，采用轻量级架构与高效优化策略，显著降低大模型训练门槛。
+- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务端与客户端，提供简洁API与高性能通信，核心亮点为轻量级、Pythonic设计与对LLM生态的无缝集成。
+- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 通过视觉-语言建模将图像向量化为高精度 SVG 代码，将矢量化任务转化为代码生成问题，实现视觉与文本输入的端到端生成。
+- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库系统整理了主流机器学习框架、库与软件，聚焦Python生态，按功能分类提供高质量资源导航，助力开发者快速发现与评估工具。核心亮点为持续更新、社区驱动与分类清晰。
+- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦前沿检索增强生成（RAG）技术，系统梳理LLM在知识检索与生成中的创新方法，涵盖嵌入模型、检索策略与融合架构，助力提升生成准确性与可解释性。
+- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的智能体，通过结构化提示工程与动态角色生成实现叙事创作，核心亮点在于可扩展的剧情引擎与上下文记忆机制。
+- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，聚焦底层算子优化与GPU并行计算，代码简洁可读，便于理解模型训练全流程，核心亮点为极简架构与高性能CUDA实现。
+- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，核心亮点是代码清晰、可读性强、易于教学与二次开发。
+- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - nanoGPT 是一个极简高效的 Python 项目，用于训练和微调中等规模 GPT 模型，基于纯 PyTorch 实现，强调代码简洁性与可读性，适合快速上手与实验。
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 是一个面向前沿大模型推理优化的灵活框架，通过动态KV缓存管理与高效推理调度，显著提升LLM推理吞吐与延迟性能，支持多种优化策略的插拔式集成。
+- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2实现175B大模型在18GB显存下全参数微调，基于零阶优化与显存分片技术，突破GPU显存瓶颈，显著降低大模型定制化门槛。
+- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本项目为 LangChain 的中文入门教程，通过实战案例引导开发者快速掌握基于大语言模型的 AI 应用开发，涵盖模型调用、提示工程与知识增强等核心流程，核心亮点是面向中文用户的一站式 LangChain 入门指引。
+- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源平台，用于大语言模型的训练、推理服务与评估，支持 Vicuna 等模型的快速部署与评测，提供高效推理框架与多模型对比能力，核心亮点为开箱即用的模型服务与社区驱动的评测生态。
+- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳代表性大语言模型文本数据集，提供结构化索引与分类，助力研究者高效获取高质量训练与评测数据，提升模型开发效率。
+- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库精选并每周更新顶级机器学习Python库，按类别与评分排序，助力开发者高效发现优质工具。核心亮点为权威性与持续维护的高质量资源聚合。
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 通过量化与LoRA微调技术，实现单块4GB GPU上高效推理，支持中文指令生成，基于Jupyter Notebook提供可交互部署方案，显著降低大模型推理硬件门槛。
+- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉定位技术实现多模态大模型的视觉接地，提升图像与文本的对齐能力，基于 Python 构建高效视觉-语言对齐框架，核心亮点在于精准的跨模态语义对齐与可扩展的视觉感知模块。
+- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - Llama Cookbook 提供基于 Llama 模型系列的完整实践指南，通过 Jupyter Notebook 演示推理、微调与 RAG 实现，覆盖主流云服务部署，助力开发者快速构建 LLM 应用。
+- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 是一个连接大语言模型与机器学习社区的系统，通过标准化接口整合 LLM 与 ML 工具链，支持模型协作、任务编排与可复现实验，核心亮点在于统一的 Agent 协作框架与开放的插件生态。
+- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务目标自动迭代优化提示，提升大模型输出质量与任务匹配度，核心亮点为任务理解与自适应提示生成。
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是由 Microsoft 开源的前沿文本转语音系统，基于先进语音合成技术实现自然流畅的语音生成，支持多语种与情感表达，采用端到端神经网络架构，具备高可定制性与低延迟特性。
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库提供21个实战Jupyter Notebook教程，涵盖提示工程、LLM调用、文本生成、语义搜索等，基于OpenAI、Azure AI与Hugging Face构建，帮助初学者快速掌握生成式AI开发核心技能。
+- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，通过知识图谱构建与动态检索提升LLM问答准确性，支持复杂语义关联与上下文溯源。
+- **[microsoft/promptbench](https://github.com/microsoft/promptbench)** `Python` - PromptBench 是一个统一的大语言模型评测框架，支持多种提示工程与对抗攻击测试，通过标准化流程评估 LLM 的性能与鲁棒性，核心亮点在于可扩展的基准测试模块与多维度评估指标。
+- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - 提供MLX框架下的机器学习示例代码，涵盖模型训练、推理与部署，基于Python实现高效轻量级AI应用，核心亮点为端到端流程完整、代码简洁易懂。
+- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - MLC-LLM 是一个基于 TVM 编译的通用大语言模型部署引擎，通过模型编译优化实现跨平台高效推理，支持多种 LLM 架构与硬件部署。核心亮点为极致性能与低资源占用。
+- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** `Python` - MLflow 是开源的 AI/LLM 应用构建平台，支持模型全生命周期管理，通过统一跟踪、可观测性与评估能力，赋能团队高效构建与治理 AI 应用。
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 该仓库提供基于 TypeScript 的模型上下文协议服务器，用于统一管理 LLM 推理中的上下文交互与状态，支持高效、可扩展的模型服务部署，核心亮点为标准化上下文传递与跨系统兼容性。
+- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - 基于PyTorch的端到端语音识别工具包，支持Paraformer、Conformer等SOTA模型，提供语音识别、VAD、标点恢复等能力，开箱即用且可定制化。
+- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，集成语音转文字与内容理解能力，支持一键生成字幕与精准片段提取，兼具高准确率与易用性。
+- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 收集并整理所有关于 R1 推理能力的前沿工作，聚焦大模型深度推理技术，涵盖模型架构、训练方法与评估基准，通过 Python 工具链实现统一接入与对比分析。核心亮点为高效整合 DeepSeek、Qwen、GROK 等主流模型的推理能力。
+- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参数微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成Liger Kernel等高效训练优化技术。
+- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的离线端到端语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 实现高效推理。核心亮点是低延迟、高精度的本地化语音转文本能力。
+- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` - LocalAI 是一款开源、自托管的本地大模型推理引擎，支持 GGUF、Transformers 等多种模型格式，无需GPU即可在消费级硬件上运行，兼容 OpenAI API，支持文本、音频、图像、视频等多模态生成与分布式 P2P 推理。
+- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一款本地运行的免费私有搜索聚合与答案生成系统，通过多 LLM 协作整合多引擎搜索结果，实现无需 GPU 的高效问答，保障数据隐私与零成本使用。
+- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本转语音引擎，支持情感风格迁移与个性化语音合成，通过提示词精准调控语音情感与风格。
+- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于代码理解、技术文档生成与智能问答，采用 RAG 与微调结合的技术路线，实现高精度技术内容生成与推理。
+- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于多种AI提供商（如OpenAI、Anthropic、Hugging Face）的文本生成插件，为Obsidian用户提供一键生成内容能力，支持本地与云端模型，提升知识管理与写作效率。
+- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的安卓实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言文本翻译，支持 SentencePiece 分词与蓝牙 LE 传输，保障隐私与实时性。
+- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转化为Anki闪卡，基于GPT-4实现内容理解与结构化生成，支持大规模批量处理，核心亮点为高精度知识提炼与无缝Anki导出。
+- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 旨在实现本地化运行大语言模型，支持跨设备部署，采用开源架构并兼容商业使用，通过轻量化推理引擎实现高效本地运行。
+- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 是一个本地化大模型运行框架，支持 GPT-OSS、DeepSeek-R1、Gemma 3 等主流 LLM，通过 Go 语言实现高效部署与推理，提供简洁 CLI 与 REST API，开箱即用。
+- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于本地部署的大型语言模型提供图形化交互界面，支持多种模型格式与高效推理，通过Web端实现零配置快速体验AI生成能力，核心亮点为易用性与高性能本地运行。
+- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen通过知识驱动的合成数据生成技术，提升大模型监督微调效果，结合知识图谱与LLM构建高质量问答数据，显著增强模型在专业领域任务中的表现。
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - Open-WebUI 提供用户友好的界面，支持 Ollama、OpenAI API 等主流 LLM 接口，实现本地化部署与多模型统一管理，核心亮点在于开箱即用的自托管体验与直观的交互设计。
+- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - 实现GPT-2模型的完整代码与训练流程，支持无监督多任务学习，通过大规模文本自监督训练构建通用语言模型，核心亮点在于验证了语言模型作为通用学习器的潜力。
+- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一项基于大规模预训练的语言模型，支持少样本学习，通过海量文本数据训练实现高效自然语言理解与生成，核心亮点在于零样本与少样本泛化能力。
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 本仓库提供基于 OpenAI API 的完整示例与指南，通过 Jupyter Notebook 演示如何调用 GPT-4、ChatGPT 等模型实现对话、文本生成、代码辅助等功能，核心亮点是即学即用的交互式教学范式。
+- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 是基于 Model Context Protocol 的官方集成，通过 Python API 实现高效数据采集与 LLM 交互，支持电商爬取与上下文注入，核心亮点为无缝对接 LLM 与真实网络数据源。
+- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - 基于微调的大语言模型实现文本到3D人体动作的通用生成，利用PyTorch构建端到端框架，支持高保真、语义对齐的动作合成，核心亮点为无需复杂物理约束即可实现自然流畅的运动生成。
+- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一场4小时的Jupyter Notebook编程工作坊，通过实战代码深入理解大语言模型的实现原理与使用方法，涵盖模型加载、推理、微调等核心环节，核心亮点是理论与代码高度融合的渐进式教学。
+- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点为完整可复现的端到端教学实践。
+- **[sail-sg/sailor2](https://github.com/sail-sg/sailor2)** `Unknown` - Sailor2 是面向东南亚多语言环境的包容性大语言模型，支持包括印尼语、马来语、泰语、越南语等在内的16种区域语言，通过多语言预训练与本地化微调实现跨语言理解与生成，核心亮点在于对低资源东南亚语言的深度覆盖与文化语境适配。
+- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，提供流式响应与高效接口封装，核心亮点为高兼容性与低延迟通信。
+- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 通过构建高效的 LLM 数据提取流水线，实现对文档（如 DOCX）的结构化信息自动抽取，结合 prompt 工程与 NLP 技术，显著提升合同分析与文本智能处理效率。
+- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，融合文本理解与多模态生成技术，利用 LLM 解析论文内容并驱动视频合成，实现学术成果的可视化高效传播。
+- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 技术从维基百科等语料库中精准检索事实信息，有效抑制大语言模型的幻觉问题，提升生成内容的准确性和可信度。
+- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型的编程框架，通过可训练的程序化结构替代提示工程，实现高效、可复现的 LLM 应用开发，核心亮点在于将提示设计转化为可优化的代码模块。
+- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于 Vercel AI SDK 与 GPT-3.5-turbo 构建的 Shakespeare 风格 AI 聊天机器人，通过微调模型实现经典文学语感还原，支持自然语言交互与文本生成。
+- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的生成式模型，采用Jupyter Notebook实现端到端推理与调优，支持多语言语音合成与音色克隆，核心亮点为高自然度语音生成与灵活的文本驱动控制。
+- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据构建方法。
+- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库整理了60个针对数据科学任务的ChatGPT高效提示词，涵盖数据清洗、建模、可视化等环节，通过结构化提示提升AI输出质量与一致性，核心亮点在于场景化、可复用的提示工程范式。
+- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 通过自然语言指令驱动ChatGPT生成AR内容，实现零代码构建增强现实体验，结合C语言底层性能优化与AI推理能力，提升交互响应速度与沉浸感。
+- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记本，涵盖LLM训练与优化全流程，支持快速上手与实验验证，核心亮点为轻量高效、即开即用的Fine-tuning实战资源。
+- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中推断知识图谱，利用JavaScript实现端到端构建，核心亮点是自动化关系抽取与图结构生成。
+- **[verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)** `Jupyter Notebook` - 该数据集收集1.5万余条ChatGPT提示，涵盖Reddit、Discord等来源，包含1,405条恶意越狱提示，用于研究LLM安全与对抗性攻击，支持模型鲁棒性评测与防御技术开发。
+- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI项目集成与工具链构建，涵盖LLM应用开发、自动化工作流及数据处理流水线，通过模块化设计提升AI工程化效率，核心亮点在于开箱即用的API封装与可扩展架构。
+- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于AI Agents与LLMs构建智能投研系统，融合实时数据处理与策略推理，实现自动化交易决策。核心亮点为多智能体协同与动态风险对冲机制。
+- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - vocode-core 是一个模块化开源框架，用于构建基于语音的 LLM 代理，支持语音输入输出、对话管理与工具调用，核心亮点在于全链路语音交互能力与高可扩展性架构。
+- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量架构与中文语料优化训练，支持本地部署与快速推理，核心亮点为低资源高效训练与中文适配。
+- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇聚中国本土大模型相关项目与资源，涵盖模型、工具链与应用实践，推动技术落地与生态共建，整合前沿成果形成高效可复用的知识库。
+- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全AI助手，支持GPT-4、Gemini、DeepSeek等多模型接入及Dify工作流，实现私有化部署的智能客服与个人助理，保障数据安全。
+- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建轻量级工作流引擎，支持多模型统一接口调用与灵活编排，实现高效 LLM 调用与任务自动化，核心亮点为低代码化流程配置与跨模型兼容性。
+- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持复杂场景理解与文本生成，采用Jupyter Notebook交互式开发，具备强泛化能力与可扩展性。
+- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持本地/云端部署任意开源 LLM，通过单行代码实现模型切换与高效推理，兼容 llama3、qwen、mistral 等主流模型。
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 提供开源免费的GPT-4级大模型调用接口，支持GPT-4.1、o4、o3、DeepSeek-R1、Gemini 2.5等多模型，通过逆向工程实现低成本高性能语言模型服务，助力开发者快速构建AI应用。
+- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一款支持多款主流大模型训练的工具，基于 Python 实现，集成 LoRA、QLoRA 等高效微调技术，支持 Qwen、Llama3、Mistral 等 20+ 模型的训练与部署。核心亮点为统一接口、高效训练与广泛模型兼容。
+- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2架构实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级对话系统构建。
+- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大模型与小米AI音箱的交互，通过本地化部署与语音指令驱动，实现自然语言对话的端侧落地，核心亮点为低延迟语音交互与轻量化模型适配。
+- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，支持本地CPU/GPU部署与LoRA微调，实现高效低门槛的中文大语言模型训练与推理，融合量化技术降低部署成本。
+- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本提示生成高质量图像，核心亮点在于端到端本地运行与流畅的移动端体验。
+- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 该仓库实现面向多模态大模型图表理解的高效训练数据合成方法，通过可控生成与质量过滤提升数据多样性与准确性，显著增强模型在复杂图表上的泛化能力。
+- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源双语对话语言模型，基于 Python 实现，支持中英文流畅对话，采用高效推理优化技术，具备低资源部署能力与高对话质量。
+- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B的开源双语对话大模型，支持高效本地部署与推理，具备中文与英文双语对话能力，核心亮点为低资源消耗下的高性能对话表现。
+- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4 系列是开源的多语言多模态对话大模型，支持文本、图像等多模态输入，基于自研架构实现高效推理与跨语言理解，具备强大对话生成与上下文建模能力。
+- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - 基于语义缓存技术加速LLM响应，通过向量相似度匹配实现高效记忆复用，与LangChain和LlamaIndex深度集成，显著降低推理延迟与成本。
+- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 基于Python构建的开源深度研究系统，融合多模型推理与向量数据库实现私有数据上的智能检索与推理，支持Claude、Grok、Llama4等主流大模型。核心亮点为可扩展的代理式RAG架构与本地化部署能力。
+- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - 基于开源大模型框架构建的双语知识型语言模型，支持指令微调与LoRA高效训练，融合GPT-3与LLaMA架构优势，提升中文与英文推理能力。
 
 ## RAG & Knowledge
 
-*170 个项目*
+*174 个项目*
 
-- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，基于语义搜索与上下文感知提升科研效率。
-- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是基于开源金融领域大语言模型的创新项目，通过 HuggingFace 发布训练好的模型，支持金融文本生成、情绪分析与技术分析，结合 Prompt Engineering 与 PyTorch 实现高效推理。核心亮点在于专注金融垂直领域，具备开箱即用的行业适配能力。
-- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中提取结构化知识图谱，融合智能文档处理与图数据库技术，支持分析、数字孪生与AI助手应用。
-- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取指定网站生成结构化知识文件，支持基于URL快速构建自定义GPT，利用TypeScript实现高效数据提取与知识组织，核心亮点为一键式知识资产构建。
-- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 集成中文NLP数据集与常用英文数据集的检索平台，基于Python构建高效索引与搜索功能，支持多任务类型精准匹配。
-- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款生成与合规分析，核心亮点在于精准的法律语义理解与可解释推理能力。
-- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建私有知识库实现高效文档问答，支持本地化部署与多格式文档解析，核心亮点在于低门槛接入与高精度语义检索。
-- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，实现文本提取与结构化处理，结合Python工具链高效完成内容理解与信息萃取，核心亮点在于自动化文档智能分析能力。
-- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，聚焦法律文本理解与生成，通过RAG增强法律知识检索与推理，提供精准法律服务。
-- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT API及多款主流大模型的图形化对话工具，支持Agent、文件问答、模型微调与网页搜索，通过简洁UI实现高效多模态交互。
-- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，助力医疗AI研发高效落地。
-- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的通用本地知识库方案，支持私有化部署与高效检索增强生成，实现安全可控的知识问答与文档理解。
-- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域的人工智能与大语言模型研究论文整理与实践，通过Jupyter Notebook形式实现理论与代码的闭环验证，核心亮点为可复现的教育AI实验案例。
-- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，融合RAG与动态工具调用，高效完成信息检索、分析与报告生成。
-- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种轻量级、高效的检索增强生成框架，通过简化检索与生成流程，在保持高准确率的同时大幅提升响应速度，核心亮点为低延迟与易部署。
-- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型实现简化版 RAG，结合高效检索与生成机制，降低部署门槛并提升推理效率，核心亮点在于小模型上的高性能知识增强生成。
-- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能的多模态 RAG 框架，支持文本、图像等多源数据的检索增强生成，通过统一接口实现高效知识融合与生成。核心亮点在于开箱即用的多模态支持与灵活可扩展的流水线设计。
-- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库系统整理了嵌入模型相关的优质教程、项目与社区资源，以Jupyter Notebook形式呈现，涵盖主流模型原理与实战应用，便于开发者快速上手与对比评估。
-- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift开发的个性化日记应用，融合自然语言处理与情感分析技术，自动记录并智能整理用户日常体验，支持多模态输入与隐私安全存储，核心亮点为情感洞察与自动生成成长报告。
-- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT-v1 通过 AI 一键总结音视频与网页等内容，支持多平台输入（B站、YouTube、会议等），结合 LLM 实现高效内容提炼与对话交互，核心亮点在于全链路自动化与多源内容泛化处理。
-- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 该仓库系统介绍大语言模型的核心原理、技术演进与应用实践，基于Python实现关键模型与训练流程，涵盖预训练、微调与推理全链路。核心亮点为理论与代码结合，适配中文学习与研究需求。
-- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LargeWorldModel/LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模与理解，采用高效序列压缩与跨模态对齐技术，突破传统模型上下文瓶颈。
-- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 该仓库是 LearnOpenGL 官方系列教程的简体中文翻译项目，通过协作翻译与 Web 工具化呈现，帮助中文开发者高效学习图形编程。核心亮点为高质量、持续更新的中文教程生态。
-- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - Llama-Chinese 仓库聚焦中文 Llama 大模型生态建设，整合最新学习资料与开源资源，支持模型预训练、微调与推理，助力开发者快速构建可商用的中文 LLM 应用。
-- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术脉络。
-- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 该仓库系统整理了大语言模型中情境化心智理论（Theory of Mind）的前沿研究，基于EMNLP Findings 2023论文构建全景知识图谱，聚焦模型理解人类意图、信念与心理状态的能力，助力LLM实现更人性化的交互。
-- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容性的本地化桌面及 Docker AI 应用，支持多模型与多模态，实现本地化智能自动化处理。
-- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript构建插件实现文献智能检索与摘要生成，核心亮点在于无缝衔接学术工作流，提升研究效率。
-- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG与知识图谱及个性化PageRank，实现大模型对外部文档知识的持续整合与动态更新，提升知识吸收与推理能力。
-- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇聚全球优质AI模型资源，涵盖大语言模型、多模态系统及推理工具，通过结构化整理与社区共建，助力开发者快速发现与集成前沿模型。核心亮点为高覆盖率与持续更新的模型生态。
-- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 与图像文档高效转为结构化数据，赋能 AI 系统理解非结构化文档内容，支持多模态与 RAG 应用。
-- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库系统性调研大语言模型代理（LLM Agents）的前沿技术与实践，涵盖架构设计、工具调用、规划推理等核心能力，提供对比分析与实现参考。
-- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 基于本地GPT模型实现文档对话，支持私有化部署与数据零外泄，通过向量检索与本地推理技术，让用户在无网络环境下安全高效地与文档交互。
-- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 为应用集成 GenAI 提供开箱即用的有观点 RAG 解决方案，支持多模型、多向量库与多文件类型，通过低侵入式集成简化 RAG 构建，聚焦产品创新而非基础设施。
-- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3是通义实验室推出的第三代大语言模型系列，基于大规模语料训练，支持多轮对话、代码生成与复杂推理，具备高性能推理能力与多语言支持，核心亮点为更强的上下文理解与生成一致性。
-- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 本仓库为大语言模型综述论文的官方GitHub页面，系统梳理LLMs发展历程、核心技术与应用场景，涵盖预训练、指令微调、提示学习、RLHF等关键范式，提供结构化知识图谱与前沿动态追踪。
-- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，通过RAG技术实现高效文档问答与知识检索，支持多源数据接入与结构化处理，核心亮点在于低延迟响应与可扩展的知识图谱集成。
-- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构并智能提取数据，支持Markdown输出与RAG集成，实现高效、准确的网页数据自动化采集。
-- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频化多模态解释，提升 LLM 对数学定理的理解能力，结合 Manim 动画生成与 RAG 机制实现动态推理过程可视化，核心亮点在于将抽象证明转化为可理解的动态视频。
-- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured 提供开源 ETL 工具，通过 OCR 与 NLP 技术将 PDF、DOCX 等复杂文档高效转化为结构化数据，支持文本提取、分块与嵌入，赋能 LLM 应用开发。
-- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLM的金融领域智能体框架，融合MCP协议与RAG技术，支持多工具协同与可靠执行，提升金融场景自动化与决策准确性。
-- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶尖LLM资源，涵盖模型训练、推理、Agent、RAG、多模态及编程辅助等全链路内容，提供结构化学习路径与实战工具推荐。
-- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 该仓库汇聚图相关大语言模型的前沿项目与资源，涵盖图结构建模、图神经网络与LLM融合等方向，通过精选高质量开源项目助力研究与开发。核心亮点在于系统性梳理图与语言模型交叉领域的创新实践。
-- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化方式呈现大模型的推理路径，利用 HTML 实现交互式推理流程展示，核心亮点在于直观揭示 LLM 内部逻辑链，提升可解释性与调试效率。
-- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户语言并本地化转录存储，通过私有服务器实现完全数据自主，支持上下文感知的个性化对话交互。
-- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似性对文本进行智能分块与分组，利用嵌入向量实现高效语义聚类，支持长文本结构化处理与上下文优化。
-- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强的智能应用构建，支持快速部署个性化 AI 服务，核心亮点在于开箱即用的 AI 工具链与企业级集成能力。
-- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM构建智能对话引导者，通过动态推理与上下文理解驱动深度交互，实现自然流畅的个性化对话体验。
-- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的开发与应用，基于Jupyter Notebook提供可交互的模型训练、微调与推理实践，涵盖多语言支持与本地化优化，核心亮点为面向东南亚语种的高效LLM适配与开源共享。
-- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态知识更新与任务自适应机制，实现LLM在复杂场景下的持续进化与自主决策。
-- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业私有数据智能问答系统，通过RAG架构整合OpenAI与Cognitive Search，支持快速上传与检索企业文档，实现安全高效的语义对话。
-- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自 Project Gutenberg 的诗歌语料库，以 Jupyter Notebook 形式组织，支持文本清洗、结构化处理与分析，便于用于自然语言处理研究与训练。核心亮点在于高质量、可复现的诗歌数据管道。
-- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于多模型支持与Agent Builder构建私有化AI平台，实现文档智能分析、深度研究与企业级搜索，融合RAG与React模式提升信息检索与决策能力。
-- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级RAG系统，通过多智能体协作与反思机制增强信息检索与生成能力，实现更精准、自适应的知识问答与任务执行。
-- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量公开数据集，按主题分类便于检索与使用，助力研究与开发高效获取可信数据源。核心亮点为结构化整理与持续更新。
-- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能开发的130亿参数中文大语言模型，基于Hugging Face生态构建，支持高效推理与多场景应用，具备优秀的中文理解与生成能力，通过CEval、MMLU等权威评测验证性能。
-- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT 通过整合 LLM 与 PDF 内容解析，实现用户与 PDF 文档的自然语言对话，核心亮点在于本地化部署的 RAG 架构与高效文本处理能力。
-- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索分析服务，通过结构化检索与上下文理解，实现高效学术文献发现与深度分析，核心亮点为统一协议接口与多模型兼容能力。
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，集成智能代理与知识检索，提升开发效率与协作质量。核心亮点为AI代理协同与可扩展的开发流水线。
-- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是一个开源平台，用于构建和部署基于 GPT/LLM 的智能代理（AI Agents），支持可视化编排与多渠道集成，核心亮点在于低代码化 Agent 开发与强大的多轮对话管理能力。
-- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧与最佳实践，涵盖提示工程策略、结构化输入设计与输出优化方法，核心亮点在于系统化提炼高效果提示模式。
-- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入实现Obsidian笔记间的智能连接，支持本地模型与主流API（如Claude、Gemini、GPT等），通过语义相似度自动发现相关笔记，提升知识发现效率。
-- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果自动生成AI研究报告的开源替代Gemini Deep Research工具，采用TypeScript构建，融合检索增强生成与智能摘要能力，支持高效知识提炼与结构化输出。
-- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `TypeScript` - 基于Langchain构建的本地知识增强型LLM应用，支持ChatGLM、Qwen、Llama等模型的RAG与Agent功能，通过Faiss/Milvus实现高效向量检索，提供流式响应与本地化部署能力。
-- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务矩阵系统，通过模块化设计实现任务调度与自动化执行，结合AI Agents与轻量级RAG机制提升任务理解与决策能力，支持多场景高效协同。
-- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全的中华古诗词数据库，整合唐宋诗词与宋词数据，以JSON格式结构化存储，支持高效查询与应用开发，核心亮点为数据规模与完整性。
-- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与相似性搜索设计，支持高效嵌入向量存储与查询，核心亮点在于高性能、低延迟与对 RAG 场景的深度优化。
-- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 该仓库系统整合 prompt engineering、上下文工程、RAG 与 AI Agent 的前沿指南与实践资源，通过 MDX 格式提供可交互的教程与案例，助力用户高效构建智能对话系统。
-- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持自然语言交互与任务执行，具备高效推理与企业级部署能力。
-- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，支持自然语言转SQL，提升非技术用户数据分析效率。核心亮点为精准上下文理解与动态知识检索。
-- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级应用的开源大模型研发运维平台，通过统一模型管理、GenAI工作流编排与RAG能力，实现LLM全生命周期管理，支持高效SFT与可观测性监控。
-- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程系统讲解大语言模型从原理到实践的完整链路，通过Jupyter Notebook形式实现代码与文档一体化教学，核心亮点在于结合Agent与RAG技术构建可交互的智能应用原型。
-- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体核心原理与实战，基于Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，提供可运行的完整案例。
-- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是由 DeepSeek AI 发布的大规模语言模型，基于海量文本训练，具备强大的自然语言理解与生成能力，支持多轮对话、代码生成与复杂推理任务，采用高效的 Transformer 架构与分布式训练技术实现高性能推理。
-- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款高性能中文大语言模型，基于 Python 构建，支持长上下文与复杂推理任务，采用先进的训练架构与优化策略，实现高效推理与高精度生成。
-- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈 AI 平台，集成搜索、推荐、RAG 与分析功能，通过 API 提供高效向量检索与上下文增强生成能力，核心亮点为高性能、低延迟的向量数据库集成与原生 Rust 优化。
-- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 基于TypeScript构建的AI研究代理，通过迭代式搜索、网页抓取与大语言模型融合，实现对任意主题的深度探究与方向自适应优化，核心亮点是极简架构下的高效深度研究闭环。
-- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - 基于AWEL与Agent架构构建的AI原生数据应用开发框架，支持LLM驱动的数据库交互与智能工作流编排，具备私有化部署与安全增强能力，实现高效RAG与自动化数据智能应用开发。
-- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模中文纯文本语料库，涵盖主流与小众文化数据，支持多场景中文NLP训练与研究，为大模型提供高质量、多样性语料支撑。
-- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等NLP能力的综合性中文NLP资源库，基于Python实现，支持多场景应用与模型复用。
-- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码方式构建自定义LLM智能体，集成语义搜索与OpenAI等模型，支持快速搭建对话式AI应用，核心亮点为低门槛与模块化流程设计。
-- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLMs实现从非结构化文本中精准提取结构化信息，支持源文档精准回溯与交互式可视化，提升信息抽取的可解释性与可信度。
-- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 该插件将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索引用、自动生成文献笔记并实现智能引用，提升科研写作效率。核心亮点为无缝衔接参考文献管理与知识笔记系统。
-- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过结构化数据查询与智能检索实现高效文献发现，核心亮点为开源、低延迟与学术语义优化。
-- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于Ollama构建的Obsidian插件，通过本地化LLM集成实现知识库智能增强，支持自然语言查询、内容生成与自动摘要，核心亮点为离线运行与无缝集成Obsidian生态。
-- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全面文档，支持从语音转录与文本自动提炼结构化内容，核心亮点为高精度语义理解与多轮内容优化能力。
-- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理、应用全链路资源，支持从理论到实践的高效进阶，核心亮点为结构化分类与高质量开源项目聚合。
-- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据构建问答系统，利用Python实现结构化知识抽取与检索增强生成，支持自然语言查询。核心亮点是高效融合Notion文档与LLM能力，实现精准语义问答。
-- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 基于C++20与HNSW等技术构建的AI原生数据库，支持稠密向量、稀疏向量、张量与全文混合检索，实现高速精准的语义搜索，专为LLM应用优化。
-- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与文档理解能力，通过智能检索增强大模型生成，实现高效、精准的上下文构建与知识调用。
-- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 面向中文大模型的综合性评测平台，集成303个商用与开源模型，提供超200万条缺陷数据与实时排行榜，支持多维度能力对比与模型优化分析。
-- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，提供任务导向的嵌入微调技术，采用三元组损失与负采样策略，提升文本/图像相似性学习效果，支持少样本场景下的高效适配。
-- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持多场景AI Agent与RAG系统快速落地。
-- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于 TypeScript 构建的深度研究 AI 代理，通过持续搜索、阅读网页并推理，直至找到答案或耗尽 token 预算，实现自主探索式信息获取。
-- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过简单添加前缀 https://r.jina.ai/，将任意网页URL转化为结构化、LLM友好的文本输入，支持高效内容提取与语义理解，核心亮点在于零配置、低延迟的智能网页解析。
-- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 构建人工智能领域英中技术术语的全面映射数据库，通过结构化数据与持续更新机制实现术语精准翻译与跨语言知识对齐，核心亮点为术语覆盖率高、上下文关联性强。
-- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 基于大模型构建可交互的人类行为模拟体，通过持续记忆与动态决策实现拟人化行为，支持多轮对话与情境演化，核心亮点为真实感与自主性结合。
-- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦先进检索增强生成（RAG）技术，系统梳理LLM场景下的向量嵌入、检索策略与融合方法，构建可复用的技术路线图与工具链。
-- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 聚焦云平台计费与支付领域知识整合，系统梳理成本管理、计量、发票、税务等核心环节，提供结构化参考指南。
-- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 汇集基于LangChain框架的优质工具与项目，涵盖开发、集成与部署全链路资源，助力开发者高效构建LLM应用。核心亮点为生态聚合与快速接入能力。
-- **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` - FastGPT 是基于 LLM 的知识型平台，通过 RAG、数据处理与可视化工作流编排，实现低门槛构建复杂问答系统，支持多模型接入与快速部署。
-- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建的科学智能代理发现框架，利用AI Agents协同完成科研任务自动化，集成文献检索与实验设计推理，核心亮点为可扩展的领域自适应代理编排机制。
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 提供构建上下文感知推理应用的开源框架，基于 LLM 构建智能代理与知识增强应用，支持多模型集成与模块化组件扩展。
-- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并以Cypher查询，实现股票关联关系的可视化与高效检索。核心亮点为轻量级、可复用的金融知识建模框架。
-- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于 Lepton AI 构建对话式搜索Demo，利用 TypeScript 实现高效前端交互与后端 LLM 接入，支持自然语言查询与实时结果反馈，核心亮点为低延迟响应与无缝集成的 AI 搜索体验。
-- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本仓库提供LangChain的中文入门教程，通过实战案例引导开发者快速掌握基于LLM的AI应用开发，涵盖API集成、提示工程与应用构建。核心亮点为中文本土化教学与完整项目示例。
-- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，结合图谱结构化数据与大模型推理，实现精准医疗问答与分析，核心亮点为知识图谱驱动的可解释性问答。
-- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建端到端问答Demo，通过语义检索与图谱推理实现精准医疗问答，核心亮点为知识增强与上下文关联推理。
-- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建成语义图谱，实现文档知识的可视化组织与高效检索。
-- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳主流大语言模型文本数据集，涵盖构建、评估与训练所需的核心资源，通过结构化分类提升数据获取效率，助力模型研发与优化。
-- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 在 Obsidian 笔记系统中集成 AI Copilot，通过 RAG 与 LLM 深度结合，实现智能问答、内容生成与知识关联，提升知识管理效率。
-- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是一个以隐私为核心、基于本地优先架构的开源知识管理与协作平台，使用 Clojure/ClojureScript 构建，支持 Markdown 与 Org-mode 语法，通过图谱化笔记实现知识连接。核心亮点在于本地存储、双向链接与去中心化协作。
-- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉接地技术增强多模态大模型的视觉理解与定位能力，结合图像与文本上下文实现精准视觉推理，核心亮点在于端到端的视觉-语言对齐与动态注意力机制。
-- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于 LangChain 与 LangGraph 构建的 TypeScript 风格 AI PDF 聊天机器人，支持文档理解与多轮对话，核心亮点为结构化 Agent 流程与高效 RAG 集成。
-- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham的公开文章构建RAG系统，使用TypeScript实现文档嵌入、向量检索与上下文生成，支持自然语言问答与内容洞察，核心亮点为精准语义检索与可扩展的文本知识库架构。
-- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - MeiliSearch 是一款基于 Rust 构建的闪电般快速的搜索引擎 API，支持 AI 驱动的混合搜索，融合语义搜索与传统全文检索，提供毫秒级响应与高容错的搜索体验。
-- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 提供通用 AI Agent 记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮交互与上下文持久化，提升 AI Agent 的连贯性与智能水平。
-- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - 本仓库提供基于Llama模型系列的完整开发指南，通过Jupyter Notebook演示推理、微调与RAG实战，涵盖多云服务商部署，助力开发者快速构建高效LLM应用。
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库通过21个Jupyter Notebook教程，引导初学者快速掌握生成式AI核心技能，涵盖提示工程、大模型调用、RAG构建与多模态应用，结合Azure与OpenAI生态实现端到端实践。
-- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，融合知识图谱与大语言模型，提升复杂查询的准确率与可解释性，支持动态知识融合与多跳推理。
-- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，为 AI 应用提供低延迟、可扩展的向量相似性检索能力。
-- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个用于 AI 的联邦查询引擎，通过统一接口连接多种数据源并实现智能分析，支持 LLM 与数据库深度融合，是实现 AI 原生数据驱动的核心 MCP 服务。
-- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过持续学习与多模态交互实现个人智能体的演化，核心亮点为自迭代AI自我架构与跨域知识融合能力。
-- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解论文核心思想与技术细节，提升科研与工程实践能力。
-- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档智能问答与精准溯源，通过向量检索与大模型推理融合，提供高准确率即时引用答案。
-- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是基于 Model Context Protocol（MCP）的跨平台桌面AI助手，支持多服务商接入与本地知识库，通过协议化方式集成模型与工具，实现高效上下文管理与智能协作。
-- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建Model Context Protocol，通过图数据库实现LLM上下文的结构化管理与动态推理，支持多模态上下文感知与高效查询。核心亮点为上下文与知识的语义关联建模。
-- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图数据实时分析。
-- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于任意文档的问答系统，通过RAG技术实现高效知识检索与生成，支持多种格式文档解析与本地化部署，核心亮点为灵活适配非结构化数据与高精度问答。
-- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于技术文本生成与理解，支持代码生成、技术文档撰写与知识推理，核心亮点在于领域适配与高效推理能力。
-- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取网页数据，构建AI Agent实现大规模网络信息的深度推理分析，支持结构化知识生成与智能决策。核心亮点为端到端自动化研究流程与高精度信息聚合。
-- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类与去重，通过高效嵌入模型实现大规模数据洞察。
-- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 为独立开发者提供融合AI的全栈技术栈，基于MDX构建可交互的AI增强开发文档与工具链，实现高效知识沉淀与开发提效。
-- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen 通过知识图谱驱动生成高质量合成数据，提升大模型监督微调效果，结合领域知识增强问答任务性能，实现更精准的语义理解与推理。
-- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 基于自然语言提问实现个人与工作文档的智能检索，通过RAG技术融合语义理解与文档索引，提升信息获取效率。
-- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的Markdown/JSON格式，支持高效数据提取与Agentic工作流集成，核心亮点为端到端结构化解析与语义增强。
-- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - 基于LLM的Python库，通过对话实现数据发现与分析，融合RAG与Pandas操作，支持多模型接入与向量数据库，提升数据探索效率。
-- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是 PostgreSQL 的开源向量相似性搜索扩展，基于 C 语言实现高效近邻搜索，支持向量存储与快速相似性查询，核心亮点为无缝集成数据库与向量检索。
-- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，通过RAG与知识图谱增强代码理解，实现对代码库的自主分析与任务执行，核心亮点为代码上下文感知与可扩展的Agent工作流。
-- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐场景。
-- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合命名实体识别与关系抽取技术，支持智能问答与辅助决策，提升农业信息检索与知识利用效率。
-- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统，通过检索增强生成实现精准问答，支持本地化部署与多模型接入，核心亮点为低延迟响应与可解释性检索结果。
-- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转化为知识图谱，支持图增强生成与基于知识图谱的问答，利用自然语言处理与图结构建模实现语义关联挖掘。
-- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索平台，结合LLM与数据处理技术，实现自动化数据洞察与分析，支持结构化与非结构化数据的智能解析与可视化。核心亮点为端到端数据理解与可解释性输出。
-- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI协作工作台，支持多模型集成与工作流编排，通过可视化画布实现人机协同的内容创作与知识管理，核心亮点为动态记忆与上下文感知的智能体交互。
-- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能分析系统，融合RAG与LLM技术实现高效知识检索与推理，支持多源数据处理与上下文理解，核心亮点为低延迟响应与可扩展的Agent协同架构。
-- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是面向私有数据的 LLM 应用框架，通过结构化数据索引与检索增强生成（RAG）技术，构建高效、可扩展的 AI Agent。核心亮点在于对多源异构数据的统一接入与智能查询能力。
-- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全面的华语现代诗歌语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成应用，核心亮点为高覆盖率与可扩展的文本处理 pipeline。
-- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec将文本高效转化为向量表示，集成Word2Vec、Sentence-BERT等主流模型，支持多场景文本相似度计算，开箱即用，性能稳定。
-- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 通过 LLM 与 RAG 技术实现自然语言到 SQL/数据操作的转换，支持 CSV、Parquet、数据库等多源数据交互，让数据分析变为对话式体验。
-- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建的全流程技术实践，整合数据抽取、实体识别与关系挖掘等模块，基于开源工具链实现高效知识建模，支持多源异构数据融合与可扩展的图谱存储与查询。
-- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 机制从知识库中精准检索信息，有效抑制大语言模型的幻觉问题，提升对话事实准确性。
-- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，融合RAG与LLM推理能力，实现知识问答与课程讲解的交互式教学体验，支持动态知识更新与多轮对话。
-- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，模拟人类行为与社会动态，通过多智能体交互实现对复杂社会现象的可解释洞察。
-- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库是《提问的智慧》中文翻译版，系统性指导用户如何高效、清晰地提出问题，提升信息获取与沟通效率。通过结构化方法论，帮助用户在技术社区、团队协作中精准表达需求。核心亮点在于将沟通技巧转化为可复用的提问范式。
-- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现数据清洗、结构化与标注，支持法律文本分析与模型训练，核心亮点为高精度法律术语对齐与合规性数据标准化。
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据抓取工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点在于对 LLM 输入的天然适配与高可用性。
-- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中提炼知识图谱，利用JavaScript实现端到端推理与结构化输出，核心亮点为自动化实体关系抽取与图谱构建。
-- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一个基于上下文工程的主动式 AI 伙伴，通过持续记忆与多模态感知实现智能上下文理解与主动响应，融合 RAG、向量数据库与 Agent 技术提升交互连贯性。
-- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是一个云原生向量数据库，支持向量搜索与结构化过滤结合，基于 HNSW 算法实现高效近似最近邻搜索，具备高可用与可扩展性。
-- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇集中国本土大模型资源与实践，涵盖模型发布、开源项目、应用案例及技术文档，助力开发者快速掌握国内大模型生态。
-- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合技术视野、知识管理与职业规划，通过Web工具实现动态更新与个性化导航，核心亮点为可交互的思维导图与周度迭代内容。
-- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术融合旅游知识库，提供智能推荐与多模态交互体验，助力用户轻松畅游世界。
-- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4系列是开源多语言多模态对话大模型，支持文本、图像等多类型输入，基于高效推理架构实现跨语言智能交互，核心亮点为多模态理解与多语言支持能力。
-- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多模型切换、多模态输入与知识库增强，实现企业级智能客服与自动化交互。
-- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - GPTCache 是面向大语言模型的语义缓存系统，通过向量相似度匹配实现高效缓存命中，无缝集成 LangChain 与 llama_index，显著降低 LLM 调用成本与延迟。
-- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 一款基于Python的开源深度研究工具，支持私有数据上的多模型推理与检索增强生成，集成Milvus向量数据库与主流大模型（如Claude、Grok、Qwen、DeepSeek），实现高效、可扩展的AI代理式深度调研。
-- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱抽取与构建工具包，支持中文文本的实体、关系及属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
-- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - KnowLM 是一个面向中英文双语的开源大语言模型框架，基于 LLaMA 架构并融合 LoRA 微调与指令调优技术，支持高效预训练与推理，具备强推理与指令遵循能力。
-- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT实现私有化文档交互，本地运行模型，确保数据零外泄，通过向量化检索与生成技术实现高效知识问答。
+- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 文献库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，提升研究效率。
+- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是开源金融领域大语言模型，基于 PyTorch 训练并部署于 Hugging Face，支持金融文本生成、情绪分析与技术分析，结合提示工程与强化学习实现智能投研辅助。核心亮点为领域专精与可复现性。
+- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中结构化提取知识图谱，支持多源数据融合与可视化，赋能智能分析与AI助手构建。
+- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取网站内容生成结构化知识文件，支持用户基于任意URL快速构建自定义GPT，利用TypeScript实现高效数据抓取与知识提取，核心亮点在于一键式知识库构建与自动化内容理解。
+- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 该仓库构建中文NLP数据集统一检索平台，整合中文及常用英文数据集，支持多任务类型快速查找，提升模型训练与评测效率，核心亮点为结构化索引与多维度筛选。
+- **[CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)** `Unknown` - SuperCLUE 是面向中文通用大模型的综合性评估基准，通过多维度任务测试模型能力，采用标准化评测流程与公开数据集，核心亮点在于覆盖广泛且贴近实际应用的中文场景评测体系。
+- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款分析与智能问答，核心亮点在于高准确率的法律语义解析与合规推理能力。
+- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建本地知识库实现高效文档问答，支持多格式文档解析与上下文理解，核心亮点在于低延迟响应与可扩展的向量检索架构。
+- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，利用Python实现高效文本提取与结构化处理，支持多格式兼容与语义理解，核心亮点为智能段落分割与上下文保留。
+- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，通过深度法律知识融合与推理能力，提供精准法律咨询、文书生成与案例分析服务，核心亮点为领域专用LLM与法律语义理解的深度融合。
+- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT及多款主流大模型的图形化交互工具，支持智能Agent、文件问答、微调训练与网页搜索，通过简洁UI实现多模型统一管理与高效应用。
+- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、预训练模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，提升医学AI研发效率。
+- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的本地化通用知识库，支持文档解析、向量化存储与高效检索，实现私有化、低延迟的智能问答与信息提取。
+- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域AI与大语言模型研究论文的整理与实证分析，通过Jupyter Notebook实现可复现的实验验证与教学案例演示，核心亮点是融合前沿LLM技术与教育场景的实践闭环。
+- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，支持多轮推理与工具调用，核心亮点为可扩展的自主决策框架与高效知识融合能力。
+- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种简单高效的检索增强生成框架，通过轻量级知识图谱构建与优化检索策略，显著提升 LLM 问答的准确性和响应速度，核心亮点在于低延迟与高精度平衡。
+- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型简化 RAG 架构，实现高效检索增强生成，核心亮点在于低资源部署与易用性设计。
+- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能 RAG 框架，支持多模态数据接入与检索增强生成，通过模块化设计实现高效知识融合与问答。核心亮点是统一处理文本、图像等多源异构数据。
+- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库整理了高质量的嵌入模型教程、项目与社区资源，聚焦于文本嵌入技术的实践与研究，通过Jupyter Notebook形式提供可运行代码与案例，助力开发者快速上手与探索。
+- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT v1 通过集成多源音视频与文本内容，实现一键 AI 总结与对话交互，支持 Bilibili、YouTube、网页、会议等多场景，基于 LLM 实现高效内容提炼与问答，核心亮点为全链路自动化与多平台覆盖。
+- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 本项目系统讲解大语言模型原理与实践，涵盖预训练、微调、推理优化等核心技术，结合Python代码实现与中文案例，助力开发者掌握LLM全链路技术。
+- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模，采用高效序列处理与跨模态对齐技术，突破传统模型上下文瓶颈。
+- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 将英文开源图形学教程LearnOpenGL.com翻译为简体中文，通过静态网页形式提供结构化知识，支持开发者高效学习OpenGL核心概念与实战技术。
+- **[LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)** `Python` - 聚焦Llama中文生态建设，整合最新开源资料与模型资源，支持高效训练、推理与应用开发，推动中文LLM技术普及与商业化落地。
+- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方GitHub页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术演进脉络。
+- **[Mars-tin/awesome-theory-of-mind](https://github.com/Mars-tin/awesome-theory-of-mind)** `Unknown` - 聚焦大语言模型在情境化心智理论（Theory of Mind）上的研究与评估，整合EMNLP 2023最新成果，构建系统性阅读清单，推动AI对人类心理状态的理解能力发展。
+- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容的本地化桌面与 Docker AI 应用，基于 LLM 与向量数据库实现智能问答与自动化任务，支持多模型与多模态交互。
+- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript实现智能文献检索与摘要生成，支持自然语言查询与知识关联，提升科研效率。
+- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG、知识图谱与个性化PageRank，实现大模型对多源外部文档的持续知识融合与动态更新，提升推理准确性与上下文连贯性。
+- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集 ChatGPT 相关资源与实战技巧，涵盖 API 使用、提示工程、应用开发与生态工具，助力开发者高效构建智能对话应用。
+- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇集高质量大模型相关项目，涵盖模型开发、部署与应用，聚焦前沿技术整合与实践范例，助力开发者快速构建AI解决方案。
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 和图像文档高效转为结构化数据，无缝对接 LLM，实现文档智能解析与知识提取。
+- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库聚焦大语言模型代理（LLM Agent）的调研与实践，系统梳理Agent架构、工作流设计及关键技术栈，提供可复用的框架与案例参考，核心亮点在于结构化整合Agent生态主流方案。
+- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 本地化文档对话系统，基于GPT模型实现文档问答，数据全程不离开设备，保障隐私。通过向量化存储与检索增强生成技术，实现高效精准的私有知识问答。
+- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 是一个聚焦于简化 RAG 集成的开源框架，支持多 LLM、多向量库与多文件类型，通过灵活配置快速实现生成式 AI 功能嵌入应用，降低开发门槛。
+- **[QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)** `Python` - Qwen3 是阿里云通义实验室推出的第三代大语言模型系列，基于海量数据训练，支持多轮对话、代码生成与复杂推理，采用高效推理架构与持续优化的模型蒸馏技术，具备高精度与低延迟特性。
+- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 该仓库为《大型语言模型综述》论文的官方GitHub页面，系统梳理LLM发展脉络，涵盖预训练、指令微调、提示学习、思维链及RLHF等核心技术，提供结构化知识图谱与文献索引。
+- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，利用RAG技术实现高效文档问答与知识检索，支持多格式数据接入与语义理解，核心亮点在于低延迟响应与可扩展的向量索引架构。
+- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构与内容，实现智能化数据提取与结构化输出，支持Markdown格式。核心亮点为AI驱动的自适应爬取与语义理解。
+- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频生成技术实现大语言模型定理理解的多模态解释，结合 Manim 动画与 RAG 机制，动态可视化抽象数学推理过程，提升理解可解释性与学习效率。
+- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯 Hunyuan 系列多语言大模型，基于 Python 实现，支持多语言理解和生成，通过高效推理架构实现低延迟高吞吐，核心亮点为跨语言语义对齐与端到端多语言任务处理能力。
+- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured.io 通过开源 ETL 工具链高效转换复杂文档为结构化数据，支持 PDF、DOCX 等多格式，集成 OCR 与 NLP 能力，实现端到端文档解析与预处理。
+- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLMs构建面向金融科技的智能体框架，支持Claude、OpenAI等模型，融合MCP协议与RAG技术，实现高可靠、可复用的自动化金融决策与流程执行。
+- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶级大语言模型资源，涵盖训练、推理、Agent、多模态、编程辅助等全链路内容，提供视频、课程、文档与工具链整合。核心亮点为系统性分类与高时效性更新。
+- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 汇集图相关大模型的前沿项目与资源，涵盖图神经网络与大语言模型融合的技术实践，聚焦图结构数据的智能理解与生成，核心亮点为体系化整理与高价值开源生态聚合。
+- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化推理路径，帮助用户理解大模型的思维过程。基于 HTML 实现交互式图谱展示，支持 ACL 2025 Demo 与论文复现，核心亮点在于直观呈现多跳推理逻辑与决策链条。
+- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户说与听的内容，本地化转录存储并支持私有服务器部署，通过对话应用实现具备上下文感知的个性化AI交互。
+- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似度对文本进行分块与分组的Python库，利用嵌入向量实现高效语义聚类，支持灵活的相似度阈值与自定义嵌入模型。核心亮点是轻量级设计与高可扩展性。
+- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强型智能应用快速构建，支持多场景 AI 应用部署。
+- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM的智能对话引导系统，通过动态推理与上下文理解驱动深度交互，实现自然流畅的智能对话体验。核心亮点在于上下文感知的对话策略与实时响应优化。
+- **[aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)** `Python` - 基于数据驱动的自演化语言智能体框架，通过动态反馈机制持续优化代理行为，支持多轮决策与工具调用，实现端到端自主任务执行。
+- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业级私有数据问答系统，通过RAG架构融合Azure OpenAI与Cognitive Search，支持快速上传文档并实现自然语言交互，核心亮点为低代码部署与多源数据向量化检索。
+- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 一个基于Python的翻译智能体，利用LLM驱动实现多语言自动翻译与上下文理解，支持流式输出与错误自纠正，核心亮点在于上下文感知与翻译质量闭环优化。
+- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于Python构建的私有AI平台，支持智能代理构建、深度文档分析与多模型集成，通过RAG与Agent架构实现企业级知识检索与自动化决策。
+- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级检索增强生成系统，通过多智能体协作与反思机制提升问答与决策能力，实现更精准、动态的知识应用。
+- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量开放数据集，按主题分类便于检索与使用，提升数据获取效率，助力研究与开发。
+- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT通过将PDF文档内容转化为可交互的对话知识库，利用大语言模型实现自然语言问答。基于RAG技术链，支持本地化部署与私有文档安全对话，是高效、开源的PDF智能问答解决方案。
+- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索与分析服务器，通过结构化查询与LLM理解实现高效学术内容检索与摘要生成，支持多模型接入与上下文推理。
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，融合智能Agent协同与知识增强机制，显著提升开发效率与迭代质量。
+- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是开源的 GPT/LLM 代理构建与部署平台，基于 TypeScript 构建，支持可视化编排与多模型集成，核心亮点为低代码 Agent 开发与高效的对话生命周期管理。
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧，涵盖提示工程设计、结构化输出优化与模型交互策略，核心亮点在于可复用的模式化模板与实战经验提炼。
+- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入技术实现Obsidian笔记间的智能关联，支持本地模型与主流大模型API，通过自然语言交互快速发现相关笔记内容，提升知识管理效率。
+- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果生成AI研究报告的开源替代Gemini Deep Research工具，使用TypeScript构建，融合检索与生成能力，支持自动化内容整合与结构化输出。
+- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `Python` - 基于Langchain整合ChatGLM、Qwen、Llama等大模型，构建本地知识库驱动的RAG与Agent应用，支持向量检索与流式响应，核心亮点为多模型兼容与本地化部署。
+- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务管理框架，通过AI Agents实现任务分解与自主执行，结合RAG增强知识调用能力，支持动态任务编排与多工具协同，核心亮点为高灵活性与可扩展的任务自动化体系。
+- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全中华古诗词数据库，涵盖唐宋诗及两宋词，以JSON结构化存储，支持高效查询与分析，为诗词研究与AI应用提供高质量数据基础。
+- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与嵌入向量存储设计，支持高效向量相似性搜索与灵活的元数据管理，核心亮点在于高性能、低延迟与原生 Rust 安全性。
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 框架通过角色化、自主协同的 AI 代理实现复杂任务的自动化执行，支持多代理协作与动态任务分配，核心亮点在于模块化设计与灵活的代理编排能力。
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 系统整合提示工程、上下文工程、RAG与AI Agent实践指南，通过MDX笔记与案例库提供可复用的AI开发方法论，核心亮点是结构化知识体系与实战资源闭环。
+- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，实现自然语言到SQL的精准转换，支持复杂查询理解与上下文记忆。
+- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级的开源大模型 DevOps 平台，通过统一模型管理、GenAI 工作流编排与 RAG 集成，实现 LLM 应用的高效研发与部署，支持 SFT、评测与可观测性。
+- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程通过Jupyter Notebook形式系统讲解大语言模型的原理与实践，涵盖从基础概念到RAG实现的完整流程，结合实战案例帮助用户快速上手LLM开发与应用。
+- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体原理与实践，通过Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，帮助开发者掌握智能体核心能力。
+- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 本仓库提供吴恩达大模型系列课程的中文实践教程，通过Jupyter Notebook形式系统讲解LLM入门核心内容，涵盖模型理解、训练与应用全流程，代码可运行、案例贴近实战。
+- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈搜索与智能推荐平台，融合向量检索、RAG、实时分析能力，通过 API 提供高效、低延迟的智能查询服务，核心亮点为高性能向量搜索与端到端 RAG 支持。
+- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 一个基于AI的迭代式深度研究助手，结合搜索引擎、网页抓取与大语言模型，实现自动优化研究路径与深度挖掘信息，以最简实现打造可进化的研究代理。
+- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - DB-GPT 是基于 AWEL 的 AI 原生数据应用开发框架，通过 Agent 与 RAG 技术实现智能数据库交互，支持私有化部署与安全访问，提升数据应用开发效率。
+- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模多源异构中文语料库，覆盖主流与小众文化内容，支持从新闻到火星文的全类型文本数据，为中文NLP模型训练与研究提供高质量数据基础。
+- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等全链路NLP能力，基于Python构建一站式中文NLP工具库，支持多场景快速落地。
+- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码平台构建定制化LLM智能体，支持可视化流程编排与语义搜索集成，快速实现对话式AI应用落地。
+- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLM实现从非结构化文本中精准提取结构化信息，支持源文档精准溯源与交互式可视化，提升信息抽取的可解释性与可信度。
+- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过结合案例推理增强大语言模型，实现数据科学任务的自动化执行，支持从问题理解到代码生成的全流程闭环。核心亮点在于动态检索相似历史案例并融合推理，显著提升任务准确率与可解释性。
+- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索文献、自动生成引用与文献笔记，提升研究写作效率。核心亮点为无缝衔接学术资料与知识管理。
+- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过JavaScript实现高效文献数据聚合与检索，支持精准学术溯源与知识图谱构建，核心亮点为免API密钥、低延迟响应与可扩展的文献分析链路。
+- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于 Ollama 本地部署大模型，为 Obsidian 笔记系统提供 AI 增强能力，支持自然语言查询、内容生成与知识关联，实现私有化、低延迟的智能笔记体验。
+- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全方位文档，支持从语音转录与文本快速构建结构化知识库，核心亮点为自动化内容提炼与多源信息融合。
+- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理与应用全流程，整合开源工具与经典论文，支持高效知识组织与智能检索。
+- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据库构建的问答系统，利用Python实现结构化数据解析与LLM检索增强生成，支持自然语言查询知识库内容，核心亮点为高效整合Notion数据与大模型能力。
+- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 面向大语言模型应用的原生AI数据库，基于C++20与HNSW实现稠密向量、稀疏向量、张量与全文的极速混合检索，支持多向量与RAG场景。
+- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与检索增强生成技术，实现高效文档理解与上下文构建，核心亮点为支持复杂工作流与多模态知识融合。
+- **[jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)** `Unknown` - 构建覆盖303个中英文大模型的持续更新评测体系，基于超200万条缺陷数据实现全方位能力对比，助力模型优化与研究。
+- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，实现任务导向的嵌入微调，采用三元组损失与负采样技术提升相似性学习效果，支持少样本场景下的高效嵌入优化。
+- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于AI Agents实现持续搜索、阅读网页并推理，直至找到答案或耗尽预算，支持复杂问题的深度探究与信息整合。
+- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过前置代理URL实现任意网页内容结构化提取，支持LLM直接解析，核心技术为智能网页解析与语义压缩，核心亮点是零代码接入、高兼容性与低延迟响应。
+- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 该仓库构建了人工智能领域中英技术术语的全面映射数据库，通过系统化整理与校对，支持精准术语翻译与知识对齐，显著提升跨语言技术沟通效率。
+- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦前沿检索增强生成（RAG）技术，系统梳理LLM在知识检索与生成中的创新方法，涵盖嵌入模型、检索策略与融合架构，助力提升生成准确性与可解释性。
+- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全场景书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标并实现全文搜索，采用Next.js与React Native构建跨平台体验。
+- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 汇聚云平台计费与支付领域权威资源，涵盖成本管理、账单生成、定价策略等核心场景，通过结构化知识库助力企业实现精细化财务运营与自动化决策。
+- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 该仓库整理了基于 LangChain 框架的各类优质工具与项目，涵盖模型集成、应用开发与工程实践，助力开发者快速构建 LLM 驱动的智能应用。核心亮点是生态整合与实战案例汇聚。
+- **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` - FastGPT 是基于大语言模型的知识增强平台，通过可视化工作流实现数据处理、RAG检索与AI Agent编排，开箱即用构建复杂问答系统，显著降低开发门槛。
+- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建面向科学发现的AI智能体系统，通过多智能体协作与工具调用实现自动化科研流程，核心亮点为可扩展的Agent架构与领域知识融合能力。
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 是一个开源框架，用于构建基于大语言模型的智能代理（AI Agents），支持多步骤推理、工具调用与外部数据集成，核心亮点在于模块化设计与对主流 LLM 的无缝适配。
+- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码构建 AI Agent，集成 LLM、RAG 与工作流编排，实现高效自动化应用开发。
+- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并用Cypher查询，实现股票关联关系的可视化与智能检索。核心亮点是轻量级架构与可扩展的图谱查询能力。
+- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于Lepton AI构建对话式搜索演示，利用TypeScript实现低延迟、高可用的LLM驱动搜索交互，核心亮点为端到端的快速部署与自然语言理解能力。
+- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本项目为 LangChain 的中文入门教程，通过实战案例引导开发者快速掌握基于大语言模型的 AI 应用开发，涵盖模型调用、提示工程与知识增强等核心流程，核心亮点是面向中文用户的一站式 LangChain 入门指引。
+- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，采用Python实现知识抽取、图谱存储与RAG增强问答，核心亮点为结构化医学知识与自然语言交互的深度融合。
+- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建可问答的医疗知识系统，通过检索增强生成提升答案准确性，实现demo级医学问答原型。
+- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建知识图谱，实现文档语义的可视化图谱呈现，提升信息理解与分析效率。
+- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源平台，用于大语言模型的训练、推理服务与评估，支持 Vicuna 等模型的快速部署与评测，提供高效推理框架与多模型对比能力，核心亮点为开箱即用的模型服务与社区驱动的评测生态。
+- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳代表性大语言模型文本数据集，提供结构化索引与分类，助力研究者高效获取高质量训练与评测数据，提升模型开发效率。
+- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 基于OpenAI API与RAG技术，为Obsidian笔记系统打造智能协作者，通过自然语言交互实现知识检索、内容生成与任务自动化，核心亮点是深度集成与上下文感知推理。
+- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是基于 Clojure/ClojureScript 构建的本地优先、隐私第一的知识管理与协作平台，支持 Markdown 与 Org-mode，通过图谱化组织笔记，实现知识的双向链接与全局视图。
+- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于LangChain与LangGraph构建的AI PDF聊天机器人，支持文档问答与多轮交互，核心亮点为结构化文档解析与智能Agent决策流程。
+- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham经典文章构建RAG系统，使用TypeScript实现高效知识检索与生成，核心亮点是精准语义理解与上下文关联的问答能力。
+- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - Meilisearch 是一款基于 Rust 构建的高性能搜索引擎，支持语义搜索、混合搜索与实时搜索，通过向量数据库实现 AI 驱动的精准检索，适用于需低延迟、高精度搜索的场景。
+- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 为 AI Agent 提供通用记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮对话与状态持久化，提升 Agent 智能决策能力。
+- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - Llama Cookbook 提供基于 Llama 模型系列的完整实践指南，通过 Jupyter Notebook 演示推理、微调与 RAG 实现，覆盖主流云服务部署，助力开发者快速构建 LLM 应用。
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库提供21个实战Jupyter Notebook教程，涵盖提示工程、LLM调用、文本生成、语义搜索等，基于OpenAI、Azure AI与Hugging Face构建，帮助初学者快速掌握生成式AI开发核心技能。
+- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，通过知识图谱构建与动态检索提升LLM问答准确性，支持复杂语义关联与上下文溯源。
+- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，专为 LLM 和多模态应用中的向量相似性检索设计。
+- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个面向 AI 的联邦查询引擎，通过统一接口连接多种数据源并集成 LLM 能力，实现智能数据分析与决策支持，核心亮点在于其作为 MCP 服务器实现跨源 AI 查询与自动化推理。
+- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过智能代理与知识融合实现个性化AI成长，支持多模态交互与跨域能力扩展，核心亮点为自我进化式学习架构。
+- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解核心思想与技术细节，提升科研与工程实践能力。
+- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档问答与精准引用，通过向量检索与LLM融合提升答案准确性，支持多格式文档高效解析与即时溯源。
+- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 收集并整理所有关于 R1 推理能力的前沿工作，聚焦大模型深度推理技术，涵盖模型架构、训练方法与评估基准，通过 Python 工具链实现统一接入与对比分析。核心亮点为高效整合 DeepSeek、Qwen、GROK 等主流模型的推理能力。
+- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 基于Jupyter Notebook构建的GPT提示工程实践库，系统化整理高质量提示模板与优化方法，支持快速实验与复用，核心亮点在于模块化设计与真实场景案例集成。
+- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是一款跨平台桌面 AI 助手，支持主流大模型服务与本地知识库，通过 Model Context Protocol（MCP）实现工具与上下文协同，提升本地化 AI 交互效率。
+- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建模型上下文协议（MCP）服务，通过图数据库高效管理AI模型的上下文与依赖关系，支持动态推理与知识关联，核心亮点为结构化上下文与可追溯的模型交互。
+- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图分析与实时查询。
+- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于本地知识库的问答系统，支持多格式文档解析与向量化检索，结合大模型实现精准语义问答，核心亮点为全栈本地化部署与高效RAG架构。
+- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于代码理解、技术文档生成与智能问答，采用 RAG 与微调结合的技术路线，实现高精度技术内容生成与推理。
+- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取的海量网页数据，构建可自主推理的AI Agent实现深度研究。采用TypeScript开发，支持自动化信息搜集、分析与总结，核心亮点为端到端开源的深度研究工作流。
+- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建的多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类、去重与主题建模，高效结构化海量数据。
+- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 该仓库为独立开发者提供基于AI的全栈技术栈，融合MDX文档与AI工具链，实现高效内容生成与知识管理，核心亮点是可复用的AI工作流模板与轻量级部署方案。
+- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen通过知识驱动的合成数据生成技术，提升大模型监督微调效果，结合知识图谱与LLM构建高质量问答数据，显著增强模型在专业领域任务中的表现。
+- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 该插件通过自然语言查询实现对个人或工作文档的快速检索，基于ChatGPT构建，结合检索增强生成（RAG）技术，支持高效、准确的文档定位与信息提取。
+- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - 实现GPT-2模型的完整代码与训练流程，支持无监督多任务学习，通过大规模文本自监督训练构建通用语言模型，核心亮点在于验证了语言模型作为通用学习器的潜力。
+- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的markdown/json格式，支持智能Agent工作流，提升文档数据化效率。
+- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python构建的高精度PDF内容提取工具集，融合文本、表格、图像多模态解析与结构化输出，支持复杂版式智能识别与质量优化。
+- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - BambooAI 是基于 LLM 的 Python 库，通过对话式交互实现数据发现与分析，融合 RAG 与工具调用能力，支持多模型接入与向量数据库，提升数据探索效率。
+- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是基于 PostgreSQL 的开源向量相似性搜索扩展，通过 C 语言实现高效近似最近邻搜索，支持大规模向量数据的快速检索与存储。核心亮点是与关系型数据库无缝集成，兼具高性能与易用性。
+- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，融合RAG与知识图谱实现代码理解与自动化任务执行，支持动态上下文推理与代码生成。
+- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 系统梳理开源AI领域最新进展，基于Jupyter Book构建结构化知识体系，通过TeX实现高质量排版与可维护的动态内容生成。
+- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐。
+- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合NER与关系抽取技术实现精准信息提取，基于RAG架构支持智能问答与辅助决策，提升农业数据利用率与智能化水平。
+- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统Web界面，通过LangChain与Ollama集成实现高效知识检索与生成，支持本地化部署与实时交互。
+- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转换为知识图谱，支持图增强生成与基于知识图谱的问答，通过结构化关系挖掘实现语义理解跃迁。
+- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索工具，支持多源数据接入与智能分析，通过LLM驱动的自然语言查询实现高效数据洞察，核心亮点为低代码化数据探索与自动特征发现。
+- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI代理工作台，支持多模型协同与记忆化交互，通过可视化画布实现人机协作的流程编排，打造可扩展的智能工作流引擎。
+- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能洞察系统，融合RAG与AI Agent技术，实现多源数据的自动化分析与知识提炼，支持动态推理与上下文感知的智能问答。
+- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是用于构建基于私有数据的 LLM 代理框架，通过结构化数据接入与检索增强生成（RAG）技术，实现高效知识问答与智能决策。
+- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全华语现代诗语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成，核心亮点为海量高质量中文诗歌数据与标准化API接口。
+- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec 是一款开箱即用的文本向量表征工具，支持 Word2Vec、Sentence-BERT、CoSENT 等多种模型，将文本高效转化为向量矩阵，实现高精度文本相似度计算。
+- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 让用户通过自然语言与数据库、数据湖（SQL、CSV、Parquet）交互，利用 LLMs 和 RAG 技术实现文本转 SQL 与数据洞察，提升数据分析效率。
+- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建，整合数据抽取、实体关系识别与图谱存储技术，采用自动化流水线实现从非结构化文本到结构化知识网络的转化，核心亮点为高兼容性与可扩展的图谱构建框架。
+- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 技术从维基百科等语料库中精准检索事实信息，有效抑制大语言模型的幻觉问题，提升生成内容的准确性和可信度。
+- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，结合LLM与结构化知识库，实现教学内容的交互式问答与知识点解析，核心亮点为可复用的教学实验环境与动态知识注入能力。
+- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库提供《提问的智慧》中文版，系统性指导用户如何高效、精准地提出问题，提升沟通效率与信息获取质量。通过结构化方法论与实用范例，帮助用户在技术协作、学习研究等场景中实现高质量提问。
+- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现法律文本的结构化处理与分析，支持法律知识挖掘与智能应用开发。核心亮点在于高质量本地化法律数据集与可复现的处理流程。
+- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中推断知识图谱，利用JavaScript实现端到端构建，核心亮点是自动化关系抽取与图结构生成。
+- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一款基于上下文工程的主动式 AI 伙伴，通过动态记忆与多模态感知实现持续上下文理解，结合 RAG 与 Agent 技术实现智能交互与任务执行。
+- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是基于 Go 语言的开源向量数据库，支持向量与结构化数据混合存储，融合近似最近邻搜索与语义检索，提供高可用、可扩展的云原生搜索能力。
+- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇聚中国本土大模型相关项目与资源，涵盖模型、工具链与应用实践，推动技术落地与生态共建，整合前沿成果形成高效可复用的知识库。
+- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合思维导图、周报机制与技术视野导航，支持高效知识管理与职业成长规划。
+- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术整合旅游知识库，为用户提供智能化、场景化的一站式旅行服务。
+- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python实现的轻量级AI Agent框架，支持多步骤任务规划与工具调用，结合RAG技术增强上下文理解，适用于自动化内容生成与智能问答场景。核心亮点在于模块化设计与低延迟推理能力。
+- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4 系列是开源的多语言多模态对话大模型，支持文本、图像等多模态输入，基于自研架构实现高效推理与跨语言理解，具备强大对话生成与上下文建模能力。
+- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多轮对话、多模态输入与企业知识库集成，可灵活切换主流大模型，实现企业级智能客服自动化服务。
+- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - 基于语义缓存技术加速LLM响应，通过向量相似度匹配实现高效记忆复用，与LangChain和LlamaIndex深度集成，显著降低推理延迟与成本。
+- **[zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher)** `Python` - 基于Python构建的开源深度研究系统，融合多模型推理与向量数据库实现私有数据上的智能检索与推理，支持Claude、Grok、Llama4等主流大模型。核心亮点为可扩展的代理式RAG架构与本地化部署能力。
+- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱构建工具包，支持中文文本的实体、关系与属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
+- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - 基于开源大模型框架构建的双语知识型语言模型，支持指令微调与LoRA高效训练，融合GPT-3与LLaMA架构优势，提升中文与英文推理能力。
+- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT构建私有化文档交互系统，通过本地化部署实现数据零外泄，支持用户以自然语言高效查询私有文档，核心技术为RAG与本地LLM推理。
 
 ## AI Tooling
 
-*215 个项目*
+*208 个项目*
 
-- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，基于语义搜索与上下文感知提升科研效率。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 基于 Pydantic v2 构建 LLM 结构化输出的工具库，通过类型注解实现精准输出校验与函数调用，提升生成结果的可预测性与可靠性。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于灵活可扩展的节点式编辑与对本地部署的深度支持。
-- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 一款基于TypeScript开发的Photoshop插件，支持通过Automatic1111或ComfyUI后台生成Stable Diffusion图像，实现AI绘画一键嵌入设计流程，提升创作效率与用户体验。
-- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中提取结构化知识图谱，融合智能文档处理与图数据库技术，支持分析、数字孪生与AI助手应用。
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - Litellm 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，通过 OpenAI 兼容接口实现跨平台 LLM 调用，支持自动路由、负载均衡与成本监控。
-- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文的全文双语翻译，完整保留原始排版与数学公式，支持多引擎接入与多种使用方式，显著提升科研文献跨语言阅读效率。
-- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控的大型生成模型，用于创建高质量3D资产。基于扩散模型与多模态条件控制，支持文本、图像到3D内容的高保真生成，具备精细几何与材质建模能力。
-- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人人体、面部、手部与足部关键点，基于深度学习与C++高效实现，支持多模态姿态估计，核心亮点为高精度与低延迟的实时处理能力。
-- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过扩展程序实现网页内即时对话、内容摘要与生成，支持多浏览器平台，核心亮点为无缝嵌入式AI交互体验。
-- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 Next.js 与 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 和 Windows，集成 GPT-4o、Claude、Gemini 等主流大模型，提供低延迟本地化与云端混合推理体验。
-- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI的数据库智能客户端，支持多数据库类型，通过自然语言生成SQL，实现高效数据查询与分析，核心亮点为高兼容性与精准Text-to-SQL能力。
-- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 为 ComfyUI 提供可视化节点管理能力，支持自定义节点的安装、启停与卸载，集成资源 hub 与信息查看功能，显著提升工作流管理效率。
-- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - ConardLi/easy-dataset 是一个基于 JavaScript 的高效工具，用于自动化构建大语言模型微调数据集，支持数据清洗、标注与格式转换，显著降低数据准备门槛。
-- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，打造支持语音对话、多模态内容生成与表格分析的AI助手，通过Go语言实现高效服务部署，提升办公效率。
-- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与安全执行，核心亮点为高性能与可扩展的插件系统。
-- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言与表情细节还原，核心亮点为低延迟、高自然度的数字人驱动。
-- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个开源的 AI 代理系统，基于 Python 构建，致力于打造无需围墙的开放智能协作环境。通过模块化 Agent 架构与灵活工具链，实现自主任务规划与多轮交互，核心亮点在于极致开放性与可扩展性。
-- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 提供 Figma 布局数据的 MCP 服务，通过 TypeScript 实现高效接口对接，赋能 AI 编码助手（如 Cursor）精准理解设计稿，核心亮点是低延迟、结构化设计信息提取。
-- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的通用本地知识库方案，支持私有化部署与高效检索增强生成，实现安全可控的知识问答与文档理解。
-- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种轻量级、高效的检索增强生成框架，通过简化检索与生成流程，在保持高准确率的同时大幅提升响应速度，核心亮点为低延迟与易部署。
-- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能的多模态 RAG 框架，支持文本、图像等多源数据的检索增强生成，通过统一接口实现高效知识融合与生成。核心亮点在于开箱即用的多模态支持与灵活可扩展的流水线设计。
-- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动完成视频字幕切割、翻译、对齐与配音，基于AI实现Netflix级本地化流程，支持多语言无缝转换与语音克隆。
-- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，提供标准化输出格式，通过可视化界面实现图像、文本等数据的高效标注，核心亮点在于灵活的标注模板与跨模态支持。
-- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库整理了120+按类别划分的LLM相关库，涵盖模型部署、推理优化、工具集成等，帮助AI工程师高效构建生成式AI应用，核心亮点是分类清晰、资源集中、持续更新。
-- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色语音克隆与视频对话，支持多角色沉浸式交互，通过声音克隆技术还原角色语音特征，打造拟真数字人对话体验。
-- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需服务器即可直接在浏览器中调用 ChatGPT，实现隐私安全的对话交互，支持异步流式响应与自定义配置。
-- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue构建的VSCode插件，为MCP开发者提供一站式AI开发支持，集成LLM调用、Agent编排与代码辅助，通过轻量化架构实现高效开发体验。
-- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于PyTorch与Lightning框架实现高效可扩展的LLM全链路工程化，支持多场景快速落地。
-- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步友好的API调用，核心亮点是原生Swift生态集成与简洁的API设计。
-- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - MadcowD/ell 是一个面向语言模型编程的 Python 库，通过模块化设计简化 LLM 任务开发，支持灵活的提示工程与模型交互，核心亮点在于低门槛构建复杂语言模型应用。
-- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，通过拖拽式界面降低提示工程门槛，提升提示词开发效率与可复用性。
-- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - SoftWhisper 基于 Whisper 模型提供高效音视频转写服务，支持自定义模型、语言、任务及时间片段，通过 beam size 调优提升转写精度，实现灵活精准的语音处理。
-- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真应用，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的 Agent 协作架构与跨场景适配能力。
-- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇聚全球优质AI模型资源，涵盖大语言模型、多模态系统及推理工具，通过结构化整理与社区共建，助力开发者快速发现与集成前沿模型。核心亮点为高覆盖率与持续更新的模型生态。
-- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python构建的已弃用推理引擎，曾用于高效部署和运行大语言模型，支持灵活的模型接入与推理调度，核心亮点为轻量级架构与可扩展的推理接口设计。
-- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 与图像文档高效转为结构化数据，赋能 AI 系统理解非结构化文档内容，支持多模态与 RAG 应用。
-- **[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** `Python` - PaddlePaddle/PaddleSpeech 是一套高效易用的语音技术工具链，基于自监督学习与流式架构，支持高精度端到端语音识别、合成、说话人验证及语音翻译，具备实时处理与标点恢复能力。
-- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现高分辨率实时背景抠图，采用轻量化网络结构与高效推理优化，支持1080p实时处理，精度与速度兼顾。
-- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch、TensorFlow等框架实现高鲁棒性视频抠图，支持多平台部署（ONNX、CoreML、TF.js），提供实时、高精度的前景提取能力，核心亮点为跨框架兼容与轻量化模型设计。
-- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 为应用集成 GenAI 提供开箱即用的有观点 RAG 解决方案，支持多模型、多向量库与多文件类型，通过低侵入式集成简化 RAG 构建，聚焦产品创新而非基础设施。
-- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用VITS架构与GPT-SoVITS联合训练，支持快速、高保真TTS建模，显著降低语音合成门槛。
-- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，通过RAG技术实现高效文档问答与知识检索，支持多源数据接入与结构化处理，核心亮点在于低延迟响应与可扩展的知识图谱集成。
-- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到口型生成，仅需一个唇动专家模型即可在复杂真实场景中生成自然口型同步效果，采用端到端训练与注意力机制优化时序对齐。
-- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与响应速度。
-- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA稳定扩散模型的图像修复工具，支持物体移除、缺陷修复与内容替换，利用潜空间扩散技术实现高精度图像修复，核心亮点为快速生成与自然融合效果。
-- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用场景下的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在 API 调用任务中的准确率与可靠性，核心亮点为首个系统性评估 LLM 工具调用能力的开源框架。
-- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 构建扩展插件生态，通过 Python 实现自动化任务执行与外部系统集成，支持动态调用 API、文件操作与工具链协同，核心亮点为高可扩展性与开箱即用的 Agent 工具集成能力。
-- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主运行的AI智能体，基于大语言模型实现目标驱动的自我规划与执行，核心亮点为无需人工干预的自动化任务闭环。
-- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境配置与自动化依赖管理，核心亮点在于极简操作与高度可定制的启动方案。
-- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是基于 TypeScript 构建的社区级生成式 AI 界面，集成 Stable Diffusion 等模型，提供可视化生成与交互体验，支持模型部署与社区共享，核心亮点在于低门槛的前端交互与可扩展的生成工作流。
-- **[The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)** `Python` - PocketFlow 是一个基于流程编排的轻量级 LLM 框架，支持 Agent 自动构建与协作，通过 100 行代码实现复杂智能工作流，核心亮点在于极简设计与 Agent 自生成能力。
-- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 基于小型语言模型在命令行中生成3D文件，利用Go语言实现高效轻量级推理与模型调用，支持结构化提示与代码化输出，核心亮点为低资源环境下快速构建3D内容。
-- **[Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)** `Python` - 基于LLM的金融领域智能体框架，融合MCP协议与RAG技术，支持多工具协同与可靠执行，提升金融场景自动化与决策准确性。
-- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏监督，仅需少量样本即可合成高质量新视角图像，核心亮点在于提升Few-shot NVS的泛化性与效率。
-- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方集成，支持稳定扩散工作流中高效精准的图像背景移除，核心亮点为无缝对接ComfyUI节点化流程与低资源消耗的实时推理。
-- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，支持精细化人脸生成与风格控制，提供直观节点化工作流。核心亮点为中文本地化优化与高保真肖像输出。
-- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高精度人脸检测与抠图，结合FastAPI与Gradio构建高效证件照生成工具，支持一键换底与尺寸适配。
-- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A 是一个开放协议，通过标准化接口实现异构智能体应用间的通信与互操作，基于 TypeScript 构建轻量级服务器与协议栈，核心亮点在于打破智能体孤岛，支持跨平台协同。
-- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 库与 CLI 工具，支持 gpt-3.5-turbo 等模型调用，无需官方 API 密钥即可实现对话交互，核心亮点为开源、易用、兼容性强。
-- **[adap/flower](https://github.com/adap/flower)** `Python` - Flower 是一个面向联邦学习的轻量级框架，支持多设备协同训练与模型聚合，基于 Python 与 gRPC 实现跨平台通信，核心亮点是灵活可扩展的联邦学习原语与对边缘设备的友好支持。
-- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似性对文本进行智能分块与分组，利用嵌入向量实现高效语义聚类，支持长文本结构化处理与上下文优化。
-- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能AI照片生成工具，通过简化操作流程与优化模型推理，实现高质量人像生成。核心亮点在于一键式风格迁移与细节保留技术。
-- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业私有数据智能问答系统，通过RAG架构整合OpenAI与Cognitive Search，支持快速上传与检索企业文档，实现安全高效的语义对话。
-- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab工具，简化Wav2Lip音视频同步模型的部署与使用，支持高精度人脸唇动同步，通过一键运行提升易用性与效果。
-- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - 该仓库为 Anthropic 官方公开的 Skills 项目，提供基于大语言模型的可复用任务执行能力，通过结构化 API 接口封装复杂推理与工具调用逻辑，支持多场景自动化任务编排。核心亮点在于模块化设计与与 Claude 模型深度集成。
-- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 该仓库提供基于Shell脚本的LLM排序优化工具，通过自动化策略提升大模型推理效率与输出质量，核心亮点在于轻量级部署与可复用的优化流水线。
-- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化的MCP协议，让AI Agent无缝调用数千个现成爬虫与自动化工具，实现对社交平台、电商、地图等网页数据的高效采集与处理，核心亮点在于开箱即用的可组合数据获取能力。
-- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于多模型支持与Agent Builder构建私有化AI平台，实现文档智能分析、深度研究与企业级搜索，融合RAG与React模式提升信息检索与决策能力。
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `JavaScript` - 收集主流聊天机器人（如ChatGPT、Claude、Gemini）的系统提示词，通过JavaScript解析与整理，揭示模型行为底层逻辑，助力提示工程与安全研究。
-- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级RAG系统，通过多智能体协作与反思机制增强信息检索与生成能力，实现更精准、自适应的知识问答与任务执行。
-- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch的实时语音克隆系统，5秒内完成声音克隆并生成任意语音内容，支持高保真、低延迟的TTS合成，核心亮点为极短训练周期与高质量语音还原。
-- **[bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)** `Python` - 基于BitTorrent协议实现大语言模型的分布式推理与微调，通过P2P网络共享计算资源，显著提升本地部署效率，支持LLaMA、Bloom、Falcon等主流模型。
-- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 基于多模型支持的学术型LLM交互平台，聚焦论文阅读、写作与代码解析，通过模块化插件与并行推理优化科研效率，支持本地与云端模型无缝切换。
-- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于稳定扩散模型的训练与微调，提供高效的LoRA与DreamBooth支持，通过轻量化训练方案降低硬件门槛，核心亮点是极简配置与高兼容性。
-- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将EPUB/Kindle等格式书籍一键翻译为指定语言，集成AI翻译引擎与格式保持技术，实现高质量、无损排版转换。
-- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是一个开源平台，用于构建和部署基于 GPT/LLM 的智能代理（AI Agents），支持可视化编排与多渠道集成，核心亮点在于低代码化 Agent 开发与强大的多轮对话管理能力。
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动贡献的开源深度研究框架，通过多智能体协同与工具链集成（如搜索、爬取、Python 执行），实现自动化深度调研，支持可复用的智能工作流。
-- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效API代理与调度，核心亮点为多模型一键切换与零成本试用。
-- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好桌面客户端，支持GPT、Claude、Gemini、Ollama等多模型无缝接入，提供统一对话界面与本地化运行能力，核心亮点为跨平台兼容性与低延迟本地推理。
-- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与相似性搜索设计，支持高效嵌入向量存储与查询，核心亮点在于高性能、低延迟与对 RAG 场景的深度优化。
-- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT通过增强型Agent架构实现ChatGPT自主调用API与联网能力，突破传统模型局限，具备动态推理与工具执行能力，媲美甚至超越NewBing。
-- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型兼容服务，自动分析Paperless-ngx文档并智能打标，支持多模态输入与本地化部署，实现文档智能归档与检索。
-- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型可视化工具，通过模块化节点实现生成流程的灵活配置，支持高效推理与API集成，核心亮点在于高度可定制的图形化工作流设计。
-- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个基于 JavaScript 的开源 AI 增强框架，通过模块化 AI 提示库赋能人类解决具体问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链生态。
-- **[databricks/dbrx](https://github.com/databricks/dbrx)** `Python` - 提供DBRX大语言模型的代码示例与资源，支持模型推理与训练，聚焦于高效、可扩展的生成式AI应用开发，核心亮点为与Databricks生态深度集成。
-- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级应用的开源大模型研发运维平台，通过统一模型管理、GenAI工作流编排与RAG能力，实现LLM全生命周期管理，支持高效SFT与可观测性监控。
-- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体核心原理与实战，基于Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，提供可运行的完整案例。
-- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于PyTorch等框架的先进2D/3D人脸分析项目，支持检测、对齐、识别与年龄估计，采用ArcFace等前沿模型实现高精度人脸处理，具备多平台部署能力。
-- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个高效专家并行通信库，基于 CUDA 实现低延迟、高吞吐的专家间通信，优化大规模语言模型推理中的专家并行计算效率，核心亮点为细粒度通信调度与显存利用率提升。
-- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口适配提升开发效率，核心亮点在于生态兼容性与快速部署能力。
-- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是面向大规模深度学习模型的分布式训练与推理优化库，通过 ZeRO、模型并行、流水线并行等技术实现高效训练与推理，支持百亿至万亿参数模型。
-- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈 AI 平台，集成搜索、推荐、RAG 与分析功能，通过 API 提供高效向量检索与上下文增强生成能力，核心亮点为高性能、低延迟的向量数据库集成与原生 Rust 优化。
-- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于 Vue3 和 Vite 构建的微信端 Markdown 编辑器，支持语法高亮、自定义主题、多图床与 AI 助手，集成 LLM 能力实现智能写作辅助，轻量高效，适配移动端写作场景。
-- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于 Next.js 和 T3 Stack 构建的在线 Tokenizer 交互平台，支持 OpenAPI 兼容模型的 token 估算与分析，提供实时输入输出的可视化对比。核心亮点为零配置接入、多模型兼容与直观交互体验。
-- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 基于C语言实现的开源AI数字人工具链，支持离线视频生成与数字人克隆，融合多模态AI技术实现高保真语音驱动与动作合成，核心亮点为全本地化部署与低资源占用。
-- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库整理了 GPT-3 相关的优质资源，涵盖模型应用、工具链与开发实践，助力开发者快速构建基于 GPT-3 的智能应用。核心亮点是资源聚合与场景化指引。
-- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端的语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、语音转换等多种任务，采用统一框架集成多种语音AI模型，具备高可复用性与模块化设计。
-- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的机器学习与大模型可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
-- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1模型构建的开源聊天应用，实现精准网络检索与深度推理结合，支持实时信息获取与复杂问题解答。
-- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现可复用的提示工程方案，提升AI交互效率与输出质量。
-- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - SAM 2 提供图像分割模型的推理代码、预训练权重及示例笔记本，支持高效、精准的图像掩码生成，核心亮点在于零样本泛化与交互式分割能力。
-- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型权重与示例笔记本，支持零样本图像分割，通过提示输入实现高精度语义分割，核心亮点为通用性强、部署简便、支持多场景快速应用。
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 是基于 TypeScript 构建的 Web 数据 API，可将完整网站转化为 LLM 友好的 Markdown 或结构化数据，支持高效、可靠的网页内容提取与解析，核心亮点在于对动态页面与复杂结构的智能处理能力。
-- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低内存运行，支持多种量化模型部署，核心亮点为极致性能与跨平台兼容性。
-- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 一款面向复杂AI代理构建的开源Python工具集，支持代码驱动的Agent设计、评估与部署，提供灵活的多代理协作与LLM集成能力，核心亮点在于高度可扩展的代理框架与端到端开发体验。
-- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的快速开发与部署，基于Python实现灵活可扩展的流程编排。核心亮点在于模块化设计与对AI工作流的深度适配。
-- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol（MCP）构建的Excel操作服务器，通过LLM+Tool Calling实现对Excel文件的智能读写与自动化处理，支持流式响应与标准输入输出，提升办公效率。
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于AI大模型一键生成高清短视频，集成Python与MoviePy实现自动化视频合成，支持TikTok风格内容快速生产，提升创作效率。
-- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 基于Python的提示词优化工具集，支持提示词结构化分析、自动优化与A/B测试，提升LLM输出一致性与效果。核心亮点为可插拔优化策略与可视化调试能力。
-- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术对ChatGLM-6B进行高效微调，支持LoRA与QLoRA，显著降低显存占用并提升训练效率，适用于资源受限环境下的对话模型定制。
-- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流技术，兼容LLaMA、GPT、Qwen、DeepSeek、Gemma等主流架构，提供开箱即用的指令微调与量化训练方案。
-- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** `Python` - ColossalAI 通过高效的模型并行与分布式计算技术，实现大模型训练与推理的低成本、高性能，支持多类型并行策略与异构硬件部署。
-- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型实现无代码的数据集构建、增强与转换，通过可视化流程编排调用LLM与AI工具，显著降低数据工程门槛。
-- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，致力于构建以代码为思维核心的 AI Agent，通过简洁的 API 实现自主推理与执行。核心亮点在于将 Agent 的思考过程显式表达为可执行代码，提升可控性与可调试性。
-- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 高效前沿的分词器库，基于 Rust 实现高性能文本切分，兼容 BERT、GPT 等主流模型，支持研究与生产环境无缝部署。
-- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 整理优质 ChatGPT 与 GPT-3 相关工具、演示、文档资源，按功能与用途分类，便于开发者快速发现高效实践方案，提升模型应用开发效率。
-- **[intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode)** `Swift` - 为 Xcode 提供集成的 AI 代码补全与生成能力，支持 GitHub Copilot、Codeium 和 ChatGPT，基于 Swift 开发，通过本地扩展实现低延迟智能编码辅助，核心亮点是多模型统一接入与原生 macOS 体验。
-- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - 基于Python的跨框架机器学习代码转换工具，支持JAX、PyTorch、TensorFlow与NumPy间自动转换，通过语法分析与语义映射实现高效迁移，核心亮点为高保真度与零手动重构。
-- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇集本地运行的AI工具，支持离线部署与隐私保护，涵盖模型推理、Agent构建与自动化工作流，核心亮点为轻量化、可扩展及社区驱动生态。
-- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，提供任务导向的嵌入微调技术，采用三元组损失与负采样策略，提升文本/图像相似性学习效果，支持少样本场景下的高效适配。
-- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过简单添加前缀 https://r.jina.ai/，将任意网页URL转化为结构化、LLM友好的文本输入，支持高效内容提取与语义理解，核心亮点在于零配置、低延迟的智能网页解析。
-- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT模型从零训练，仅需2小时完成，采用高效优化与轻量化架构设计，显著降低训练成本与资源门槛。
-- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务器与客户端，提供简洁、可扩展的通信框架，核心亮点是低延迟、Pythonic设计与对LLM生态的无缝集成。
-- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库精选了主流机器学习框架、库与软件，涵盖模型训练、推理、部署全流程，以Python为核心，提供高效、可复用的工具链，助力开发者快速构建AI应用。
-- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python的自动化代码迁移工具，支持跨框架与语言的智能重构，利用语义分析与模式匹配实现高效转换，核心亮点为高保真度与可扩展的迁移模板体系。
-- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景的重建与生成，利用稀疏观测数据结合优化算法实现高保真重建，支持快速推理与可扩展生成。
-- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦先进检索增强生成（RAG）技术，系统梳理LLM场景下的向量嵌入、检索策略与融合方法，构建可复用的技术路线图与工具链。
-- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全流程自动化处理，支持全文总结、专业翻译、语言润色、审稿意见生成及回复建议，显著提升科研效率。
-- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，直接操作GPU内存与计算，无框架依赖，展现底层模型训练的完整流程与极致性能优化。
-- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - 基于极简设计实现中等规模GPT的高效训练与微调，采用纯Python与轻量级架构，支持快速实验与部署，核心亮点为简洁性与高性能结合。
-- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统实现自然语言到可运行代码的自动转换，融合LLM与DevOps工具链，支持多语言扩展与现有代码无缝集成，提升开发效率。
-- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 提供灵活的 LLM 推理优化框架，通过动态 KV 缓存管理与高效内存调度，显著提升大模型推理吞吐与延迟表现，支持多种部署场景。
-- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 汇集基于LangChain框架的优质工具与项目，涵盖开发、集成与部署全链路资源，助力开发者高效构建LLM应用。核心亮点为生态聚合与快速接入能力。
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 提供构建上下文感知推理应用的开源框架，基于 LLM 构建智能代理与知识增强应用，支持多模型集成与模块化组件扩展。
-- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试与部署基于大语言模型的 AI 工作流与多智能体系统，支持灵活组合 LLM 调用与工具链。核心亮点为直观的流程编排与可扩展的组件生态。
-- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化与元提示词设计框架，通过标准化模板提升提示工程效率，助力用户高效构建高精度 Prompt，已在全球超万名用户中验证。
-- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2 实现175B大模型在18GB GPU内存下的全参数微调，基于零阶优化与显存卸载技术，突破显存瓶颈，显著降低大模型调优硬件门槛。
-- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 通过引入条件控制机制，实现对扩散模型生成过程的精细调控，支持姿态、边缘、深度等多种控制信号输入，显著提升生成图像的可控性与精度。
-- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 实现图像的高效重光照，通过深度学习模型在保持细节的前提下精准调整光照效果，支持多场景灵活应用。核心亮点在于高保真重光照与快速推理能力。
-- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源的 LLM 全流程平台，支持模型训练、推理服务与评估，依托 Vicuna 和 Chatbot Arena 实践，提供高效、可扩展的 LLM 开发与部署方案，核心亮点在于统一的生态支持与社区驱动的评测体系。
-- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch复现AlphaFold 3，融合注意力机制与去噪扩散模型，实现蛋白质复合物结构高精度预测，支持多模态输入与端到端训练。
-- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库系统整理并每周更新高质量的机器学习Python库排行榜，涵盖从数据科学到深度学习的全栈工具，通过社区评分与实用性筛选，为开发者提供高效选型参考。
-- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 在单张 4GB GPU 上实现高效推理，采用 QLoRA 量化技术降低显存占用，结合 Jupyter Notebook 提供易用的部署与交互环境，显著降低大模型本地运行门槛。
-- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 基于 Whisper 模型实现高精度语音识别与词级时间戳标注，并支持说话人分离（diarization），通过联合优化提升语音处理的细粒度与准确性。
-- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - MeiliSearch 是一款基于 Rust 构建的闪电般快速的搜索引擎 API，支持 AI 驱动的混合搜索，融合语义搜索与传统全文检索，提供毫秒级响应与高容错的搜索体验。
-- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - 本仓库提供基于Llama模型系列的完整开发指南，通过Jupyter Notebook演示推理、微调与RAG实战，涵盖多云服务商部署，助力开发者快速构建高效LLM应用。
-- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 构建 LLM 与机器学习社区的连接平台，通过统一接口集成模型、工具与数据，支持高效推理与协作。核心亮点为模块化架构与跨模型兼容性。
-- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务需求自动调优提示词，提升LLM响应质量与一致性，核心亮点为任务感知决策与可迭代优化机制。
-- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个用于构建智能体（AI Agents）的编程框架，支持多智能体协作与交互，通过 LLM 驱动实现复杂任务的自动化分解与执行，核心亮点在于灵活的智能体编排与可扩展的通信机制。
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 将Office文档及PDF等文件高效转换为Markdown格式，基于Python实现，支持多种文档结构解析与语义保留，核心亮点为高兼容性与自动化处理能力。
-- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一款开源敏感数据匿名化框架，支持文本、图像和结构化数据的 PII 检测与脱敏，融合 NLP、规则匹配与可定制化流水线，实现高效隐私保护。
-- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，为 AI 应用提供低延迟、可扩展的向量相似性检索能力。
-- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - MLX 示例仓库提供基于 MLX 框架的 Python 实现案例，聚焦轻量级机器学习模型的高效部署与推理，涵盖模型加载、优化与推理全流程，核心亮点为原生支持 Apple Silicon 加速与低延迟推理。
-- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - mlc-ai/mlc-llm 是一个基于 TVM 的通用大模型部署引擎，通过机器学习编译技术实现跨平台高效推理，支持多种 LLM 模型的轻量化部署与低延迟推理，核心亮点是极致性能优化与硬件自适应能力。
-- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** `Python` - MLflow 是开源的 AI/LLM 开发平台，提供端到端的模型追踪、可观测性与评估能力，支持多框架集成与规模化部署，助力团队高效构建可信 AI 应用。
-- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档智能问答与精准溯源，通过向量检索与大模型推理融合，提供高准确率即时引用答案。
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 构建模型上下文协议服务端，基于TypeScript实现高效、可扩展的LLM上下文管理与调度，支持多模态与实时推理，核心亮点为标准化上下文接口与低延迟响应。
-- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端高保真语音修复与降噪能力。
-- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - FunASR 是基于 PyTorch 的端到端语音识别工具包，支持 Conformer、ParaFormer 等 SOTA 模型，提供语音识别、VAD、标点恢复等能力，开箱即用，性能领先。
-- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，结合Gradio实现一键式操作，支持高精度语音转写与自动字幕生成，核心亮点为端到端自动化与易用性。
-- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，实现人脸建模与个性化数字人生成，核心亮点为低代码化、高保真度与快速部署能力。
-- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成LigerKernel加速与MoE架构优化。
-- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是一款基于 Flutter 的跨平台 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 多类生成能力，支持文生图、图生图、超分与上色，一站式满足多模态 AI 内容创作需求。
-- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持用户在不离开浏览器的前提下调用本地LLM进行内容理解与生成，核心亮点为隐私安全与低延迟响应。
-- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是基于 Model Context Protocol（MCP）的跨平台桌面AI助手，支持多服务商接入与本地知识库，通过协议化方式集成模型与工具，实现高效上下文管理与智能协作。
-- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建Model Context Protocol，通过图数据库实现LLM上下文的结构化管理与动态推理，支持多模态上下文感知与高效查询。核心亮点为上下文与知识的语义关联建模。
-- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于Obsidian平台的文本生成插件，支持OpenAI、Anthropic、Google及本地LLM，通过API或本地推理实现高效内容创作，核心亮点为多模型无缝切换与本地化部署。
-- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转为Anki闪卡，基于GPT-4生成内容并支持批量导出，高效提升学习效率。
-- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 使用户能在本地设备上运行大型语言模型，支持跨平台部署，采用轻量级 C++ 实现高效推理，核心亮点是无需云端依赖的开源、可商用本地化 LLM 推理能力。
-- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于多模态AI技术实现漫画自动翻译，支持多种格式与语言，融合OCR、文本检测、图像修复与神经机器翻译，提供端到端桌面化翻译体验。
-- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 提供本地化运行主流大模型（如 Llama3、Gemma 3、DeepSeek-R1 等）的轻量级工具，基于 Go 语言实现高效模型服务，支持一键部署与多模态扩展。
-- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 基于自然语言提问实现个人与工作文档的智能检索，通过RAG技术融合语义理解与文档索引，提升信息获取效率。
-- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的Markdown/JSON格式，支持高效数据提取与Agentic工作流集成，核心亮点为端到端结构化解析与语义增强。
-- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python的综合性PDF内容提取工具集，融合OCR、版面分析与结构化解析技术，支持多格式高保真内容还原，核心亮点为端到端自动化与高精度文本/表格提取。
-- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操控计算机，实现无需编写代码的自动化任务执行，基于大语言模型理解意图并调用系统工具。核心亮点是端到端的指令解析与执行闭环。
-- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 提供官方 MCP 协议集成，通过 Python SDK 实现与 Oxylabs 数据采集服务的无缝连接，支持 LLM 驱动的高效网页数据抓取，核心亮点为安全、可扩展的 AI 友好型数据获取能力。
-- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于Stable Diffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、绘画与写作的协同实验，展现AI在创意生成与开发辅助中的融合能力。
-- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 基于Jupyter Book构建的开源AI知识体系，系统梳理当前快速演进的开源AI生态，通过结构化内容与持续更新机制，为开发者提供清晰的技术导航与学习路径。
-- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器项目，聚焦AI代理与工具链的构建与集成，支持多模态交互与自动化任务执行，核心亮点在于统一生态与可扩展架构。
-- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐场景。
-- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统，通过检索增强生成实现精准问答，支持本地化部署与多模型接入，核心亮点为低延迟响应与可解释性检索结果。
-- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一个4小时的Jupyter Notebook编程工作坊，通过动手实践深入理解大语言模型的实现原理与应用方法，涵盖模型加载、推理、微调等核心环节，代码直观易上手。
-- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 本项目基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点在于教学式代码实现与可复现的完整训练 pipeline。
-- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 收录支持自定义API密钥的ChatGPT工具与应用，用户可自由接入个人额度实现免费用途，提升使用灵活性与成本可控性。
-- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - AgentGPT 通过浏览器可视化编排与部署自主 AI 代理，基于 TypeScript 与 LangChain 实现低代码配置，支持 OpenAI 等模型接入，核心亮点为开箱即用的代理构建与可扩展的工具链集成。
-- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是面向私有数据的 LLM 应用框架，通过结构化数据索引与检索增强生成（RAG）技术，构建高效、可扩展的 AI Agent。核心亮点在于对多源异构数据的统一接入与智能查询能力。
-- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - 提供Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，原生支持流式响应与错误处理，提升开发者集成效率。
-- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec将文本高效转化为向量表示，集成Word2Vec、Sentence-BERT等主流模型，支持多场景文本相似度计算，开箱即用，性能稳定。
-- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - One-API 是一款统一管理多模型 LLM API 的代理系统，通过单可执行文件与 Docker 一键部署，实现 OpenAI、Claude、Gemini 等主流模型的 API 统一接入与 key 管理，支持灵活分发与二次使用。
-- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - 基于PyTorch的端到端语音处理工具包，支持语音识别、语音分离、说话人辨识等任务，融合Transformer等深度学习模型，提供开箱即用的预训练模型与可复现的实验流程。
-- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型编程的框架，通过可微分编程与模块化设计，将提示工程转变为可训练的程序逻辑，提升 LLM 应用的可靠性与可复现性。
-- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的高保真歌声转换系统，利用PyTorch实现端到端音色迁移，支持低延迟实时语音转换，核心亮点为高自然度音质与轻量化模型部署。
-- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大语言模型提供代码生成、错误修复与智能补全，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与自动修复能力。
-- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需修改代码，通过Rust实现高效代理与协议适配，核心亮点是零侵入式集成与低延迟MCP服务部署。
-- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、可复用的音频处理模块。
-- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款开源免费的跨平台 AI 图像超分工具，基于 ESRGAN 模型实现图像高清化，支持 Linux、MacOS 和 Windows，通过 Electron 打包提供直观界面，显著提升低分辨率图像质量。
-- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI工具链与智能代理开发，集成了LLM调用、自动化任务编排与数据处理能力，通过模块化设计实现高效AI应用构建，核心亮点在于灵活可扩展的Agent架构与本地化部署支持。
-- **[voideditor/void](https://github.com/voideditor/void)** `TypeScript` - 基于TypeScript构建的开源VS Code编辑器增强工具，集成LLM能力实现代码智能补全与交互式开发，支持ChatGPT、Claude等主流模型，提供类Cursor的AI编程体验。
-- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是一个云原生向量数据库，支持向量搜索与结构化过滤结合，基于 HNSW 算法实现高效近似最近邻搜索，具备高可用与可扩展性。
-- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，核心亮点为轻量高效与跨平台兼容。
-- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全LLM助手，支持GPT-4、Gemini等多模型接入与Dify工作流编排，实现私有化部署的智能客服与个人助手。
-- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于 TypeScript 构建的音频转写与智能处理工具，支持高精度语音识别与结构化输出，核心亮点在于低延迟实时转写与多语言兼容性。
-- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建灵活可扩展的多模型统一推理框架，支持异构大模型调用与自动路由，提升AI工作流开发效率与部署灵活性。
-- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇集了众多AI编程工具的系统提示词、内部工具及开源模型，涵盖从代码生成到开发环境集成的完整链路，助力开发者高效构建AI增强型编程体验。
-- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - Real-ESRGAN 通过基于 PyTorch 的深度学习模型，实现通用图像与视频的超分辨率重建，针对 JPEG 压缩伪影与噪声进行优化，显著提升低质量图像的视觉质量。
-- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持多模型一键部署与推理，兼容主流开源模型，实现本地或云端高效运行。
-- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个连接数字人与大语言模型至业务系统的 MCP 框架，通过统一接口集成多模态数字人与 OpenAI 兼容模型，支持跨平台（PC/移动端/网页）部署与业务链路打通。核心亮点在于高适配性与低耦合架构。
-- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一套支持多款主流大模型训练的工具链，基于 Python 实现，集成 LoRA/QLoRA 等高效微调技术，可灵活部署于本地或云端，显著降低大模型训练门槛。
-- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书自动化生成，支持原文与译文同步排版，利用LLM进行高质量翻译与内容重构，核心亮点为端到端流程自动化与双语对照排版优化。
-- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，提供本地CPU/GPU环境下的训练与部署方案，支持LoRA微调与量化，实现高效中文大模型推理。核心亮点为全链条本地化、低资源适配与中文优化。
-- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本描述生成高质量图像，核心亮点为端侧高效运行与隐私保护。
-- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 该仓库聚焦MCP（Model Control Protocol）生态资源整理与工具支持，整合Claude、DeepSeek、Qwen等模型的MCP客户端与服务端实现，提供统一接入与开发指南，助力开发者快速构建模型协同应用。
-- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将文本、图像、网页等内容高效转换为结构化Markdown，支持多模态输入与LLM无缝集成，核心亮点是统一接口与高兼容性。
-- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - GPTCache 是面向大语言模型的语义缓存系统，通过向量相似度匹配实现高效缓存命中，无缝集成 LangChain 与 llama_index，显著降低 LLM 调用成本与延迟。
+- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 文献库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，提升研究效率。
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 该仓库提供基于 Pydantic v2 的结构化输出工具，用于规范 LLM 的函数调用与输出验证，提升 OpenAI 函数调用的可靠性与开发效率，核心亮点为类型安全与无缝集成。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成 Web 工具，通过可视化节点流程降低 AI 创作门槛，支持灵活工作流编排，实现高效、可复用的多模态内容生成。
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的Web图形界面，支持文生图、图生图、图像超分等功能，依托PyTorch与Gradio实现高效交互式生成，核心亮点为高度可扩展的插件生态与本地化部署能力。
+- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript开发实现用户友好的AI绘画流程。核心亮点为跨平台AI创作与专业设计工具的深度协同。
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - LiteLLM 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，兼容 OpenAI 格式，实现跨平台 LLM 调用与无缝切换，核心亮点为统一接口、自动路由与成本优化。
+- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文全文双语翻译，完整保留原版排版与数学公式，支持多引擎切换与多种使用方式，兼顾准确性与可读性。
+- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人身体、面部、手部和脚部关键点，基于深度学习与C++优化，支持多模态姿态估计，具有高精度与低延迟特性。
+- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过跨平台扩展实现网页内实时对话与内容生成，核心亮点为无感嵌入与多浏览器统一体验。
+- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI驱动的数据库客户端，支持多数据库类型，通过自然语言生成SQL，提升数据查询效率与易用性，核心亮点为高兼容性与智能SQL生成。
+- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 通过可视化管理界面实现 ComfyUI 自定义节点的安装、启用、禁用与卸载，集成插件中心与信息查看功能，提升工作流管理效率。
+- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - 基于JavaScript构建的LLM微调数据集生成工具，通过自动化标注与数据清洗流程，支持高效构建高质量训练数据，核心亮点为易用性与可扩展的Pipeline设计。
+- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，实现语音对话、图像生成、文档分析与多轮讨论的全链路AI助理，通过Go语言高效构建端到端服务。
+- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与上下文管理，具备高并发与低延迟特性。
+- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话微调模型，提供完整训练、推理、评测与部署教程，支持多种魔改权重与实用工具链，助力中文LLM快速落地。
+- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言语音驱动数字人表情与嘴型同步，核心亮点为低延迟、高自然度的语音驱动面部生成。
+- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个面向开源智能体的基础设施项目，基于 Python 构建，致力于打造无壁垒的 AI Agent 开发与协作平台，强调开放性与可扩展性，推动下一代自主智能体生态发展。
+- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 基于TypeScript构建MCP服务，将Figma设计稿布局信息结构化输出，赋能AI编码代理（如Cursor）实现设计到代码的精准转换，核心亮点为低延迟、高保真设计数据接口。
+- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的本地化通用知识库，支持文档解析、向量化存储与高效检索，实现私有化、低延迟的智能问答与信息提取。
+- **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** `Python` - LightRAG 提出一种简单高效的检索增强生成框架，通过轻量级知识图谱构建与优化检索策略，显著提升 LLM 问答的准确性和响应速度，核心亮点在于低延迟与高精度平衡。
+- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能 RAG 框架，支持多模态数据接入与检索增强生成，通过模块化设计实现高效知识融合与问答。核心亮点是统一处理文本、图像等多源异构数据。
+- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动实现影视级字幕切割、翻译、对齐与配音，融合语音克隆与多语言语义理解，支持多模态输入输出，达成Netflix级本地化体验。
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，通过标准化输出格式助力高效构建高质量训练数据集，支持图像、文本、语音等多模态标注任务。
+- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion模型的语义先验提升低质量图像细节重建能力，显著提升视觉质量与结构保真度。
+- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库系统整理了120+类 LLM 相关库，按类别分类便于快速查找与选型，助力 AI 工程师高效构建生成式 AI 应用。核心亮点为结构化归类与持续更新的生态导航。
+- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色对话与语音克隆，支持沉浸式视频交互，用户可与任意虚拟角色进行自然对话并生成动态口型同步视频。
+- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需后端即可在浏览器中直接调用 ChatGPT，通过轻量封装实现安全、高效的前端对话交互，核心亮点为完全客户端运行与 OpenAI API 的无缝集成。
+- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是由 Kwai-Kolors 团队开发的基于 Python 的多模态生成模型工具集，聚焦于图像与文本的高效协同生成，支持高保真图像生成与风格控制，核心亮点在于端到端的生成优化与轻量化部署能力。
+- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue的VSCode插件，集成AI Agent与LLM能力，为MCP开发者提供一体化开发支持，通过智能代码生成与上下文理解提升开发效率。
+- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于 PyTorch 与 Lightning 构建，支持高效分布式训练与推理优化，核心亮点为开箱即用的可扩展训练流水线与低资源部署能力。
+- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步兼容的调用接口，核心亮点是与Swift生态无缝集成且支持现代Swift语法。
+- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - 一个面向语言模型编程的Python库，提供结构化工具链支持提示工程与模型编排，提升LLM应用开发效率。核心亮点在于统一API抽象与可复用的提示模板机制。
+- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容的本地化桌面与 Docker AI 应用，基于 LLM 与向量数据库实现智能问答与自动化任务，支持多模型与多模态交互。
+- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，提升提示工程效率。核心亮点为拖拽式编辑、版本管理与多模型适配。
+- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - 基于Whisper模型的音视频转写工具，支持自定义模型、语言、任务及时间片段，通过调整束搜索参数实现精准转写，提升语音内容处理效率。
+- **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Python` - HippoRAG受人类长期记忆启发，结合RAG、知识图谱与个性化PageRank，实现大模型对多源外部文档的持续知识融合与动态更新，提升推理准确性与上下文连贯性。
+- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真场景，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的多智能体系统架构。
+- **[OpenMindClub/awesome-models](https://github.com/OpenMindClub/awesome-models)** `Unknown` - 该仓库汇集高质量大模型相关项目，涵盖模型开发、部署与应用，聚焦前沿技术整合与实践范例，助力开发者快速构建AI解决方案。
+- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python的已弃用推理引擎，用于高效运行大语言模型，支持模型部署与推理服务，核心亮点为轻量级架构与多模型兼容性。
+- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，聚焦图像生成与编辑任务，支持风格迁移、人脸修复、动作迁移、语音驱动表情合成等，采用轻量化模型与高效训练策略实现高质量生成。
+- **[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** `Python` - PaddlePaddle/PaddleSpeech 是一个功能全面的语音技术工具包，支持自监督学习、流式端到端语音识别与合成、说话人验证等，基于Transformer与Conformer架构实现高精度实时语音处理，荣获NAACL2022最佳演示奖。
+- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch等框架实现高鲁棒性视频抠图，支持多平台部署，通过深度学习模型精准分离前景与背景，兼具效率与精度。
+- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 是一个聚焦于简化 RAG 集成的开源框架，支持多 LLM、多向量库与多文件类型，通过灵活配置快速实现生成式 AI 功能嵌入应用，降低开发门槛。
+- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用GPT-SoVITS框架，结合VITS生成模型与GPT条件控制，支持快速、高保真语音合成。
+- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，利用RAG技术实现高效文档问答与知识检索，支持多格式数据接入与语义理解，核心亮点在于低延迟响应与可扩展的向量索引架构。
+- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与能效比。
+- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA AI模型的图像修复工具，利用Stable Diffusion与LaMa技术实现精准去物、缺陷修复与内容替换，支持高保真图像编辑。
+- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用（Tool Calls）上的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在真实 API 调用任务中的准确率与可靠性。
+- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 提供扩展插件支持，通过 Python 实现自动化任务编排与外部工具调用，核心亮点是模块化插件架构与与 LLM Agent 的深度集成。
+- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主智能体系统，基于大语言模型实现任务分解与自动化执行，支持多轮推理与工具调用，核心亮点在于无需人工干预的端到端自主工作流。
+- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境快速配置，核心亮点为零配置快速上线与跨平台兼容性。
+- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，实现AI自动生成PPT大纲并导出PPTX文件，支持多模板选择与在线生成，前端后端全开源。核心亮点为高效智能内容生成与无缝导出体验。
+- **[The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)** `Python` - PocketFlow 是一个百行代码内的轻量级 LLM 框架，支持 Agent 自生成与编排，基于流程化编程实现智能体自治与协作，核心亮点在于极简架构下的高扩展性与自演化能力。
+- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 通过CLI交互式调用小型语言模型生成3D文件，结合Go语言高效执行与轻量化推理，实现本地化、低资源的3D内容创作。核心亮点在于将LLM能力嵌入命令行工具链，提升设计效率。
+- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑工具，通过可拖拽的控制点实现精细的图像生成与编辑，支持风格保持与结构一致性，核心亮点为交互式、高精度的动态图像操控。
+- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于LLM的自主智能体，通过RESTful API实现对真实应用的自动化控制，具备任务规划、API调用与状态管理能力，核心亮点是端到端的闭环执行与动态推理决策。
+- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方部署，支持稳定扩散工作流中高效精准的背景移除，核心亮点为轻量化集成与可视化节点化操作。
+- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高效证件照生成与背景分割，结合FastAPI与Gradio提供可视化工具，支持多场景快速部署。
+- **[Zz-ww/SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)** `Python` - 基于SadTalker与Wav2Lip实现语音驱动的视频唇形合成，结合DAIN插帧技术提升动作流畅度，支持面部区域可配置增强，显著提升生成唇形的清晰度与自然度。
+- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A协议构建开放通信框架，实现异构智能体间无缝互操作，基于TypeScript实现跨平台、低耦合的Agent间协作，核心亮点为标准化接口与去中心化通信机制。
+- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 封装与命令行工具，支持 gpt-3.5-turbo 等模型调用，实现无需官方 API 密钥的本地化交互，核心亮点为开源可扩展与跨平台兼容。
+- **[adap/flower](https://github.com/adap/flower)** `Python` - Flower 是一个面向联邦学习的轻量级框架，支持跨设备、跨平台的分布式模型训练，基于 Python 与 gRPC 构建，兼容 PyTorch、TensorFlow 等主流深度学习框架，核心亮点是易集成、高可扩展性与隐私保护。
+- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似度对文本进行分块与分组的Python库，利用嵌入向量实现高效语义聚类，支持灵活的相似度阈值与自定义嵌入模型。核心亮点是轻量级设计与高可扩展性。
+- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业级私有数据问答系统，通过RAG架构融合Azure OpenAI与Cognitive Search，支持快速上传文档并实现自然语言交互，核心亮点为低代码部署与多源数据向量化检索。
+- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - Anthropic Skills 是一个面向 AI 工具链的公共仓库，提供可复用的 Python 模块，用于构建基于 Anthropic 模型的智能应用，支持任务分解、工具调用与上下文管理，核心亮点是与 Claude 系列模型深度集成的标准化技能接口。
+- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 基于 Shell 脚本实现 LLM 排序优化的轻量级工具，通过动态提示工程与反馈循环提升大模型输出质量，核心亮点为无需复杂框架即可集成至现有工作流。
+- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化协议连接 AI Agent 与海量网页自动化工具，实现对社交媒体、电商等复杂网站的数据自动提取，核心亮点在于开箱即用的可组合爬虫生态与高效 Agent 协作能力。
+- **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** `Python` - 基于Python构建的私有AI平台，支持智能代理构建、深度文档分析与多模型集成，通过RAG与Agent架构实现企业级知识检索与自动化决策。
+- **[asinghcsu/AgenticRAG-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)** `Unknown` - 该仓库探索基于AI智能体的高级检索增强生成系统，通过多智能体协作与反思机制提升问答与决策能力，实现更精准、动态的知识应用。
+- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch实现5秒内快速克隆声音并实时生成任意语音内容，支持高保真语音合成，核心技术为端到端TTS与轻量化声学建模。
+- **[bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)** `Python` - 基于BitTorrent协议实现大模型分布式推理与微调，利用志愿者计算资源加速LLM部署，支持Bloom、Llama、Falcon等主流模型，显著提升本地化推理效率。
+- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 为大语言模型提供面向学术场景的实用化交互接口，支持论文阅读、润色、写作及多语言翻译，模块化设计并兼容本地与云端多种LLM，提升科研效率。
+- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将epub/kindle等格式书籍一键翻译至目标语言，通过Python实现无缝集成与批量处理，核心亮点为多引擎切换与格式保持。
+- **[botpress/botpress](https://github.com/botpress/botpress)** `TypeScript` - Botpress 是开源的 GPT/LLM 代理构建与部署平台，基于 TypeScript 构建，支持可视化编排与多模型集成，核心亮点为低代码 Agent 开发与高效的对话生命周期管理。
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动主导的开源深度研究框架，融合 LLM 与多工具链（搜索、爬虫、Python 执行），通过可编排的智能体工作流实现自动化深度研究，核心亮点在于社区驱动的 agentic workflow 设计与多工具协同能力。
+- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好型桌面客户端，集成GPT、Claude、Gemini、Ollama等多模型，支持本地与云端推理，提供统一对话界面与高效交互体验。
+- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - Chathub 是基于 TypeScript 构建的全功能聊天机器人客户端，支持浏览器扩展与 React 架构，整合多平台 AI 对话能力，提供统一交互入口与高效对话体验。
+- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 使用 OpenAI Whisper 实现音频离线转录与翻译，全程在本地运行，保障隐私安全，支持多语言处理，响应快速高效。
+- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与嵌入向量存储设计，支持高效向量相似性搜索与灵活的元数据管理，核心亮点在于高性能、低延迟与原生 Rust 安全性。
+- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT 通过深度集成 API 调用能力，赋予 ChatGPT 实时联网与工具执行能力，支持动态推理与外部交互，实现类 NewBing 的智能代理体验。
+- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型支持，自动分析Paperless-ngx文档并智能打标，实现文档智能化管理与检索。
+- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI的LLM实现事件抽取与信息抽取的在线工具，支持零样本学习，可本地部署运行，适用于非结构化文本中的关键事件与关系提取。
+- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型图形化界面与后端，通过模块化节点实现高效、灵活的文生图、图生图等生成任务，支持 Python/PyTorch 生态，具备高度可定制性与可扩展性。
+- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个开源 AI 增强框架，通过模块化 AI 提示库赋能人类高效解决问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链。
+- **[databricks/dbrx](https://github.com/databricks/dbrx)** `Python` - 提供DBRX大语言模型的代码示例与资源，支持模型推理与训练，聚焦生成式AI应用开发，核心亮点为开箱即用的LLM集成与优化推理路径。
+- **[dataelement/bisheng](https://github.com/dataelement/bisheng)** `TypeScript` - BISHENG 是面向企业级的开源大模型 DevOps 平台，通过统一模型管理、GenAI 工作流编排与 RAG 集成，实现 LLM 应用的高效研发与部署，支持 SFT、评测与可观测性。
+- **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** `Python` - 本教程系统讲解智能体原理与实践，通过Python实现从单智能体到多智能体系统的构建，结合LLM与工具调用，帮助开发者掌握智能体核心能力。
+- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于多框架支持的2D/3D人脸分析项目，融合RetinaFace检测、ArcFace特征提取与人脸对齐技术，实现高精度人脸识别与年龄估计，支持PyTorch/MXNet/OneFlow/PaddlePaddle等生态。
+- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个基于 CUDA 的高效专家并行通信库，通过优化跨设备专家路由与通信，显著提升大规模模型推理的并行效率，核心亮点在于低延迟、高吞吐的专家间通信机制。
+- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款大规模语言模型，基于 Python 实现，支持高效推理与部署，具备强大的文本生成与理解能力，核心亮点在于优化的架构设计与开源生态兼容性。
+- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口实现高效调用，核心亮点在于开箱即用的集成方案与广泛的生态兼容性。
+- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是基于 PyTorch 的深度学习优化库，通过 ZeRO、模型并行、流水线并行等技术实现千亿乃至万亿参数模型的高效训练与推理，显著降低显存占用与通信开销。
+- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈搜索与智能推荐平台，融合向量检索、RAG、实时分析能力，通过 API 提供高效、低延迟的智能查询服务，核心亮点为高性能向量搜索与端到端 RAG 支持。
+- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于Next.js与T3 Stack构建的在线开源API分词工具，支持OpenAI等模型的token计数与文本分析，提供实时交互式体验，核心亮点为精准分词与低延迟响应。
+- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于生成式高斯点云技术，实现从2D图像或文本高效生成3D内容，通过可微分渲染与分布建模提升生成质量与效率，支持高保真、轻量级3D资产创建。
+- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 开源AI虚拟人工具包，支持离线视频生成与数字人克隆，基于多模态AI技术实现语音、表情、动作同步，无需依赖云端服务。
+- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库汇集GPT-3相关优质项目与资源，涵盖模型应用、工具链及开发实践，助力开发者快速构建基于GPT-3的AI应用。核心亮点为生态整合与实战导向。
+- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、说话人辨认等任务，采用统一架构实现多场景语音处理，核心亮点是模块化设计与高可复用性。
+- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的 ML 与 LLM 可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
+- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现结构化管理与调用，提升提示工程效率与复用性。核心亮点为可直接集成的提示模板库与开发者友好设计。
+- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - 提供SAM 2模型的推理代码、预训练权重下载及交互式示例，支持高效图像分割，核心亮点为零样本泛化与高精度掩码生成。
+- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型下载链接及使用示例，支持零样本图像分割，通过提示（prompt）实现高效精准分割，核心亮点为通用性强、部署便捷。
+- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等全链路NLP能力，基于Python构建一站式中文NLP工具库，支持多场景快速落地。
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 将整个网站转化为 LLM 友好的 Markdown 或结构化数据，通过智能爬取与语义解析，实现高效网页内容提取与结构化输出，核心亮点在于对复杂网页的高保真内容还原与 AI 友好的数据格式转换。
+- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低资源部署，采用ggml张量计算库，支持多种LLM模型本地运行，核心亮点为极致性能与跨平台兼容性。
+- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码平台构建定制化LLM智能体，支持可视化流程编排与语义搜索集成，快速实现对话式AI应用落地。
+- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 基于Python的代码驱动框架，用于构建、评估与部署复杂AI代理，支持多代理协作与灵活控制，具备高可扩展性与开箱即用的开发体验。
+- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的开发与运行，基于Python实现灵活可扩展的自动化流程。核心亮点在于模块化设计与流程编排能力。
+- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol构建的Excel智能服务端，通过LLM+Tool Calling实现自然语言驱动的Excel自动化操作，支持流式响应与标准输入输出，提升数据处理效率。
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于大模型一键生成高清短视频，集成Python生态工具链，实现从文本到视频的自动化创作，核心亮点为全流程自动化与高质量输出。
+- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 该仓库专注于提示词优化的从零实现，通过Python构建可复用的提示工程框架，支持动态优化、A/B测试与评估，提升LLM输出质量与一致性，核心亮点为模块化设计与轻量级部署。
+- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术实现ChatGLM-6B的高效微调，支持LoRA与QLoRA，显著降低显存消耗并提升训练效率，便于在消费级硬件上部署定制化对话模型。
+- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大语言模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流方法，兼容LLaMA、Gemma、Qwen、DeepSeek等多架构，提升训练效率与资源利用率。
+- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型无代码构建、丰富与转换数据集，利用TypeScript实现高效数据处理流程，核心亮点为集成LLM能力与低代码交互。
+- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，专为构建“以代码思考”的 AI Agent 设计，通过简洁的 API 实现 Agent 的规划、工具调用与执行循环，核心亮点在于极简架构与代码化决策逻辑。
+- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 基于Rust实现的高性能分词器，支持BERT、GPT等主流模型，兼顾研究与生产需求，通过零拷贝与内存优化实现极致速度。
+- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 该仓库整理了ChatGPT与GPT-3相关的优质工具、演示项目与文档资源，为开发者提供一站式学习与开发参考，核心亮点在于内容高度精选且持续更新。
+- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与检索增强生成技术，实现高效文档理解与上下文构建，核心亮点为支持复杂工作流与多模态知识融合。
+- **[intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode)** `Swift` - 为Xcode提供集成式AI编码辅助，支持GitHub Copilot、Codeium与ChatGPT，通过Swift实现原生扩展，实现实时代码补全与生成，核心亮点是多模型无缝切换与原生IDE深度集成。
+- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - Ivy-LLC/ivy 实现 PyTorch、TensorFlow、JAX、NumPy 等主流框架间的机器学习代码自动转换，基于统一抽象层实现跨框架兼容性，核心亮点是零运行时开销的框架无关代码生成。
+- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇聚本地化运行的AI工具，支持离线部署与隐私保护，提供模型推理、工具集成与开发支持，核心亮点为全栈本地AI生态聚合与社区驱动维护。
+- **[jina-ai/finetuner](https://github.com/jina-ai/finetuner)** `Python` - 基于BERT、CLIP等预训练模型，实现任务导向的嵌入微调，采用三元组损失与负采样技术提升相似性学习效果，支持少样本场景下的高效嵌入优化。
+- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过前置代理URL实现任意网页内容结构化提取，支持LLM直接解析，核心技术为智能网页解析与语义压缩，核心亮点是零代码接入、高兼容性与低延迟响应。
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT从零训练，2小时内完成，采用轻量级架构与高效优化策略，显著降低大模型训练门槛。
+- **[jlowin/fastmcp](https://github.com/jlowin/fastmcp)** `Python` - 基于Python的高效MCP协议实现，支持快速构建AI服务端与客户端，提供简洁API与高性能通信，核心亮点为轻量级、Pythonic设计与对LLM生态的无缝集成。
+- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库系统整理了主流机器学习框架、库与软件，聚焦Python生态，按功能分类提供高质量资源导航，助力开发者快速发现与评估工具。核心亮点为持续更新、社区驱动与分类清晰。
+- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python实现跨框架/语言的代码自动迁移，利用语法分析与模式匹配技术，高效转换代码结构，显著降低迁移成本与出错率。
+- **[jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** `Unknown` - 聚焦前沿检索增强生成（RAG）技术，系统梳理LLM在知识检索与生成中的创新方法，涵盖嵌入模型、检索策略与融合架构，助力提升生成准确性与可解释性。
+- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零构建神经网络，结合理论推导与代码实现，系统讲解深度学习核心原理，核心亮点是手写反向传播与动态计算图直观演示。
+- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统与大语言模型，将自然语言需求自动转化为可运行代码，无缝集成DevOps工具链，支持多语言扩展与现有代码迭代。核心亮点为端到端自动化与跨语言兼容性。
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 是一个面向前沿大模型推理优化的灵活框架，通过动态KV缓存管理与高效推理调度，显著提升LLM推理吞吐与延迟性能，支持多种优化策略的插拔式集成。
+- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 该仓库整理了基于 LangChain 框架的各类优质工具与项目，涵盖模型集成、应用开发与工程实践，助力开发者快速构建 LLM 驱动的智能应用。核心亮点是生态整合与实战案例汇聚。
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** `Python` - LangChain 是一个开源框架，用于构建基于大语言模型的智能代理（AI Agents），支持多步骤推理、工具调用与外部数据集成，核心亮点在于模块化设计与对主流 LLM 的无缝适配。
+- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试和部署基于大语言模型的 AI 工作流与多智能体系统，支持模块化组件编排与实时交互。
+- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化提示词与元提示词框架，通过可复用的提示模板体系赋能用户高效设计高质量提示，助力 AI 交互提效。
+- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2实现175B大模型在18GB显存下全参数微调，基于零阶优化与显存分片技术，突破GPU显存瓶颈，显著降低大模型定制化门槛。
+- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 实现对扩散模型的精细控制，通过引入额外条件输入（如边缘图、姿态图）引导生成过程，显著提升生成图像的可控性与一致性。核心亮点在于无需微调即可实现高精度控制。
+- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源平台，用于大语言模型的训练、推理服务与评估，支持 Vicuna 等模型的快速部署与评测，提供高效推理框架与多模型对比能力，核心亮点为开箱即用的模型服务与社区驱动的评测生态。
+- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch实现Google DeepMind的AlphaFold 3，采用注意力机制与去噪扩散模型，精准预测蛋白质结构及复合物构象，支持多模态生物分子建模。
+- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库精选并每周更新顶级机器学习Python库，按类别与评分排序，助力开发者高效发现优质工具。核心亮点为权威性与持续维护的高质量资源聚合。
+- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 实现高精度语音识别并生成词级时间戳与说话人分离，基于 Whisper 模型改进，融合轻量级 diarization 与时间对齐算法，显著提升语音转写细节与可读性。
+- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉定位技术实现多模态大模型的视觉接地，提升图像与文本的对齐能力，基于 Python 构建高效视觉-语言对齐框架，核心亮点在于精准的跨模态语义对齐与可扩展的视觉感知模块。
+- **[meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)** `Jupyter Notebook` - Llama Cookbook 提供基于 Llama 模型系列的完整实践指南，通过 Jupyter Notebook 演示推理、微调与 RAG 实现，覆盖主流云服务部署，助力开发者快速构建 LLM 应用。
+- **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` - JARVIS 是一个连接大语言模型与机器学习社区的系统，通过标准化接口整合 LLM 与 ML 工具链，支持模型协作、任务编排与可复现实验，核心亮点在于统一的 Agent 协作框架与开放的插件生态。
+- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个面向智能体（Agent）编程的框架，支持多智能体协作与自动化工作流，通过 LLM 驱动的对话机制实现复杂任务分解与执行，核心亮点在于灵活的智能体编排与可扩展的工具集成能力。
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 基于Python的文档转换工具，支持将Office文件及PDF等格式高效转为Markdown，融合OpenAI与LangChain能力，实现结构化内容提取与语义优化。
+- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一个开源敏感数据保护框架，通过 NLP、规则匹配和可定制流水线，实现文本、图像和结构化数据中的 PII 检测、脱敏与匿名化，支持多模态数据处理。
+- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，专为 LLM 和多模态应用中的向量相似性检索设计。
+- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - 提供MLX框架下的机器学习示例代码，涵盖模型训练、推理与部署，基于Python实现高效轻量级AI应用，核心亮点为端到端流程完整、代码简洁易懂。
+- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - MLC-LLM 是一个基于 TVM 编译的通用大语言模型部署引擎，通过模型编译优化实现跨平台高效推理，支持多种 LLM 架构与硬件部署。核心亮点为极致性能与低资源占用。
+- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** `Python` - MLflow 是开源的 AI/LLM 应用构建平台，支持模型全生命周期管理，通过统一跟踪、可观测性与评估能力，赋能团队高效构建与治理 AI 应用。
+- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档问答与精准引用，通过向量检索与LLM融合提升答案准确性，支持多格式文档高效解析与即时溯源。
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 该仓库提供基于 TypeScript 的模型上下文协议服务器，用于统一管理 LLM 推理中的上下文交互与状态，支持高效、可扩展的模型服务部署，核心亮点为标准化上下文传递与跨系统兼容性。
+- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端的高质量语音修复与优化能力。
+- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - 基于PyTorch的端到端语音识别工具包，支持Paraformer、Conformer等SOTA模型，提供语音识别、VAD、标点恢复等能力，开箱即用且可定制化。
+- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，支持从人脸数据采集到高保真数字人建模的自动化生成，核心亮点在于一键式部署与可复现的训练流程。
+- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参数微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成Liger Kernel等高效训练优化技术。
+- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 基于Jupyter Notebook构建的GPT提示工程实践库，系统化整理高质量提示模板与优化方法，支持快速实验与复用，核心亮点在于模块化设计与真实场景案例集成。
+- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是基于 Flutter 的全功能 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 图像生成能力，支持文生图、图生图、超分与上色，提供一体化 AI 创作体验。
+- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持私有化部署与离线使用，核心亮点是低延迟响应与数据隐私保障。
+- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是一款跨平台桌面 AI 助手，支持主流大模型服务与本地知识库，通过 Model Context Protocol（MCP）实现工具与上下文协同，提升本地化 AI 交互效率。
+- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建模型上下文协议（MCP）服务，通过图数据库高效管理AI模型的上下文与依赖关系，支持动态推理与知识关联，核心亮点为结构化上下文与可追溯的模型交互。
+- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于多种AI提供商（如OpenAI、Anthropic、Hugging Face）的文本生成插件，为Obsidian用户提供一键生成内容能力，支持本地与云端模型，提升知识管理与写作效率。
+- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 旨在实现本地化运行大语言模型，支持跨设备部署，采用开源架构并兼容商业使用，通过轻量化推理引擎实现高效本地运行。
+- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 该仓库为独立开发者提供基于AI的全栈技术栈，融合MDX文档与AI工具链，实现高效内容生成与知识管理，核心亮点是可复用的AI工作流模板与轻量级部署方案。
+- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于深度学习与计算机视觉技术，实现漫画多格式自动翻译，支持图像、PDF、EPUB等格式的文本检测、分割、翻译与修复，全流程自动化。
+- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 是一个本地化大模型运行框架，支持 GPT-OSS、DeepSeek-R1、Gemma 3 等主流 LLM，通过 Go 语言实现高效部署与推理，提供简洁 CLI 与 REST API，开箱即用。
+- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的markdown/json格式，支持智能Agent工作流，提升文档数据化效率。
+- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python构建的高精度PDF内容提取工具集，融合文本、表格、图像多模态解析与结构化输出，支持复杂版式智能识别与质量优化。
+- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操作计算机，实现用户用口语指令执行代码、文件操作与系统交互，核心亮点是端到端的代码生成与安全执行能力。
+- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 是基于 Model Context Protocol 的官方集成，通过 Python API 实现高效数据采集与 LLM 交互，支持电商爬取与上下文注入，核心亮点为无缝对接 LLM 与真实网络数据源。
+- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于StableDiffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、写作与图像生成的协同实验，展现AI在创意与开发中的融合应用。
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器资源，提供可扩展的AI服务基础设施，支持多模态与智能代理协同，核心亮点在于统一接入标准与生态兼容性。
+- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐。
+- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统Web界面，通过LangChain与Ollama集成实现高效知识检索与生成，支持本地化部署与实时交互。
+- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一场4小时的Jupyter Notebook编程工作坊，通过实战代码深入理解大语言模型的实现原理与使用方法，涵盖模型加载、推理、微调等核心环节，核心亮点是理论与代码高度融合的渐进式教学。
+- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点为完整可复现的端到端教学实践。
+- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 该仓库精选使用ChatGPT API的工具与应用，支持用户配置自定义API密钥，实现个人额度的自由、按需调用，提升使用灵活性与成本可控性。
+- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** `Python` - LlamaIndex 是用于构建基于私有数据的 LLM 代理框架，通过结构化数据接入与检索增强生成（RAG）技术，实现高效知识问答与智能决策。
+- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，提供流式响应与高效接口封装，核心亮点为高兼容性与低延迟通信。
+- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec 是一款开箱即用的文本向量表征工具，支持 Word2Vec、Sentence-BERT、CoSENT 等多种模型，将文本高效转化为向量矩阵，实现高精度文本相似度计算。
+- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - 统一管理多模型LLM API，支持一键部署与key分发，通过单可执行文件与Docker实现开箱即用，兼容主流大模型接口。
+- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - SpeechBrain 是基于 PyTorch 的端到端语音处理工具包，支持语音识别、说话人识别、语音增强与分离等任务，采用模块化设计与预训练模型，显著降低语音AI研发门槛。
+- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型的编程框架，通过可训练的程序化结构替代提示工程，实现高效、可复现的 LLM 应用开发，核心亮点在于将提示设计转化为可优化的代码模块。
+- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的开源歌声转换模型，利用PyTorch实现端到端的音色迁移，支持高保真语音合成与风格迁移，核心亮点为低延迟推理与多风格适配能力。
+- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大模型实现智能代码生成、修复与搜索，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与即时反馈。
+- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需代码改动，基于Rust实现高性能代理与协议适配，核心亮点是零侵入式接入与低延迟通信。
+- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、模块化音频处理能力。
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据采集工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点为与大模型无缝集成、低代码配置和高效内容抽取。
+- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款免费开源的 AI 图像超分工具，基于 ESRGAN 模型实现跨平台（Windows/macOS/Linux）高清图像放大，支持 GPU 加速与本地运行，核心亮点为无依赖、高性能与隐私保护。
+- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI项目集成与工具链构建，涵盖LLM应用开发、自动化工作流及数据处理流水线，通过模块化设计提升AI工程化效率，核心亮点在于开箱即用的API封装与可扩展架构。
+- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过结构化任务分解与工具调用实现复杂任务自动化，核心亮点在于可插拔的 Agent 架构与多工具协同执行能力。
+- **[voideditor/void](https://github.com/voideditor/void)** `TypeScript` - 基于TypeScript的开源VS Code编辑器扩展，集成LLM能力实现智能代码生成与交互式开发，支持ChatGPT、Claude等模型接入，提供类Copilot的实时辅助体验。
+- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是基于 Go 语言的开源向量数据库，支持向量与结构化数据混合存储，融合近似最近邻搜索与语义检索，提供高可用、可扩展的云原生搜索能力。
+- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，适用于专业音频处理场景。
+- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全AI助手，支持GPT-4、Gemini、DeepSeek等多模型接入及Dify工作流，实现私有化部署的智能客服与个人助理，保障数据安全。
+- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于TypeScript构建的音频转写工具，支持实时音频流处理与高精度语音识别，集成AI模型实现多语言、多方言识别，具备低延迟与高可扩展性。
+- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建轻量级工作流引擎，支持多模型统一接口调用与灵活编排，实现高效 LLM 调用与任务自动化，核心亮点为低代码化流程配置与跨模型兼容性。
+- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇聚多个开源AI开发工具的系统提示、内部工具与模型，聚焦AI辅助编程与开发效率提升，通过标准化提示工程与可复用组件加速AI原生开发。
+- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持本地/云端部署任意开源 LLM，通过单行代码实现模型切换与高效推理，兼容 llama3、qwen、mistral 等主流模型。
+- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个面向数字人与大语言模型的 MCP 框架，通过统一接口连接多端（PC/移动/网页）与业务系统，支持 2.5D/3D 数字人及 OpenAI 兼容模型，实现跨平台智能交互。核心亮点在于高兼容性与低接入成本。
+- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一款支持多款主流大模型训练的工具，基于 Python 实现，集成 LoRA、QLoRA 等高效微调技术，支持 Qwen、Llama3、Mistral 等 20+ 模型的训练与部署。核心亮点为统一接口、高效训练与广泛模型兼容。
+- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书的自动化生成，通过Python脚本调用翻译模型将单语内容转换为双语对照格式，支持多语言适配与排版优化，核心亮点在于端到端流程简化与高质量翻译融合。
+- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，支持本地CPU/GPU部署与LoRA微调，实现高效低门槛的中文大语言模型训练与推理，融合量化技术降低部署成本。
+- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本提示生成高质量图像，核心亮点在于端到端本地运行与流畅的移动端体验。
+- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 汇集MCP生态核心资源与工具链，提供Claude、DeepSeek、Qwen等主流模型的MCP服务端与客户端支持，构建统一开发与部署指南，助力AI Agent高效集成与协同。
+- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将任意输入（如图片、文档、网页）通过AI模型转换为结构化Markdown，支持多模态输入与标准化输出，核心亮点为跨源内容统一转换能力。
+- **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** `Python` - 基于语义缓存技术加速LLM响应，通过向量相似度匹配实现高效记忆复用，与LangChain和LlamaIndex深度集成，显著降低推理延迟与成本。
 
 ## Multimodal & Digital Humans
 
-*103 个项目*
+*101 个项目*
 
-- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、音效与虚拟人物口型同步的生成与理解，基于大模型实现多模态语音内容创作，支持高保真语音合成与Talking Head动画驱动。
-- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像中特定元素，融合多模态理解与生成能力，核心亮点为高精度语义对齐与上下文感知的替换效果。
-- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI构建全栈应用，实现高效内容创作。核心亮点为自动化视频合成与自然语言驱动的动画生成。
-- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控的大型生成模型，用于创建高质量3D资产。基于扩散模型与多模态条件控制，支持文本、图像到3D内容的高保真生成，具备精细几何与材质建模能力。
-- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，打造支持语音对话、多模态内容生成与表格分析的AI助手，通过Go语言实现高效服务部署，提升办公效率。
-- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华大学联合研发的多语言多任务自动语音识别模型，采用端到端训练技术，支持高精度跨语言语音转写与多任务处理，核心亮点在于统一架构下的多语言泛化能力与低延迟推理性能。
-- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言与表情细节还原，核心亮点为低延迟、高自然度的数字人驱动。
-- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - 基于Conformer架构的开源工业级语音识别模型，支持普通话、方言及英文，兼具高精度语音与歌词识别能力，采用端到端训练与多语言融合策略实现SOTA性能。
-- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大模型的语音生成系统，支持文本到语音、语音克隆与跨语言合成，提供训练、推理与部署全栈能力，实现高自然度、细粒度控制的语音生成。
-- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一款多语言语音理解模型，基于 PyTorch 实现，支持多语言 ASR、语音情感识别与语音事件分类，具备跨语言泛化能力，适用于复杂语音场景的高精度理解。
-- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能的多模态 RAG 框架，支持文本、图像等多源数据的检索增强生成，通过统一接口实现高效知识融合与生成。核心亮点在于开箱即用的多模态支持与灵活可扩展的流水线设计。
-- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - StoryDiffusion 通过多模态扩散模型与叙事结构建模，实现高质量故事生成与视觉化呈现，结合 Jupyter Notebook 交互式环境，支持可控、连贯的文本-图像协同创作，核心亮点在于叙事一致性与跨模态语义对齐。
-- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，聚焦AI驱动的虚拟形象对话系统，融合多模态交互与个性化生成，实现自然流畅的数字人对话体验，核心亮点在于端到端的Avatar行为建模与上下文感知对话引擎。
-- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性与可控性动画生成，基于多帧时序建模与姿态引导机制，支持复杂动作还原与风格保持。
-- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，在弱条件（如低质量输入、有限数据）下生成高表达力的动态人像视频，实现从音频到生动人脸动画的端到端生成。
-- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - 基于DINO与接地预训练融合，实现开放集目标检测，通过视觉-语言Transformer建模跨模态语义对齐，提升模型泛化能力与零样本迁移性能。
-- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion的生成能力提升低质量图像细节，显著改善现实场景下的图像质量，核心亮点为扩散先验与超分任务的深度融合。
-- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 基于Gemini-2.5-Flash-Image（Nano Banana）生成与编辑图像的精选视觉内容库，通过JavaScript实现高效展示与交互，突出Google前沿多模态生成能力。
-- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步生成与全景图像对齐的扩散模型，实现高保真文本到全景图像生成。采用Jupyter Notebook形式提供完整训练与推理流程，支持跨帧一致性控制。
-- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 是基于 LLM 与视觉模型融合的数字人对话系统，结合 Whisper 语音识别、SadTalker 面部动画生成与多模态交互技术，实现自然流畅的虚拟人物实时对话。核心亮点为高拟真度数字人语音驱动与多模态协同交互。
-- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色语音克隆与视频对话，支持多角色沉浸式交互，通过声音克隆技术还原角色语音特征，打造拟真数字人对话体验。
-- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是一个基于 Python 的 AI 图像生成与风格化工具库，聚焦于多模态内容创作，支持高效模型推理与风格迁移，具备可扩展的生成框架与轻量化部署能力。
-- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人脸动态驱动，通过输入静态人像与驱动视频，生成高保真动态人脸视频，核心亮点为自然的表情迁移与流畅的运动捕捉。
-- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LargeWorldModel/LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模与理解，采用高效序列压缩与跨模态对齐技术，突破传统模型上下文瓶颈。
-- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是基于 TensorFlow 的官方实现，通过改进生成对抗网络架构，实现高质量、高分辨率图像生成，核心亮点在于解耦噪声注入与梯度路径优化，显著提升生成图像的稳定性和细节清晰度。
-- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI 生成理想中的房间效果图，融合图像理解与生成技术，实现直观、高效的室内设计创意表达。
-- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化实现端侧部署。
-- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT等多模态大模型，实现视频理解与自然语言交互，支持视频问答、字幕生成与多语言模型接入，通过Gradio提供交互界面。
-- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - SadTalker实现基于单张图像的音频驱动真人说话头像动画，通过学习真实3D运动系数，生成自然流畅的面部表情与动作，显著提升视觉真实感。
-- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇形同步，利用端到端深度学习模型在真实场景下精准匹配口型与语音，支持自由编辑与自然生成。核心亮点为高保真口型对齐与强泛化能力。
-- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，支持图像修复、风格迁移、人脸动画迁移、音视频同步唇动生成等多样化应用，采用先进的 GAN 架构与轻量化设计，实现高质量图像与视频生成。
-- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，结合多模态建模与时序生成技术，实现自然协同的口型同步与肢体动作表达，核心亮点在于高保真动态呈现与端到端流畅控制。
-- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成连贯、动态且可扩展的长视频，采用流式生成架构与时空一致性建模，显著提升长视频生成质量与效率。
-- **[Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)** `Python` - 基于文本到图像扩散模型实现零样本视频生成，通过时序一致性建模将静态图像生成扩展为动态视频，无需额外训练。核心亮点在于无需微调即可生成高质量连贯视频。
-- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到口型生成，仅需一个唇动专家模型即可在复杂真实场景中生成自然口型同步效果，采用端到端训练与注意力机制优化时序对齐。
-- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建实时互动AI角色，支持跨平台（移动端/网页/终端）自然对话，集成语音识别与合成，实现高度个性化的AI伴侣体验。
-- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升训练与推理效率，支持文本到图像、图像修复等任务，核心亮点为生成质量高且计算资源需求较低。
-- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频化多模态解释，提升 LLM 对数学定理的理解能力，结合 Manim 动画生成与 RAG 机制实现动态推理过程可视化，核心亮点在于将抽象证明转化为可理解的动态视频。
-- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯混元大模型系列的多语言文本处理模型，基于 Python 构建，支持高效多语言生成与理解，采用大规模预训练与持续优化技术，核心亮点在于跨语言语义对齐与低延迟推理能力。
-- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型一键生成，核心亮点为跨模态对齐与端到端可微分建模。
-- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是一款基于扩散 Transformer 的多分辨率生成模型，具备细粒度中文理解能力，通过 Jupyter Notebook 提供交互式开发与推理能力，支持高精度图像生成与语义对齐。
-- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作手机应用，通过视觉理解与自然语言交互实现自动化任务执行，核心亮点为端到端的跨应用协作与上下文感知决策。
-- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一架构支持场景理解与动作规划。
-- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte基于潜空间扩散Transformer架构，实现高效视频生成，通过时空建模与高效采样策略，在保持高分辨率与时序连贯性的同时显著降低计算成本。
-- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及其升级版 MiniGPT-v2 是基于大语言模型与视觉编码器的多模态对话系统，通过对比学习对齐图文表征，实现高质量图像理解与自然语言交互，支持端到端训练与推理。核心亮点是轻量化架构与高性价比性能表现。
-- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于 CVPR 2024 论文，实现高保真音频驱动的人脸生成，通过精细化时序同步机制提升口型与语音的一致性，显著改善真实感与自然度。
-- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语种语音训练的开源文生语音模型，采用高效架构实现高自然度与情感表达，性能媲美甚至超越主流商用TTS服务。
+- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、声音与虚拟人物口型同步的生成与理解，基于多模态大模型实现跨模态语义对齐，核心亮点为端到端 Talking Head 生成与自然语言驱动的音视频合成。
+- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像元素，融合生成模型与图像理解能力，具备高精度语义对齐与视觉一致性保持。
+- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI实现前后端协同，利用多模态技术实现自然语言驱动的动态内容生成。
+- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控制的大规模生成模型，用于创建高质量3D资产。基于生成式AI技术，支持文本、图像等多模态输入，实现高保真、可控的3D内容生成，核心亮点在于生成质量与控制精度的平衡。
+- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言语音驱动数字人表情与嘴型同步，核心亮点为低延迟、高自然度的语音驱动面部生成。
+- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - FireRedASR 是开源工业级语音识别模型，基于 Conformer 架构支持普通话、方言及英语，兼具高精度语音与歌词识别能力，在公开基准上达 SOTA 水平。
+- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一个支持多语言的语音理解模型，基于 PyTorch 实现，具备语音识别、情感识别与语音事件分类能力，支持跨语言语音理解，可高效处理多语种语音输入。
+- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** `Python` - RAG-Anything 是一个全功能 RAG 框架，支持多模态数据接入与检索增强生成，通过模块化设计实现高效知识融合与问答。核心亮点是统一处理文本、图像等多源异构数据。
+- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2024 Spotlight论文，StoryDiffusion通过多模态扩散模型实现高质量故事图像生成，结合文本与视觉语义对齐技术，支持连贯叙事画面序列创作。核心亮点在于上下文感知的跨帧一致性控制。
+- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动实现影视级字幕切割、翻译、对齐与配音，融合语音克隆与多语言语义理解，支持多模态输入输出，达成Netflix级本地化体验。
+- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，通过多模态交互与AI Agent协同，实现个性化数字人对话系统，支持语音、文本与表情同步输出，核心亮点在于低延迟响应与情感化交互设计。
+- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性、可控制生成，基于深度学习模型实现角色动作精准驱动，支持个性化姿态与风格保留，显著提升角色动画生成质量与可控性。
+- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，实现弱条件下的表情生动人物视频生成，仅需音频输入即可生成高表达力的动态肖像视频，突破传统方法对高质量视频输入的依赖。
+- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - Grounding DINO 实现了融合 DINO 与接地预训练的开放集目标检测，通过视觉-语言联合建模实现零样本泛化，支持开放世界下新类别识别与定位。
+- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion模型的语义先验提升低质量图像细节重建能力，显著提升视觉质量与结构保真度。
+- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 该仓库汇聚由Gemini-2.5-Flash-Image（Nano Banana）生成的高质量图像与提示词，展示谷歌前沿多模态生成能力，通过JavaScript工程化组织与可视化呈现，助力开发者快速探索AI视觉创作潜力。
+- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步扩散机制实现高质量全景图像生成，支持文本到全景图的精准控制，显著提升跨视角一致性。
+- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 构建基于 LLM 与视觉模型的数字人对话系统，融合 Whisper 语音识别、SadTalker 驱动虚拟形象，实现语音驱动的拟人化交互，具备高沉浸感与实时响应能力。
+- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色对话与语音克隆，支持沉浸式视频交互，用户可与任意虚拟角色进行自然对话并生成动态口型同步视频。
+- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是由 Kwai-Kolors 团队开发的基于 Python 的多模态生成模型工具集，聚焦于图像与文本的高效协同生成，支持高保真图像生成与风格控制，核心亮点在于端到端的生成优化与轻量化部署能力。
+- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人像动态化，通过关键点驱动与神经渲染技术，将静态肖像视频化，支持自然表情与头部运动，核心亮点为高保真面部细节还原与实时性优化。
+- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** `Python` - LWM 通过构建支持百万级上下文的多模态大模型，实现文本与视频的联合建模，采用高效序列处理与跨模态对齐技术，突破传统模型上下文瓶颈。
+- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是 NVIDIA 官方发布的基于 TensorFlow 的生成对抗网络实现，通过改进的训练稳定性和生成质量，实现高分辨率图像合成。核心亮点在于路径长度正则化与谱归一化技术，显著提升图像细节与多样性。
+- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI生成理想中的房间效果图，融合图像理解与生成能力，实现高效可视化设计重构。
+- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的类 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化，实现端侧高性能多模态感知。
+- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT架构实现视频理解与多轮对话，支持多大模型接入，通过Gradio构建交互界面，实现视频问答与内容生成。核心亮点为多模态理解与通用对话能力融合。
+- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - 基于音频驱动单图人脸动画生成，通过学习真实3D运动系数实现高保真口型同步与自然表情变化，结合3DMM与神经渲染技术提升视觉真实感。
+- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇同步重建，通过端到端模型在真实场景下精准对齐口型与语音，支持多说话人、多语种视频编辑，核心亮点为高保真口型同步与强泛化能力。
+- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，聚焦图像生成与编辑任务，支持风格迁移、人脸修复、动作迁移、语音驱动表情合成等，采用轻量化模型与高效训练策略实现高质量生成。
+- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，融合多模态建模与运动预测技术，实现高保真同步的虚拟人表达。
+- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch等框架实现高鲁棒性视频抠图，支持多平台部署，通过深度学习模型精准分离前景与背景，兼具效率与精度。
+- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成长时序、高一致性与可扩展的视频，采用流式生成与动态注意力机制，突破传统方法在长度与质量上的瓶颈。
+- **[Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)** `Python` - 基于ICCV 2023 Oral成果，该仓库利用文本到图像扩散模型实现零样本视频生成，通过时序一致性建模与跨帧特征复用，无需额外训练即可生成连贯视频。核心亮点在于无需微调即可实现高质量视频合成。
+- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用GPT-SoVITS框架，结合VITS生成模型与GPT条件控制，支持快速、高保真语音合成。
+- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到唇动生成，仅需语音输入即可合成自然逼真的唇部动作，采用端到端训练策略，支持复杂场景下的真实世界应用。
+- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建可实时对话的AI角色，支持跨平台（移动端、Web、终端）无缝交互，集成语音识别与合成，实现拟人化陪伴体验。
+- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升效率与质量，支持文本到图像、图像修复等任务，具备生成细节丰富、风格多样的图像能力。
+- **[TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)** `Python` - TheoremExplainAgent 通过视频生成技术实现大语言模型定理理解的多模态解释，结合 Manim 动画与 RAG 机制，动态可视化抽象数学推理过程，提升理解可解释性与学习效率。
+- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯 Hunyuan 系列多语言大模型，基于 Python 实现，支持多语言理解和生成，通过高效推理架构实现低延迟高吞吐，核心亮点为跨语言语义对齐与端到端多语言任务处理能力。
+- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型输出，核心亮点为端到端一体化生成与高效推理优化。
+- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是基于多分辨率扩散 Transformer 架构的中文图像生成模型，结合细粒度中文理解能力，通过 Jupyter Notebook 实现高效实验与可视化，支持高精度语义驱动图像生成。
+- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作智能手机应用，通过视觉与文本理解实现跨 app 自动化任务执行，核心亮点为端到端的多模态交互与真实设备级操作能力。
+- **[UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM)** `Python` - 将3D世界信息注入大语言模型，通过3D感知与语言理解融合实现空间推理与交互，核心亮点在于构建3D-LLM统一框架，支持场景理解与任务规划。
+- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte 是基于潜在扩散变换器的视频生成模型，通过高效建模时空特征实现高质量视频生成，核心亮点在于融合扩散机制与Transformer架构，支持长时序生成与高分辨率输出。
+- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及 MiniGPT-v2 为多模态大模型提供开源实现，通过视觉编码器与语言模型的轻量级对齐，实现图像理解与自然语言交互。核心亮点在于低资源部署与强泛化能力。
+- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于音频驱动实现高保真人脸合成，通过精细同步语音与面部动作，显著提升生成自然度与时序一致性，核心亮点在于引入时序对齐优化机制。
+- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语言语音数据训练的开源文本到语音模型，采用高效架构实现高保真与情感表达，性能媲美甚至超越主流商业TTS服务。
 - **[Zz-ww/SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)** `Python` - 基于SadTalker与Wav2Lip实现语音驱动的视频唇形合成，结合DAIN插帧技术提升动作流畅度，支持面部区域可配置增强，显著提升生成唇形的清晰度与自然度。
-- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP工具链，集成AI Agent与多模态处理能力，实现3D内容生成与智能交互的自动化流程，核心亮点在于统一工作流下的跨模态协同与可扩展性架构。
-- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL·E 3的AI封面生成工具，通过TypeScript构建高效Web交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
-- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于高斯溅射实现文本驱动的3D人体生成，结合扩散模型与3D高斯表示，支持高保真、可编辑的3D人体建模，显著提升生成效率与视觉质量。
-- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量化模型实现移动端实时运行的数字人，采用优化推理架构与高效参数压缩技术，支持低延迟语音驱动动画生成，核心亮点为极致轻量与端侧部署能力。
-- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab工具，简化Wav2Lip音视频同步模型的部署与使用，支持高精度人脸唇动同步，通过一键运行提升易用性与效果。
-- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的特征点条件，实现高保真音频驱动的人脸动画生成，通过多模态建模与时空一致性优化，支持自然流畅的口型同步与微表情表达。
-- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现音视频驱动的简化半身人体动画生成，基于音频输入精准同步口型与身体动作，采用轻量化架构提升实时性与泛化能力，显著降低对复杂人体姿态数据的依赖。
-- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于Boson AI的文本-音频基础模型，实现文本到高质量音频的端到端生成，融合语音合成与自然语言理解，支持多语种、情感化语音输出，核心亮点为高自然度与低延迟推理。
-- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目系统整理ChatGPT的开源替代模型，涵盖文本与多模态大模型，提供模型索引与使用指引，助力用户快速定位高性能、可本地部署的AI模型。
-- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于PyTorch等框架的先进2D/3D人脸分析项目，支持检测、对齐、识别与年龄估计，采用ArcFace等前沿模型实现高精度人脸处理，具备多平台部署能力。
-- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的多模态大模型，支持视觉与语言深度融合理解，通过动态路由机制提升推理效率与泛化能力，实现高精度图文问答与复杂场景理解。
-- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于ICLR 2024 Oral的生成式高斯点云框架，通过文本或图像输入高效生成3D内容，利用可微分高斯溅射与扩散模型融合实现高质量3D重建与生成。
-- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用且自动的图像增强与超分辨率框架，基于深度学习实现端到端图像质量提升，支持多场景自适应处理，核心亮点在于无需人工干预的全流程自动化与高质量输出。
-- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 基于C语言实现的开源AI数字人工具链，支持离线视频生成与数字人克隆，融合多模态AI技术实现高保真语音驱动与动作合成，核心亮点为全本地化部署与低资源占用。
-- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - SAM 2 提供图像分割模型的推理代码、预训练权重及示例笔记本，支持高效、精准的图像掩码生成，核心亮点在于零样本泛化与交互式分割能力。
-- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型权重与示例笔记本，支持零样本图像分割，通过提示输入实现高精度语义分割，核心亮点为通用性强、部署简便、支持多场景快速应用。
-- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - FaceFusion 是一款领先的面部操作平台，通过深度学习实现高精度人脸替换、唇形同步与面部动画生成，支持一键式操作与多模态输入，具备实时渲染与高保真输出能力。
-- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 该仓库汇聚8个开源中文语音数据集，涵盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，适用于中文语音模型训练与评测。
-- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化人体引导实现可控且一致的人像动画生成，结合图像与视频生成技术，支持自然姿态迁移与细节保真。核心亮点在于引入3D先验提升运动连贯性与视觉一致性。
-- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间注意力调制，精准控制生成内容的布局与位置，突破传统控制方法的模型依赖限制。
-- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保持的图像生成，仅需1张参考图即可秒级生成高保真人脸图像，基于扩散模型与ID嵌入解耦技术，支持个性化角色创作与快速原型设计。
-- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 是基于视觉-语言建模的 SVG 生成基础模型，将矢量化任务转化为代码生成，通过多模态输入精准输出高质量 SVG 代码，实现从图像到可编辑矢量的高效转换。
-- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景的重建与生成，利用稀疏观测数据结合优化算法实现高保真重建，支持快速推理与可扩展生成。
-- **[lipku/LiveTalking](https://github.com/lipku/LiveTalking)** `Python` - 基于Python构建实时交互式数字人流媒体系统，融合Wav2Lip与ER-NeRF技术实现高保真唇形同步与三维动态渲染，支持低延迟直播互动。
-- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 通过引入条件控制机制，实现对扩散模型生成过程的精细调控，支持姿态、边缘、深度等多种控制信号输入，显著提升生成图像的可控性与精度。
-- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 实现图像的高效重光照，通过深度学习模型在保持细节的前提下精准调整光照效果，支持多场景灵活应用。核心亮点在于高保真重光照与快速推理能力。
-- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制聊天机器人，支持多平台快速接入与工作流编排，集成AI画图、语音对话与人设调教，实现高自由度交互体验。
-- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch复现AlphaFold 3，融合注意力机制与去噪扩散模型，实现蛋白质复合物结构高精度预测，支持多模态输入与端到端训练。
-- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉接地技术增强多模态大模型的视觉理解与定位能力，结合图像与文本上下文实现精准视觉推理，核心亮点在于端到端的视觉-语言对齐与动态注意力机制。
-- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - MagicAnimate 基于扩散模型实现高保真、时序一致的人像动画生成，通过时空建模与运动先验引导，将静态图像驱动为自然流畅的动态视频，核心亮点在于无需额外姿态数据即可实现精准动作迁移。
-- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建AI应用商店，实现全栈本地化AI代理交互，支持多模态输入与实时响应，突出隐私安全与开发友好性。
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是微软开源的前沿文本转语音系统，基于先进声学建模与深度学习技术，实现自然流畅、情感丰富的语音合成，支持多语言与个性化音色定制。
-- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，实现人脸建模与个性化数字人生成，核心亮点为低代码化、高保真度与快速部署能力。
-- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成LigerKernel加速与MoE架构优化。
-- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地部署的AI数字人一站式系统，支持语音合成、声音克隆与视频生成，集成CozyVoice、Wav2Lip等模型，通过可视化界面实现一键部署与管理。
-- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` - 基于Go语言构建的本地化开源AI平台，支持多种模型格式在消费级硬件上运行，无需GPU，提供文本、图像、音频等多模态生成与去中心化推理能力，兼容OpenAI API。
-- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是一款基于 Flutter 的跨平台 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 多类生成能力，支持文生图、图生图、超分与上色，一站式满足多模态 AI 内容创作需求。
-- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本到语音合成引擎，支持情感与风格的精准调控，通过 prompt 引导实现自然流畅的语音生成。
-- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - Shap-E 通过文本或图像生成3D物体，基于扩散模型实现跨模态生成，支持快速原型设计与创意表达，核心亮点在于高效生成与多模态输入融合。
-- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - MotionGPT基于微调的大语言模型，实现文本到3D人体动作的生成，通过PyTorch框架完成端到端训练与推理，核心亮点在于利用LLM的语义理解能力实现自然语言驱动的通用动作合成。
-- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成图像/视频中人脸的精准替换，支持多种风格迁移与自然融合，操作简便、响应迅速。
-- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度前景分离，无需绿幕即可将人物或物体从复杂背景中精确提取，支持实时处理与多场景适配。
-- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，利用多模态大模型解析文本与图表，融合AI生成技术实现内容可视化，支持一键输出高质量科普视频。
-- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的AI模型，利用深度学习技术实现从文本到自然语音的端到端生成，支持多语言与情感表达，具备高保真音色还原能力。
-- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 基于自然语言指令驱动 ChatGPT 生成 AR 内容，实现从文本到增强现实场景的自动化构建，核心亮点为零代码 AR 创作与多模态语义理解融合。
-- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐机制，支持任意文本在复杂场景中的精准渲染，核心亮点为跨语言、跨字体、高保真视觉生成。
-- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D交互系统，融合AI驱动动画与实时语音响应，实现高沉浸感虚拟角色交互，核心亮点为轻量化部署与多模态自然交互。
-- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与动画生成，支持衣着数字化与虚拟试穿，融合多模态生成与三维渲染技术，实现高保真虚拟形象构建与动态交互。
-- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持文本描述生成与跨模态理解，利用Jupyter Notebook提供灵活实验与部署框架，核心亮点为强泛化能力与开箱即用的标签生成能力。
-- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个连接数字人与大语言模型至业务系统的 MCP 框架，通过统一接口集成多模态数字人与 OpenAI 兼容模型，支持跨平台（PC/移动端/网页）部署与业务链路打通。核心亮点在于高适配性与低耦合架构。
-- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - GeneFace 实现高质量、通用的3D会说话人脸生成，基于NeRF与PyTorch构建，支持从单张图像或音频驱动生成逼真动态人脸。核心亮点为高保真度与跨模态一致性。
-- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D会说话人脸合成，结合NeRF与运动先验建模，支持表情与语音驱动的动态渲染；ICLR 2024 Spotlight论文成果。
-- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python构建的AI婴儿助手系统，结合自然语言理解与多模态感知，实现对婴儿行为的智能分析与响应，核心亮点为低延迟实时反馈与个性化成长建议生成。
-- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 本项目提出一种高效训练数据合成方法，用于提升多模态大模型对图表的理解能力，通过构造多样化、语义精准的图表-文本对数据，显著增强模型在复杂图表识别与推理任务中的表现，核心亮点在于数据生成的可控性与可扩展性。
-- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4系列是开源多语言多模态对话大模型，支持文本、图像等多类型输入，基于高效推理架构实现跨语言智能交互，核心亮点为多模态理解与多语言支持能力。
+- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP系统，通过AI Agent协同实现多模态内容生成与自动化工作流，融合LLM与工具调用能力，支持复杂创作任务的智能调度与执行。
+- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL-E 3的AI封面生成工具，采用TypeScript构建Web端交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
+- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于文本驱动生成高质量3D人体模型，结合高斯点云渲染技术实现高效、逼真的三维人体合成，支持细粒度语义控制与实时可视化。
+- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量级神经网络架构，实现移动端实时渲染的数字人模型，通过优化参数与推理效率，支持低功耗设备上的高保真语音驱动动画生成。
+- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab环境，简化Wav2Lip高清视频口型同步制作流程，集成预训练模型与一键运行脚本，显著降低使用门槛。
+- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的地标条件，实现高保真音频驱动的肖像动画生成，通过多模态协同建模与精细姿态控制，大幅提升人脸动作自然度与可控性。
+- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现基于音频驱动的简化半身人像动画，通过轻量化模型与端到端流程生成自然流畅的说话表情与动作，核心亮点在于高保真口型同步与低计算开销的实时渲染。
+- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch实现5秒内快速克隆声音并实时生成任意语音内容，支持高保真语音合成，核心技术为端到端TTS与轻量化声学建模。
+- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于文本-音频基础模型，实现跨模态语义理解与生成，支持语音合成、音频描述、文本到音频转换等任务，采用端到端训练与多任务学习提升泛化能力。
+- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目汇聚ChatGPT开源替代模型，涵盖文本与多模态大模型，提供模型列表与性能参考，助力开发者快速选型与部署。
+- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于多框架支持的2D/3D人脸分析项目，融合RetinaFace检测、ArcFace特征提取与人脸对齐技术，实现高精度人脸识别与年龄估计，支持PyTorch/MXNet/OneFlow/PaddlePaddle等生态。
+- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的先进多模态大模型，支持视觉与语言的深度理解与推理，通过动态路由机制提升模型效率与表达能力。
+- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于生成式高斯点云技术，实现从2D图像或文本高效生成3D内容，通过可微分渲染与分布建模提升生成质量与效率，支持高保真、轻量级3D资产创建。
+- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用自动图像增强与超分辨率框架，基于深度学习实现无需人工干预的图像质量提升，支持多场景、多噪声类型处理，核心亮点为端到端自动化与高保真重建能力。
+- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 开源AI虚拟人工具包，支持离线视频生成与数字人克隆，基于多模态AI技术实现语音、表情、动作同步，无需依赖云端服务。
+- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - 提供SAM 2模型的推理代码、预训练权重下载及交互式示例，支持高效图像分割，核心亮点为零样本泛化与高精度掩码生成。
+- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - 基于深度学习的面部操控平台，支持人脸交换、唇形同步等功能，通过端到端模型实现高精度、实时化面部重演，核心亮点为跨场景适配与低延迟处理。
+- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 构建高质量中文语音语料库，整合8个开源数据集，覆盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，支持语音合成与语音识别模型训练。
+- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源高保真TTS系统，融合VALLE与VITS优势，支持多语言零样本语音合成，具备自然流畅的语音生成能力。
+- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化引导实现可控且一致的人像动画生成，结合隐空间运动建模与姿态对齐策略，支持高保真图像到视频的转换。核心亮点在于运动连贯性与身份一致性保障。
+- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间调制机制，精准操控图像生成中特定区域的语义内容，支持任意条件输入。
+- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保真图像生成，仅需一张参考图即可在数秒内生成高度一致的个性化图像，基于扩散模型与特征对齐技术，无需微调。
+- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 通过视觉-语言建模将图像向量化为高精度 SVG 代码，将矢量化任务转化为代码生成问题，实现视觉与文本输入的端到端生成。
+- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 构建可交互的生成式虚拟人类，通过大语言模型模拟人类行为与对话，实现拟人化角色的动态交互与情境响应，核心亮点在于行为逻辑的持续演化与多轮对话的上下文连贯性。
+- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景重建与生成，通过优化高斯表示与渲染管线，支持高保真、低延迟的3D内容生成，适用于复杂几何结构的快速建模。
+- **[lipku/LiveTalking](https://github.com/lipku/LiveTalking)** `Python` - 基于NERF与Wav2Lip技术实现高保真实时数字人语音驱动，支持唇动同步与三维动态渲染，结合MuseTalk实现自然口型与表情交互，适用于直播、虚拟客服等实时互动场景。
+- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 实现对扩散模型的精细控制，通过引入额外条件输入（如边缘图、姿态图）引导生成过程，显著提升生成图像的可控性与一致性。核心亮点在于无需微调即可实现高精度控制。
+- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 是一个基于深度学习的图像 relighting 项目，通过 AI 生成技术实现光影风格的高效迁移与重渲染，支持精细控制光照方向与强度，核心亮点在于高保真光影还原与实时交互能力。
+- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch实现Google DeepMind的AlphaFold 3，采用注意力机制与去噪扩散模型，精准预测蛋白质结构及复合物构象，支持多模态生物分子建模。
+- **[magic-research/bubogpt](https://github.com/magic-research/bubogpt)** `Python` - BuboGPT 通过视觉定位技术实现多模态大模型的视觉接地，提升图像与文本的对齐能力，基于 Python 构建高效视觉-语言对齐框架，核心亮点在于精准的跨模态语义对齐与可扩展的视觉感知模块。
+- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - 基于扩散模型实现人体图像的时序一致动画生成，通过时空建模与运动先验优化，支持高保真、流畅的人体动作迁移，显著提升生成稳定性与视觉连贯性。
+- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建持续学习的AI应用商店，通过本地化多模态数据驱动AI Agent决策，实现全栈私有化、开发友好型智能助手。
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是由 Microsoft 开源的前沿文本转语音系统，基于先进语音合成技术实现自然流畅的语音生成，支持多语种与情感表达，采用端到端神经网络架构，具备高可定制性与低延迟特性。
+- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，支持从人脸数据采集到高保真数字人建模的自动化生成，核心亮点在于一键式部署与可复现的训练流程。
+- **[modelscope/ms-swift](https://github.com/modelscope/ms-swift)** `Python` - 基于PEFT与全参数微调，支持500+大模型与200+多模态模型的CPT/SFT/DPO/GRPO训练，覆盖Qwen3、Llama4、InternVL3.5等前沿模型，集成Liger Kernel等高效训练优化技术。
+- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地模型的一站式AI数字人系统，支持视频与声音合成、声音克隆，通过一键部署简化模型管理，提升内容生成效率。
+- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` - LocalAI 是一款开源、自托管的本地大模型推理引擎，支持 GGUF、Transformers 等多种模型格式，无需GPU即可在消费级硬件上运行，兼容 OpenAI API，支持文本、音频、图像、视频等多模态生成与分布式 P2P 推理。
+- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是基于 Flutter 的全功能 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 图像生成能力，支持文生图、图生图、超分与上色，提供一体化 AI 创作体验。
+- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本转语音引擎，支持情感风格迁移与个性化语音合成，通过提示词精准调控语音情感与风格。
+- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - 基于文本或图像生成3D对象，采用扩散模型与神经辐射场技术，实现高保真、可控的3D内容创作，核心亮点为零样本、快速生成与多模态输入支持。
+- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - 基于微调的大语言模型实现文本到3D人体动作的通用生成，利用PyTorch构建端到端框架，支持高保真、语义对齐的动作合成，核心亮点为无需复杂物理约束即可实现自然流畅的运动生成。
+- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度图像/视频背景分离，无需绿幕，支持实时处理与端到端部署，核心亮点为高保真透明通道生成与轻量化模型设计。
+- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，融合文本理解与多模态生成技术，利用 LLM 解析论文内容并驱动视频合成，实现学术成果的可视化高效传播。
+- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的生成式模型，采用Jupyter Notebook实现端到端推理与调优，支持多语言语音合成与音色克隆，核心亮点为高自然度语音生成与灵活的文本驱动控制。
+- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐技术，支持跨语言文本在图像中的精准渲染与修改，核心亮点在于统一框架下实现多语言、多风格、高保真文本合成。
+- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D框架，融合AI驱动的动态表情与交互逻辑，支持Web端实时渲染与多模态输入，核心亮点为轻量化部署与高保真角色表现。
+- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与虚拟试穿技术，融合Avatar生成与衣物数字化，实现高保真虚拟形象与动态服饰模拟，核心亮点为端到端的衣着数字孪生与实时动画驱动。
+- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持复杂场景理解与文本生成，采用Jupyter Notebook交互式开发，具备强泛化能力与可扩展性。
+- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个面向数字人与大语言模型的 MCP 框架，通过统一接口连接多端（PC/移动/网页）与业务系统，支持 2.5D/3D 数字人及 OpenAI 兼容模型，实现跨平台智能交互。核心亮点在于高兼容性与低接入成本。
+- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - 基于NeRF与PyTorch实现高保真3D动态人脸合成，支持任意语音驱动的自然表情与口型同步，核心技术为隐式神经表示与时空一致性建模。
+- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D动态人脸生成，融合NeRF与运动估计技术，支持自然口型同步与视角自由切换，ICLR 2024 Spotlight论文成果。
+- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 该仓库实现面向多模态大模型图表理解的高效训练数据合成方法，通过可控生成与质量过滤提升数据多样性与准确性，显著增强模型在复杂图表上的泛化能力。
+- **[zai-org/GLM-4](https://github.com/zai-org/GLM-4)** `Python` - GLM-4 系列是开源的多语言多模态对话大模型，支持文本、图像等多模态输入，基于自研架构实现高效推理与跨语言理解，具备强大对话生成与上下文建模能力。
 
 ## Data Processing
 
-*125 个项目*
+*122 个项目*
 
-- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体全栈技术资源，涵盖协议、编解码、传输、实战项目与行业专家，助力开发者高效掌握流媒体核心技术。
-- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过解析目标网站视频接口与页面结构，自动抓取无水印视频资源，支持抖音、快手、微博等主流平台，具备高兼容性与低资源消耗特点。
-- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中提取结构化知识图谱，融合智能文档处理与图数据库技术，支持分析、数字孪生与AI助手应用。
-- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - BUTSpeechFIT/DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端的语音处理流程，支持高效标注与模型评估，核心亮点在于模块化设计与可视化分析能力。
-- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 通过高效可扩展的图神经网络方法，实现异构关系数据中稳定且归纳式的实体嵌入学习，支持图与超图结构，基于 PyTorch 生态构建。核心亮点在于高效率与强泛化性。
-- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++实现的微信聊天记录导出工具，通过解析iTunes备份与SILK音频格式，支持文本、图片、语音等多类型数据提取，具备高兼容性与低侵入性。
-- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 集成中文NLP数据集与常用英文数据集的检索平台，基于Python构建高效索引与搜索功能，支持多任务类型精准匹配。
-- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人人体、面部、手部与足部关键点，基于深度学习与C++高效实现，支持多模态姿态估计，核心亮点为高精度与低延迟的实时处理能力。
-- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - ConardLi/easy-dataset 是一个基于 JavaScript 的高效工具，用于自动化构建大语言模型微调数据集，支持数据清洗、标注与格式转换，显著降低数据准备门槛。
-- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，实现文本提取与结构化处理，结合Python工具链高效完成内容理解与信息萃取，核心亮点在于自动化文档智能分析能力。
-- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，助力医疗AI研发高效落地。
-- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，提供标准化输出格式，通过可视化界面实现图像、文本等数据的高效标注，核心亮点在于灵活的标注模板与跨模态支持。
-- **[JaniceZhao/Douban-Dushu-Dataset](https://github.com/JaniceZhao/Douban-Dushu-Dataset)** `Unknown` - 该数据集收录3700万条豆瓣读书评论，支持中文自然语言处理与情感分析，可用于推荐系统训练与文本挖掘，具备大规模、高覆盖、真实用户反馈等核心亮点。
-- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - 开源DWG格式解析库，采用C语言实现，支持CAD文件读写与兼容性处理，通过CI与夜间构建保障稳定性，为CAD生态提供高效、轻量级底层支持。
-- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过编码率压缩Transformer架构，在保持模型性能的同时显著降低计算与存储开销，采用白盒可解释的稀疏化与编码优化策略，实现高效压缩。
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流平台，通过逆向分析与分布式抓取技术保障高效稳定采集，核心亮点为全链路兼容与低耦合架构设计。
-- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - SoftWhisper 基于 Whisper 模型提供高效音视频转写服务，支持自定义模型、语言、任务及时间片段，通过 beam size 调优提升转写精度，实现灵活精准的语音处理。
-- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面和强大的数据转换功能，帮助用户高效处理脏数据，支持数据重构、去重、标准化与数据关联，核心亮点在于灵活的行级操作与Wikidata集成。
-- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 与图像文档高效转为结构化数据，赋能 AI 系统理解非结构化文档内容，支持多模态与 RAG 应用。
-- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - SEACrowd-datahub 旨在汇聚东南亚语言、区域与文化相关数据集，通过协作共建推动本地化AI研究。项目采用Python主导的开源流程，支持多语言数据标注与标准化处理，核心亮点在于覆盖广泛且具文化敏感性的语料资源。
-- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款基于Web的开源图像标注工具，支持目标检测、关键点识别与Pascal-VOC格式导出，集成SSD与PoseNet模型，提供高效、免费的在线标注体验。
-- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现的大众点评全站爬虫，通过动态字体加密破解技术实现非OCR方式数据采集，支持持续更新与高稳定性爬取。
-- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - Qbot 是一个完全本地部署的 AI 自动量化交易机器人，基于 Jupyter Notebook 环境实现策略开发与回测，融合深度学习与量化金融模型，支持比特币等加密资产交易，具备高可解释性与隐私安全保障。
-- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured 提供开源 ETL 工具，通过 OCR 与 NLP 技术将 PDF、DOCX 等复杂文档高效转化为结构化数据，支持文本提取、分块与嵌入，赋能 LLM 应用开发。
-- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似性对文本进行智能分块与分组，利用嵌入向量实现高效语义聚类，支持长文本结构化处理与上下文优化。
-- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写机制避免内存溢出，支持大文件快速解析与生成，兼顾性能与稳定性。
-- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - L7 是基于 WebGL 的大规模地理空间数据可视化引擎，支持 GeoJSON、Mapbox、高德等多源地图数据，通过高性能渲染实现 3D 地理可视化，核心亮点为跨平台、高并发、低延迟的地理数据实时渲染。
-- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python实现机器学习与深度学习全流程实战，涵盖算法原理、代码实现与数据处理，结合PyTorch/TensorFlow等框架，助力开发者快速掌握AI核心技能。
-- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自 Project Gutenberg 的诗歌语料库，以 Jupyter Notebook 形式组织，支持文本清洗、结构化处理与分析，便于用于自然语言处理研究与训练。核心亮点在于高质量、可复现的诗歌数据管道。
-- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量公开数据集，按主题分类便于检索与使用，助力研究与开发高效获取可信数据源。核心亮点为结构化整理与持续更新。
-- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于稳定扩散模型的训练与微调，提供高效的LoRA与DreamBooth支持，通过轻量化训练方案降低硬件门槛，核心亮点是极简配置与高兼容性。
-- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于开源全流程训练的0.2B中文对话小模型，支持指令微调与三元组抽取微调，提供从数据清洗到RLHF优化的完整代码链路。
-- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全的中华古诗词数据库，整合唐宋诗词与宋词数据，以JSON格式结构化存储，支持高效查询与应用开发，核心亮点为数据规模与完整性。
-- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与相似性搜索设计，支持高效嵌入向量存储与查询，核心亮点在于高性能、低延迟与对 RAG 场景的深度优化。
-- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能的 Rust 日期时间库，提供精准的日期时间处理、时区支持与格式解析，基于 Rust 类型系统实现安全可靠的操作，核心亮点为零成本抽象与广泛的时间计算能力。
-- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI模型的在线信息抽取工具，支持零样本事件、实体、关系抽取，可本地运行，适用于非结构化文本结构化处理，核心亮点为开箱即用的LLM驱动信息抽取流程。
-- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是一款开源摄影工作流应用与原始图像处理工具，基于 C 语言开发，提供非破坏性编辑、批量处理及专业级 RAW 转换功能，核心亮点在于高性能图像处理引擎与模块化架构。
-- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 将PDF快速转换为高精度Markdown与JSON格式，基于Python实现结构化提取，结合OCR与LLM理解技术，精准还原文档内容与布局。
-- **[duckdb/duckdb](https://github.com/duckdb/duckdb)** `C++` - DuckDB 是一款嵌入式分析型 SQL 数据库，基于 C++ 构建，支持高效率的 OLAP 查询，无需独立服务即可在内存中运行。核心亮点在于极致的查询性能与轻量级部署。
-- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - 基于AWEL与Agent架构构建的AI原生数据应用开发框架，支持LLM驱动的数据库交互与智能工作流编排，具备私有化部署与安全增强能力，实现高效RAG与自动化数据智能应用开发。
-- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模中文纯文本语料库，涵盖主流与小众文化数据，支持多场景中文NLP训练与研究，为大模型提供高质量、多样性语料支撑。
-- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端的语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、语音转换等多种任务，采用统一框架集成多种语音AI模型，具备高可复用性与模块化设计。
-- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的机器学习与大模型可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
-- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等NLP能力的综合性中文NLP资源库，基于Python实现，支持多场景应用与模型复用。
-- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 该仓库汇聚8个开源中文语音数据集，涵盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，适用于中文语音模型训练与评测。
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 是基于 TypeScript 构建的 Web 数据 API，可将完整网站转化为 LLM 友好的 Markdown 或结构化数据，支持高效、可靠的网页内容提取与解析，核心亮点在于对动态页面与复杂结构的智能处理能力。
-- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成视觉美观的运动海报，利用Python结合地图渲染与图形设计技术，支持跑步、骑行等轨迹可视化，核心亮点为一键生成高颜值分享图。
-- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理流水线基于深度学习实现蛋白质-配体复合物结构精准预测，采用端到端神经网络架构，支持多模态输入，显著提升生物分子相互作用建模能力。
-- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLMs实现从非结构化文本中精准提取结构化信息，支持源文档精准回溯与交互式可视化，提升信息抽取的可解释性与可信度。
-- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 该仓库提供360°视频与空间音频的规范与工具，基于Python实现编解码、元数据处理与播放支持，核心亮点在于对空间媒体标准的完整封装与跨平台兼容性。
-- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，利用语义扰动与编码策略实现不可见水印，支持无密钥检测，保障内容版权与溯源。
-- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过将案例推理（CBR）融入大语言模型，实现数据科学任务的自动化编排与执行，支持从数据理解到建模的端到端流程，显著提升任务成功率与可解释性。
-- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度权限控制与事件触发，无需手动编写接口，实现数据层与应用层的高效联动。
-- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型实现无代码的数据集构建、增强与转换，通过可视化流程编排调用LLM与AI工具，显著降低数据工程门槛。
-- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 高效前沿的分词器库，基于 Rust 实现高性能文本切分，兼容 BERT、GPT 等主流模型，支持研究与生产环境无缝部署。
-- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理、应用全链路资源，支持从理论到实践的高效进阶，核心亮点为结构化分类与高质量开源项目聚合。
-- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 基于C++20与HNSW等技术构建的AI原生数据库，支持稠密向量、稀疏向量、张量与全文混合检索，实现高速精准的语义搜索，专为LLM应用优化。
-- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** `TypeScript` - RAGFlow 是基于 TypeScript 构建的开源 RAG 引擎，融合多 Agent 协作与文档理解能力，通过智能检索增强大模型生成，实现高效、精准的上下文构建与知识调用。
-- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - 基于Python的跨框架机器学习代码转换工具，支持JAX、PyTorch、TensorFlow与NumPy间自动转换，通过语法分析与语义映射实现高效迁移，核心亮点为高保真度与零手动重构。
-- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Python的分布式代理池工具，通过Redis管理高效可用代理，支持爬虫自动切换与验证，提升网络请求稳定性与匿名性，核心亮点为高可用代理自动筛选与负载均衡。
-- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库精选了主流机器学习框架、库与软件，涵盖模型训练、推理、部署全流程，以Python为核心，提供高效、可复用的工具链，助力开发者快速构建AI应用。
-- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零开始构建神经网络，结合直观可视化与数学推导，系统讲解深度学习核心原理与实现细节，核心亮点在于理论与实践深度融合。
-- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 聚焦云平台计费与支付领域知识整合，系统梳理成本管理、计量、发票、税务等核心环节，提供结构化参考指南。
-- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python的豆瓣读书数据爬虫，通过模拟请求与解析HTML实现高效数据采集，支持书目、评分、评论等多维度信息抓取，具备反反爬策略与结构化输出能力。
-- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将电子邮件新闻邮件自动转换为 Atom 订阅源，利用 TypeScript 构建高效解析与聚合逻辑，核心亮点是免手动订阅、统一内容消费入口。
-- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并以Cypher查询，实现股票关联关系的可视化与高效检索。核心亮点为轻量级、可复用的金融知识建模框架。
-- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，结合图谱结构化数据与大模型推理，实现精准医疗问答与分析，核心亮点为知识图谱驱动的可解释性问答。
-- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建端到端问答Demo，通过语义检索与图谱推理实现精准医疗问答，核心亮点为知识增强与上下文关联推理。
-- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建成语义图谱，实现文档知识的可视化组织与高效检索。
-- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳主流大语言模型文本数据集，涵盖构建、评估与训练所需的核心资源，通过结构化分类提升数据获取效率，助力模型研发与优化。
-- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库系统整理并每周更新高质量的机器学习Python库排行榜，涵盖从数据科学到深度学习的全栈工具，通过社区评分与实用性筛选，为开发者提供高效选型参考。
-- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 基于 Whisper 模型实现高精度语音识别与词级时间戳标注，并支持说话人分离（diarization），通过联合优化提升语音处理的细粒度与准确性。
-- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据关联，自动为音乐文件打标，提升音源管理效率。核心亮点为精准的 AcoustID 音频识别与开放数据库支持。
-- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，融合知识图谱与大语言模型，提升复杂查询的准确率与可解释性，支持动态知识融合与多跳推理。
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 将Office文档及PDF等文件高效转换为Markdown格式，基于Python实现，支持多种文档结构解析与语义保留，核心亮点为高兼容性与自动化处理能力。
-- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一款开源敏感数据匿名化框架，支持文本、图像和结构化数据的 PII 检测与脱敏，融合 NLP、规则匹配与可定制化流水线，实现高效隐私保护。
-- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，为 AI 应用提供低延迟、可扩展的向量相似性检索能力。
-- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个用于 AI 的联邦查询引擎，通过统一接口连接多种数据源并实现智能分析，支持 LLM 与数据库深度融合，是实现 AI 原生数据驱动的核心 MCP 服务。
-- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建Model Context Protocol，通过图数据库实现LLM上下文的结构化管理与动态推理，支持多模态上下文感知与高效查询。核心亮点为上下文与知识的语义关联建模。
-- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图数据实时分析。
-- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取网页数据，构建AI Agent实现大规模网络信息的深度推理分析，支持结构化知识生成与智能决策。核心亮点为端到端自动化研究流程与高精度信息聚合。
-- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类与去重，通过高效嵌入模型实现大规模数据洞察。
-- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen 通过知识图谱驱动生成高质量合成数据，提升大模型监督微调效果，结合领域知识增强问答任务性能，实现更精准的语义理解与推理。
-- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的Markdown/JSON格式，支持高效数据提取与Agentic工作流集成，核心亮点为端到端结构化解析与语义增强。
-- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python的综合性PDF内容提取工具集，融合OCR、版面分析与结构化解析技术，支持多格式高保真内容还原，核心亮点为端到端自动化与高精度文本/表格提取。
-- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 提供官方 MCP 协议集成，通过 Python SDK 实现与 Oxylabs 数据采集服务的无缝连接，支持 LLM 驱动的高效网页数据抓取，核心亮点为安全、可扩展的 AI 友好型数据获取能力。
-- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是 Python 中核心的数据分析与处理库，提供灵活的带标签数据结构（如 DataFrame）和丰富的统计、操作功能，支持高效数据清洗、转换与分析。
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是基于 Django 和 Angular 构建的开源文档管理系统，支持扫描、OCR 识别、自动索引与归档，通过机器学习实现智能分类与检索，提升纸质文档数字化效率。
-- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - 基于LLM的Python库，通过对话实现数据发现与分析，融合RAG与Pandas操作，支持多模型接入与向量数据库，提升数据探索效率。
-- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是 PostgreSQL 的开源向量相似性搜索扩展，基于 C 语言实现高效近邻搜索，支持向量存储与快速相似性查询，核心亮点为无缝集成数据库与向量检索。
-- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言实现高效、稳定的数据采集，支持智能解析与结构化输出，核心亮点为低门槛、高可用性与简洁易用的 CLI 交互。
-- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于AI的私有化相册管理应用，利用Go语言与TensorFlow实现图像识别、自动标签与搜索，支持自托管与去中心化部署，提升个人照片管理智能化水平。
-- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将PPTX文件解析为结构化JSON数据，基于JavaScript实现高效解析，支持多层级内容提取，核心亮点为精准保留原始幻灯片结构与文本语义。
-- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一个基于 Go 语言的数据库迁移工具，支持 SQL 与 Go 函数混合迁移，可灵活管理数据库模式变更，提供版本化、可复用的数据库演进能力。
-- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合命名实体识别与关系抽取技术，支持智能问答与辅助决策，提升农业信息检索与知识利用效率。
-- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建交互式图谱生成工具，支持数据可视化与图结构推理，通过代码模块化实现高效图谱构建与分析，核心亮点为低代码化图谱设计与可复用的图生成逻辑。
-- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转化为知识图谱，支持图增强生成与基于知识图谱的问答，利用自然语言处理与图结构建模实现语义关联挖掘。
-- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索平台，结合LLM与数据处理技术，实现自动化数据洞察与分析，支持结构化与非结构化数据的智能解析与可视化。核心亮点为端到端数据理解与可解释性输出。
-- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能分析系统，融合RAG与LLM技术实现高效知识检索与推理，支持多源数据处理与上下文理解，核心亮点为低延迟响应与可扩展的Agent协同架构。
-- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 构建的高性能 S3 兼容对象存储系统，支持与 MinIO、Ceph 等平台共存迁移，提供低延迟、高吞吐的数据持久化能力，核心亮点在于云原生架构与高效内存管理。
-- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Open XML标准，使用Python高效生成PowerPoint文档，支持复杂格式与内容动态渲染，核心亮点为轻量级、高兼容性与灵活的API设计。
-- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 旨在通过自动化流程从文档中高效提取结构化信息，结合 LLM 与 prompt 工程实现精准内容解析，支持 DOCX 等格式的智能转换与信息抽取。
-- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全面的华语现代诗歌语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成应用，核心亮点为高覆盖率与可扩展的文本处理 pipeline。
-- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec将文本高效转化为向量表示，集成Word2Vec、Sentence-BERT等主流模型，支持多场景文本相似度计算，开箱即用，性能稳定。
-- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建的全流程技术实践，整合数据抽取、实体识别与关系挖掘等模块，基于开源工具链实现高效知识建模，支持多源异构数据融合与可扩展的图谱存储与查询。
-- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - 基于PyTorch的端到端语音处理工具包，支持语音识别、语音分离、说话人辨识等任务，融合Transformer等深度学习模型，提供开箱即用的预训练模型与可复现的实验流程。
-- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件高效转换为Markdown格式，基于Python解析PPTX结构并智能提取文本、标题与布局信息，支持多级标题与格式保留，核心亮点为高保真还原与简洁易用。
-- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据集构建方法。
-- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库提供60个针对数据科学任务的ChatGPT高效提示词，覆盖数据清洗、建模、可视化等环节，通过结构化提示提升AI协作效率，核心亮点是实战导向与任务细化。
-- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现数据清洗、结构化与标注，支持法律文本分析与模型训练，核心亮点为高精度法律术语对齐与合规性数据标准化。
-- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、可复用的音频处理模块。
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据抓取工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点在于对 LLM 输入的天然适配与高可用性。
-- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中提炼知识图谱，利用JavaScript实现端到端推理与结构化输出，核心亮点为自动化实体关系抽取与图谱构建。
-- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高性能交互式三维网络可视化，核心亮点为流畅的物理模拟与浏览器端实时渲染。
-- **[verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)** `Jupyter Notebook` - 该数据集收集15,140条ChatGPT提示词，涵盖Reddit、Discord等真实场景，包含1,405条 jailbreak 提示，用于研究LLM安全漏洞与对抗性输入。基于Jupyter Notebook提供可复现分析环境。
-- **[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)** `C++` - Nebula Graph 是一个高性能分布式图数据库，基于 C++ 实现，支持水平扩展与高可用，采用 Raft 协议保障一致性，适用于复杂关系数据的高效存储与查询。
-- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI工具链与智能代理开发，集成了LLM调用、自动化任务编排与数据处理能力，通过模块化设计实现高效AI应用构建，核心亮点在于灵活可扩展的Agent架构与本地化部署支持。
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于Python构建的AI对冲基金团队系统，融合AI Agents与数据处理流程，实现自动化策略生成与市场分析，核心亮点为端到端智能投研闭环。
-- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 提供豆瓣平台数据的开放API服务，基于JavaScript实现高效数据抓取与接口封装，支持多维度内容查询与实时同步，核心亮点为稳定高并发访问与结构化数据输出。
-- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是一个云原生向量数据库，支持向量搜索与结构化过滤结合，基于 HNSW 算法实现高效近似最近邻搜索，具备高可用与可扩展性。
-- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到进阶全链路技术，涵盖抓包工具、反反爬策略、多线程/分布式爬虫及实战项目，助力高效数据获取与处理。
-- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，支持公众号内容采集、备份与结构化存储，具备高稳定性与扩展性。
-- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据训练的全栈标注平台，支持3D LiDAR点云、图像及LLM数据的高效标注与融合，基于TypeScript构建，具备高精度交互与协同标注能力。
-- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 本项目提出一种高效训练数据合成方法，用于提升多模态大模型对图表的理解能力，通过构造多样化、语义精准的图表-文本对数据，显著增强模型在复杂图表识别与推理任务中的表现，核心亮点在于数据生成的可控性与可扩展性。
-- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱抽取与构建工具包，支持中文文本的实体、关系及属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
+- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体领域500+优质资料，涵盖协议、工具链、实践项目与行业专家资源，助力开发者高效掌握WebRTC、RTMP、FFmpeg等核心技术。
+- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向分析与动态请求模拟，批量抓取并剥离抖音、快手等平台视频水印，支持主流短视频平台内容无损提取。
+- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** `Python` - 基于多Agent架构实现无需框架依赖的舆情分析系统，融合深度搜索与情感分析，实时捕捉公共舆论动态，辅助决策预测。
+- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中结构化提取知识图谱，支持多源数据融合与可视化，赋能智能分析与AI助手构建。
+- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端流程，集成主流语音模型与聚类算法，支持快速实验与结果可视化，核心亮点在于低门槛、可复现的说话人聚类工作流。
+- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 提供高效可扩展的归纳实体嵌入模型，基于异构关系数据学习稳定嵌入，支持图与超图结构，采用 PyTorch 生态实现端到端训练与推理。核心亮点为高效率、强泛化性与对动态数据的适应能力。
+- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++开发的微信聊天记录导出工具，通过解析iOS备份文件与SILK音频格式，实现聊天文本、图片、语音等多类型数据的完整提取与结构化导出，支持跨平台备份恢复。
+- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 该仓库构建中文NLP数据集统一检索平台，整合中文及常用英文数据集，支持多任务类型快速查找，提升模型训练与评测效率，核心亮点为结构化索引与多维度筛选。
+- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人身体、面部、手部和脚部关键点，基于深度学习与C++优化，支持多模态姿态估计，具有高精度与低延迟特性。
+- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - 基于JavaScript构建的LLM微调数据集生成工具，通过自动化标注与数据清洗流程，支持高效构建高质量训练数据，核心亮点为易用性与可扩展的Pipeline设计。
+- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，利用Python实现高效文本提取与结构化处理，支持多格式兼容与语义理解，核心亮点为智能段落分割与上下文保留。
+- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华联合研发的多语言多任务语音识别模型，基于大规模语料联合训练，支持高精度跨语言语音转写与多任务理解，具备端到端推理能力。
+- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、预训练模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，提升医学AI研发效率。
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，通过标准化输出格式助力高效构建高质量训练数据集，支持图像、文本、语音等多模态标注任务。
+- **[JaniceZhao/Douban-Dushu-Dataset](https://github.com/JaniceZhao/Douban-Dushu-Dataset)** `Unknown` - 该数据集包含3700万条豆瓣读书评论，适用于中文NLP任务。通过清洗与结构化处理，支持情感分析、推荐系统等应用，核心亮点在于大规模中文书评语料的可用性与高质量标注潜力。
+- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - libredwg 是一个开源的 DWG 文件格式解析库，使用 C 语言实现，支持 CAD 数据的读取与处理，通过 CI 和夜间构建保障稳定性，为 CAD 工具链提供底层支持。
+- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过白盒架构设计实现 Transformer 模型的高效压缩与稀疏化，基于代码级可解释的率失真优化，显著降低模型冗余度而不牺牲性能。
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等，通过逆向解析与异步请求技术高效获取结构化数据，核心亮点为跨平台统一接口与高并发稳定性。
+- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - 基于Whisper模型的音视频转写工具，支持自定义模型、语言、任务及时间片段，通过调整束搜索参数实现精准转写，提升语音内容处理效率。
+- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面支持用户对杂乱数据进行标准化、去重、分类和重构，核心亮点在于强大的数据重建与 Wikidata 语义关联能力。
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 和图像文档高效转为结构化数据，无缝对接 LLM，实现文档智能解析与知识提取。
+- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - 该仓库聚焦东南亚语言、区域与文化数据的共建收集，通过Python工具链实现多源数据整合与标准化，核心亮点为本土化语料的开放共享与社区协作机制。
+- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构与内容，实现智能化数据提取与结构化输出，支持Markdown格式。核心亮点为AI驱动的自适应爬取与语义理解。
+- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款免费在线图像标注工具，基于TypeScript构建，集成Pascal-VOC、SSD、PoseNet等模型，支持目标检测、关键点识别与标签管理，提供高效可视化标注体验。
+- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现大众点评全站爬虫，突破动态字体加密难题，无需OCR即可精准提取文本数据，持续更新维护。
+- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - 基于本地部署的AI量化交易机器人，融合深度学习与交易策略回测，支持比特币等加密资产自动交易，通过Jupyter Notebook实现全流程可解释研究与部署。
+- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** `HTML` - Unstructured.io 通过开源 ETL 工具链高效转换复杂文档为结构化数据，支持 PDF、DOCX 等多格式，集成 OCR 与 NLP 能力，实现端到端文档解析与预处理。
+- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏表示，仅需少量图像即可完成高质量新视角合成，核心亮点在于高效建模与低样本适应能力。
+- **[agamm/semantic-split](https://github.com/agamm/semantic-split)** `Python` - 基于语义相似度对文本进行分块与分组的Python库，利用嵌入向量实现高效语义聚类，支持灵活的相似度阈值与自定义嵌入模型。核心亮点是轻量级设计与高可扩展性。
+- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的构建与应用，基于 Jupyter Notebook 提供可复现的训练、微调与推理实验，支持多语言文本处理与本地化模型部署，核心亮点为面向东南亚语种的 LLM 适配与工程化实践。
+- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写技术解决大文件内存溢出问题，支持xlsx/xls格式，实现高性能数据解析与导出。
+- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - 基于WebGL的大型地理空间数据可视化引擎，支持3D地图、GeoJSON、Mapbox/Amap等多源数据，通过高性能渲染实现海量地理数据实时交互展示。
+- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python的AI学习实战资源库，涵盖机器学习、深度学习与NLP核心算法实现，结合PyTorch/TensorFlow框架提供可运行代码与数据集，助力从理论到实践的转化。
+- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自Project Gutenberg的诗歌语料库，以Jupyter Notebook形式组织，便于文本分析与机器学习实验。核心亮点是结构化、可复现的诗歌数据处理流程，支持自然语言处理研究与创意AI应用。
+- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量开放数据集，按主题分类便于检索与使用，提升数据获取效率，助力研究与开发。
+- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于LoRA微调训练，支持Stable Diffusion模型的高效图像生成定制，采用PyTorch与Hugging Face生态实现灵活训练流程，核心亮点为低资源消耗下的高精度模型适配。
+- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于0.2B参数的中文对话小模型ChatLM-mini-Chinese，开源全链路训练流程，涵盖数据清洗、tokenizer训练、预训练、SFT及RLHF，支持三元组抽取等下游任务微调。
+- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全中华古诗词数据库，涵盖唐宋诗及两宋词，以JSON结构化存储，支持高效查询与分析，为诗词研究与AI应用提供高质量数据基础。
+- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** `Rust` - Chroma Core 是基于 Rust 构建的开源向量数据库，专为 AI 应用中的文档检索与嵌入向量存储设计，支持高效向量相似性搜索与灵活的元数据管理，核心亮点在于高性能、低延迟与原生 Rust 安全性。
+- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能、功能丰富的 Rust 日期时间库，支持多种时区、解析与格式化，提供安全的不可变时间类型与丰富的 API，核心亮点在于零开销抽象与对 RFC 标准的全面支持。
+- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是基于 C 语言开发的开源摄影工作流应用，专注于 RAW 照片的非破坏性编辑与处理，采用模块化架构支持高效图像处理与批量操作，核心亮点为高性能与跨平台兼容性。
+- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 基于Python实现PDF到Markdown与JSON的高效转换，融合OCR与LLM技术提升结构化提取精度，支持多格式兼容与高保真内容还原。
+- **[duckdb/duckdb](https://github.com/duckdb/duckdb)** `C++` - DuckDB 是一款嵌入式分析型 SQL 数据库，基于 C++ 构建，支持在进程内高效执行 OLAP 查询，核心亮点是极致的性能与轻量级部署能力。
+- **[esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)** `Unknown` - MNBVC构建超大规模多源异构中文语料库，覆盖主流与小众文化内容，支持从新闻到火星文的全类型文本数据，为中文NLP模型训练与研究提供高质量数据基础。
+- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、说话人辨认等任务，采用统一架构实现多场景语音处理，核心亮点是模块化设计与高可复用性。
+- **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** `Jupyter Notebook` - Evidently 是开源的 ML 与 LLM 可观测性框架，通过 Jupyter Notebook 提供 100+ 指标，实现对数据漂移、质量、模型性能的自动化评估与监控，支持从表格数据到生成式 AI 的全链路可观测。
+- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等全链路NLP能力，基于Python构建一站式中文NLP工具库，支持多场景快速落地。
+- **[fighting41love/zhvoice](https://github.com/fighting41love/zhvoice)** `Unknown` - 构建高质量中文语音语料库，整合8个开源数据集，覆盖3200名说话人、900小时语音与1300万字文本，语音清晰自然，支持语音合成与语音识别模型训练。
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 将整个网站转化为 LLM 友好的 Markdown 或结构化数据，通过智能爬取与语义解析，实现高效网页内容提取与结构化输出，核心亮点在于对复杂网页的高保真内容还原与 AI 友好的数据格式转换。
+- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成美观地图海报，利用Python处理轨迹并融合地图渲染，支持自定义样式与多格式输出，核心亮点为一键生成高颜值可视化作品。
+- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理管道基于深度学习精确预测生物分子复合物结构，采用图神经网络与多模态建模技术，实现蛋白质-蛋白质、蛋白质-DNA/RNA等复杂相互作用的高精度建模，核心亮点在于对生物大分子复合物的端到端联合建模能力。
+- **[google/langextract](https://github.com/google/langextract)** `Python` - 基于LLM实现从非结构化文本中精准提取结构化信息，支持源文档精准溯源与交互式可视化，提升信息抽取的可解释性与可信度。
+- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 提供360°视频与空间音频的规格定义与处理工具，基于Python实现多维度空间媒体数据的编码、解析与渲染，核心亮点为跨平台兼容性与标准化数据流支持。
+- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，通过语义扰动实现不可见盲水印，支持高鲁棒性文本水印生成与检测，核心亮点为语义一致性与抗篡改能力。
+- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度访问控制与事件触发，无需手动编写接口，实现数据层与前端/应用的高效对接。
+- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型无代码构建、丰富与转换数据集，利用TypeScript实现高效数据处理流程，核心亮点为集成LLM能力与低代码交互。
+- **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** `Rust` - 基于Rust实现的高性能分词器，支持BERT、GPT等主流模型，兼顾研究与生产需求，通过零拷贝与内存优化实现极致速度。
+- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理与应用全流程，整合开源工具与经典论文，支持高效知识组织与智能检索。
+- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 面向大语言模型应用的原生AI数据库，基于C++20与HNSW实现稠密向量、稀疏向量、张量与全文的极速混合检索，支持多向量与RAG场景。
+- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Redis构建的Python代理池，支持动态代理获取与自动检测，提升网络爬虫稳定性与效率，核心亮点为高可用代理自动筛选与分布式协同。
+- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)** `Python` - 该仓库系统整理了主流机器学习框架、库与软件，聚焦Python生态，按功能分类提供高质量资源导航，助力开发者快速发现与评估工具。核心亮点为持续更新、社区驱动与分类清晰。
+- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，聚焦底层算子优化与GPU并行计算，代码简洁可读，便于理解模型训练全流程，核心亮点为极简架构与高性能CUDA实现。
+- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 汇聚云平台计费与支付领域权威资源，涵盖成本管理、账单生成、定价策略等核心场景，通过结构化知识库助力企业实现精细化财务运营与自动化决策。
+- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python实现豆瓣读书信息爬取，通过解析网页结构与反反爬策略，高效抓取书籍、评分、评论等数据，支持批量导出与结构化存储，核心亮点为稳定抓取与灵活数据处理。
+- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将邮件新闻稿自动转换为 Atom 订阅源，通过 TypeScript 实现解析与标准化处理，支持一键订阅与持续更新，核心亮点为零配置、高兼容性与可扩展的解析引擎。
+- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并用Cypher查询，实现股票关联关系的可视化与智能检索。核心亮点是轻量级架构与可扩展的图谱查询能力。
+- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，采用Python实现知识抽取、图谱存储与RAG增强问答，核心亮点为结构化医学知识与自然语言交互的深度融合。
+- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建可问答的医疗知识系统，通过检索增强生成提升答案准确性，实现demo级医学问答原型。
+- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建知识图谱，实现文档语义的可视化图谱呈现，提升信息理解与分析效率。
+- **[lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)** `Unknown` - 该仓库系统整理并归纳代表性大语言模型文本数据集，提供结构化索引与分类，助力研究者高效获取高质量训练与评测数据，提升模型开发效率。
+- **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)** `Unknown` - 该仓库精选并每周更新顶级机器学习Python库，按类别与评分排序，助力开发者高效发现优质工具。核心亮点为权威性与持续维护的高质量资源聚合。
+- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 实现高精度语音识别并生成词级时间戳与说话人分离，基于 Whisper 模型改进，融合轻量级 diarization 与时间对齐算法，显著提升语音转写细节与可读性。
+- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据检索实现精准音乐信息自动标注，核心亮点为高精度音源识别与多格式标签写入。
+- **[microsoft/graphrag](https://github.com/microsoft/graphrag)** `Python` - 基于图结构的模块化检索增强生成系统，通过知识图谱构建与动态检索提升LLM问答准确性，支持复杂语义关联与上下文溯源。
+- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一个开源敏感数据保护框架，通过 NLP、规则匹配和可定制流水线，实现文本、图像和结构化数据中的 PII 检测、脱敏与匿名化，支持多模态数据处理。
+- **[milvus-io/milvus](https://github.com/milvus-io/milvus)** `Go` - Milvus 是基于 Go 语言构建的云原生向量数据库，支持高并发、大规模向量近似最近邻搜索，融合 HNSW、DiskANN 等高效算法，专为 LLM 和多模态应用中的向量相似性检索设计。
+- **[mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)** `Python` - MindsDB 是一个面向 AI 的联邦查询引擎，通过统一接口连接多种数据源并集成 LLM 能力，实现智能数据分析与决策支持，核心亮点在于其作为 MCP 服务器实现跨源 AI 查询与自动化推理。
+- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图分析与实时查询。
+- **[nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research)** `TypeScript` - 基于Firecrawl提取的海量网页数据，构建可自主推理的AI Agent实现深度研究。采用TypeScript开发，支持自动化信息搜集、分析与总结，核心亮点为端到端开源的深度研究工作流。
+- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建的多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类、去重与主题建模，高效结构化海量数据。
+- **[open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen)** `Python` - GraphGen通过知识驱动的合成数据生成技术，提升大模型监督微调效果，结合知识图谱与LLM构建高质量问答数据，显著增强模型在专业领域任务中的表现。
+- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** `Python` - 将复杂PDF等文档通过布局分析与OCR技术转化为LLM可用的markdown/json格式，支持智能Agent工作流，提升文档数据化效率。
+- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python构建的高精度PDF内容提取工具集，融合文本、表格、图像多模态解析与结构化输出，支持复杂版式智能识别与质量优化。
+- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 是基于 Model Context Protocol 的官方集成，通过 Python API 实现高效数据采集与 LLM 交互，支持电商爬取与上下文注入，核心亮点为无缝对接 LLM 与真实网络数据源。
+- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是面向 Python 的高效数据处理与分析库，提供类似 R data.frame 的带标签数据结构，支持灵活的数据清洗、转换与统计分析，核心亮点在于易用性与强大的向量化操作能力。
+- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是一款基于 Django 的开源文档管理系统，通过 OCR 与机器学习技术实现文档的自动扫描、索引与归档，支持 PDF 等多格式处理，提升文档管理效率。
+- **[pgalko/BambooAI](https://github.com/pgalko/BambooAI)** `Python` - BambooAI 是基于 LLM 的 Python 库，通过对话式交互实现数据发现与分析，融合 RAG 与工具调用能力，支持多模型接入与向量数据库，提升数据探索效率。
+- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是基于 PostgreSQL 的开源向量相似性搜索扩展，通过 C 语言实现高效近似最近邻搜索，支持大规模向量数据的快速检索与存储。核心亮点是与关系型数据库无缝集成，兼具高性能与易用性。
+- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言开发，通过简洁指令实现高效数据采集，核心亮点为低门槛、高性能与跨平台兼容性。
+- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于Go语言构建的AI驱动照片管理应用，支持自托管与去中心化部署，利用AI实现智能分类、人脸识别与内容搜索，核心亮点为本地化隐私保护与高性能图像处理。
+- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将 PPTX 文件解析为结构化 JSON 数据，基于 JavaScript 实现轻量级解析器，支持多级幻灯片内容提取与元数据保留，核心亮点为高兼容性与易集成性。
+- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一款 Go 语言编写的数据库迁移工具，支持 SQL 与 Go 函数的混合迁移，提供跨数据库（MySQL、PostgreSQL、SQLite）的版本化 schema 管理，通过简洁的命令行接口实现安全可靠的数据库演进。
+- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合NER与关系抽取技术实现精准信息提取，基于RAG架构支持智能问答与辅助决策，提升农业数据利用率与智能化水平。
+- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建可视化图谱生成工具，通过结构化数据输入与交互式探索，实现知识图谱的快速构建与展示，核心亮点在于低代码化与可复用的图谱模板。
+- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转换为知识图谱，支持图增强生成与基于知识图谱的问答，通过结构化关系挖掘实现语义理解跃迁。
+- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索工具，支持多源数据接入与智能分析，通过LLM驱动的自然语言查询实现高效数据洞察，核心亮点为低代码化数据探索与自动特征发现。
+- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 开发的高性能 S3 兼容对象存储系统，支持平滑迁移与多平台共存，具备高并发、低延迟特性，适用于云原生数据密集型场景。
+- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Python实现Open XML格式PowerPoint文档的生成与操作，支持复杂幻灯片结构、样式与内容动态插入，核心亮点为纯Python实现、无需Office依赖、高度可定制化。
+- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 通过构建高效的 LLM 数据提取流水线，实现对文档（如 DOCX）的结构化信息自动抽取，结合 prompt 工程与 NLP 技术，显著提升合同分析与文本智能处理效率。
+- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全华语现代诗语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成，核心亮点为海量高质量中文诗歌数据与标准化API接口。
+- **[shibing624/text2vec](https://github.com/shibing624/text2vec)** `Python` - text2vec 是一款开箱即用的文本向量表征工具，支持 Word2Vec、Sentence-BERT、CoSENT 等多种模型，将文本高效转化为向量矩阵，实现高精度文本相似度计算。
+- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建，整合数据抽取、实体关系识别与图谱存储技术，采用自动化流水线实现从非结构化文本到结构化知识网络的转化，核心亮点为高兼容性与可扩展的图谱构建框架。
+- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - SpeechBrain 是基于 PyTorch 的端到端语音处理工具包，支持语音识别、说话人识别、语音增强与分离等任务，采用模块化设计与预训练模型，显著降低语音AI研发门槛。
+- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件自动转换为结构化Markdown格式，基于Python解析Office Open XML规范，支持文本、段落、列表、标题等元素的精准提取与格式还原，核心亮点为高保真结构保留与多层级内容组织。
+- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据构建方法。
+- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现法律文本的结构化处理与分析，支持法律知识挖掘与智能应用开发。核心亮点在于高质量本地化法律数据集与可复现的处理流程。
+- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、模块化音频处理能力。
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据采集工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点为与大模型无缝集成、低代码配置和高效内容抽取。
+- **[varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)** `JavaScript` - 基于GPT-3从非结构化文本中推断知识图谱，利用JavaScript实现端到端构建，核心亮点是自动化关系抽取与图结构生成。
+- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高效渲染大规模图数据，通过物理模拟实现动态布局与交互，核心亮点为流畅的3D可视化与高性能WebGL渲染。
+- **[verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)** `Jupyter Notebook` - 该数据集收集1.5万余条ChatGPT提示，涵盖Reddit、Discord等来源，包含1,405条恶意越狱提示，用于研究LLM安全与对抗性攻击，支持模型鲁棒性评测与防御技术开发。
+- **[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)** `C++` - Nebula Graph 是一个分布式、高可用的开源图数据库，采用 C++ 开发，支持水平扩展与强一致性，基于 Raft 协议实现高可用，适用于大规模图数据的高效存储与查询。
+- **[vincent623/My-Starred-Repositories](https://github.com/vincent623/My-Starred-Repositories)** `Python` - 该仓库聚焦于Python驱动的AI项目集成与工具链构建，涵盖LLM应用开发、自动化工作流及数据处理流水线，通过模块化设计提升AI工程化效率，核心亮点在于开箱即用的API封装与可扩展架构。
+- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于AI Agents与LLMs构建智能投研系统，融合实时数据处理与策略推理，实现自动化交易决策。核心亮点为多智能体协同与动态风险对冲机制。
+- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 基于JavaScript构建的豆瓣API服务，提供豆瓣数据的标准化接口访问，支持用户、电影、图书等资源的查询与聚合，核心亮点为低延迟响应与结构化数据输出。
+- **[weaviate/weaviate](https://github.com/weaviate/weaviate)** `Go` - Weaviate 是基于 Go 语言的开源向量数据库，支持向量与结构化数据混合存储，融合近似最近邻搜索与语义检索，提供高可用、可扩展的云原生搜索能力。
+- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到实战的全链路技术，涵盖抓包工具、爬虫框架、反爬破解、数据库操作及分布式实现，适合零基础入门与进阶实战。
+- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，实现公众号内容自动化采集与备份，支持多账号管理与结构化存储，核心亮点为高稳定性与易扩展的前后端架构。
+- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - 基于PyTorch实现的Real-ESRGAN模型，针对通用图像与视频复原任务，有效提升超分辨率、去噪及JPEG压缩伪影去除效果，支持真实场景复杂退化建模。
+- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据（3D LiDAR点云、图像、LLM）的全栈标注平台，基于 TypeScript 构建，支持高精度标注与融合分析，核心亮点为多模态协同标注与实时协作能力。
+- **[yuweiyang-anu/ECD](https://github.com/yuweiyang-anu/ECD)** `Python` - 该仓库实现面向多模态大模型图表理解的高效训练数据合成方法，通过可控生成与质量过滤提升数据多样性与准确性，显著增强模型在复杂图表上的泛化能力。
+- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱构建工具包，支持中文文本的实体、关系与属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
 
 ## Productivity
 
-*308 个项目*
+*329 个项目*
 
-- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目集合，汇聚多元技术实践与开源作品，涵盖AI应用、工具链及垂直场景解决方案，通过协作共享推动创新落地。
-- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 研究库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，基于语义搜索与上下文感知提升科研效率。
-- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 一款基于TypeScript开发的Photoshop插件，支持通过Automatic1111或ComfyUI后台生成Stable Diffusion图像，实现AI绘画一键嵌入设计流程，提升创作效率与用户体验。
-- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 基于 React 与 Next.js 构建的开源隐私优先简历生成工具，支持完全本地化定制与无缝导出，采用 TailwindCSS 与 Material-UI 实现现代化界面，无需云端存储。
-- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 基于Docker化部署的程序员居家烹饪指南，通过结构化菜谱与自动化流程，帮助开发者高效复现中式家常菜，核心亮点为代码化食谱与环境一键部署。
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过AI自主代理实现代码生成与代码库构建，支持从需求到完整项目结构的自动化生成，核心亮点是端到端的代码工程自动化能力。
-- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码与代码并行的网页应用构建工具，基于 ReactJS 与 FastAPI 构建，支持快速搭建可交互的 Web 应用，核心亮点在于低门槛开发与前后端一体化部署能力。
-- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻与言情网文创作，采用轻量化预训练策略实现高效生成，支持长文本连贯性与风格多样性。
-- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++实现的微信聊天记录导出工具，通过解析iTunes备份与SILK音频格式，支持文本、图片、语音等多类型数据提取，具备高兼容性与低侵入性。
-- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取指定网站生成结构化知识文件，支持基于URL快速构建自定义GPT，利用TypeScript实现高效数据提取与知识组织，核心亮点为一键式知识资产构建。
-- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文的全文双语翻译，完整保留原始排版与数学公式，支持多引擎接入与多种使用方式，显著提升科研文献跨语言阅读效率。
-- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的对话交互界面，通过前后端分离架构实现高效通信与动态渲染，核心亮点在于低门槛部署与流畅的用户体验。
-- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 基于 TypeScript 构建的一站式 AI 网页服务聚合平台，支持一键部署 ChatGPT 及多类 AI 工具，集成 MidJourney、Stable Diffusion 等模型，提供统一访问入口与可视化交互体验。
-- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过扩展程序实现网页内即时对话、内容摘要与生成，支持多浏览器平台，核心亮点为无缝嵌入式AI交互体验。
-- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 Next.js 与 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 和 Windows，集成 GPT-4o、Claude、Gemini 等主流大模型，提供低延迟本地化与云端混合推理体验。
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 和 TypeScript 构建的桌面端多 LLM 服务商客户端，支持 OpenAI、Anthropic 等主流模型接入，提供统一交互界面与高效代理调度能力，核心亮点为跨平台统一接入与插件化代理架构。
-- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建私有知识库实现高效文档问答，支持本地化部署与多格式文档解析，核心亮点在于低门槛接入与高精度语义检索。
-- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI的数据库智能客户端，支持多数据库类型，通过自然语言生成SQL，实现高效数据查询与分析，核心亮点为高兼容性与精准Text-to-SQL能力。
-- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 为 ComfyUI 提供可视化节点管理能力，支持自定义节点的安装、启停与卸载，集成资源 hub 与信息查看功能，显著提升工作流管理效率。
-- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，打造支持语音对话、多模态内容生成与表格分析的AI助手，通过Go语言实现高效服务部署，提升办公效率。
-- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，实现文本提取与结构化处理，结合Python工具链高效完成内容理解与信息萃取，核心亮点在于自动化文档智能分析能力。
-- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话模型微调与魔改版本，提供完整训练、推理、评测与部署教程，支持本地化高效部署与中文场景优化。
-- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - 基于RSS技术聚合全球多平台内容，支持B站、微博、知乎等主流平台的实时信息订阅，通过TypeScript构建高效、可扩展的统一内容入口，实现信息自由流动。
-- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 一款基于 TypeScript 的浏览器扩展，通过集成 RSSHub 服务，一键发现并订阅 RSS 源，简化内容聚合流程，支持 Chrome 与 Firefox。核心亮点在于无缝对接开源 RSSHub 生态，实现零配置快速订阅。
-- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro构建高性能AI代码与内容生成工具，支持OpenAI兼容接口与流式/非流式调用，实现高效、高质量的AI应用体验。
-- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化编排的 AI 工作流构建平台，支持低代码/无代码构建复杂 AI Agent 与多智能体系统，集成 LangChain、OpenAI 等主流 LLM 生态，实现高效流程自动化。
-- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 是一个完全本地运行的自主智能体系统，基于 DeepSeek-R1 模型实现无网络 API 依赖的自主思考、网页浏览与代码生成，仅消耗电费即可运行。
-- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 是首个基于多智能体协作的自然语言编程框架，通过角色分工与自主协作实现从需求描述到代码生成的端到端自动化，核心亮点在于模拟真实软件公司运作模式。
-- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个开源的 AI 代理系统，基于 Python 构建，致力于打造无需围墙的开放智能协作环境。通过模块化 Agent 架构与灵活工具链，实现自主任务规划与多轮交互，核心亮点在于极致开放性与可扩展性。
-- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求封装、流式响应与错误处理，核心亮点是简洁可复用的封装模板与真实场景示例。
-- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成个性化求职信并自动发送至中国雇主，提升求职效率。核心技术为LLM驱动的文本生成与自动化消息推送。
-- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 提供 Figma 布局数据的 MCP 服务，通过 TypeScript 实现高效接口对接，赋能 AI 编码助手（如 Cursor）精准理解设计稿，核心亮点是低延迟、结构化设计信息提取。
-- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的通用本地知识库方案，支持私有化部署与高效检索增强生成，实现安全可控的知识问答与文档理解。
-- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitBook 是开源的前端框架，用于构建现代化的文档站点，支持 Markdown 与 Git 集成，通过 TypeScript 实现高性能、可扩展的文档展示与协作体验，核心亮点在于开箱即用的文档渲染与版本管理能力。
-- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，融合RAG与动态工具调用，高效完成信息检索、分析与报告生成。
-- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型实现简化版 RAG，结合高效检索与生成机制，降低部署门槛并提升推理效率，核心亮点在于小模型上的高性能知识增强生成。
-- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - StoryDiffusion 通过多模态扩散模型与叙事结构建模，实现高质量故事生成与视觉化呈现，结合 Jupyter Notebook 交互式环境，支持可控、连贯的文本-图像协同创作，核心亮点在于叙事一致性与跨模态语义对齐。
-- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 语法实现应用的安装、卸载与更新，核心亮点在于与 Homebrew 生态无缝集成，支持广泛的应用分发。
-- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动完成视频字幕切割、翻译、对齐与配音，基于AI实现Netflix级本地化流程，支持多语言无缝转换与语音克隆。
-- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT/Ollama 构建，可一键生成中英文 PPT 内容，支持自然语言输入直接转换为结构化幻灯片，核心亮点在于低门槛、高效率的智能内容生成与多语言输出能力。
-- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，聚焦AI驱动的虚拟形象对话系统，融合多模态交互与个性化生成，实现自然流畅的数字人对话体验，核心亮点在于端到端的Avatar行为建模与上下文感知对话引擎。
-- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift开发的个性化日记应用，融合自然语言处理与情感分析技术，自动记录并智能整理用户日常体验，支持多模态输入与隐私安全存储，核心亮点为情感洞察与自动生成成长报告。
-- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT-v1 通过 AI 一键总结音视频与网页等内容，支持多平台输入（B站、YouTube、会议等），结合 LLM 实现高效内容提炼与对话交互，核心亮点在于全链路自动化与多源内容泛化处理。
-- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建可定制的个性化AI导师系统，通过动态提示工程实现自适应学习路径，支持多轮交互式教学与知识反馈优化。
-- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库整理了120+按类别划分的LLM相关库，涵盖模型部署、推理优化、工具集成等，帮助AI工程师高效构建生成式AI应用，核心亮点是分类清晰、资源集中、持续更新。
-- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于Web的阅读优化扩展，通过JavaScript实现一键提取网页精华内容，结合React与Readability技术，提供简洁、无干扰的沉浸式阅读体验。
-- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需服务器即可直接在浏览器中调用 ChatGPT，实现隐私安全的对话交互，支持异步流式响应与自定义配置。
-- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，将ChatGPT改造为具有猫娘人格的交互角色，融合萌系语言风格与拟人化行为逻辑，实现趣味性与可用性的平衡。
-- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 该仓库系统介绍大语言模型的核心原理、技术演进与应用实践，基于Python实现关键模型与训练流程，涵盖预训练、微调与推理全链路。核心亮点为理论与代码结合，适配中文学习与研究需求。
-- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue构建的VSCode插件，为MCP开发者提供一站式AI开发支持，集成LLM调用、Agent编排与代码辅助，通过轻量化架构实现高效开发体验。
-- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 该仓库是 LearnOpenGL 官方系列教程的简体中文翻译项目，通过协作翻译与 Web 工具化呈现，帮助中文开发者高效学习图形编程。核心亮点为高质量、持续更新的中文教程生态。
-- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 的 Markdown 编写能力，结合 reveal.js 实现静态幻灯片生成，支持实时预览与代码高亮，核心亮点在于无缝集成笔记与演示文稿工作流。
-- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步友好的API调用，核心亮点是原生Swift生态集成与简洁的API设计。
-- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - MadcowD/ell 是一个面向语言模型编程的 Python 库，通过模块化设计简化 LLM 任务开发，支持灵活的提示工程与模型交互，核心亮点在于低门槛构建复杂语言模型应用。
-- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** `JavaScript` - Mintplex-Labs/anything-llm 是一款集成了 RAG、AI Agent、无代码构建与 MCP 兼容性的本地化桌面及 Docker AI 应用，支持多模型与多模态，实现本地化智能自动化处理。
-- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持 Imgur、GitHub、阿里云 OSS、七牛云、腾讯云 COS 等多平台一键上传，界面简洁高效，提升内容创作与技术文档编写中的图片管理效率。
-- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，通过拖拽式界面降低提示工程门槛，提升提示词开发效率与可复用性。
-- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript构建插件实现文献智能检索与摘要生成，核心亮点在于无缝衔接学术工作流，提升研究效率。
-- **[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)** `JavaScript` - 易采集是一款可视化无代码网页爬虫工具，通过图形化界面设计爬虫任务，支持浏览器自动化与数据采集，降低技术门槛，提升非技术人员的数据获取效率。
-- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译管理机制，实现笔记内容的实时多语种切换，核心亮点在于零配置本地化与插件生态兼容性。
-- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 通过自然语言指令驱动多智能体协作，自动生成定制化软件代码，利用LLM实现需求理解与任务分解，核心亮点为端到端自动化开发流程与高度可扩展的Agent架构。
-- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的智能开发助手，通过 CLI 交互实现代码生成与自动化操作，支持多模型接入，显著提升开发效率。核心亮点在于低代码、高集成性与可扩展的 AI Agent 架构。
-- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集ChatGPT相关资源与应用，涵盖API使用、提示工程、开发工具与实战案例，为开发者提供一站式学习与实践指南。
-- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库归档了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，通过JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于持续迭代的社区协作与高兼容性。
-- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 基于sd-webui的提示词增强扩展，提供直观输入界面、自动翻译、历史记录与收藏功能，显著提升图像生成提示词的编写效率与体验。
-- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化提示工程指南，通过结构化提示模板帮助用户精准控制模型输出，提升对话效率与可用性。核心亮点为覆盖多场景实用技巧与进阶调教方法。
-- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 基于本地GPT模型实现文档对话，支持私有化部署与数据零外泄，通过向量检索与本地推理技术，让用户在无网络环境下安全高效地与文档交互。
-- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 是一款基于 TypeScript 构建的 AI 驱动型聚合阅读工具，整合 RSS 与区块链技术，实现跨平台内容自动抓取、智能分类与去中心化存证，核心亮点在于 AI 内容理解与去中心化信任机制。
-- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，可自动策划、生成与编辑 YouTube Shorts/TikTok 内容，结合多模态输入与自动化工作流实现端到端短视频生产。
-- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，通过RAG技术实现高效文档问答与知识检索，支持多源数据接入与结构化处理，核心亮点在于低延迟响应与可扩展的知识图谱集成。
-- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整合AI竞赛经验与训练技巧的HTML集合仓库，聚焦计算机视觉、NLP、推荐系统等领域，通过结构化内容助力参赛者快速提升实战能力。
-- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 构建扩展插件生态，通过 Python 实现自动化任务执行与外部系统集成，支持动态调用 API、文件操作与工具链协同，核心亮点为高可扩展性与开箱即用的 Agent 工具集成能力。
-- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主运行的AI智能体，基于大语言模型实现目标驱动的自我规划与执行，核心亮点为无需人工干预的自动化任务闭环。
-- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境配置与自动化依赖管理，核心亮点在于极简操作与高度可定制的启动方案。
-- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，AI-to-PPTX可智能生成PPT大纲并支持多模板导出PPTX，前后端开源，实现高效智能演示文稿创作。
-- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互式实验与部署环境，支持多种规模的 LLM 推理与微调，核心亮点在于开源透明与易用的本地化部署能力。
-- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地部署的PDF多功能Web工具，基于Java实现PDF合并、转换、编辑、OCR等操作，支持Docker化部署，提供高效、安全的离线PDF处理能力。
-- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - TalAter/annyang 是基于 JavaScript 的网页语音识别工具，通过浏览器原生 Web Speech API 实现语音转文本，支持实时语音输入与自然语言交互，核心亮点是轻量级、无需后端依赖、开箱即用。
-- **[Tencent-Hunyuan/Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** `Python` - Hunyuan-MT 是腾讯混元大模型系列的多语言文本处理模型，基于 Python 构建，支持高效多语言生成与理解，采用大规模预训练与持续优化技术，核心亮点在于跨语言语义对齐与低延迟推理能力。
-- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 基于小型语言模型在命令行中生成3D文件，利用Go语言实现高效轻量级推理与模型调用，支持结构化提示与代码化输出，核心亮点为低资源环境下快速构建3D内容。
-- **[TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)** `Python` - 基于用户Zotero文献库，每日自动筛选并推荐相关arXiv论文，通过GitHub Action实现自动化，支持邮件推送，提升科研文献追踪效率。
-- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展、可进化架构，通过模块化设计实现文本生成与内容创作能力的持续迭代。
-- **[WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources)** `Unknown` - 汇集全球顶尖LLM资源，涵盖模型训练、推理、Agent、RAG、多模态及编程辅助等全链路内容，提供结构化学习路径与实战工具推荐。
-- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 该仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定可靠的远程服务器，核心亮点在于流程清晰、适配多场景部署需求。
-- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 本仓库汇集多个 ComfyUI 工作流，支持 Stable Diffusion 图像生成的高效编排与自动化，通过节点化流程实现灵活定制，核心亮点为模块化设计与即插即用的多场景工作流模板。
-- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化方式呈现大模型的推理路径，利用 HTML 实现交互式推理流程展示，核心亮点在于直观揭示 LLM 内部逻辑链，提升可解释性与调试效率。
-- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过AI将截图一键转换为结构化前端代码（HTML/Tailwind/React/Vue），结合多模态理解与代码生成技术，实现视觉到代码的精准映射，核心亮点在于高保真还原与多框架输出。
-- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 库与 CLI 工具，支持 gpt-3.5-turbo 等模型调用，无需官方 API 密钥即可实现对话交互，核心亮点为开源、易用、兼容性强。
-- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户语言并本地化转录存储，通过私有服务器实现完全数据自主，支持上下文感知的个性化对话交互。
-- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供简洁高效的交互体验，核心亮点为开箱即用的 Agent 通信能力与可定制化 UI。
-- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 的桌面应用，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等多款主流大模型，通过统一界面实现跨平台多对话管理，核心亮点为高效集成与实时对比生成结果。
-- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM构建智能对话引导者，通过动态推理与上下文理解驱动深度交互，实现自然流畅的个性化对话体验。
-- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与动态交互，支持“写一次，多端个性化交付”，提升文档创作效率与用户体验。
-- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，助力团队高效构建一致的用户界面。通过社区协作与持续维护，提升设计与开发协同效率。
-- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写机制避免内存溢出，支持大文件快速解析与生成，兼顾性能与稳定性。
-- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，基于TypeScript构建，支持GPT应用的发布、发现与集成，提供统一的开发与部署框架，核心亮点是开箱即用的GPT商店生态与标准化接口。
-- **[amazon-science/auto-cot](https://github.com/amazon-science/auto-cot)** `Jupyter Notebook` - 基于大语言模型实现自动链式思维提示，通过自动生成推理过程提升复杂任务的准确率，核心亮点是无需人工设计思维链即可实现高效推理。
-- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 基于Python构建的翻译智能体，利用LLM实现多语言自动翻译与上下文理解，支持动态调用翻译工具链，提升翻译准确率与本地化适配能力。
-- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，采用 Rust 语言构建，兼顾性能与安全，支持跨平台同步与自定义内容，核心亮点在于高效记忆强化与极简主义设计。
-- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - 该仓库为 Anthropic 官方公开的 Skills 项目，提供基于大语言模型的可复用任务执行能力，通过结构化 API 接口封装复杂推理与工具调用逻辑，支持多场景自动化任务编排。核心亮点在于模块化设计与与 Claude 模型深度集成。
-- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 该仓库提供基于Shell脚本的LLM排序优化工具，通过自动化策略提升大模型推理效率与输出质量，核心亮点在于轻量级部署与可复用的优化流水线。
-- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为 JavaScript 实现的 LeetCode 题解集合，系统性记录算法与数据结构的解题过程，涵盖常见面试题型与优化思路，助力开发者高效备赛。
-- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT 通过整合 LLM 与 PDF 内容解析，实现用户与 PDF 文档的自然语言对话，核心亮点在于本地化部署的 RAG 架构与高效文本处理能力。
-- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 基于多模型支持的学术型LLM交互平台，聚焦论文阅读、写作与代码解析，通过模块化插件与并行推理优化科研效率，支持本地与云端模型无缝切换。
-- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，集成智能代理与知识检索，提升开发效率与协作质量。核心亮点为AI代理协同与可扩展的开发流水线。
-- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将EPUB/Kindle等格式书籍一键翻译为指定语言，集成AI翻译引擎与格式保持技术，实现高质量、无损排版转换。
-- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧与最佳实践，涵盖提示工程策略、结构化输入设计与输出优化方法，核心亮点在于系统化提炼高效果提示模式。
-- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入实现Obsidian笔记间的智能连接，支持本地模型与主流API（如Claude、Gemini、GPT等），通过语义相似度自动发现相关笔记，提升知识发现效率。
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI Agent的网页自动化，让LLM能直接操作浏览器完成在线任务，支持复杂交互与状态管理，核心亮点是低代码接入真实网页环境。
-- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果自动生成AI研究报告的开源替代Gemini Deep Research工具，采用TypeScript构建，融合检索增强生成与智能摘要能力，支持高效知识提炼与结构化输出。
-- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展可将用户用母语编写的图像生成提示词自动翻译为英文，支持Stable Diffusion WebUI无缝使用，核心亮点是低侵入式集成与多语言实时翻译能力。
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动贡献的开源深度研究框架，通过多智能体协同与工具链集成（如搜索、爬取、Python 执行），实现自动化深度调研，支持可复用的智能工作流。
-- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现高效任务闭环，核心亮点在于端到端的自动化工作流编排与上下文感知的动态决策。
-- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好桌面客户端，支持GPT、Claude、Gemini、Ollama等多模型无缝接入，提供统一对话界面与本地化运行能力，核心亮点为跨平台兼容性与低延迟本地推理。
-- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - 基于React与TypeScript构建的全功能聊天机器人客户端，支持多平台接入与浏览器扩展集成，提供统一对话界面与高效交互体验，核心亮点在于跨平台一致性与低延迟响应。
-- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务矩阵系统，通过模块化设计实现任务调度与自动化执行，结合AI Agents与轻量级RAG机制提升任务理解与决策能力，支持多场景高效协同。
-- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目系统整理ChatGPT的开源替代模型，涵盖文本与多模态大模型，提供模型索引与使用指引，助力用户快速定位高性能、可本地部署的AI模型。
-- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 通过本地运行 OpenAI Whisper 实现音频的离线转录与翻译，无需依赖云端服务，保障数据隐私。支持多语言处理，适用于个人与企业级私有化场景。
-- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 平台，通过集成 AI Agent 与工具链实现自动化消息处理与任务执行，支持多场景交互与外部服务调用，核心亮点为轻量级部署与实时响应。
-- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能的 Rust 日期时间库，提供精准的日期时间处理、时区支持与格式解析，基于 Rust 类型系统实现安全可靠的操作，核心亮点为零成本抽象与广泛的时间计算能力。
-- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码代理，可受控地执行文件创建/编辑、命令运行与浏览器操作，通过权限管控实现安全高效的智能编程辅助。
-- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型兼容服务，自动分析Paperless-ngx文档并智能打标，支持多模态输入与本地化部署，实现文档智能归档与检索。
-- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 基于LLaMA模型的轻量级本地部署方案，通过优化推理流程实现低资源环境下高效运行，核心亮点为极简配置与开箱即用的本地推理体验。
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈（如HTTP服务器、数据库、编译器）从零构建，强化编程底层理解，结合渐进式教程与可运行代码，实现深度学习与工程实践融合。
-- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署与多源聚合，通过TypeScript与NestJS构建高效服务，实现订阅体验的优雅升级。
-- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 该仓库汇聚上百个可一键部署的开源项目，支持Docker化运行，提供项目地址与详细教程，大幅降低技术门槛，助力快速搭建AI与开发工具链。
-- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于TypeScript构建的自动化文章分发平台，支持多渠道一键发布，集成Node.js与MongoDB，实现文章内容的高效聚合与跨平台分发，核心亮点为开箱即用的媒体适配器与Docker化部署。
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 是一个用于编排角色扮演型自主 AI 代理的框架，通过协作智能让多个 AI 代理协同完成复杂任务，支持灵活的任务分工与动态交互。
-- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - D2L-EN 是一本交互式深度学习教材，融合多框架代码、数学推导与讨论，支持 PyTorch、TensorFlow、JAX 等主流框架，广泛应用于全球500所高校教学。
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析绘图结构并生成帧序列实现手绘风格动画，支持流畅过渡与关键帧控制，核心亮点为低代码化动画创作与实时预览。
-- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 该仓库系统整合 prompt engineering、上下文工程、RAG 与 AI Agent 的前沿指南与实践资源，通过 MDX 格式提供可交互的教程与案例，助力用户高效构建智能对话系统。
-- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个基于 JavaScript 的开源 AI 增强框架，通过模块化 AI 提示库赋能人类解决具体问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链生态。
-- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是一款开源摄影工作流应用与原始图像处理工具，基于 C 语言开发，提供非破坏性编辑、批量处理及专业级 RAW 转换功能，核心亮点在于高性能图像处理引擎与模块化架构。
-- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持自然语言交互与任务执行，具备高效推理与企业级部署能力。
-- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 将PDF快速转换为高精度Markdown与JSON格式，基于Python实现结构化提取，结合OCR与LLM理解技术，精准还原文档内容与布局。
-- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 基于吴恩达大模型课程中文版，通过Jupyter Notebook提供LLM入门实践教程，涵盖模型调用、提示工程与应用开发，内容系统、代码可运行，适合快速上手大模型开发。
-- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口适配提升开发效率，核心亮点在于生态兼容性与快速部署能力。
-- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库精选优质资源，帮助产品经理与项目管理者系统学习产品管理知识与实践方法，涵盖战略规划、用户研究、敏捷开发等核心领域，通过结构化内容提升专业能力。
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地运行方案，基于 Electron 构建图形化界面，无需依赖配置或技术背景即可快速生成高质量图像。
-- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于 Vue3 和 Vite 构建的微信端 Markdown 编辑器，支持语法高亮、自定义主题、多图床与 AI 助手，集成 LLM 能力实现智能写作辅助，轻量高效，适配移动端写作场景。
-- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于ICLR 2024 Oral的生成式高斯点云框架，通过文本或图像输入高效生成3D内容，利用可微分高斯溅射与扩散模型融合实现高质量3D重建与生成。
-- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 基于TypeScript构建的AI研究代理，通过迭代式搜索、网页抓取与大语言模型融合，实现对任意主题的深度探究与方向自适应优化，核心亮点是极简架构下的高效深度研究闭环。
-- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收录各类AI自主代理项目，涵盖从自动规划到任务执行的完整链路，基于大语言模型实现端到端自动化，核心亮点为生态整合与社区驱动的开放协作。
-- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库整理了 GPT-3 相关的优质资源，涵盖模型应用、工具链与开发实践，助力开发者快速构建基于 GPT-3 的智能应用。核心亮点是资源聚合与场景化指引。
-- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的在线协作白板工具，支持手绘风格的图表绘制，通过 Canvas 实现流畅绘图与实时协作，核心亮点为低延迟交互与简洁直观的界面设计。
-- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建私有AI集群，通过轻量化部署与分布式协同实现本地化大模型运行，支持多终端接入与持续推理优化，核心亮点为低门槛、高可用的自建AI基础设施。
-- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现可复用的提示工程方案，提升AI交互效率与输出质量。
-- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术，结合Selenium与大模型能力，实现简历智能匹配与多岗位一键投递，提升求职效率。核心亮点在于个性化申请与全流程自动化。
-- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 通过Python脚本一键修改Cursor设备ID并解除锁定状态，利用底层配置文件替换与校验机制实现快速解绑，核心亮点为操作简便、无需官方授权即可恢复使用。
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 提供免费开源编程与计算机科学课程，基于 TypeScript 构建 Web 工具与互动学习平台，核心亮点为社区驱动的全栈课程体系与实时编码练习。
-- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 React.js 与 TypeScript 构建的现代化文档框架，支持 MDX、Contentlayer 和 App Router，提供灵活的文档内容管理与渲染能力，核心亮点在于开箱即用的 Next.js 集成与可扩展的文档结构设计。
-- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于 TypeScript 快速构建专属 ChatGPT 应用，集成 OpenAI API 实现对话能力，支持自定义提示词与接口配置，开箱即用且易于扩展。
-- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件通过纯JavaScript转换为HTML，支持跨平台展示与交互，无需依赖服务器端处理，核心亮点为前端完整解析与动态渲染。
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动化发布与智能生成。
-- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务及付费的AI对话系统，集成Docker实现快速部署，支持免费商用，适用于轻量级AI对话场景。
-- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合时间序列渲染生成动态轨迹动画，支持多格式输出与可视化配置，核心亮点在于高效轨迹解析与可定制化动画效果。
-- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 通过MCP协议实现Cursor AI Agent与Figma的双向通信，支持AI读取设计稿并编程式修改，提升设计协作效率。核心亮点在于原生集成与低代码交互。
-- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 UI，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
-- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭物资与厨房管理 ERP 系统，通过 PHP 和 Blade 模板实现，支持食材库存、购物清单、食谱管理与智能餐食规划，核心亮点在于数据自主掌控与高度可定制化。
-- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的系列实用工具与学习项目，涵盖从零入门到实战应用，包含12306抢票、地址库、网站爬虫等，代码结构清晰，适合编程学习与工程实践。
-- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/JavaScript 的开源演示框架，通过简洁的 Markdown 语法与灵活的插件系统，实现响应式、可扩展的幻灯片展示，支持实时预览与多端兼容。
-- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库精选优质数据可视化库与资源，帮助开发者快速定位高效绘图工具，支持多种图表类型与交互功能，提升数据呈现与分析效率。
-- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 该插件将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索引用、自动生成文献笔记并实现智能引用，提升科研写作效率。核心亮点为无缝衔接参考文献管理与知识笔记系统。
-- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol（MCP）构建的Excel操作服务器，通过LLM+Tool Calling实现对Excel文件的智能读写与自动化处理，支持流式响应与标准输入输出，提升办公效率。
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于AI大模型一键生成高清短视频，集成Python与MoviePy实现自动化视频合成，支持TikTok风格内容快速生产，提升创作效率。
-- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于Ollama构建的Obsidian插件，通过本地化LLM集成实现知识库智能增强，支持自然语言查询、内容生成与自动摘要，核心亮点为离线运行与无缝集成Obsidian生态。
-- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 基于Python的提示词优化工具集，支持提示词结构化分析、自动优化与A/B测试，提升LLM输出一致性与效果。核心亮点为可插拔优化策略与可视化调试能力。
-- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升 LLM 在代码生成与理解中的效率与准确性，核心亮点在于利用输入输出对实现轻量级、可泛化的推理建模。
-- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全面文档，支持从语音转录与文本自动提炼结构化内容，核心亮点为高精度语义理解与多轮内容优化能力。
-- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，致力于构建以代码为思维核心的 AI Agent，通过简洁的 API 实现自主推理与执行。核心亮点在于将 Agent 的思考过程显式表达为可执行代码，提升可控性与可调试性。
-- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 整理优质 ChatGPT 与 GPT-3 相关工具、演示、文档资源，按功能与用途分类，便于开发者快速发现高效实践方案，提升模型应用开发效率。
-- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理、应用全链路资源，支持从理论到实践的高效进阶，核心亮点为结构化分类与高质量开源项目聚合。
-- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据构建问答系统，利用Python实现结构化知识抽取与检索增强生成，支持自然语言查询。核心亮点是高效融合Notion文档与LLM能力，实现精准语义问答。
-- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown工具，支持从创意到论文、演示文稿与书籍的一体化创作，融合脚本化处理与高级排版能力，实现高效知识管理与多形态输出。
-- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent 通过智能代理架构实现从文本到幻灯片的生成与多维度评估，结合 LLM 与工作流引擎，支持内容生成、结构优化与质量评测，突破传统文本到幻灯片的简单映射。
-- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代 macOS 视频播放器，采用 Swift 开发，提供流畅的播放体验与简洁的界面设计，支持多种格式和硬件加速。
-- **[intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode)** `Swift` - 为 Xcode 提供集成的 AI 代码补全与生成能力，支持 GitHub Copilot、Codeium 和 ChatGPT，基于 Swift 开发，通过本地扩展实现低延迟智能编码辅助，核心亮点是多模型统一接入与原生 macOS 体验。
-- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇集本地运行的AI工具，支持离线部署与隐私保护，涵盖模型推理、Agent构建与自动化工作流，核心亮点为轻量化、可扩展及社区驱动生态。
-- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，提供安全私密的对话体验。
-- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集高质量 macOS 平台应用软件，涵盖开发、设计、效率等多个领域，通过精选与持续维护提供可靠工具清单，核心亮点为权威性与高实用性。
-- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 为编程初学者提供系统化的技术面试指南，内容涵盖基础知识、算法题解与面试技巧，通过结构化整理帮助学习者高效准备面试。核心亮点是面向零基础用户的友好路径设计与持续更新的题库资源。
-- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一个用 Haskell 实现的通用标记转换工具，支持多种文档格式间的高效转换，核心亮点在于强大的解析器架构与可扩展的插件机制。
-- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式定制，显著降低 UI 主题开发门槛。
-- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python的自动化代码迁移工具，支持跨框架与语言的智能重构，利用语义分析与模式匹配实现高效转换，核心亮点为高保真度与可扩展的迁移模板体系。
-- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全流程自动化处理，支持全文总结、专业翻译、语言润色、审稿意见生成及回复建议，显著提升科研效率。
-- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT构建中文本地化版本，支持自主任务规划与执行，集成GPT-3.5/Turbo API，赋能AI自动化工作流。核心亮点为中文语境优化与社区驱动持续迭代。
-- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全类型书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标与全文检索，结合Next.js与React Native实现跨平台体验。
-- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的AI系统，通过结构化提示与生成控制实现连贯叙事，核心亮点在于将复杂故事生成分解为可复用的模块化流程。
-- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，突出可读性与教学价值。
-- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零开始构建神经网络，结合直观可视化与数学推导，系统讲解深度学习核心原理与实现细节，核心亮点在于理论与实践深度融合。
-- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源文档，将知识高效转化为Anki记忆卡片，支持多种格式输入与自动化处理，实现知识资产的长效记忆闭环。
-- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统实现自然语言到可运行代码的自动转换，融合LLM与DevOps工具链，支持多语言扩展与现有代码无缝集成，提升开发效率。
-- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 该仓库为高增长初创企业创始人和领导者精选权威资源，聚焦决策、领导力与创业实战，通过结构化分类与深度评述提供可落地的行动指南。
-- **[kuchin/awesome-tpm](https://github.com/kuchin/awesome-tpm)** `Unknown` - 该仓库为技术项目管理（TPM）专业人士整理的精选资源清单，涵盖规划、执行与跨团队协作的实践指南与工具推荐，以结构化路线图形式提升项目交付效率。
-- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存公开API接口信息，便于开发者查阅与研究，采用静态托管方式实现高效访问与版本追溯。核心亮点在于完整保留原始文档结构与历史版本。
-- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 汇集基于LangChain框架的优质工具与项目，涵盖开发、集成与部署全链路资源，助力开发者高效构建LLM应用。核心亮点为生态聚合与快速接入能力。
-- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 构建的全栈云开发平台，提供函数计算、数据库、对象存储等能力，支持快速部署与协同开发，核心亮点在于开箱即用的 Serverless 架构与一体化开发体验。
-- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化网页研究与报告生成助手，基于本地运行的LLM与工具链，实现从网页抓取、信息提炼到报告撰写的全链路自动化，支持完全离线使用与隐私保护。
-- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码方式编排多智能体协作与自动化流程，集成 OpenAI、Gemini 等主流 LLM 与 MCP 协作框架。
-- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化与元提示词设计框架，通过标准化模板提升提示工程效率，助力用户高效构建高精度 Prompt，已在全球超万名用户中验证。
-- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将电子邮件新闻邮件自动转换为 Atom 订阅源，利用 TypeScript 构建高效解析与聚合逻辑，核心亮点是免手动订阅、统一内容消费入口。
-- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 基于网页抓取与视频解析技术，实现微信视频号内容一键下载，支持多格式导出，操作简洁高效，无需登录即可获取高清视频资源。
-- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于Rust与Tauri构建的跨平台ChatGPT桌面应用，支持Mac、Windows和Linux系统，通过WebView集成OpenAI API，提供本地化、高性能的AI对话体验，核心亮点为低资源占用与原生系统融合。
-- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本仓库提供LangChain的中文入门教程，通过实战案例引导开发者快速掌握基于LLM的AI应用开发，涵盖API集成、提示工程与应用构建。核心亮点为中文本土化教学与完整项目示例。
-- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT内容自动生成，支持免费在线使用，用户输入主题即可快速生成结构化PPTX文件，核心亮点为零代码、高效率、无缝集成。
-- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 提供面向AI Agent的PUA（Prompt for User Agent）提示工程集合，基于HTML结构化组织，支持快速构建可复用的智能交互逻辑，核心亮点是模块化、开箱即用的Agent提示模板。
-- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` - FastChat 是一个开源的 LLM 全流程平台，支持模型训练、推理服务与评估，依托 Vicuna 和 Chatbot Arena 实践，提供高效、可扩展的 LLM 开发与部署方案，核心亮点在于统一的生态支持与社区驱动的评测体系。
-- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 在 Obsidian 笔记系统中集成 AI Copilot，通过 RAG 与 LLM 深度结合，实现智能问答、内容生成与知识关联，提升知识管理效率。
-- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是一个以隐私为核心、基于本地优先架构的开源知识管理与协作平台，使用 Clojure/ClojureScript 构建，支持 Markdown 与 Org-mode 语法，通过图谱化笔记实现知识连接。核心亮点在于本地存储、双向链接与去中心化协作。
-- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合区域资源与技术实践，推动二线城市数字化创新，展现区域科技活力与实践价值。
-- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 是面向设计工程师的开源 UI 组件库，基于 React 与 TailwindCSS 提供可复用的动画组件，支持 Framer Motion 实现流畅交互，开箱即用，免费供开发者快速搭建现代化前端界面。
-- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，支持多智能体协作与对话管理，通过结构化提示与上下文记忆实现自然流畅的群组交互，核心亮点为低延迟、高可扩展的实时群聊架构。
-- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本生成思维导图，通过 TypeScript 实现高效解析与可视化渲染，支持结构化文本到图形的无缝转换，核心亮点为零配置、高兼容性与实时交互体验。
-- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区维护的 Swift 生态优质库与资源清单，涵盖 iOS、Linux 平台的框架、扩展与工具，通过协作方式持续更新，助力开发者高效构建 Swift 应用。
-- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham的公开文章构建RAG系统，使用TypeScript实现文档嵌入、向量检索与上下文生成，支持自然语言问答与内容洞察，核心亮点为精准语义检索与可扩展的文本知识库架构。
-- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建AI应用商店，实现全栈本地化AI代理交互，支持多模态输入与实时响应，突出隐私安全与开发友好性。
-- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 提供通用 AI Agent 记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮交互与上下文持久化，提升 AI Agent 的连贯性与智能水平。
-- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI、LINE与Vercel构建的AI助手，通过Web端集成实现多平台对话交互，支持自然语言处理与实时响应，核心亮点为低代码部署与跨平台消息互通。
-- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是基于 jQuery 的 PPTX 转 HTML 工具，通过解析 PowerPoint 文件结构并转换为可交互的 HTML 内容，实现无依赖的演示文稿在线展示。核心亮点为轻量级、支持跨浏览器渲染与动态交互。
-- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据关联，自动为音乐文件打标，提升音源管理效率。核心亮点为精准的 AcoustID 音频识别与开放数据库支持。
-- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务需求自动调优提示词，提升LLM响应质量与一致性，核心亮点为任务感知决策与可迭代优化机制。
-- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理系统，通过GUI交互实现Windows自动化任务，融合Agent与Copilot能力，支持多工具协同与上下文记忆。
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库通过21个Jupyter Notebook教程，引导初学者快速掌握生成式AI核心技能，涵盖提示工程、大模型调用、RAG构建与多模态应用，结合Azure与OpenAI生态实现端到端实践。
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 将Office文档及PDF等文件高效转换为Markdown格式，基于Python实现，支持多种文档结构解析与语义保留，核心亮点为高兼容性与自动化处理能力。
-- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过持续学习与多模态交互实现个人智能体的演化，核心亮点为自迭代AI自我架构与跨域知识融合能力。
-- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于Python的文本编辑器式视频剪辑工具，通过自然语言指令实现精准剪辑，融合文本解析与视频处理技术，核心亮点为“所见即所得”的文本驱动剪辑体验。
-- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解论文核心思想与技术细节，提升科研与工程实践能力。
-- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档智能问答与精准溯源，通过向量检索与大模型推理融合，提供高准确率即时引用答案。
-- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 该仓库通过 Jupyter Notebook 形式系统化整理 GPT 提示工程实战案例，涵盖提示设计模式、优化技巧与实际应用场景，以可执行代码推动提示工程的标准化与可复用性。
-- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持用户在不离开浏览器的前提下调用本地LLM进行内容理解与生成，核心亮点为隐私安全与低延迟响应。
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** `TypeScript` - n8n 是一个基于 TypeScript 的开源工作流自动化平台，支持可视化编排与自定义代码，集成 400+ 工具，提供本地部署与云端部署，原生融合 AI 能力实现智能流程自动化。
-- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是基于 Model Context Protocol（MCP）的跨平台桌面AI助手，支持多服务商接入与本地知识库，通过协议化方式集成模型与工具，实现高效上下文管理与智能协作。
-- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一个完全免费、私有化本地运行的多LLM搜索聚合与答案生成系统，通过多引擎搜索整合结果并交由LLM生成答案，无需GPU即可运行。
-- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 该仓库系统整理了300+适合独立开发者与创业者的用户增长渠道，涵盖国内外主流推广路径，提供结构化指南以高效获取前1000名早期用户，助力产品冷启动。
-- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于任意文档的问答系统，通过RAG技术实现高效知识检索与生成，支持多种格式文档解析与本地化部署，核心亮点为灵活适配非结构化数据与高精度问答。
-- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于Obsidian平台的文本生成插件，支持OpenAI、Anthropic、Google及本地LLM，通过API或本地推理实现高效内容创作，核心亮点为多模型无缝切换与本地化部署。
-- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的 Android 实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言翻译，支持蓝牙 LE 传输语音，兼具高隐私性与实时性。
-- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转为Anki闪卡，基于GPT-4生成内容并支持批量导出，高效提升学习效率。
-- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 为独立开发者提供融合AI的全栈技术栈，基于MDX构建可交互的AI增强开发文档与工具链，实现高效知识沉淀与开发提效。
-- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于多模态AI技术实现漫画自动翻译，支持多种格式与语言，融合OCR、文本检测、图像修复与神经机器翻译，提供端到端桌面化翻译体验。
-- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，通过科学记忆曲线优化闪卡复习节奏，提升长期记忆效率。核心亮点在于精准预测遗忘点，实现个性化复习调度。
-- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 基于自然语言提问实现个人与工作文档的智能检索，通过RAG技术融合语义理解与文档索引，提升信息获取效率。
-- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - GPT-2 是开源的大型语言模型，基于 Transformer 架构，通过无监督多任务学习实现通用文本生成。其代码实现支持模型训练与推理，为研究与应用提供基础范式。核心亮点在于首次展示大规模无监督预训练在多种自然语言任务上的泛化能力。
-- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一种大型语言模型，通过少量示例实现零样本与少样本学习，支持多种自然语言任务。基于海量文本训练，采用自回归生成机制，具备强大的泛化能力与上下文理解能力。
-- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 提供基于 OpenAI API 的完整 Jupyter Notebook 示例，涵盖模型调用、提示工程、流式响应等，帮助开发者快速上手构建 LLM 应用，核心亮点是实战性强、文档与代码一体化。
-- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - OpenInterpreter/01 是一款开源语音交互系统，支持桌面、移动设备及ESP32芯片，通过语音指令实现设备控制与任务执行，核心亮点在于跨平台语音指令解析与本地化运行能力。
-- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操控计算机，实现无需编写代码的自动化任务执行，基于大语言模型理解意图并调用系统工具。核心亮点是端到端的指令解析与执行闭环。
-- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是 Python 中核心的数据分析与处理库，提供灵活的带标签数据结构（如 DataFrame）和丰富的统计、操作功能，支持高效数据清洗、转换与分析。
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是基于 Django 和 Angular 构建的开源文档管理系统，支持扫描、OCR 识别、自动索引与归档，通过机器学习实现智能分类与检索，提升纸质文档数字化效率。
-- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持语义保留与可逆解码，核心亮点在于轻量级实现与高兼容性。
-- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反问面试官的高质量问题清单，帮助候选人深度评估团队技术氛围与成长空间，内容覆盖技术栈、工程实践与职业发展。
-- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言实现高效、稳定的数据采集，支持智能解析与结构化输出，核心亮点为低门槛、高可用性与简洁易用的 CLI 交互。
-- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于Stable Diffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、绘画与写作的协同实验，展现AI在创意生成与开发辅助中的融合能力。
-- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿应用，复刻 MS PowerPoint 核心功能并支持 AI 自动生成幻灯片，提供云端协作与智能编辑体验。
-- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将PPTX文件解析为结构化JSON数据，基于JavaScript实现高效解析，支持多层级内容提取，核心亮点为精准保留原始幻灯片结构与文本语义。
-- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘制，基于TypeScript构建，强调协同与本地优先设计，提升团队协作与创意表达效率。
-- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，通过RAG与知识图谱增强代码理解，实现对代码库的自主分析与任务执行，核心亮点为代码上下文感知与可扩展的Agent工作流。
-- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 基于Jupyter Book构建的开源AI知识体系，系统梳理当前快速演进的开源AI生态，通过结构化内容与持续更新机制，为开发者提供清晰的技术导航与学习路径。
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 汇集全球免费公共API资源，提供结构化列表与分类检索，支持开发者快速发现与集成开放接口，核心亮点是持续维护的高质量API索引与社区协作机制。
-- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建交互式图谱生成工具，支持数据可视化与图结构推理，通过代码模块化实现高效图谱构建与分析，核心亮点为低代码化图谱设计与可复用的图生成逻辑。
-- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一个4小时的Jupyter Notebook编程工作坊，通过动手实践深入理解大语言模型的实现原理与应用方法，涵盖模型加载、推理、微调等核心环节，代码直观易上手。
-- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI协作工作台，支持多模型集成与工作流编排，通过可视化画布实现人机协同的内容创作与知识管理，核心亮点为动态记忆与上下文感知的智能体交互。
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于 React 和 TypeScript 构建程序化视频生成工具，支持组件化视频创作与动态渲染，核心亮点是将前端开发范式无缝迁移至视频生产流程。
-- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 收录支持自定义API密钥的ChatGPT工具与应用，用户可自由接入个人额度实现免费用途，提升使用灵活性与成本可控性。
-- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 Zotero 提供强大的 BibTeX / biblatex 支持，通过 TypeScript 实现精准的引用键管理与 LaTeX 兼容输出，显著提升 LaTeX 用户的文献管理效率。
-- **[rust-lang/rust](https://github.com/rust-lang/rust)** `Rust` - Rust 是一个系统级编程语言，通过零成本抽象、内存安全和高性能编译器，助力开发者构建可靠高效的软件。其编译器基于 LLVM，支持现代语言特性与跨平台部署。核心亮点在于安全与性能的平衡。
-- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 汇集高质量的 Rust 生态资源与代码库，涵盖工具链、框架、库及学习资料，通过社区驱动方式持续维护，助力开发者高效构建高性能、安全可靠的系统。
-- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Open XML标准，使用Python高效生成PowerPoint文档，支持复杂格式与内容动态渲染，核心亮点为轻量级、高兼容性与灵活的API设计。
-- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并分类开源 macOS 应用，涵盖开发、设计、效率等多领域，支持一键安装与社区共建，核心亮点为持续更新与高质量项目筛选。
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇聚全球优质主题资源清单，通过社区协作持续维护高质量链接，覆盖技术、创意、生活等多个领域，以统一格式提升信息发现效率。
-- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 的开发者专用幻灯片工具，支持 Markdown 直接编写幻灯片，提供实时预览与代码高亮，核心亮点是无缝集成开发体验与现代化 Web 技术栈。
-- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档转化为专业演示文稿，支持多模型、多模板，提升内容创作效率。
-- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件高效转换为Markdown格式，基于Python解析PPTX结构并智能提取文本、标题与布局信息，支持多级标题与格式保留，核心亮点为高保真还原与简洁易用。
-- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 机制从知识库中精准检索信息，有效抑制大语言模型的幻觉问题，提升对话事实准确性。
-- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，融合RAG与LLM推理能力，实现知识问答与课程讲解的交互式教学体验，支持动态知识更新与多轮对话。
-- **[sunface/rust-course](https://github.com/sunface/rust-course)** `Rust` - 本仓库是面向中文学习者的高质量 Rust 入门教程，通过生动示例与系统讲解，帮助开发者掌握无需 GC 的高性能语言，涵盖编程范式与现代生态。
-- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大语言模型提供代码生成、错误修复与智能补全，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与自动修复能力。
-- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Rust构建高性能、安全的桌面与移动应用，使用Web前端与WebView技术实现跨平台原生体验，兼顾开发效率与运行性能。
-- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过可视化界面实时调整网络结构与参数，支持即时训练与结果反馈，核心亮点为低门槛的深度学习可视化探索。
-- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生系统集成与轻量级高性能设计。
-- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库提供60个针对数据科学任务的ChatGPT高效提示词，覆盖数据清洗、建模、可视化等环节，通过结构化提示提升AI协作效率，核心亮点是实战导向与任务细化。
-- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库是《提问的智慧》中文翻译版，系统性指导用户如何高效、清晰地提出问题，提升信息获取与沟通效率。通过结构化方法论，帮助用户在技术社区、团队协作中精准表达需求。核心亮点在于将沟通技巧转化为可复用的提问范式。
-- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无 Electron 依赖，支持跨平台高性能运行，实现高效、低资源占用的 Web 应用桌面化。
-- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记，涵盖LLMs训练与优化，采用Jupyter Notebook形式实现零门槛实操，核心亮点为即开即用的完整流程与高效轻量级模型支持。
-- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 与 React 构建的自托管笔记服务，支持 Markdown、卡片式记事与微博客功能，采用 SQLite 存储，强调数据自主与隐私保护，通过 Docker 快速部署。
-- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - 基于AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，兼容自定义模板与智能动画添加，提供在线体验。
-- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过模块化设计实现多步骤任务的自动化执行，核心亮点在于灵活的 Agent 调度与工具集成能力。
-- **[voideditor/void](https://github.com/voideditor/void)** `TypeScript` - 基于TypeScript构建的开源VS Code编辑器增强工具，集成LLM能力实现代码智能补全与交互式开发，支持ChatGPT、Claude等主流模型，提供类Cursor的AI编程体验。
-- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一个基于上下文工程的主动式 AI 伙伴，通过持续记忆与多模态感知实现智能上下文理解与主动响应，融合 RAG、向量数据库与 Agent 技术提升交互连贯性。
-- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 将 Markdown 文件一键转换为精美 reveal.js 演示文稿，支持实时预览与自定义主题，核心亮点在于极简工作流与高度可定制的幻灯片生成能力。
-- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 整理并聚合中文高质量RSS源，为用户提供订阅人数最多、内容优质的资讯聚合服务，支持一键订阅与高效阅读，核心亮点在于精准筛选与社区驱动的优质内容推荐。
-- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于Go语言实现的单文件PPT自动生成工具，通过调用ChatGPT等后端API，将文本内容智能转换为结构化幻灯片，支持一键生成与本地化部署。核心亮点在于极简集成与高效输出。
-- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于 TypeScript 构建的音频转写与智能处理工具，支持高精度语音识别与结构化输出，核心亮点在于低延迟实时转写与多语言兼容性。
-- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建灵活可扩展的多模型统一推理框架，支持异构大模型调用与自动路由，提升AI工作流开发效率与部署灵活性。
-- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合技术视野、知识管理与职业规划，通过Web工具实现动态更新与个性化导航，核心亮点为可交互的思维导图与周度迭代内容。
-- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇集了众多AI编程工具的系统提示词、内部工具及开源模型，涵盖从代码生成到开发环境集成的完整链路，助力开发者高效构建AI增强型编程体验。
-- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 一款基于用户脚本的ChatGPT增强插件，通过自动刷新、数据安全拦截与页面净化等机制，提升使用效率与隐私保护，实现安全、流畅的AI交互体验。
-- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 基于Python的本地音乐元数据编辑工具，支持批量修改MP3等格式标签，集成Docker部署与NAS/Navidrome兼容，提升音乐管理效率。
-- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精心整理的编码面试备考资料，涵盖算法、系统设计与行为面试题，基于TypeScript实现结构化内容管理，支持高效学习与练习。
-- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供高效、可复用的卡片组件服务，支持动态内容渲染与交互逻辑封装，核心亮点在于模块化设计与低延迟响应。
-- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大语言模型在小米AI音箱上的交互接入，通过API封装与语音双向通信，实现自然语言对话的本地化部署与低延迟响应，核心亮点为轻量化部署与跨设备语音交互能力。
-- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比 Midjourney 中多种摄影参数、胶片类型及术语效果，通过实验性生成验证视觉表现差异，助力用户精准掌握 AI 摄影创作策略。
-- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一款自托管的开源链接管理平台，通过 Go 后端与 React 前端构建可定制的短链服务，支持人性化的链接归档与共享，基于 SQLite 实现轻量高效的数据存储。
-- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源的双语对话语言模型，基于 GLM 架构，支持中英文高效交互，采用量化推理技术降低部署门槛，具备高性价比的对话理解与生成能力。
-- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B开源双语大语言模型，支持中英文对话理解与生成，采用量化部署与高效推理优化，实现本地化部署与低资源运行。
-- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将文本、图像、网页等内容高效转换为结构化Markdown，支持多模态输入与LLM无缝集成，核心亮点是统一接口与高兼容性。
-- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的高效复现与动态展示，实现代码即幻灯片的轻量化创作体验。
-- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT实现私有化文档交互，本地运行模型，确保数据零外泄，通过向量化检索与生成技术实现高效知识问答。
+- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 汇集中国独立开发者项目，聚焦AI与Web工具创新，通过开源协作共享开发成果，展现多样化技术实践与产品思路。
+- **[54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)** `Python` - Zotero-MCP 通过 Model Context Protocol 将 Zotero 文献库与 Claude 等 AI 助手连接，实现论文讨论、摘要生成与引用分析，提升研究效率。
+- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 该仓库提供基于 Pydantic v2 的结构化输出工具，用于规范 LLM 的函数调用与输出验证，提升 OpenAI 函数调用的可靠性与开发效率，核心亮点为类型安全与无缝集成。
+- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript开发实现用户友好的AI绘画流程。核心亮点为跨平台AI创作与专业设计工具的深度协同。
+- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI实现前后端协同，利用多模态技术实现自然语言驱动的动态内容生成。
+- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 一款注重隐私的开源简历生成工具，基于 Next.js 与 TailwindCSS 构建，支持完全本地化定制与离线使用，确保用户数据安全可控。
+- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 该仓库为程序员提供在家做饭的实用指南，通过Dockerfile标准化厨房环境与流程，实现可复现、可共享的烹饪方案，核心亮点是将编程思维融入生活场景，提升烹饪效率与可维护性。
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过自主智能体驱动代码生成与项目构建，支持从需求描述自动生成完整代码库，核心亮点为端到端自动化开发流程。
+- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码/低代码 Web 应用构建工具，基于 React 和 FastAPI 构建，支持快速搭建可交互的前端界面与后端服务，核心亮点在于可视化开发与全栈一体化部署能力。
+- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻、言情等网文创作，采用Python实现高效文本生成，具备长序列建模优势与低推理成本。
+- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++开发的微信聊天记录导出工具，通过解析iOS备份文件与SILK音频格式，实现聊天文本、图片、语音等多类型数据的完整提取与结构化导出，支持跨平台备份恢复。
+- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取网站内容生成结构化知识文件，支持用户基于任意URL快速构建自定义GPT，利用TypeScript实现高效数据抓取与知识提取，核心亮点在于一键式知识库构建与自动化内容理解。
+- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文全文双语翻译，完整保留原版排版与数学公式，支持多引擎切换与多种使用方式，兼顾准确性与可读性。
+- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的交互界面，实现与大语言模型的实时对话，核心亮点为前后端分离架构与流畅的前端体验。
+- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 一站式集成ChatGPT及多种AI网页服务，基于TypeScript构建，支持一键部署与多模型接入，实现高效AI应用聚合与快速访问。
+- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过跨平台扩展实现网页内实时对话与内容生成，核心亮点为无感嵌入与多浏览器统一体验。
+- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 React 和 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 与 Windows，集成 GPT-4o、Claude、Gemini 等多模型，提供流畅的本地化对话体验。
+- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 的桌面客户端，支持多大模型提供商接入，提供统一界面实现本地化 LLM 调用与对话交互，核心亮点为跨平台兼容与多源模型无缝切换。
+- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建本地知识库实现高效文档问答，支持多格式文档解析与上下文理解，核心亮点在于低延迟响应与可扩展的向量检索架构。
+- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI驱动的数据库客户端，支持多数据库类型，通过自然语言生成SQL，提升数据查询效率与易用性，核心亮点为高兼容性与智能SQL生成。
+- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 通过可视化管理界面实现 ComfyUI 自定义节点的安装、启用、禁用与卸载，集成插件中心与信息查看功能，提升工作流管理效率。
+- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，实现语音对话、图像生成、文档分析与多轮讨论的全链路AI助理，通过Go语言高效构建端到端服务。
+- **[CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf)** `Python` - 基于GPT解析PDF文档，利用Python实现高效文本提取与结构化处理，支持多格式兼容与语义理解，核心亮点为智能段落分割与上下文保留。
+- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话微调模型，提供完整训练、推理、评测与部署教程，支持多种魔改权重与实用工具链，助力中文LLM快速落地。
+- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - RSSHub 通过抓取主流平台的动态内容并统一输出 RSS 订阅源，实现多平台信息聚合与自动化推送，基于 TypeScript 构建，支持 B站、微博、知乎等数十个平台。核心亮点是“全平台 RSS 化”与极简接入体验。
+- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 基于RSSHub生态的浏览器扩展，一键发现并订阅RSS源，支持Chrome/Firefox，通过TypeScript实现跨平台兼容与高效集成，核心亮点是极简订阅流程与高可用源发现。
+- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro的多模型融合架构，提供高性能代码生成与内容创作能力，支持OpenAI兼容接口与流式/非流式响应。
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化界面构建 AI Agents 的低代码平台，支持 LangChain 等框架集成，通过拖拽组件实现复杂工作流编排，核心亮点在于开箱即用的 Agent 模板与多模型兼容性。
+- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 构建多智能体协作框架，通过自然语言编程实现AI软件公司自动化研发流程，利用LLM驱动的Agent协同完成任务分解与代码生成。核心亮点在于端到端的AI工程闭环与角色化Agent分工。
+- **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** `Python` - OpenManus 是一个面向开源智能体的基础设施项目，基于 Python 构建，致力于打造无壁垒的 AI Agent 开发与协作平台，强调开放性与可扩展性，推动下一代自主智能体生态发展。
+- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码详细演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求构建、响应处理等核心流程，提供清晰的实践路径与错误处理建议，核心亮点是低门槛接入与模块化示例设计。
+- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成定制化求职信并自动发送至中国雇主，实现求职流程智能化。核心亮点为端到端自动化与中文职场语境适配。
+- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 基于TypeScript构建MCP服务，将Figma设计稿布局信息结构化输出，赋能AI编码代理（如Cursor）实现设计到代码的精准转换，核心亮点为低延迟、高保真设计数据接口。
+- **[GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai)** `Python` - 基于向量数据库与GPT3.5构建的本地化通用知识库，支持文档解析、向量化存储与高效检索，实现私有化、低延迟的智能问答与信息提取。
+- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitbookIO/gitbook 是基于 TypeScript 构建的开源前端框架，用于构建现代化文档站点，支持 Markdown 编写与 Git 管理，提供可定制的文档展示与协作体验。
+- **[HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)** `Python` - 基于LLM的全自动个人AI助手，通过智能Agent协同实现深度研究任务的端到端自动化，支持多轮推理与工具调用，核心亮点为可扩展的自主决策框架与高效知识融合能力。
+- **[HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)** `Python` - MiniRAG 通过轻量级开源大模型简化 RAG 架构，实现高效检索增强生成，核心亮点在于低资源部署与易用性设计。
+- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库整理了高质量的嵌入模型教程、项目与社区资源，聚焦于文本嵌入技术的实践与研究，通过Jupyter Notebook形式提供可运行代码与案例，助力开发者快速上手与探索。
+- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 实现软件安装、更新与卸载，核心亮点为标准化、自动化与社区驱动的软件分发流程。
+- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT 与 Ollama 构建，通过自然语言输入自动生成中英文双语 PPT 内容，支持结构化输出与多轮交互优化，核心亮点在于低门槛、高效率的演示文稿自动化生成。
+- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift构建的智能日记应用，利用本地化AI模型实现自然语言记录与情感分析，支持隐私保护下的智能分类与回顾，核心亮点为端到端本地化处理与轻量级高效推理。
+- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT v1 通过集成多源音视频与文本内容，实现一键 AI 总结与对话交互，支持 Bilibili、YouTube、网页、会议等多场景，基于 LLM 实现高效内容提炼与问答，核心亮点为全链路自动化与多平台覆盖。
+- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建的可定制AI导师系统，通过动态提示工程实现个性化学习路径，支持多场景知识辅导与互动式教学。
+- **[KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)** `Unknown` - 该仓库系统整理了120+类 LLM 相关库，按类别分类便于快速查找与选型，助力 AI 工程师高效构建生成式 AI 应用。核心亮点为结构化归类与持续更新的生态导航。
+- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于React的浏览器扩展，通过简化网页内容、优化排版实现沉浸式阅读，支持Chrome与Firefox，核心亮点在于无干扰阅读体验与智能内容提取。
+- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需后端即可在浏览器中直接调用 ChatGPT，通过轻量封装实现安全、高效的前端对话交互，核心亮点为完全客户端运行与 OpenAI API 的无缝集成。
+- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，引导ChatGPT模拟猫娘人格，实现拟人化交互体验，核心亮点在于情感化角色设定与自然语言反馈的深度融合。
+- **[LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)** `Python` - 本项目系统讲解大语言模型原理与实践，涵盖预训练、微调、推理优化等核心技术，结合Python代码实现与中文案例，助力开发者掌握LLM全链路技术。
+- **[LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client)** `Vue` - 基于Vue的VSCode插件，集成AI Agent与LLM能力，为MCP开发者提供一体化开发支持，通过智能代码生成与上下文理解提升开发效率。
+- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 将英文开源图形学教程LearnOpenGL.com翻译为简体中文，通过静态网页形式提供结构化知识，支持开发者高效学习OpenGL核心概念与实战技术。
+- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 和 reveal.js 构建 Markdown 驱动的幻灯片系统，支持实时预览与多端同步，核心亮点为无缝集成笔记与演示文稿工作流。
+- **[MacPaw/OpenAI](https://github.com/MacPaw/OpenAI)** `Swift` - Swift社区驱动的OpenAI公共API封装库，基于Swift Package Manager提供类型安全、异步兼容的调用接口，核心亮点是与Swift生态无缝集成且支持现代Swift语法。
+- **[MadcowD/ell](https://github.com/MadcowD/ell)** `Python` - 一个面向语言模型编程的Python库，提供结构化工具链支持提示工程与模型编排，提升LLM应用开发效率。核心亮点在于统一API抽象与可复用的提示模板机制。
+- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持多云存储（如阿里云 OSS、七牛云、腾讯 COS 等）与图床（如 Imgur、SMMS），提供简洁高效的图形界面与自动化上传能力，核心亮点为多平台兼容与一键式多源上传。
+- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，提升提示工程效率。核心亮点为拖拽式编辑、版本管理与多模型适配。
+- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript实现智能文献检索与摘要生成，支持自然语言查询与知识关联，提升科研效率。
+- **[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)** `JavaScript` - 一款可视化无代码网页爬虫工具，通过图形化界面设计自动化数据采集任务，支持参数配置与批量处理，显著降低非技术用户使用门槛。
+- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译桥接机制，实现笔记系统实时多语言切换，核心亮点为低侵入式集成与跨语言语义一致性保障。
+- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 基于大语言模型的多智能体协作系统，通过自然语言输入自动生成定制化软件，实现从需求到代码的端到端自动化开发，核心亮点为智能体分工协同与上下文理解能力。
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** `Python` - OpenHands 是一个基于 LLM 的智能开发助手，通过 CLI 交互实现代码生成与自动化任务执行，支持多模型接入，提升开发效率。核心亮点是低代码高智能的 AI Agent 模式。
+- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集 ChatGPT 相关资源与实战技巧，涵盖 API 使用、提示工程、应用开发与生态工具，助力开发者高效构建智能对话应用。
+- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库汇集了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，基于JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于社区共建与持续演进的兼容性支持。
+- **[Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)** `Unknown` - 该仓库聚焦大语言模型代理（LLM Agent）的调研与实践，系统梳理Agent架构、工作流设计及关键技术栈，提供可复用的框架与案例参考，核心亮点在于结构化整合Agent生态主流方案。
+- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 该扩展为 Stable Diffusion WebUI 提供增强型提示词输入界面，集成自动翻译、历史记录与收藏功能，提升提示词编辑效率与用户体验。
+- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化调教指南，通过精细化提示词设计提升模型指令遵循能力，帮助用户高效掌控模型输出。
+- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 本地化文档对话系统，基于GPT模型实现文档问答，数据全程不离开设备，保障隐私。通过向量化存储与检索增强生成技术，实现高效精准的私有知识问答。
+- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 通过 TypeScript 构建智能 RSS 阅读器，整合 AI 与区块链技术，实现内容自动聚合与去中心化分发，支持多源信息一键追踪。核心亮点为 AI 驱动的内容理解与个性化推荐。
+- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，通过自动化脚本生成、AI 视频编辑与内容分发，实现 YouTube Shorts/TikTok 内容的端到端自动生成，核心亮点在于多阶段 AI Agent 协同工作流。
+- **[RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain)** `Python` - 基于Python构建的智能知识管理工具，利用RAG技术实现高效文档问答与知识检索，支持多格式数据接入与语义理解，核心亮点在于低延迟响应与可扩展的向量索引架构。
+- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整理AI竞赛经验与训练测试技巧，以HTML形式结构化呈现，涵盖CV、NLP、推荐系统等主流赛道，助力开发者高效复现与优化模型。
+- **[Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)** `Python` - 为 Auto-GPT 提供扩展插件支持，通过 Python 实现自动化任务编排与外部工具调用，核心亮点是模块化插件架构与与 LLM Agent 的深度集成。
+- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `Python` - AutoGPT 构建自主智能体系统，基于大语言模型实现任务分解与自动化执行，支持多轮推理与工具调用，核心亮点在于无需人工干预的端到端自主工作流。
+- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端，基于 JavaScript 构建，提供高度可定制的聊天界面与插件生态，支持多模型接入与角色扮演，核心亮点在于灵活的 UI 自定义与强大的社区扩展能力。
+- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境快速配置，核心亮点为零配置快速上线与跨平台兼容性。
+- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，实现AI自动生成PPT大纲并导出PPTX文件，支持多模板选择与在线生成，前端后端全开源。核心亮点为高效智能内容生成与无缝导出体验。
+- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互的训练与推理环境，支持灵活的模型定制与实验，核心亮点在于开放性与可复现性。
+- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地托管的网页应用，支持PDF的合并、转换、编辑、OCR等操作，基于Java构建并兼容Docker部署，提供安全离线的PDF处理能力。
+- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - 基于浏览器原生语音识别API实现网页端实时语音转文本，支持多语言指令识别与自定义命令绑定，无需后端依赖即可构建语音交互功能，核心亮点为轻量级、零配置、跨平台兼容。
+- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 通过CLI交互式调用小型语言模型生成3D文件，结合Go语言高效执行与轻量化推理，实现本地化、低资源的3D内容创作。核心亮点在于将LLM能力嵌入命令行工具链，提升设计效率。
+- **[TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)** `Python` - 基于用户Zotero文献库，每日自动筛选并推荐相关arXiv论文，通过GitHub Actions实现自动化推送，支持邮件订阅，提升科研信息获取效率。
+- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展与可进化架构，通过模块化设计实现文本生成与内容创作的灵活部署。
+- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费VPN节点订阅链接，支持ClashX与V2Ray配置，整合多协议节点资源，一键生成可用配置文件，提升科学上网访问效率。
+- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 本仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定远程服务器。核心亮点在于详尽的操作步骤与实用工具推荐，适合初学者快速上手。
+- **[YuyaoGe/Awesome-Vibe-Coding](https://github.com/YuyaoGe/Awesome-Vibe-Coding)** `Unknown` - 该项目聚焦于AI驱动的代码生成与智能编程辅助，通过整合大语言模型与开发环境深度集成，实现自然语言到代码的高效转化，核心亮点在于低门槛的开发者体验与高精度的上下文感知生成能力。
+- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 该仓库收集并整理了多个 ComfyUI 工作流，用于高效构建 Stable Diffusion 图像生成流程，支持模块化节点配置与可视化编排，提升 AI 画图效率与可复用性。
+- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化推理路径，帮助用户理解大模型的思维过程。基于 HTML 实现交互式图谱展示，支持 ACL 2025 Demo 与论文复现，核心亮点在于直观呈现多跳推理逻辑与决策链条。
+- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过上传截图自动转换为可运行的HTML/Tailwind/React/Vue代码，结合计算机视觉与大模型理解界面结构，实现高保真代码生成，核心亮点在于端到端自动化与多框架输出。
+- **[acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)** `Python` - 逆向工程 ChatGPT API，提供 Python 封装与命令行工具，支持 gpt-3.5-turbo 等模型调用，实现无需官方 API 密钥的本地化交互，核心亮点为开源可扩展与跨平台兼容。
+- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户说与听的内容，本地化转录存储并支持私有服务器部署，通过对话应用实现具备上下文感知的个性化AI交互。
+- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供直观、可扩展的交互体验，核心亮点为极简开发与高度可定制的 Agent 交互能力。
+- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP系统，通过AI Agent协同实现多模态内容生成与自动化工作流，融合LLM与工具调用能力，支持复杂创作任务的智能调度与执行。
+- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 与 Vue3 构建的多模型聊天客户端，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等主流大模型，通过统一界面实现跨平台高效对比与对话，核心亮点为多源模型并行与本地化部署。
+- **[ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu)** `Python` - 基于LLM的智能对话引导系统，通过动态推理与上下文理解驱动深度交互，实现自然流畅的智能对话体验。核心亮点在于上下文感知的对话策略与实时响应优化。
+- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与交互式呈现，支持“写一次，个性化交付”核心体验。
+- **[alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG)** `JavaScript` - 基于D3和SVG生成高精度神经网络架构图，支持可交互、可嵌入的出版级可视化，适用于学术论文与技术文档。
+- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 该仓库收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，帮助开发者与设计师高效复用与协作。核心亮点为全面性与社区驱动的高质量整理。
+- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写技术解决大文件内存溢出问题，支持xlsx/xls格式，实现高性能数据解析与导出。
+- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，支持用户发布、发现和使用定制化GPT应用，基于TypeScript构建，提供便捷的GPT托管与分发能力，核心亮点在于开放生态与快速部署。
+- **[amazon-science/auto-cot](https://github.com/amazon-science/auto-cot)** `Jupyter Notebook` - 基于GPT-3等大语言模型实现自动思维链提示（Auto-CoT），通过自动生成推理链提升模型复杂任务推理能力，核心亮点为无需人工设计思维链即可显著提升准确率。
+- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 一个基于Python的翻译智能体，利用LLM驱动实现多语言自动翻译与上下文理解，支持流式输出与错误自纠正，核心亮点在于上下文感知与翻译质量闭环优化。
+- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，使用 Rust 语言构建高效、跨平台的桌面与移动应用，核心亮点在于自适应记忆强化与高度可定制的卡片系统。
+- **[anthropics/skills](https://github.com/anthropics/skills)** `Python` - Anthropic Skills 是一个面向 AI 工具链的公共仓库，提供可复用的 Python 模块，用于构建基于 Anthropic 模型的智能应用，支持任务分解、工具调用与上下文管理，核心亮点是与 Claude 系列模型深度集成的标准化技能接口。
+- **[aounon/llm-rank-optimizer](https://github.com/aounon/llm-rank-optimizer)** `Shell` - 基于 Shell 脚本实现 LLM 排序优化的轻量级工具，通过动态提示工程与反馈循环提升大模型输出质量，核心亮点为无需复杂框架即可集成至现有工作流。
+- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为JavaScript实现的LeetCode题解集合，系统记录算法学习过程，涵盖常见数据结构与算法题型，提供清晰代码与思路解析。
+- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能研发的130亿参数中文大语言模型，基于Python实现，支持多场景对话与文本生成，具备强中文理解与生成能力，通过Hugging Face生态实现高效部署与评测。
+- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT通过将PDF文档内容转化为可交互的对话知识库，利用大语言模型实现自然语言问答。基于RAG技术链，支持本地化部署与私有文档安全对话，是高效、开源的PDF智能问答解决方案。
+- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 为大语言模型提供面向学术场景的实用化交互接口，支持论文阅读、润色、写作及多语言翻译，模块化设计并兼容本地与云端多种LLM，提升科研效率。
+- **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `JavaScript` - 基于AI驱动的敏捷开发方法论，通过JavaScript实现自动化代码生成与流程优化，融合智能Agent协同与知识增强机制，显著提升开发效率与迭代质量。
+- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将epub/kindle等格式书籍一键翻译至目标语言，通过Python实现无缝集成与批量处理，核心亮点为多引擎切换与格式保持。
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** `Unknown` - 分享高效使用大语言模型（如GPT-4）的实用技巧，涵盖提示工程设计、结构化输出优化与模型交互策略，核心亮点在于可复用的模式化模板与实战经验提炼。
+- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入技术实现Obsidian笔记间的智能关联，支持本地模型与主流大模型API，通过自然语言交互快速发现相关笔记内容，提升知识管理效率。
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI代理在网页上的自动化操作，使AI能像人类一样浏览、交互与执行任务，核心亮点是无需手动编写复杂爬虫逻辑即可完成网页自动化。
+- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果生成AI研究报告的开源替代Gemini Deep Research工具，使用TypeScript构建，融合检索与生成能力，支持自动化内容整合与结构化输出。
+- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展为 Stable Diffusion WebUI 提供实时中英提示词翻译功能，支持用户用母语编写提示，自动转换为英文生成图像，提升创作效率与可访问性。
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** `Python` - DeerFlow 是由字节跳动主导的开源深度研究框架，融合 LLM 与多工具链（搜索、爬虫、Python 执行），通过可编排的智能体工作流实现自动化深度研究，核心亮点在于社区驱动的 agentic workflow 设计与多工具协同能力。
+- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现复杂任务分解与执行，核心亮点在于高鲁棒性任务流程编排与上下文感知的动态决策。
+- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效代理与调用，核心亮点为多模型兼容与零成本试用。
+- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好型桌面客户端，集成GPT、Claude、Gemini、Ollama等多模型，支持本地与云端推理，提供统一对话界面与高效交互体验。
+- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - Chathub 是基于 TypeScript 构建的全功能聊天机器人客户端，支持浏览器扩展与 React 架构，整合多平台 AI 对话能力，提供统一交互入口与高效对话体验。
+- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** `Python` - 基于Python构建的智能任务管理框架，通过AI Agents实现任务分解与自主执行，结合RAG增强知识调用能力，支持动态任务编排与多工具协同，核心亮点为高灵活性与可扩展的任务自动化体系。
+- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 使用 OpenAI Whisper 实现音频离线转录与翻译，全程在本地运行，保障隐私安全，支持多语言处理，响应快速高效。
+- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 框架，通过集成 AI Agent 与外部工具实现对话式自动化任务处理，支持动态插件扩展与多模态交互，核心亮点在于低门槛接入与高灵活性的对话编排能力。
+- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能、功能丰富的 Rust 日期时间库，支持多种时区、解析与格式化，提供安全的不可变时间类型与丰富的 API，核心亮点在于零开销抽象与对 RFC 标准的全面支持。
+- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码智能体，通过授权协作实现文件创建/编辑、命令执行与浏览器调用，基于 TypeScript 构建，以安全可控的方式提升开发效率。
+- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型支持，自动分析Paperless-ngx文档并智能打标，实现文档智能化管理与检索。
+- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 提供一键部署LLaMA大模型的轻量级方案，基于本地容器化运行，无需复杂配置，显著降低本地运行大模型的技术门槛。
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈，从零构建编程工具与系统，以实战方式深化对底层原理的理解，核心亮点是结合可运行代码的交互式教程。
+- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署，通过TypeScript与NestJS构建高效服务，实现内容自动化聚合与推送。
+- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 汇集上百个可Docker一键部署的项目，提供完整地址与教程，覆盖AI、开发工具与实用应用，降低技术门槛，提升开发效率。
+- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于 TypeScript 构建的自动化文章分发平台，支持多渠道一键发布，集成 Node.js、MongoDB 与 Docker，实现高效内容分发。核心亮点为跨平台媒体适配与可扩展的发布工作流。
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` - CrewAI 框架通过角色化、自主协同的 AI 代理实现复杂任务的自动化执行，支持多代理协作与动态任务分配，核心亮点在于模块化设计与灵活的代理编排能力。
+- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - 面向深度学习教学与实践的交互式开源书籍，融合多框架代码、数学推导与讨论，支持PyTorch、TensorFlow、JAX等主流框架，全球500所高校采用。
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析矢量绘图数据实现手绘风格动画生成，支持关键帧编辑与流畅过渡，核心亮点在于低代码化动画创作与原生绘图体验融合。
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `MDX` - 系统整合提示工程、上下文工程、RAG与AI Agent实践指南，通过MDX笔记与案例库提供可复用的AI开发方法论，核心亮点是结构化知识体系与实战资源闭环。
+- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个开源 AI 增强框架，通过模块化 AI 提示库赋能人类高效解决问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链。
+- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是基于 C 语言开发的开源摄影工作流应用，专注于 RAW 照片的非破坏性编辑与处理，采用模块化架构支持高效图像处理与批量操作，核心亮点为高性能与跨平台兼容性。
+- **[databricks/dbrx](https://github.com/databricks/dbrx)** `Python` - 提供DBRX大语言模型的代码示例与资源，支持模型推理与训练，聚焦生成式AI应用开发，核心亮点为开箱即用的LLM集成与优化推理路径。
+- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持文本生成、对话理解等任务，具备高效推理与企业级部署能力。核心亮点在于结合 Databricks 生态实现模型全生命周期管理。
+- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 基于Python实现PDF到Markdown与JSON的高效转换，融合OCR与LLM技术提升结构化提取精度，支持多格式兼容与高保真内容还原。
+- **[datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)** `Jupyter Notebook` - 本教程通过Jupyter Notebook形式系统讲解大语言模型的原理与实践，涵盖从基础概念到RAG实现的完整流程，结合实战案例帮助用户快速上手LLM开发与应用。
+- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 本仓库提供吴恩达大模型系列课程的中文实践教程，通过Jupyter Notebook形式系统讲解LLM入门核心内容，涵盖模型理解、训练与应用全流程，代码可运行、案例贴近实战。
+- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是一款高性能大语言模型，支持通用文本生成与推理任务，具备强上下文理解与代码生成能力，采用高效推理架构实现低延迟响应。
+- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款大规模语言模型，基于 Python 实现，支持高效推理与部署，具备强大的文本生成与理解能力，核心亮点在于优化的架构设计与开源生态兼容性。
+- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口实现高效调用，核心亮点在于开箱即用的集成方案与广泛的生态兼容性。
+- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库系统整理了产品与项目管理领域的优质学习资源，涵盖方法论、实战工具与行业趋势，通过分类导航实现高效知识获取，核心亮点是持续更新与社区驱动的高质量内容聚合。
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地化图形界面工具，基于 Electron 构建，无需依赖配置，简化 AI 绘图使用门槛。
+- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于Vue3与Vite的轻量级微信专用Markdown编辑器，支持语法高亮、自定义主题、多图床与AI助手，集成TailwindCSS提升开发效率，专注内容创作与高效协作。
+- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于Next.js与T3 Stack构建的在线开源API分词工具，支持OpenAI等模型的token计数与文本分析，提供实时交互式体验，核心亮点为精准分词与低延迟响应。
+- **[dzhng/deep-research](https://github.com/dzhng/deep-research)** `TypeScript` - 一个基于AI的迭代式深度研究助手，结合搜索引擎、网页抓取与大语言模型，实现自动优化研究路径与深度挖掘信息，以最简实现打造可进化的研究代理。
+- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收集并整理各类AI自主代理项目，涵盖AutoGPT、BabyAGI、GPT Engineer等主流框架，提供技术演进与实践参考，助力开发者快速构建自动化智能体系统。
+- **[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)** `Unknown` - 该仓库汇集GPT-3相关优质项目与资源，涵盖模型应用、工具链及开发实践，助力开发者快速构建基于GPT-3的AI应用。核心亮点为生态整合与实战导向。
+- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的虚拟白板工具，支持手绘风格的图形绘制与实时协作，利用 Canvas 实现流畅的绘图体验，核心亮点在于简洁直观的界面与跨平台协同能力。
+- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现结构化管理与调用，提升提示工程效率与复用性。核心亮点为可直接集成的提示模板库与开发者友好设计。
+- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术实现个性化简历适配与多岗位智能投递，结合Selenium和大模型能力，显著提升求职效率，核心亮点在于全流程自动化与精准内容生成。
+- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 一键修改Cursor设备ID以解除设备锁定，通过Python脚本绕过官方限制，实现快速恢复使用，核心亮点为操作简便、无需复杂配置。
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 通过开源课程与实战项目帮助全球用户免费学习编程、数学与计算机科学，基于 TypeScript 构建全栈 Web 工具链，结合社区驱动内容与认证体系，实现高效自主学习。
+- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 Next.js 和 TypeScript 构建的现代化文档框架，支持 MDX 与 Contentlayer 内容管理，提供灵活的路由与样式能力，适用于构建高性能、可扩展的开发者文档站。
+- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于OpenAI API快速构建自定义ChatGPT应用，提供开箱即用的对话界面与部署能力，支持快速配置与私有化部署，核心亮点是极简集成与高度可定制化。
+- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件无依赖转换为HTML，基于纯JavaScript实现，支持保留格式与交互性，核心亮点为前端直出、无需后端服务。
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动排期与智能生成。
+- **[google/adk-python](https://github.com/google/adk-python)** `Python` - 基于Python的代码驱动框架，用于构建、评估与部署复杂AI代理，支持多代理协作与灵活控制，具备高可扩展性与开箱即用的开发体验。
+- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务与付费的AI对话系统，集成Docker简化部署，可免费商用，适合快速构建私有化AI聊天应用。
+- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是一款基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合地图可视化技术，实现轨迹的动态播放与渲染，核心亮点在于轻量级、可嵌入的轨迹动画能力。
+- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 基于MCP协议实现Cursor AI代理与Figma的双向通信，支持AI读取设计稿并程序化修改，提升设计协作效率。核心亮点为原生集成与低代码交互。
+- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 Web 界面，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
+- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭食材与家务管理工具，通过 PHP/Blade 构建，支持购物清单、食谱管理、库存跟踪及餐食计划，核心亮点在于本地化数据控制与高度可定制的轻量级 ERP 功能。
+- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的综合性学习项目集合，涵盖基础教程、抢票工具、地址库及网站爬虫，采用模块化设计与高效爬取策略，核心亮点为实战性强与易上手。
+- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/CSS/JavaScript 的开源演示框架，通过浏览器渲染实现动态幻灯片展示，支持自定义主题、动画与扩展插件，核心亮点为跨平台兼容与高度可定制化。
+- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库整理了全球优质的数据可视化库与资源，涵盖图表库、交互工具与可视化框架，助力开发者快速构建高效、美观的数据展示应用。
+- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索文献、自动生成引用与文献笔记，提升研究写作效率。核心亮点为无缝衔接学术资料与知识管理。
+- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的开发与运行，基于Python实现灵活可扩展的自动化流程。核心亮点在于模块化设计与流程编排能力。
+- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol构建的Excel智能服务端，通过LLM+Tool Calling实现自然语言驱动的Excel自动化操作，支持流式响应与标准输入输出，提升数据处理效率。
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于大模型一键生成高清短视频，集成Python生态工具链，实现从文本到视频的自动化创作，核心亮点为全流程自动化与高质量输出。
+- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于 Ollama 本地部署大模型，为 Obsidian 笔记系统提供 AI 增强能力，支持自然语言查询、内容生成与知识关联，实现私有化、低延迟的智能笔记体验。
+- **[hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)** `Python` - 该仓库专注于提示词优化的从零实现，通过Python构建可复用的提示工程框架，支持动态优化、A/B测试与评估，提升LLM输出质量与一致性，核心亮点为模块化设计与轻量级部署。
+- **[hkust-nlp/CodeIO](https://github.com/hkust-nlp/CodeIO)** `Python` - CodeI/O 通过预测代码的输入输出来压缩推理模式，提升代码理解与生成效率，核心亮点是利用代码 I/O 对比实现轻量级推理建模。
+- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全方位文档，支持从语音转录与文本快速构建结构化知识库，核心亮点为自动化内容提炼与多源信息融合。
+- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合AI绘画全流程资源，涵盖Stable Diffusion、AnimateDiff等主流模型的平台、教程与部署方案，提供从入门到进阶的完整指南，助力用户高效生成高质量图像。
+- **[huggingface/smolagents](https://github.com/huggingface/smolagents)** `Python` - smolagents 是一个轻量级 Python 库，专为构建“以代码思考”的 AI Agent 设计，通过简洁的 API 实现 Agent 的规划、工具调用与执行循环，核心亮点在于极简架构与代码化决策逻辑。
+- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 该仓库整理了ChatGPT与GPT-3相关的优质工具、演示项目与文档资源，为开发者提供一站式学习与开发参考，核心亮点在于内容高度精选且持续更新。
+- **[husthuke/awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)** `Unknown` - 系统整理知识图谱学习资料，涵盖构建、推理与应用全流程，整合开源工具与经典论文，支持高效知识组织与智能检索。
+- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据库构建的问答系统，利用Python实现结构化数据解析与LLM检索增强生成，支持自然语言查询知识库内容，核心亮点为高效整合Notion数据与大模型能力。
+- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown系统，支持从创意到论文、演示文稿与书籍的全流程创作，融合脚本化写作与类型排版，实现高效知识沉淀与多格式输出。
+- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent基于大语言模型与智能体技术，实现从文本到高质量PPT的自动生成与多维度评估，支持复杂工作流调度与交互式优化，核心亮点在于端到端的智能幻灯片构建与可解释性评价体系。
+- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代化 macOS 视频播放器，使用 Swift 开发，提供简洁高效、高度可定制的视频播放体验，支持多格式解码与硬件加速。
+- **[intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode)** `Swift` - 为Xcode提供集成式AI编码辅助，支持GitHub Copilot、Codeium与ChatGPT，通过Swift实现原生扩展，实现实时代码补全与生成，核心亮点是多模型无缝切换与原生IDE深度集成。
+- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - Ivy-LLC/ivy 实现 PyTorch、TensorFlow、JAX、NumPy 等主流框架间的机器学习代码自动转换，基于统一抽象层实现跨框架兼容性，核心亮点是零运行时开销的框架无关代码生成。
+- **[janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai)** `Unknown` - 汇聚本地化运行的AI工具，支持离线部署与隐私保护，提供模型推理、工具集成与开发支持，核心亮点为全栈本地AI生态聚合与社区驱动维护。
+- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，无需依赖云端服务，保障数据隐私与安全。
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集优质 macOS 桌面应用，涵盖开发、设计、效率等多个领域，通过精选与分类为用户提供高效工具导航，核心亮点是持续更新与高可信度筛选。
+- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 该仓库为编程初学者提供系统化的技术面试指导，涵盖基础知识点梳理与实战题解，通过结构化内容帮助用户高效准备面试，核心亮点是面向零基础学习者的友好引导与实用题库整合。
+- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一款基于 Haskell 的通用标记转换工具，支持多种文档格式间的无损转换，核心亮点在于高度可扩展的解析器与渲染器架构，覆盖从 Markdown 到 PDF、HTML、LaTeX 等数十种格式。
+- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 该仓库构建了人工智能领域中英技术术语的全面映射数据库，通过系统化整理与校对，支持精准术语翻译与知识对齐，显著提升跨语言技术沟通效率。
+- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式自定义，核心亮点为低门槛、高一致性的 UI 主题配置体验。
+- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python实现跨框架/语言的代码自动迁移，利用语法分析与模式匹配技术，高效转换代码结构，显著降低迁移成本与出错率。
+- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全文总结、专业翻译、润色与审稿全流程自动化，通过智能Agent协同提升科研效率，核心亮点在于端到端科研工作流集成与多轮交互式优化。
+- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT的中文本地化版本，支持GPT-3.5-Turbo与GPT-4 API，通过AI Agent实现自主任务规划与执行，赋能个人与团队自动化工作流与内容创作。
+- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全场景书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标并实现全文搜索，采用Next.js与React Native构建跨平台体验。
+- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，核心亮点是代码清晰、可读性强、易于教学与二次开发。
+- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - nanoGPT 是一个极简高效的 Python 项目，用于训练和微调中等规模 GPT 模型，基于纯 PyTorch 实现，强调代码简洁性与可读性，适合快速上手与实验。
+- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零构建神经网络，结合理论推导与代码实现，系统讲解深度学习核心原理，核心亮点是手写反向传播与动态计算图直观演示。
+- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源知识，自动转换为Anki可管理的闪卡，结合Vue前端实现高效知识沉淀，实现从碎片信息到长期记忆的自动化转化。
+- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** `HTML` - 基于多智能体系统与大语言模型，将自然语言需求自动转化为可运行代码，无缝集成DevOps工具链，支持多语言扩展与现有代码迭代。核心亮点为端到端自动化与跨语言兼容性。
+- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 聚焦高增长初创企业创始人与领导者，精选权威资源与实战原则，通过结构化分类提供决策支持与领导力成长路径，核心亮点为“实战导向+思想深度”的精选内容体系。
+- **[kuchin/awesome-tpm](https://github.com/kuchin/awesome-tpm)** `Unknown` - 该仓库为技术项目管理（TPM）领域精心整理的资源清单，涵盖路线图规划、项目管理方法论与实践工具，提供结构化知识体系，助力TPM高效协同与交付。
+- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存豆瓣开放接口的结构化说明，便于开发者离线查阅与研究。通过静态文档归档，确保信息可追溯性，降低因接口变更或服务下线导致的开发中断风险。
+- **[kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)** `Unknown` - 该仓库整理了基于 LangChain 框架的各类优质工具与项目，涵盖模型集成、应用开发与工程实践，助力开发者快速构建 LLM 驱动的智能应用。核心亮点是生态整合与实战案例汇聚。
+- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 的全栈云开发平台，提供函数计算、数据库、对象存储等 Serverless 能力，支持快速构建和部署应用，核心亮点是开箱即用的全链路开发体验与多云兼容架构。
+- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化Web研究与报告生成助手，基于Python构建全流程本地运行的AI研究代理，结合网络爬取、信息提取与大模型生成，实现无需云端的数据闭环处理。核心亮点为完全离线、隐私安全、端到端自动化报告生成。
+- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码构建 AI Agent，集成 LLM、RAG 与工作流编排，实现高效自动化应用开发。
+- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化提示词与元提示词框架，通过可复用的提示模板体系赋能用户高效设计高质量提示，助力 AI 交互提效。
+- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将邮件新闻稿自动转换为 Atom 订阅源，通过 TypeScript 实现解析与标准化处理，支持一键订阅与持续更新，核心亮点为零配置、高兼容性与可扩展的解析引擎。
+- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 一款专为微信视频号设计的高效视频下载工具，通过解析分享链接一键获取高清视频，支持批量下载与格式转换，操作简单无需复杂配置。
+- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于 Rust 与 Tauri 构建的跨平台 ChatGPT 桌面客户端，支持 Mac、Windows 和 Linux，通过 WebView 集成 OpenAI API，提供离线可用、高性能的本地化聊天体验。核心亮点为极致性能与原生系统集成。
+- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的高性能全栈 Web 框架，通过细粒度响应式渲染与同构渲染技术，实现极低延迟的网页应用构建，支持 SSR 和 WebAssembly，兼顾开发体验与运行性能。
+- **[liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)** `Unknown` - 本项目为 LangChain 的中文入门教程，通过实战案例引导开发者快速掌握基于大语言模型的 AI 应用开发，涵盖模型调用、提示工程与知识增强等核心流程，核心亮点是面向中文用户的一站式 LangChain 入门指引。
+- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT一键生成，支持免费在线使用，用户输入主题即可自动生成结构化PPTX文件，核心亮点为零代码、高效出稿与开源可部署。
+- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 该仓库提供专为AI Agent设计的PUA提示词集合，基于HTML结构化组织，支持快速配置与复用，提升Agent任务执行效率与上下文理解能力。
+- **[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)** `TypeScript` - 基于OpenAI API与RAG技术，为Obsidian笔记系统打造智能协作者，通过自然语言交互实现知识检索、内容生成与任务自动化，核心亮点是深度集成与上下文感知推理。
+- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是基于 Clojure/ClojureScript 构建的本地优先、隐私第一的知识管理与协作平台，支持 Markdown 与 Org-mode，通过图谱化组织笔记，实现知识的双向链接与全局视图。
+- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合资源与技术实践，展示二线城市在数字化转型中的创新活力，推动区域技术交流与协作。
+- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 提供可直接复制粘贴的动态 UI 组件库，基于 React、TailwindCSS 与 Framer Motion 构建，支持 Next.js 项目快速集成，助力设计工程师高效实现精美交互效果。
+- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，通过智能Agent协作实现多轮对话与任务执行，支持自定义逻辑与上下文管理，核心亮点为高可扩展性与低延迟响应。
+- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本构建思维导图，通过 TypeScript 实现高效解析与可视化渲染，核心亮点是零配置、轻量级且支持实时编辑的纯文本到图形转换。
+- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区共建的 Swift 生态优秀库与资源列表，涵盖 iOS、Linux 平台的框架、扩展与工具，通过持续更新与贡献机制保持内容前沿，核心亮点是高覆盖率与活跃维护。
+- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham经典文章构建RAG系统，使用TypeScript实现高效知识检索与生成，核心亮点是精准语义理解与上下文关联的问答能力。
+- **[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)** `TypeScript` - 基于24/7本地屏幕与麦克风录制，构建持续学习的AI应用商店，通过本地化多模态数据驱动AI Agent决策，实现全栈私有化、开发友好型智能助手。
+- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** `Python` - Mem0 为 AI Agent 提供通用记忆层，通过 OpenMemory MCP 实现本地化、安全的长期记忆管理，支持多轮对话与状态持久化，提升 Agent 智能决策能力。
+- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI构建的GPT AI助手，集成LINE消息平台与Vercel部署，实现高效对话交互。通过API对接与前端轻量化设计，提供低延迟响应与跨平台可访问性，核心亮点为全链路自动化部署与即时消息联动。
+- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是一个基于 jQuery 的 JavaScript 插件，可将 PPTX 文件转换为可交互的 HTML 页面，支持幻灯片结构与样式还原，便于在网页中嵌入和展示演示文稿。核心亮点在于轻量级、无需后端依赖的前端转换能力。
+- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据检索实现精准音乐信息自动标注，核心亮点为高精度音源识别与多格式标签写入。
+- **[microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)** `Python` - 基于任务感知的智能体驱动提示优化框架，通过动态分析任务目标自动迭代优化提示，提升大模型输出质量与任务匹配度，核心亮点为任务理解与自适应提示生成。
+- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理操作系统，通过GUI与Windows原生能力深度融合，实现自动化任务执行与人机交互，核心亮点为本地化运行与跨应用无缝协同。
+- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个面向智能体（Agent）编程的框架，支持多智能体协作与自动化工作流，通过 LLM 驱动的对话机制实现复杂任务分解与执行，核心亮点在于灵活的智能体编排与可扩展的工具集成能力。
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Jupyter Notebook` - 本仓库提供21个实战Jupyter Notebook教程，涵盖提示工程、LLM调用、文本生成、语义搜索等，基于OpenAI、Azure AI与Hugging Face构建，帮助初学者快速掌握生成式AI开发核心技能。
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 基于Python的文档转换工具，支持将Office文件及PDF等格式高效转为Markdown，融合OpenAI与LangChain能力，实现结构化内容提取与语义优化。
+- **[mindverse/Second-Me](https://github.com/mindverse/Second-Me)** `Python` - 基于Python构建AI自我训练与增强系统，通过智能代理与知识融合实现个性化AI成长，支持多模态交互与跨域能力扩展，核心亮点为自我进化式学习架构。
+- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于文本编辑器实现视频剪辑，通过Python脚本解析文本指令并自动执行剪辑操作，支持精准时间轴控制与多轨道处理，核心亮点为自然语言驱动的高效视频编辑流程。
+- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解核心思想与技术细节，提升科研与工程实践能力。
+- **[mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)** `Python` - 基于RAG技术实现文档问答与精准引用，通过向量检索与LLM融合提升答案准确性，支持多格式文档高效解析与即时溯源。
+- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 基于Jupyter Notebook构建的GPT提示工程实践库，系统化整理高质量提示模板与优化方法，支持快速实验与复用，核心亮点在于模块化设计与真实场景案例集成。
+- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持私有化部署与离线使用，核心亮点是低延迟响应与数据隐私保障。
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** `TypeScript` - n8n 是基于 TypeScript 的可视化工作流自动化平台，支持自托管与云部署，集成 400+ 应用，融合低代码/无代码与自定义代码能力，原生支持 AI 能力实现智能自动化。
+- **[nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)** `TypeScript` - 5ire 是一款跨平台桌面 AI 助手，支持主流大模型服务与本地知识库，通过 Model Context Protocol（MCP）实现工具与上下文协同，提升本地化 AI 交互效率。
+- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一款本地运行的免费私有搜索聚合与答案生成系统，通过多 LLM 协作整合多引擎搜索结果，实现无需 GPU 的高效问答，保障数据隐私与零成本使用。
+- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 1000UserGuide 为独立开发者与创业者系统整理300+国内外推广渠道，涵盖SEO、营销、增长等实战路径，助力高效触达前1000名早期用户。
+- **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** `Python` - 基于Neo4j构建模型上下文协议（MCP）服务，通过图数据库高效管理AI模型的上下文与依赖关系，支持动态推理与知识关联，核心亮点为结构化上下文与可追溯的模型交互。
+- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于本地知识库的问答系统，支持多格式文档解析与向量化检索，结合大模型实现精准语义问答，核心亮点为全栈本地化部署与高效RAG架构。
+- **[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)** `TypeScript` - 基于多种AI提供商（如OpenAI、Anthropic、Hugging Face）的文本生成插件，为Obsidian用户提供一键生成内容能力，支持本地与云端模型，提升知识管理与写作效率。
+- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转化为Anki闪卡，基于GPT-4实现内容理解与结构化生成，支持大规模批量处理，核心亮点为高精度知识提炼与无缝Anki导出。
+- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 旨在实现本地化运行大语言模型，支持跨设备部署，采用开源架构并兼容商业使用，通过轻量化推理引擎实现高效本地运行。
+- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 该仓库为独立开发者提供基于AI的全栈技术栈，融合MDX文档与AI工具链，实现高效内容生成与知识管理，核心亮点是可复用的AI工作流模板与轻量级部署方案。
+- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于深度学习与计算机视觉技术，实现漫画多格式自动翻译，支持图像、PDF、EPUB等格式的文本检测、分割、翻译与修复，全流程自动化。
+- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于本地部署的大型语言模型提供图形化交互界面，支持多种模型格式与高效推理，通过Web端实现零配置快速体验AI生成能力，核心亮点为易用性与高性能本地运行。
+- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，优化记忆曲线以提升学习效率，支持动态调整复习间隔，核心亮点为科学建模与高效记忆强化。
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - Open-WebUI 提供用户友好的界面，支持 Ollama、OpenAI API 等主流 LLM 接口，实现本地化部署与多模型统一管理，核心亮点在于开箱即用的自托管体验与直观的交互设计。
+- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 该插件通过自然语言查询实现对个人或工作文档的快速检索，基于ChatGPT构建，结合检索增强生成（RAG）技术，支持高效、准确的文档定位与信息提取。
+- **[openai/gpt-3](https://github.com/openai/gpt-3)** `Unknown` - GPT-3 是一项基于大规模预训练的语言模型，支持少样本学习，通过海量文本数据训练实现高效自然语言理解与生成，核心亮点在于零样本与少样本泛化能力。
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 本仓库提供基于 OpenAI API 的完整示例与指南，通过 Jupyter Notebook 演示如何调用 GPT-4、ChatGPT 等模型实现对话、文本生成、代码辅助等功能，核心亮点是即学即用的交互式教学范式。
+- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - 开源语音交互系统，支持桌面、移动端及ESP32芯片，通过本地化语音识别与自然语言理解实现全栈语音控制，核心亮点为跨平台低延迟语音交互与边缘设备部署能力。
+- **[openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)** `Python` - 通过自然语言直接操作计算机，实现用户用口语指令执行代码、文件操作与系统交互，核心亮点是端到端的代码生成与安全执行能力。
+- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是面向 Python 的高效数据处理与分析库，提供类似 R data.frame 的带标签数据结构，支持灵活的数据清洗、转换与统计分析，核心亮点在于易用性与强大的向量化操作能力。
+- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是一款基于 Django 的开源文档管理系统，通过 OCR 与机器学习技术实现文档的自动扫描、索引与归档，支持 PDF 等多格式处理，提升文档管理效率。
+- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持多语言与自定义映射，核心亮点在于轻量、可扩展的编码架构与实时预览功能。
+- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反向提问的精选话术指南，帮助候选人深度了解团队与岗位，提升面试主动权与决策质量。
+- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言开发，通过简洁指令实现高效数据采集，核心亮点为低门槛、高性能与跨平台兼容性。
+- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于StableDiffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、写作与图像生成的协同实验，展现AI在创意与开发中的融合应用。
+- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿工具，复现 MS PowerPoint 核心功能并集成 AIPPT 能力，支持在线编辑与演示，实现高效云端协作与智能内容生成。
+- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将 PPTX 文件解析为结构化 JSON 数据，基于 JavaScript 实现轻量级解析器，支持多级幻灯片内容提取与元数据保留，核心亮点为高兼容性与易集成性。
+- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘画，基于TypeScript构建，强调本地优先协作，赋能团队高效协同创作。
+- **[potpie-ai/potpie](https://github.com/potpie-ai/potpie)** `Python` - 基于Prompt构建可定制的工程智能体，融合RAG与知识图谱实现代码理解与自动化任务执行，支持动态上下文推理与代码生成。
+- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 系统梳理开源AI领域最新进展，基于Jupyter Book构建结构化知识体系，通过TeX实现高质量排版与可维护的动态内容生成。
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 整合全球免费公开API资源，提供结构化列表与分类检索，支持开发者快速查找与接入各类API服务，核心亮点为持续更新、社区驱动与高可发现性。
+- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建可视化图谱生成工具，通过结构化数据输入与交互式探索，实现知识图谱的快速构建与展示，核心亮点在于低代码化与可复用的图谱模板。
+- **[rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)** `Jupyter Notebook` - 本仓库提供一场4小时的Jupyter Notebook编程工作坊，通过实战代码深入理解大语言模型的实现原理与使用方法，涵盖模型加载、推理、微调等核心环节，核心亮点是理论与代码高度融合的渐进式教学。
+- **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** `Python` - 基于Python构建的AI数据探索工具，支持多源数据接入与智能分析，通过LLM驱动的自然语言查询实现高效数据洞察，核心亮点为低代码化数据探索与自动特征发现。
+- **[refly-ai/refly](https://github.com/refly-ai/refly)** `TypeScript` - 基于TypeScript构建的开源AI代理工作台，支持多模型协同与记忆化交互，通过可视化画布实现人机协作的流程编排，打造可扩展的智能工作流引擎。
+- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于React与TypeScript构建程序化视频生成工具，支持组件化视频创作与渲染，核心亮点为高效、可复用的视频工作流与Web端实时预览。
+- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 该仓库精选使用ChatGPT API的工具与应用，支持用户配置自定义API密钥，实现个人额度的自由、按需调用，提升使用灵活性与成本可控性。
+- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 LaTeX 用户优化 Zotero 的引用管理，通过 TypeScript 实现 BibTeX/ biblatex 兼容的引用键自动生成与智能同步，解决跨工具引用混乱问题，核心亮点是无缝集成与高精度键名控制。
+- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - 基于浏览器的可视化工具，支持快速组装、配置与部署自主AI智能体，结合LangChain与OpenAI能力实现低代码Agent开发，核心亮点为开箱即用的Agent编排与云端部署体验。
+- **[riddle911/SuperInsights](https://github.com/riddle911/SuperInsights)** `Python` - 基于Python构建的智能洞察系统，融合RAG与AI Agent技术，实现多源数据的自动化分析与知识提炼，支持动态推理与上下文感知的智能问答。
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** `Rust` - Rust 是一种系统级编程语言，通过零成本抽象、内存安全和并发性保障，赋能开发者构建高效可靠的软件。其编译器与生态系统实现高性能代码生成与静态分析，核心亮点为安全与性能的统一。
+- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 该仓库汇聚高质量的 Rust 生态资源与开源项目，涵盖工具链、框架与库，助力开发者高效构建高性能应用。核心亮点为持续维护的精选清单与活跃社区贡献。
+- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Python实现Open XML格式PowerPoint文档的生成与操作，支持复杂幻灯片结构、样式与内容动态插入，核心亮点为纯Python实现、无需Office依赖、高度可定制化。
+- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并推荐开源 macOS 应用，涵盖开发、设计、生产力工具等类别，通过社区协作持续更新，助力用户发现高质量、免付费的 macOS 软件。
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇集全球范围内高质量的开源项目与资源列表，覆盖技术、工具、学习资料等多个领域，通过社区协作持续维护与更新，实现高效知识发现与资源整合。
+- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 构建的开发者专用幻灯片工具，支持 Markdown 编写、实时预览与自定义主题，实现高效、代码驱动的演示文稿创作。核心亮点为无缝集成代码高亮、组件化 Slide 组件与即时协作能力。
+- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档内容转化为专业演示文稿，支持多模型切换与丰富模板，提升内容创作效率。
+- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件自动转换为结构化Markdown格式，基于Python解析Office Open XML规范，支持文本、段落、列表、标题等元素的精准提取与格式还原，核心亮点为高保真结构保留与多层级内容组织。
+- **[stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat)** `Python` - WikiChat 通过增强型 RAG 技术从维基百科等语料库中精准检索事实信息，有效抑制大语言模型的幻觉问题，提升生成内容的准确性和可信度。
+- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型的编程框架，通过可训练的程序化结构替代提示工程，实现高效、可复现的 LLM 应用开发，核心亮点在于将提示设计转化为可优化的代码模块。
+- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，结合LLM与结构化知识库，实现教学内容的交互式问答与知识点解析，核心亮点为可复用的教学实验环境与动态知识注入能力。
+- **[sunface/rust-course](https://github.com/sunface/rust-course)** `Rust` - 本仓库为中文版Rust编程学习教程，通过生动示例与系统讲解，帮助开发者高效掌握Rust语言核心特性，涵盖安全内存管理、高性能编程与多范式支持，是学习Rust的优质入门资源。
+- **[sweepai/sweep](https://github.com/sweepai/sweep)** `Jupyter Notebook` - Sweep 是面向 JetBrains 开发环境的 AI 编码助手，基于大模型实现智能代码生成、修复与搜索，通过深度集成提升开发效率，核心亮点为上下文感知的代码理解与即时反馈。
+- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据构建方法。
+- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过浏览器可视化方式让用户实时调试神经网络结构与训练过程，核心亮点是零配置前端训练沙箱与动态参数调优反馈。
+- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生 macOS 集成与高度可定制的语法高亮和命令系统。
+- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库整理了60个针对数据科学任务的ChatGPT高效提示词，涵盖数据清洗、建模、可视化等环节，通过结构化提示提升AI输出质量与一致性，核心亮点在于场景化、可复用的提示工程范式。
+- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库提供《提问的智慧》中文版，系统性指导用户如何高效、精准地提出问题，提升沟通效率与信息获取质量。通过结构化方法论与实用范例，帮助用户在技术协作、学习研究等场景中实现高质量提问。
+- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无需 Electron，跨平台高效运行，显著降低资源占用。
+- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记本，涵盖LLM训练与优化全流程，支持快速上手与实验验证，核心亮点为轻量高效、即开即用的Fine-tuning实战资源。
+- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 和 SQLite 的自托管笔记服务，支持 Markdown 编辑与标签化管理，提供私有化数据控制与轻量级社交互动，通过 Docker 部署实现开箱即用。
+- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，提供自定义模板与智能动画添加，实现高效高质量演示文稿一键生成。
+- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过结构化任务分解与工具调用实现复杂任务自动化，核心亮点在于可插拔的 Agent 架构与多工具协同执行能力。
+- **[voideditor/void](https://github.com/voideditor/void)** `TypeScript` - 基于TypeScript的开源VS Code编辑器扩展，集成LLM能力实现智能代码生成与交互式开发，支持ChatGPT、Claude等模型接入，提供类Copilot的实时辅助体验。
+- **[volcengine/MineContext](https://github.com/volcengine/MineContext)** `Python` - MineContext 是一款基于上下文工程的主动式 AI 伙伴，通过动态记忆与多模态感知实现持续上下文理解，结合 RAG 与 Agent 技术实现智能交互与任务执行。
+- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 基于Markdown文件自动生成美观的reveal.js幻灯片，支持实时预览与一键发布，核心亮点是极简输入与高保真输出的完美结合。
+- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 汇集中文优质RSS源中订阅量最高的内容，提供高效聚合与订阅服务，支持多平台统一管理，核心亮点为精准筛选与社区驱动的高质量内容推荐。
+- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇聚中国本土大模型相关项目与资源，涵盖模型、工具链与应用实践，推动技术落地与生态共建，整合前沿成果形成高效可复用的知识库。
+- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于ChatGPT等大模型自动生成PPT，将内容生成与幻灯片结构整合于单一文件，通过Go语言实现高效自动化处理，支持一键生成专业级演示文稿。
+- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于TypeScript构建的音频转写工具，支持实时音频流处理与高精度语音识别，集成AI模型实现多语言、多方言识别，具备低延迟与高可扩展性。
+- **[wshuyi/workflows_with_litellm_pub](https://github.com/wshuyi/workflows_with_litellm_pub)** `Python` - 基于 LiteLLM 构建轻量级工作流引擎，支持多模型统一接口调用与灵活编排，实现高效 LLM 调用与任务自动化，核心亮点为低代码化流程配置与跨模型兼容性。
+- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合思维导图、周报机制与技术视野导航，支持高效知识管理与职业成长规划。
+- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇聚多个开源AI开发工具的系统提示、内部工具与模型，聚焦AI辅助编程与开发效率提升，通过标准化提示工程与可复用组件加速AI原生开发。
+- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 基于用户脚本（UserScript）技术，为ChatGPT提供数据安全增强与效率优化的浏览器插件，通过自动刷新、拦截跟踪、净化页面等机制实现安全、流畅、高效的AI交互体验。
+- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 音乐标签编辑器，基于Python实现本地音乐文件元数据批量修改，支持Docker部署与NAS/Navidrome集成，提升音乐管理效率。
+- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精选的编码面试准备材料，基于TypeScript实现，涵盖算法、系统设计与行为面试题，支持高效练习与复习。
+- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供轻量级、可复用的卡片组件服务，支持动态渲染与交互逻辑，核心亮点为模块化设计与高效渲染能力。
+- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书的自动化生成，通过Python脚本调用翻译模型将单语内容转换为双语对照格式，支持多语言适配与排版优化，核心亮点在于端到端流程简化与高质量翻译融合。
+- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大模型与小米AI音箱的交互，通过本地化部署与语音指令驱动，实现自然语言对话的端侧落地，核心亮点为低延迟语音交互与轻量化模型适配。
+- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比Midjourney中多样化的摄影参数、胶片类型及术语效果，为图像生成提供可复现的实验数据集，助力用户精准调参。
+- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python实现的轻量级AI Agent框架，支持多步骤任务规划与工具调用，结合RAG技术增强上下文理解，适用于自动化内容生成与智能问答场景。核心亮点在于模块化设计与低延迟推理能力。
+- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一个开源自托管的链接分享与管理平台，基于Go与React构建，支持自定义可读短链接，通过SQLite实现轻量级数据存储，提升个人与团队链接管理效率。
+- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 汇集MCP生态核心资源与工具链，提供Claude、DeepSeek、Qwen等主流模型的MCP服务端与客户端支持，构建统一开发与部署指南，助力AI Agent高效集成与协同。
+- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源双语对话语言模型，基于 Python 实现，支持中英文流畅对话，采用高效推理优化技术，具备低资源部署能力与高对话质量。
+- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将任意输入（如图片、文档、网页）通过AI模型转换为结构化Markdown，支持多模态输入与标准化输出，核心亮点为跨源内容统一转换能力。
+- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的动态展示，实现高效、美观的在线演示体验。
+- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT构建私有化文档交互系统，通过本地化部署实现数据零外泄，支持用户以自然语言高效查询私有文档，核心技术为RAG与本地LLM推理。
 
 ## Web Tools
 
-*276 个项目*
+*268 个项目*
 
-- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体全栈技术资源，涵盖协议、编解码、传输、实战项目与行业专家，助力开发者高效掌握流媒体核心技术。
-- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过解析目标网站视频接口与页面结构，自动抓取无水印视频资源，支持抖音、快手、微博等主流平台，具备高兼容性与低资源消耗特点。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于灵活可扩展的节点式编辑与对本地部署的深度支持。
-- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像中特定元素，融合多模态理解与生成能力，核心亮点为高精度语义对齐与上下文感知的替换效果。
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的开源Web界面，通过Gradio构建交互式图像生成平台，支持文生图、图生图、超分等核心功能，具备模块化插件扩展能力。
-- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI构建全栈应用，实现高效内容创作。核心亮点为自动化视频合成与自然语言驱动的动画生成。
-- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 基于 React 与 Next.js 构建的开源隐私优先简历生成工具，支持完全本地化定制与无缝导出，采用 TailwindCSS 与 Material-UI 实现现代化界面，无需云端存储。
-- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码与代码并行的网页应用构建工具，基于 ReactJS 与 FastAPI 构建，支持快速搭建可交互的 Web 应用，核心亮点在于低门槛开发与前后端一体化部署能力。
-- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取指定网站生成结构化知识文件，支持基于URL快速构建自定义GPT，利用TypeScript实现高效数据提取与知识组织，核心亮点为一键式知识资产构建。
-- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的对话交互界面，通过前后端分离架构实现高效通信与动态渲染，核心亮点在于低门槛部署与流畅的用户体验。
-- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 基于 TypeScript 构建的一站式 AI 网页服务聚合平台，支持一键部署 ChatGPT 及多类 AI 工具，集成 MidJourney、Stable Diffusion 等模型，提供统一访问入口与可视化交互体验。
-- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过扩展程序实现网页内即时对话、内容摘要与生成，支持多浏览器平台，核心亮点为无缝嵌入式AI交互体验。
-- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 Next.js 与 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 和 Windows，集成 GPT-4o、Claude、Gemini 等主流大模型，提供低延迟本地化与云端混合推理体验。
-- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建私有知识库实现高效文档问答，支持本地化部署与多格式文档解析，核心亮点在于低门槛接入与高精度语义检索。
-- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 为 ComfyUI 提供可视化节点管理能力，支持自定义节点的安装、启停与卸载，集成资源 hub 与信息查看功能，显著提升工作流管理效率。
-- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - ConardLi/easy-dataset 是一个基于 JavaScript 的高效工具，用于自动化构建大语言模型微调数据集，支持数据清洗、标注与格式转换，显著降低数据准备门槛。
-- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - 基于RSS技术聚合全球多平台内容，支持B站、微博、知乎等主流平台的实时信息订阅，通过TypeScript构建高效、可扩展的统一内容入口，实现信息自由流动。
-- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 一款基于 TypeScript 的浏览器扩展，通过集成 RSSHub 服务，一键发现并订阅 RSS 源，简化内容聚合流程，支持 Chrome 与 Firefox。核心亮点在于无缝对接开源 RSSHub 生态，实现零配置快速订阅。
-- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的去中心化网状 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全通信，核心亮点在于低延迟、高可扩展的点对点连接能力。
-- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro构建高性能AI代码与内容生成工具，支持OpenAI兼容接口与流式/非流式调用，实现高效、高质量的AI应用体验。
-- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化编排的 AI 工作流构建平台，支持低代码/无代码构建复杂 AI Agent 与多智能体系统，集成 LangChain、OpenAI 等主流 LLM 生态，实现高效流程自动化。
-- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求封装、流式响应与错误处理，核心亮点是简洁可复用的封装模板与真实场景示例。
-- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 提供 Figma 布局数据的 MCP 服务，通过 TypeScript 实现高效接口对接，赋能 AI 编码助手（如 Cursor）精准理解设计稿，核心亮点是低延迟、结构化设计信息提取。
-- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT API及多款主流大模型的图形化对话工具，支持Agent、文件问答、模型微调与网页搜索，通过简洁UI实现高效多模态交互。
-- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitBook 是开源的前端框架，用于构建现代化的文档站点，支持 Markdown 与 Git 集成，通过 TypeScript 实现高性能、可扩展的文档展示与协作体验，核心亮点在于开箱即用的文档渲染与版本管理能力。
-- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性与可控性动画生成，基于多帧时序建模与姿态引导机制，支持复杂动作还原与风格保持。
-- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，在弱条件（如低质量输入、有限数据）下生成高表达力的动态人像视频，实现从音频到生动人脸动画的端到端生成。
-- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，提供标准化输出格式，通过可视化界面实现图像、文本等数据的高效标注，核心亮点在于灵活的标注模板与跨模态支持。
-- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 基于Gemini-2.5-Flash-Image（Nano Banana）生成与编辑图像的精选视觉内容库，通过JavaScript实现高效展示与交互，突出Google前沿多模态生成能力。
-- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于Web的阅读优化扩展，通过JavaScript实现一键提取网页精华内容，结合React与Readability技术，提供简洁、无干扰的沉浸式阅读体验。
-- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需服务器即可直接在浏览器中调用 ChatGPT，实现隐私安全的对话交互，支持异步流式响应与自定义配置。
-- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人脸动态驱动，通过输入静态人像与驱动视频，生成高保真动态人脸视频，核心亮点为自然的表情迁移与流畅的运动捕捉。
-- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 该仓库是 LearnOpenGL 官方系列教程的简体中文翻译项目，通过协作翻译与 Web 工具化呈现，帮助中文开发者高效学习图形编程。核心亮点为高质量、持续更新的中文教程生态。
-- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - 开源DWG格式解析库，采用C语言实现，支持CAD文件读写与兼容性处理，通过CI与夜间构建保障稳定性，为CAD生态提供高效、轻量级底层支持。
-- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 的 Markdown 编写能力，结合 reveal.js 实现静态幻灯片生成，支持实时预览与代码高亮，核心亮点在于无缝集成笔记与演示文稿工作流。
-- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持 Imgur、GitHub、阿里云 OSS、七牛云、腾讯云 COS 等多平台一键上传，界面简洁高效，提升内容创作与技术文档编写中的图片管理效率。
-- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，通过拖拽式界面降低提示工程门槛，提升提示词开发效率与可复用性。
-- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript构建插件实现文献智能检索与摘要生成，核心亮点在于无缝衔接学术工作流，提升研究效率。
-- **[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)** `JavaScript` - 易采集是一款可视化无代码网页爬虫工具，通过图形化界面设计爬虫任务，支持浏览器自动化与数据采集，降低技术门槛，提升非技术人员的数据获取效率。
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流平台，通过逆向分析与分布式抓取技术保障高效稳定采集，核心亮点为全链路兼容与低耦合架构设计。
-- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI 生成理想中的房间效果图，融合图像理解与生成技术，实现直观、高效的室内设计创意表达。
-- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译管理机制，实现笔记内容的实时多语种切换，核心亮点在于零配置本地化与插件生态兼容性。
-- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集ChatGPT相关资源与应用，涵盖API使用、提示工程、开发工具与实战案例，为开发者提供一站式学习与实践指南。
-- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库归档了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，通过JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于持续迭代的社区协作与高兼容性。
-- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面和强大的数据转换功能，帮助用户高效处理脏数据，支持数据重构、去重、标准化与数据关联，核心亮点在于灵活的行级操作与Wikidata集成。
-- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，支持图像修复、风格迁移、人脸动画迁移、音视频同步唇动生成等多样化应用，采用先进的 GAN 架构与轻量化设计，实现高质量图像与视频生成。
-- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch、TensorFlow等框架实现高鲁棒性视频抠图，支持多平台部署（ONNX、CoreML、TF.js），提供实时、高精度的前景提取能力，核心亮点为跨框架兼容与轻量化模型设计。
-- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 基于sd-webui的提示词增强扩展，提供直观输入界面、自动翻译、历史记录与收藏功能，显著提升图像生成提示词的编写效率与体验。
-- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 为应用集成 GenAI 提供开箱即用的有观点 RAG 解决方案，支持多模型、多向量库与多文件类型，通过低侵入式集成简化 RAG 构建，聚焦产品创新而非基础设施。
-- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 是一款基于 TypeScript 构建的 AI 驱动型聚合阅读工具，整合 RSS 与区块链技术，实现跨平台内容自动抓取、智能分类与去中心化存证，核心亮点在于 AI 内容理解与去中心化信任机制。
-- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA稳定扩散模型的图像修复工具，支持物体移除、缺陷修复与内容替换，利用潜空间扩散技术实现高精度图像修复，核心亮点为快速生成与自然融合效果。
-- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** `Python` - 基于AI的Python网络爬虫，利用大语言模型理解网页结构并智能提取数据，支持Markdown输出与RAG集成，实现高效、准确的网页数据自动化采集。
-- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端工具，基于 JavaScript 构建，提供高度可定制的聊天界面与插件系统，支持多模型接入与角色扮演交互，核心亮点在于灵活的界面配置与强大的社区生态扩展能力。
-- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款基于Web的开源图像标注工具，支持目标检测、关键点识别与Pascal-VOC格式导出，集成SSD与PoseNet模型，提供高效、免费的在线标注体验。
-- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，AI-to-PPTX可智能生成PPT大纲并支持多模板导出PPTX，前后端开源，实现高效智能演示文稿创作。
-- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现的大众点评全站爬虫，通过动态字体加密破解技术实现非OCR方式数据采集，支持持续更新与高稳定性爬取。
-- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是基于 TypeScript 构建的社区级生成式 AI 界面，集成 Stable Diffusion 等模型，提供可视化生成与交互体验，支持模型部署与社区共享，核心亮点在于低门槛的前端交互与可扩展的生成工作流。
-- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升训练与推理效率，支持文本到图像、图像修复等任务，核心亮点为生成质量高且计算资源需求较低。
-- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地部署的PDF多功能Web工具，基于Java实现PDF合并、转换、编辑、OCR等操作，支持Docker化部署，提供高效、安全的离线PDF处理能力。
-- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - TalAter/annyang 是基于 JavaScript 的网页语音识别工具，通过浏览器原生 Web Speech API 实现语音转文本，支持实时语音输入与自然语言交互，核心亮点是轻量级、无需后端依赖、开箱即用。
-- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费V2Ray与ClashX可用代理节点的订阅链接聚合，通过Python脚本自动抓取、筛选与更新节点池，支持多客户端配置，助力用户快速搭建科学上网通道。
-- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 该仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定可靠的远程服务器，核心亮点在于流程清晰、适配多场景部署需求。
-- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑框架，通过可交互的控制点实现精准图像 manipulation，支持自由形状编辑与自然风格保持，核心亮点在于结合隐空间优化与视觉反馈的实时交互。
-- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于大语言模型的自主智能体，通过RESTful API操控真实世界应用，实现自动化任务执行与系统协同。核心亮点为端到端的API驱动决策与执行闭环。
-- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于轻量级深度学习模型实现无需trimap的实时人像抠图，通过端到端网络直接预测Alpha通道，显著提升处理效率与精度。
-- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方集成，支持稳定扩散工作流中高效精准的图像背景移除，核心亮点为无缝对接ComfyUI节点化流程与低资源消耗的实时推理。
-- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 本仓库汇集多个 ComfyUI 工作流，支持 Stable Diffusion 图像生成的高效编排与自动化，通过节点化流程实现灵活定制，核心亮点为模块化设计与即插即用的多场景工作流模板。
-- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，支持精细化人脸生成与风格控制，提供直观节点化工作流。核心亮点为中文本地化优化与高保真肖像输出。
-- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高精度人脸检测与抠图，结合FastAPI与Gradio构建高效证件照生成工具，支持一键换底与尺寸适配。
-- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化方式呈现大模型的推理路径，利用 HTML 实现交互式推理流程展示，核心亮点在于直观揭示 LLM 内部逻辑链，提升可解释性与调试效率。
-- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过AI将截图一键转换为结构化前端代码（HTML/Tailwind/React/Vue），结合多模态理解与代码生成技术，实现视觉到代码的精准映射，核心亮点在于高保真还原与多框架输出。
-- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，使用 HTML 语法构建 VR 内容，依托 Three.js 实现高性能 WebGL 渲染，支持主流 VR 设备与 WebXR 标准，开箱即用的组件化设计降低开发门槛。
-- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强的智能应用构建，支持快速部署个性化 AI 服务，核心亮点在于开箱即用的 AI 工具链与企业级集成能力。
-- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供简洁高效的交互体验，核心亮点为开箱即用的 Agent 通信能力与可定制化 UI。
-- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 的桌面应用，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等多款主流大模型，通过统一界面实现跨平台多对话管理，核心亮点为高效集成与实时对比生成结果。
-- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与动态交互，支持“写一次，多端个性化交付”，提升文档创作效率与用户体验。
-- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能AI照片生成工具，通过简化操作流程与优化模型推理，实现高质量人像生成。核心亮点在于一键式风格迁移与细节保留技术。
-- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业私有数据智能问答系统，通过RAG架构整合OpenAI与Cognitive Search，支持快速上传与检索企业文档，实现安全高效的语义对话。
-- **[alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG)** `JavaScript` - 基于 D3 和 SVG 的神经网络架构可视化工具，可生成出版级精度的神经网络示意图，支持高度可定制化的图形绘制与动态布局。
-- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，助力团队高效构建一致的用户界面。通过社区协作与持续维护，提升设计与开发协同效率。
-- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL·E 3的AI封面生成工具，通过TypeScript构建高效Web交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
-- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript开发的AI壁纸生成工具，利用AI模型动态生成个性化高清壁纸，支持用户自定义风格与主题，实现一键生成与本地预览。核心亮点为高效渲染与多风格适配。
-- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，基于TypeScript构建，支持GPT应用的发布、发现与集成，提供统一的开发与部署框架，核心亮点是开箱即用的GPT商店生态与标准化接口。
-- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的特征点条件，实现高保真音频驱动的人脸动画生成，通过多模态建模与时空一致性优化，支持自然流畅的口型同步与微表情表达。
-- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - L7 是基于 WebGL 的大规模地理空间数据可视化引擎，支持 GeoJSON、Mapbox、高德等多源地图数据，通过高性能渲染实现 3D 地理可视化，核心亮点为跨平台、高并发、低延迟的地理数据实时渲染。
-- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化的MCP协议，让AI Agent无缝调用数千个现成爬虫与自动化工具，实现对社交平台、电商、地图等网页数据的高效采集与处理，核心亮点在于开箱即用的可组合数据获取能力。
-- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库系统梳理了500个AI代理在医疗、金融、教育等领域的实际应用案例，通过开源项目链接实现快速落地，展示AI代理在跨行业场景中的多样化解决方案与实践路径。
-- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为 JavaScript 实现的 LeetCode 题解集合，系统性记录算法与数据结构的解题过程，涵盖常见面试题型与优化思路，助力开发者高效备赛。
-- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch的实时语音克隆系统，5秒内完成声音克隆并生成任意语音内容，支持高保真、低延迟的TTS合成，核心亮点为极短训练周期与高质量语音还原。
-- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索分析服务，通过结构化检索与上下文理解，实现高效学术文献发现与深度分析，核心亮点为统一协议接口与多模型兼容能力。
-- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入实现Obsidian笔记间的智能连接，支持本地模型与主流API（如Claude、Gemini、GPT等），通过语义相似度自动发现相关笔记，提升知识发现效率。
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI Agent的网页自动化，让LLM能直接操作浏览器完成在线任务，支持复杂交互与状态管理，核心亮点是低代码接入真实网页环境。
-- **[btahir/open-deep-research](https://github.com/btahir/open-deep-research)** `TypeScript` - 基于搜索结果自动生成AI研究报告的开源替代Gemini Deep Research工具，采用TypeScript构建，融合检索增强生成与智能摘要能力，支持高效知识提炼与结构化输出。
-- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展可将用户用母语编写的图像生成提示词自动翻译为英文，支持Stable Diffusion WebUI无缝使用，核心亮点是低侵入式集成与多语言实时翻译能力。
-- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现高效任务闭环，核心亮点在于端到端的自动化工作流编排与上下文感知的动态决策。
-- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效API代理与调度，核心亮点为多模型一键切换与零成本试用。
-- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `TypeScript` - 基于Langchain构建的本地知识增强型LLM应用，支持ChatGLM、Qwen、Llama等模型的RAG与Agent功能，通过Faiss/Milvus实现高效向量检索，提供流式响应与本地化部署能力。
-- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - 基于React与TypeScript构建的全功能聊天机器人客户端，支持多平台接入与浏览器扩展集成，提供统一对话界面与高效交互体验，核心亮点在于跨平台一致性与低延迟响应。
-- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 平台，通过集成 AI Agent 与工具链实现自动化消息处理与任务执行，支持多场景交互与外部服务调用，核心亮点为轻量级部署与实时响应。
-- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT通过增强型Agent架构实现ChatGPT自主调用API与联网能力，突破传统模型局限，具备动态推理与工具执行能力，媲美甚至超越NewBing。
-- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码代理，可受控地执行文件创建/编辑、命令运行与浏览器操作，通过权限管控实现安全高效的智能编程辅助。
-- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 基于LLaMA模型的轻量级本地部署方案，通过优化推理流程实现低资源环境下高效运行，核心亮点为极简配置与开箱即用的本地推理体验。
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈（如HTTP服务器、数据库、编译器）从零构建，强化编程底层理解，结合渐进式教程与可运行代码，实现深度学习与工程实践融合。
-- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型可视化工具，通过模块化节点实现生成流程的灵活配置，支持高效推理与API集成，核心亮点在于高度可定制的图形化工作流设计。
-- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署与多源聚合，通过TypeScript与NestJS构建高效服务，实现订阅体验的优雅升级。
-- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 该仓库汇聚上百个可一键部署的开源项目，支持Docker化运行，提供项目地址与详细教程，大幅降低技术门槛，助力快速搭建AI与开发工具链。
-- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于TypeScript构建的自动化文章分发平台，支持多渠道一键发布，集成Node.js与MongoDB，实现文章内容的高效聚合与跨平台分发，核心亮点为开箱即用的媒体适配器与Docker化部署。
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析绘图结构并生成帧序列实现手绘风格动画，支持流畅过渡与关键帧控制，核心亮点为低代码化动画创作与实时预览。
-- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个基于 JavaScript 的开源 AI 增强框架，通过模块化 AI 提示库赋能人类解决具体问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链生态。
-- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，支持自然语言转SQL，提升非技术用户数据分析效率。核心亮点为精准上下文理解与动态知识检索。
-- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口适配提升开发效率，核心亮点在于生态兼容性与快速部署能力。
-- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库精选优质资源，帮助产品经理与项目管理者系统学习产品管理知识与实践方法，涵盖战略规划、用户研究、敏捷开发等核心领域，通过结构化内容提升专业能力。
-- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈 AI 平台，集成搜索、推荐、RAG 与分析功能，通过 API 提供高效向量检索与上下文增强生成能力，核心亮点为高性能、低延迟的向量数据库集成与原生 Rust 优化。
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地运行方案，基于 Electron 构建图形化界面，无需依赖配置或技术背景即可快速生成高质量图像。
-- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 提供一套Python模块，用于与Ryze Tello无人机通信与控制，支持飞行指令、视频流获取与传感器数据读取，核心亮点为轻量级、易集成，适合快速开发无人机应用。
-- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于 Vue3 和 Vite 构建的微信端 Markdown 编辑器，支持语法高亮、自定义主题、多图床与 AI 助手，集成 LLM 能力实现智能写作辅助，轻量高效，适配移动端写作场景。
-- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于 Next.js 和 T3 Stack 构建的在线 Tokenizer 交互平台，支持 OpenAPI 兼容模型的 token 估算与分析，提供实时输入输出的可视化对比。核心亮点为零配置接入、多模型兼容与直观交互体验。
-- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用且自动的图像增强与超分辨率框架，基于深度学习实现端到端图像质量提升，支持多场景自适应处理，核心亮点在于无需人工干预的全流程自动化与高质量输出。
-- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代AIoT开发平台，基于ESP系列芯片构建，支持本地化AI推理与物联网协同，通过轻量级模型部署实现低功耗智能边缘计算，核心亮点为软硬一体的AIoT集成方案。
-- **[evennia/evennia](https://github.com/evennia/evennia)** `Python` - Evennia 是基于 Python 与 Django 的开源 MUD/MUX/MUSH 游戏开发引擎，支持多人文本互动与 Web 客户端接入，采用 Twisted 异步框架实现高效并发。核心亮点为高度可扩展的模块化架构与活跃社区生态。
-- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1模型构建的开源聊天应用，实现精准网络检索与深度推理结合，支持实时信息获取与复杂问题解答。
-- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的在线协作白板工具，支持手绘风格的图表绘制，通过 Canvas 实现流畅绘图与实时协作，核心亮点为低延迟交互与简洁直观的界面设计。
-- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现可复用的提示工程方案，提升AI交互效率与输出质量。
-- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - FaceFusion 是一款领先的面部操作平台，通过深度学习实现高精度人脸替换、唇形同步与面部动画生成，支持一键式操作与多模态输入，具备实时渲染与高保真输出能力。
-- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术，结合Selenium与大模型能力，实现简历智能匹配与多岗位一键投递，提升求职效率。核心亮点在于个性化申请与全流程自动化。
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 是基于 TypeScript 构建的 Web 数据 API，可将完整网站转化为 LLM 友好的 Markdown 或结构化数据，支持高效、可靠的网页内容提取与解析，核心亮点在于对动态页面与复杂结构的智能处理能力。
-- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成视觉美观的运动海报，利用Python结合地图渲染与图形设计技术，支持跑步、骑行等轨迹可视化，核心亮点为一键生成高颜值分享图。
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 提供免费开源编程与计算机科学课程，基于 TypeScript 构建 Web 工具与互动学习平台，核心亮点为社区驱动的全栈课程体系与实时编码练习。
-- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化人体引导实现可控且一致的人像动画生成，结合图像与视频生成技术，支持自然姿态迁移与细节保真。核心亮点在于引入3D先验提升运动连贯性与视觉一致性。
-- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 React.js 与 TypeScript 构建的现代化文档框架，支持 MDX、Contentlayer 和 App Router，提供灵活的文档内容管理与渲染能力，核心亮点在于开箱即用的 Next.js 集成与可扩展的文档结构设计。
-- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于 TypeScript 快速构建专属 ChatGPT 应用，集成 OpenAI API 实现对话能力，支持自定义提示词与接口配置，开箱即用且易于扩展。
-- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件通过纯JavaScript转换为HTML，支持跨平台展示与交互，无需依赖服务器端处理，核心亮点为前端完整解析与动态渲染。
-- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间注意力调制，精准控制生成内容的布局与位置，突破传统控制方法的模型依赖限制。
-- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 基于Llama 2与Code Llama的本地化、离线运行聊天机器人，全程私有化部署，无需数据外传，支持代码生成与自然语言交互，兼具高性能与隐私安全保障。
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动化发布与智能生成。
-- **[gmpetrov/databerry](https://github.com/gmpetrov/databerry)** `Unknown` - 基于无代码方式构建自定义LLM智能体，集成语义搜索与OpenAI等模型，支持快速搭建对话式AI应用，核心亮点为低门槛与模块化流程设计。
-- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 该仓库提供360°视频与空间音频的规范与工具，基于Python实现编解码、元数据处理与播放支持，核心亮点在于对空间媒体标准的完整封装与跨平台兼容性。
-- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务及付费的AI对话系统，集成Docker实现快速部署，支持免费商用，适用于轻量级AI对话场景。
-- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合时间序列渲染生成动态轨迹动画，支持多格式输出与可视化配置，核心亮点在于高效轨迹解析与可定制化动画效果。
-- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 通过MCP协议实现Cursor AI Agent与Figma的双向通信，支持AI读取设计稿并编程式修改，提升设计协作效率。核心亮点在于原生集成与低代码交互。
-- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 UI，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
-- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭物资与厨房管理 ERP 系统，通过 PHP 和 Blade 模板实现，支持食材库存、购物清单、食谱管理与智能餐食规划，核心亮点在于数据自主掌控与高度可定制化。
-- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的系列实用工具与学习项目，涵盖从零入门到实战应用，包含12306抢票、地址库、网站爬虫等，代码结构清晰，适合编程学习与工程实践。
-- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/JavaScript 的开源演示框架，通过简洁的 Markdown 语法与灵活的插件系统，实现响应式、可扩展的幻灯片展示，支持实时预览与多端兼容。
-- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库精选优质数据可视化库与资源，帮助开发者快速定位高效绘图工具，支持多种图表类型与交互功能，提升数据呈现与分析效率。
-- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐自动下载与播放，使用 yt-dlp 下载音源并集成 Docker 化部署，支持 Vue 前端交互，提升家庭音乐播放自动化体验。
-- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol（MCP）构建的Excel操作服务器，通过LLM+Tool Calling实现对Excel文件的智能读写与自动化处理，支持流式响应与标准输入输出，提升办公效率。
-- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度权限控制与事件触发，无需手动编写接口，实现数据层与应用层的高效联动。
-- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过结构化数据查询与智能检索实现高效文献发现，核心亮点为开源、低延迟与学术语义优化。
-- **[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)** `TypeScript` - 基于Ollama构建的Obsidian插件，通过本地化LLM集成实现知识库智能增强，支持自然语言查询、内容生成与自动摘要，核心亮点为离线运行与无缝集成Obsidian生态。
-- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全面文档，支持从语音转录与文本自动提炼结构化内容，核心亮点为高精度语义理解与多轮内容优化能力。
-- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合国内外主流AI绘画平台与技术资源，涵盖Stable Diffusion系列模型的教程、参数配置、部署指南及行业动态，提供一站式学习与实践路径。
-- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型实现无代码的数据集构建、增强与转换，通过可视化流程编排调用LLM与AI工具，显著降低数据工程门槛。
-- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 整理优质 ChatGPT 与 GPT-3 相关工具、演示、文档资源，按功能与用途分类，便于开发者快速发现高效实践方案，提升模型应用开发效率。
-- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据构建问答系统，利用Python实现结构化知识抽取与检索增强生成，支持自然语言查询。核心亮点是高效融合Notion文档与LLM能力，实现精准语义问答。
-- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown工具，支持从创意到论文、演示文稿与书籍的一体化创作，融合脚本化处理与高级排版能力，实现高效知识管理与多形态输出。
-- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保持的图像生成，仅需1张参考图即可秒级生成高保真人脸图像，基于扩散模型与ID嵌入解耦技术，支持个性化角色创作与快速原型设计。
-- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库 curated 了由 GPT-4o 和 gpt-image-1 生成的高质量 AI 图像与提示词，展示 OpenAI 在文本到图像生成领域的前沿能力，支持多种风格如吉卜力风、动漫与卡通。
-- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，提供安全私密的对话体验。
-- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 为编程初学者提供系统化的技术面试指南，内容涵盖基础知识、算法题解与面试技巧，通过结构化整理帮助学习者高效准备面试。核心亮点是面向零基础用户的友好路径设计与持续更新的题库资源。
-- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一个用 Haskell 实现的通用标记转换工具，支持多种文档格式间的高效转换，核心亮点在于强大的解析器架构与可扩展的插件机制。
-- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Python的分布式代理池工具，通过Redis管理高效可用代理，支持爬虫自动切换与验证，提升网络请求稳定性与匿名性，核心亮点为高可用代理自动筛选与负载均衡。
-- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持高效浏览与离线阅读，具备多端同步与智能标签管理，核心亮点是流畅的移动端体验与对成人内容的精准分类访问。
-- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持多场景AI Agent与RAG系统快速落地。
-- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于 TypeScript 构建的深度研究 AI 代理，通过持续搜索、阅读网页并推理，直至找到答案或耗尽 token 预算，实现自主探索式信息获取。
-- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过简单添加前缀 https://r.jina.ai/，将任意网页URL转化为结构化、LLM友好的文本输入，支持高效内容提取与语义理解，核心亮点在于零配置、低延迟的智能网页解析。
-- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库是一个精心整理的开源情报（OSINT）工具与资源集合，涵盖网站、数据库、自动化脚本等，助力用户高效开展网络信息挖掘与分析，核心亮点在于资源全面性与持续更新。
-- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式定制，显著降低 UI 主题开发门槛。
-- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python的自动化代码迁移工具，支持跨框架与语言的智能重构，利用语义分析与模式匹配实现高效转换，核心亮点为高保真度与可扩展的迁移模板体系。
-- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全类型书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标与全文检索，结合Next.js与React Native实现跨平台体验。
-- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源文档，将知识高效转化为Anki记忆卡片，支持多种格式输入与自动化处理，实现知识资产的长效记忆闭环。
-- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存公开API接口信息，便于开发者查阅与研究，采用静态托管方式实现高效访问与版本追溯。核心亮点在于完整保留原始文档结构与历史版本。
-- **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` - FastGPT 是基于 LLM 的知识型平台，通过 RAG、数据处理与可视化工作流编排，实现低门槛构建复杂问答系统，支持多模型接入与快速部署。
-- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 构建的全栈云开发平台，提供函数计算、数据库、对象存储等能力，支持快速部署与协同开发，核心亮点在于开箱即用的 Serverless 架构与一体化开发体验。
-- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python的豆瓣读书数据爬虫，通过模拟请求与解析HTML实现高效数据采集，支持书目、评分、评论等多维度信息抓取，具备反反爬策略与结构化输出能力。
-- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化网页研究与报告生成助手，基于本地运行的LLM与工具链，实现从网页抓取、信息提炼到报告撰写的全链路自动化，支持完全离线使用与隐私保护。
-- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试与部署基于大语言模型的 AI 工作流与多智能体系统，支持灵活组合 LLM 调用与工具链。核心亮点为直观的流程编排与可扩展的组件生态。
-- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` - Dify 是一个面向生产环境的智能体工作流开发平台，基于 TypeScript 构建，支持低代码/无代码方式编排多智能体协作与自动化流程，集成 OpenAI、Gemini 等主流 LLM 与 MCP 协作框架。
-- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将电子邮件新闻邮件自动转换为 Atom 订阅源，利用 TypeScript 构建高效解析与聚合逻辑，核心亮点是免手动订阅、统一内容消费入口。
-- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 基于网页抓取与视频解析技术，实现微信视频号内容一键下载，支持多格式导出，操作简洁高效，无需登录即可获取高清视频资源。
-- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于Rust与Tauri构建的跨平台ChatGPT桌面应用，支持Mac、Windows和Linux系统，通过WebView集成OpenAI API，提供本地化、高性能的AI对话体验，核心亮点为低资源占用与原生系统融合。
-- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于 Lepton AI 构建对话式搜索Demo，利用 TypeScript 实现高效前端交互与后端 LLM 接入，支持自然语言查询与实时结果反馈，核心亮点为低延迟响应与无缝集成的 AI 搜索体验。
-- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的现代 Web 框架，支持细粒度响应式编程与同构渲染，可编译为 WebAssembly 实现高性能前端应用。核心亮点在于极致性能与零运行时开销的响应式架构。
-- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT内容自动生成，支持免费在线使用，用户输入主题即可快速生成结构化PPTX文件，核心亮点为零代码、高效率、无缝集成。
-- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 提供面向AI Agent的PUA（Prompt for User Agent）提示工程集合，基于HTML结构化组织，支持快速构建可复用的智能交互逻辑，核心亮点是模块化、开箱即用的Agent提示模板。
-- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是一个以隐私为核心、基于本地优先架构的开源知识管理与协作平台，使用 Clojure/ClojureScript 构建，支持 Markdown 与 Org-mode 语法，通过图谱化笔记实现知识连接。核心亮点在于本地存储、双向链接与去中心化协作。
-- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合区域资源与技术实践，推动二线城市数字化创新，展现区域科技活力与实践价值。
-- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - MagicAnimate 基于扩散模型实现高保真、时序一致的人像动画生成，通过时空建模与运动先验引导，将静态图像驱动为自然流畅的动态视频，核心亮点在于无需额外姿态数据即可实现精准动作迁移。
-- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 是面向设计工程师的开源 UI 组件库，基于 React 与 TailwindCSS 提供可复用的动画组件，支持 Framer Motion 实现流畅交互，开箱即用，免费供开发者快速搭建现代化前端界面。
-- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，支持多智能体协作与对话管理，通过结构化提示与上下文记忆实现自然流畅的群组交互，核心亮点为低延迟、高可扩展的实时群聊架构。
-- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本生成思维导图，通过 TypeScript 实现高效解析与可视化渲染，支持结构化文本到图形的无缝转换，核心亮点为零配置、高兼容性与实时交互体验。
-- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区维护的 Swift 生态优质库与资源清单，涵盖 iOS、Linux 平台的框架、扩展与工具，通过协作方式持续更新，助力开发者高效构建 Swift 应用。
-- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - MeiliSearch 是一款基于 Rust 构建的闪电般快速的搜索引擎 API，支持 AI 驱动的混合搜索，融合语义搜索与传统全文检索，提供毫秒级响应与高容错的搜索体验。
-- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI、LINE与Vercel构建的AI助手，通过Web端集成实现多平台对话交互，支持自然语言处理与实时响应，核心亮点为低代码部署与跨平台消息互通。
-- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是基于 jQuery 的 PPTX 转 HTML 工具，通过解析 PowerPoint 文件结构并转换为可交互的 HTML 内容，实现无依赖的演示文稿在线展示。核心亮点为轻量级、支持跨浏览器渲染与动态交互。
-- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于Python的文本编辑器式视频剪辑工具，通过自然语言指令实现精准剪辑，融合文本解析与视频处理技术，核心亮点为“所见即所得”的文本驱动剪辑体验。
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 构建模型上下文协议服务端，基于TypeScript实现高效、可扩展的LLM上下文管理与调度，支持多模态与实时推理，核心亮点为标准化上下文接口与低延迟响应。
-- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，结合Gradio实现一键式操作，支持高精度语音转写与自动字幕生成，核心亮点为端到端自动化与易用性。
-- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地部署的AI数字人一站式系统，支持语音合成、声音克隆与视频生成，集成CozyVoice、Wav2Lip等模型，通过可视化界面实现一键部署与管理。
-- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的 JavaScript 3D 库，通过简化 3D 图形开发流程，支持 WebGPU、WebXR 等前沿技术，实现高性能、跨平台的 3D 网页可视化。
-- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` - 基于Go语言构建的本地化开源AI平台，支持多种模型格式在消费级硬件上运行，无需GPU，提供文本、图像、音频等多模态生成与去中心化推理能力，兼容OpenAI API。
-- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持用户在不离开浏览器的前提下调用本地LLM进行内容理解与生成，核心亮点为隐私安全与低延迟响应。
-- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一个完全免费、私有化本地运行的多LLM搜索聚合与答案生成系统，通过多引擎搜索整合结果并交由LLM生成答案，无需GPU即可运行。
-- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 该仓库系统整理了300+适合独立开发者与创业者的用户增长渠道，涵盖国内外主流推广路径，提供结构化指南以高效获取前1000名早期用户，助力产品冷启动。
-- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于任意文档的问答系统，通过RAG技术实现高效知识检索与生成，支持多种格式文档解析与本地化部署，核心亮点为灵活适配非结构化数据与高精度问答。
-- **[npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai)** `MDX` - 为独立开发者提供融合AI的全栈技术栈，基于MDX构建可交互的AI增强开发文档与工具链，实现高效知识沉淀与开发提效。
-- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 提供本地化运行主流大模型（如 Llama3、Gemma 3、DeepSeek-R1 等）的轻量级工具，基于 Go 语言实现高效模型服务，支持一键部署与多模态扩展。
-- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于Python的本地化大模型Web界面，支持多种LLM快速部署与交互，提供图形化操作与高级功能，开箱即用，降低本地AI使用门槛。
-- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，通过科学记忆曲线优化闪卡复习节奏，提升长期记忆效率。核心亮点在于精准预测遗忘点，实现个性化复习调度。
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - OpenWebUI 提供开源、自托管的用户友好型大语言模型交互界面，支持 Ollama、OpenAI API 等多源模型接入，通过 Web 界面实现高效 LLM 对话与管理，核心亮点在于低门槛部署与多模型统一管理。
-- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 提供基于 OpenAI API 的完整 Jupyter Notebook 示例，涵盖模型调用、提示工程、流式响应等，帮助开发者快速上手构建 LLM 应用，核心亮点是实战性强、文档与代码一体化。
-- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - Shap-E 通过文本或图像生成3D物体，基于扩散模型实现跨模态生成，支持快速原型设计与创意表达，核心亮点在于高效生成与多模态输入融合。
-- **[oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp)** `Python` - Oxylabs-MCP 提供官方 MCP 协议集成，通过 Python SDK 实现与 Oxylabs 数据采集服务的无缝连接，支持 LLM 驱动的高效网页数据抓取，核心亮点为安全、可扩展的 AI 友好型数据获取能力。
-- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持语义保留与可逆解码，核心亮点在于轻量级实现与高兼容性。
-- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反问面试官的高质量问题清单，帮助候选人深度评估团队技术氛围与成长空间，内容覆盖技术栈、工程实践与职业发展。
-- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言实现高效、稳定的数据采集，支持智能解析与结构化输出，核心亮点为低门槛、高可用性与简洁易用的 CLI 交互。
-- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于AI的私有化相册管理应用，利用Go语言与TensorFlow实现图像识别、自动标签与搜索，支持自托管与去中心化部署，提升个人照片管理智能化水平。
-- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿应用，复刻 MS PowerPoint 核心功能并支持 AI 自动生成幻灯片，提供云端协作与智能编辑体验。
-- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将PPTX文件解析为结构化JSON数据，基于JavaScript实现高效解析，支持多层级内容提取，核心亮点为精准保留原始幻灯片结构与文本语义。
-- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘制，基于TypeScript构建，强调协同与本地优先设计，提升团队协作与创意表达效率。
-- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一个基于 Go 语言的数据库迁移工具，支持 SQL 与 Go 函数混合迁移，可灵活管理数据库模式变更，提供版本化、可复用的数据库演进能力。
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 汇集全球免费公共API资源，提供结构化列表与分类检索，支持开发者快速发现与集成开放接口，核心亮点是持续维护的高质量API索引与社区协作机制。
-- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统，通过检索增强生成实现精准问答，支持本地化部署与多模型接入，核心亮点为低延迟响应与可解释性检索结果。
-- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建交互式图谱生成工具，支持数据可视化与图结构推理，通过代码模块化实现高效图谱构建与分析，核心亮点为低代码化图谱设计与可复用的图生成逻辑。
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于 React 和 TypeScript 构建程序化视频生成工具，支持组件化视频创作与动态渲染，核心亮点是将前端开发范式无缝迁移至视频生产流程。
-- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 收录支持自定义API密钥的ChatGPT工具与应用，用户可自由接入个人额度实现免费用途，提升使用灵活性与成本可控性。
-- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 Zotero 提供强大的 BibTeX / biblatex 支持，通过 TypeScript 实现精准的引用键管理与 LaTeX 兼容输出，显著提升 LaTeX 用户的文献管理效率。
-- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - AgentGPT 通过浏览器可视化编排与部署自主 AI 代理，基于 TypeScript 与 LangChain 实现低代码配置，支持 OpenAI 等模型接入，核心亮点为开箱即用的代理构建与可扩展的工具链集成。
-- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 汇集高质量的 Rust 生态资源与代码库，涵盖工具链、框架、库及学习资料，通过社区驱动方式持续维护，助力开发者高效构建高性能、安全可靠的系统。
-- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 构建的高性能 S3 兼容对象存储系统，支持与 MinIO、Ceph 等平台共存迁移，提供低延迟、高吞吐的数据持久化能力，核心亮点在于云原生架构与高效内存管理。
-- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成图像/视频中人脸的精准替换，支持多种风格迁移与自然融合，操作简便、响应迅速。
-- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - 提供Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，原生支持流式响应与错误处理，提升开发者集成效率。
-- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护型元搜索引擎，聚合多家搜索服务结果，通过去中心化架构实现无追踪搜索，核心亮点在于完全匿名化处理与可自托管部署。
-- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度前景分离，无需绿幕即可将人物或物体从复杂背景中精确提取，支持实时处理与多场景适配。
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇聚全球优质主题资源清单，通过社区协作持续维护高质量链接，覆盖技术、创意、生活等多个领域，以统一格式提升信息发现效率。
-- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 的开发者专用幻灯片工具，支持 Markdown 直接编写幻灯片，提供实时预览与代码高亮，核心亮点是无缝集成开发体验与现代化 Web 技术栈。
-- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档转化为专业演示文稿，支持多模型、多模板，提升内容创作效率。
-- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - One-API 是一款统一管理多模型 LLM API 的代理系统，通过单可执行文件与 Docker 一键部署，实现 OpenAI、Claude、Gemini 等主流模型的 API 统一接入与 key 管理，支持灵活分发与二次使用。
-- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件高效转换为Markdown格式，基于Python解析PPTX结构并智能提取文本、标题与布局信息，支持多级标题与格式保留，核心亮点为高保真还原与简洁易用。
-- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于Vercel AI SDK与GPT-3.5-turbo，通过微调莎士比亚文学作品构建的AI对话bot，实现风格化文本生成与经典文学语境对话，核心亮点在于精准还原莎士比亚语言风格与修辞特色。
-- **[sunface/rust-course](https://github.com/sunface/rust-course)** `Rust` - 本仓库是面向中文学习者的高质量 Rust 入门教程，通过生动示例与系统讲解，帮助开发者掌握无需 GC 的高性能语言，涵盖编程范式与现代生态。
-- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需修改代码，通过Rust实现高效代理与协议适配，核心亮点是零侵入式集成与低延迟MCP服务部署。
-- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Rust构建高性能、安全的桌面与移动应用，使用Web前端与WebView技术实现跨平台原生体验，兼顾开发效率与运行性能。
-- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过可视化界面实时调整网络结构与参数，支持即时训练与结果反馈，核心亮点为低门槛的深度学习可视化探索。
-- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无 Electron 依赖，支持跨平台高性能运行，实现高效、低资源占用的 Web 应用桌面化。
-- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐机制，支持任意文本在复杂场景中的精准渲染，核心亮点为跨语言、跨字体、高保真视觉生成。
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据抓取工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点在于对 LLM 输入的天然适配与高可用性。
-- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款开源免费的跨平台 AI 图像超分工具，基于 ESRGAN 模型实现图像高清化，支持 Linux、MacOS 和 Windows，通过 Electron 打包提供直观界面，显著提升低分辨率图像质量。
-- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 与 React 构建的自托管笔记服务，支持 Markdown、卡片式记事与微博客功能，采用 SQLite 存储，强调数据自主与隐私保护，通过 Docker 快速部署。
-- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高性能交互式三维网络可视化，核心亮点为流畅的物理模拟与浏览器端实时渲染。
-- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多模态力导向图可视化，通过Canvas高效渲染大规模网络拓扑，实现交互式动态图谱展示。
-- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - 基于AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，兼容自定义模板与智能动画添加，提供在线体验。
-- **[vincent623/TaskWeaver-AI](https://github.com/vincent623/TaskWeaver-AI)** `Python` - TaskWeaver-AI 是一个基于 Python 的 AI 任务编排框架，通过模块化设计实现多步骤任务的自动化执行，核心亮点在于灵活的 Agent 调度与工具集成能力。
-- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - 构建基于语音的大型语言模型智能体，采用模块化开源设计，支持语音输入输出与LLM协同，核心亮点为端到端语音交互与可插拔架构。
-- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D交互系统，融合AI驱动动画与实时语音响应，实现高沉浸感虚拟角色交互，核心亮点为轻量化部署与多模态自然交互。
-- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 提供豆瓣平台数据的开放API服务，基于JavaScript实现高效数据抓取与接口封装，支持多维度内容查询与实时同步，核心亮点为稳定高并发访问与结构化数据输出。
-- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 将 Markdown 文件一键转换为精美 reveal.js 演示文稿，支持实时预览与自定义主题，核心亮点在于极简工作流与高度可定制的幻灯片生成能力。
-- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 整理并聚合中文高质量RSS源，为用户提供订阅人数最多、内容优质的资讯聚合服务，支持一键订阅与高效阅读，核心亮点在于精准筛选与社区驱动的优质内容推荐。
-- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与动画生成，支持衣着数字化与虚拟试穿，融合多模态生成与三维渲染技术，实现高保真虚拟形象构建与动态交互。
-- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于Go语言实现的单文件PPT自动生成工具，通过调用ChatGPT等后端API，将文本内容智能转换为结构化幻灯片，支持一键生成与本地化部署。核心亮点在于极简集成与高效输出。
-- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到进阶全链路技术，涵盖抓包工具、反反爬策略、多线程/分布式爬虫及实战项目，助力高效数据获取与处理。
-- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，支持公众号内容采集、备份与结构化存储，具备高稳定性与扩展性。
-- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于 TypeScript 构建的音频转写与智能处理工具，支持高精度语音识别与结构化输出，核心亮点在于低延迟实时转写与多语言兼容性。
-- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合技术视野、知识管理与职业规划，通过Web工具实现动态更新与个性化导航，核心亮点为可交互的思维导图与周度迭代内容。
-- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 一款基于用户脚本的ChatGPT增强插件，通过自动刷新、数据安全拦截与页面净化等机制，提升使用效率与隐私保护，实现安全、流畅的AI交互体验。
-- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 基于Python的本地音乐元数据编辑工具，支持批量修改MP3等格式标签，集成Docker部署与NAS/Navidrome兼容，提升音乐管理效率。
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 基于反向工程实现免费调用GPT-4、GPT-4o、DeepSeek R1等主流大模型API，提供统一Python接口，支持多模型快速切换与本地部署，核心亮点为高可用性与低成本接入。
-- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据训练的全栈标注平台，支持3D LiDAR点云、图像及LLM数据的高效标注与融合，基于TypeScript构建，具备高精度交互与协同标注能力。
-- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精心整理的编码面试备考资料，涵盖算法、系统设计与行为面试题，基于TypeScript实现结构化内容管理，支持高效学习与练习。
-- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供高效、可复用的卡片组件服务，支持动态内容渲染与交互逻辑封装，核心亮点在于模块化设计与低延迟响应。
-- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比 Midjourney 中多种摄影参数、胶片类型及术语效果，通过实验性生成验证视觉表现差异，助力用户精准掌握 AI 摄影创作策略。
-- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一款自托管的开源链接管理平台，通过 Go 后端与 React 前端构建可定制的短链服务，支持人性化的链接归档与共享，基于 SQLite 实现轻量高效的数据存储。
-- **[yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `Unknown` - 该仓库聚焦MCP（Model Control Protocol）生态资源整理与工具支持，整合Claude、DeepSeek、Qwen等模型的MCP客户端与服务端实现，提供统一接入与开发指南，助力开发者快速构建模型协同应用。
-- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将文本、图像、网页等内容高效转换为结构化Markdown，支持多模态输入与LLM无缝集成，核心亮点是统一接口与高兼容性。
-- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的高效复现与动态展示，实现代码即幻灯片的轻量化创作体验。
-- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT实现私有化文档交互，本地运行模型，确保数据零外泄，通过向量化检索与生成技术实现高效知识问答。
+- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体领域500+优质资料，涵盖协议、工具链、实践项目与行业专家资源，助力开发者高效掌握WebRTC、RTMP、FFmpeg等核心技术。
+- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 汇集中国独立开发者项目，聚焦AI与Web工具创新，通过开源协作共享开发成果，展现多样化技术实践与产品思路。
+- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向分析与动态请求模拟，批量抓取并剥离抖音、快手等平台视频水印，支持主流短视频平台内容无损提取。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成 Web 工具，通过可视化节点流程降低 AI 创作门槛，支持灵活工作流编排，实现高效、可复用的多模态内容生成。
+- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像元素，融合生成模型与图像理解能力，具备高精度语义对齐与视觉一致性保持。
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的Web图形界面，支持文生图、图生图、图像超分等功能，依托PyTorch与Gradio实现高效交互式生成，核心亮点为高度可扩展的插件生态与本地化部署能力。
+- **[Addepto/graph_builder](https://github.com/Addepto/graph_builder)** `Python` - 基于开源工具链从文档与表格中结构化提取知识图谱，支持多源数据融合与可视化，赋能智能分析与AI助手构建。
+- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI实现前后端协同，利用多模态技术实现自然语言驱动的动态内容生成。
+- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 一款注重隐私的开源简历生成工具，基于 Next.js 与 TailwindCSS 构建，支持完全本地化定制与离线使用，确保用户数据安全可控。
+- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码/低代码 Web 应用构建工具，基于 React 和 FastAPI 构建，支持快速搭建可交互的前端界面与后端服务，核心亮点在于可视化开发与全栈一体化部署能力。
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - LiteLLM 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，兼容 OpenAI 格式，实现跨平台 LLM 调用与无缝切换，核心亮点为统一接口、自动路由与成本优化。
+- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** `TypeScript` - 通过爬取网站内容生成结构化知识文件，支持用户基于任意URL快速构建自定义GPT，利用TypeScript实现高效数据抓取与知识提取，核心亮点在于一键式知识库构建与自动化内容理解。
+- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的交互界面，实现与大语言模型的实时对话，核心亮点为前后端分离架构与流畅的前端体验。
+- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 一站式集成ChatGPT及多种AI网页服务，基于TypeScript构建，支持一键部署与多模型接入，实现高效AI应用聚合与快速访问。
+- **[ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)** `JavaScript` - 将ChatGPT深度集成至浏览器，通过跨平台扩展实现网页内实时对话与内容生成，核心亮点为无感嵌入与多浏览器统一体验。
+- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 React 和 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 与 Windows，集成 GPT-4o、Claude、Gemini 等多模型，提供流畅的本地化对话体验。
+- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 的桌面客户端，支持多大模型提供商接入，提供统一界面实现本地化 LLM 调用与对话交互，核心亮点为跨平台兼容与多源模型无缝切换。
+- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** `Python` - Cinnamon/kotaemon 是一个基于 RAG 的开源文档对话工具，通过构建本地知识库实现高效文档问答，支持多格式文档解析与上下文理解，核心亮点在于低延迟响应与可扩展的向量检索架构。
+- **[Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)** `Python` - ComfyUI-Manager 通过可视化管理界面实现 ComfyUI 自定义节点的安装、启用、禁用与卸载，集成插件中心与信息查看功能，提升工作流管理效率。
+- **[ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)** `JavaScript` - 基于JavaScript构建的LLM微调数据集生成工具，通过自动化标注与数据清洗流程，支持高效构建高质量训练数据，核心亮点为易用性与可扩展的Pipeline设计。
+- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - RSSHub 通过抓取主流平台的动态内容并统一输出 RSS 订阅源，实现多平台信息聚合与自动化推送，基于 TypeScript 构建，支持 B站、微博、知乎等数十个平台。核心亮点是“全平台 RSS 化”与极简接入体验。
+- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 基于RSSHub生态的浏览器扩展，一键发现并订阅RSS源，支持Chrome/Firefox，通过TypeScript实现跨平台兼容与高效集成，核心亮点是极简订阅流程与高可用源发现。
+- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的轻量级去中心化网格 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全内网通信，核心亮点为低延迟、高可靠性与原生 Rust 安全性。
+- **[ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude)** `Python` - 基于DeepSeek R1与Claude 3.7 Sonnet、Gemini 2.5 Pro的多模型融合架构，提供高性能代码生成与内容创作能力，支持OpenAI兼容接口与流式/非流式响应。
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** `TypeScript` - FlowiseAI/Flowise 是一个基于可视化界面构建 AI Agents 的低代码平台，支持 LangChain 等框架集成，通过拖拽组件实现复杂工作流编排，核心亮点在于开箱即用的 Agent 模板与多模型兼容性。
+- **[FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python](https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python)** `Python` - 本教程通过Python代码详细演示如何调用ChatGPT API实现自然语言交互，涵盖认证、请求构建、响应处理等核心流程，提供清晰的实践路径与错误处理建议，核心亮点是低门槛接入与模块化示例设计。
+- **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** `TypeScript` - 基于TypeScript构建MCP服务，将Figma设计稿布局信息结构化输出，赋能AI编码代理（如Cursor）实现设计到代码的精准转换，核心亮点为低延迟、高保真设计数据接口。
+- **[GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)** `Python` - 基于ChatGPT及多款主流大模型的图形化交互工具，支持智能Agent、文件问答、微调训练与网页搜索，通过简洁UI实现多模型统一管理与高效应用。
+- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitbookIO/gitbook 是基于 TypeScript 构建的开源前端框架，用于构建现代化文档站点，支持 Markdown 编写与 Git 管理，提供可定制的文档展示与协作体验。
+- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2024 Spotlight论文，StoryDiffusion通过多模态扩散模型实现高质量故事图像生成，结合文本与视觉语义对齐技术，支持连贯叙事画面序列创作。核心亮点在于上下文感知的跨帧一致性控制。
+- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 实现软件安装、更新与卸载，核心亮点为标准化、自动化与社区驱动的软件分发流程。
+- **[HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)** `Python` - 基于Python构建的OpenAvatarChat项目，通过多模态交互与AI Agent协同，实现个性化数字人对话系统，支持语音、文本与表情同步输出，核心亮点在于低延迟响应与情感化交互设计。
+- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，实现弱条件下的表情生动人物视频生成，仅需音频输入即可生成高表达力的动态肖像视频，突破传统方法对高质量视频输入的依赖。
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** `JavaScript` - Label Studio 是一款支持多类型数据标注的开源工具，通过标准化输出格式助力高效构建高质量训练数据集，支持图像、文本、语音等多模态标注任务。
+- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 该仓库汇聚由Gemini-2.5-Flash-Image（Nano Banana）生成的高质量图像与提示词，展示谷歌前沿多模态生成能力，通过JavaScript工程化组织与可视化呈现，助力开发者快速探索AI视觉创作潜力。
+- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步扩散机制实现高质量全景图像生成，支持文本到全景图的精准控制，显著提升跨视角一致性。
+- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于React的浏览器扩展，通过简化网页内容、优化排版实现沉浸式阅读，支持Chrome与Firefox，核心亮点在于无干扰阅读体验与智能内容提取。
+- **[KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js)** `JavaScript` - 一款开源的客户端 JavaScript 库，无需后端即可在浏览器中直接调用 ChatGPT，通过轻量封装实现安全、高效的前端对话交互，核心亮点为完全客户端运行与 OpenAI API 的无缝集成。
+- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人像动态化，通过关键点驱动与神经渲染技术，将静态肖像视频化，支持自然表情与头部运动，核心亮点为高保真面部细节还原与实时性优化。
+- **[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)** `CSS` - 将英文开源图形学教程LearnOpenGL.com翻译为简体中文，通过静态网页形式提供结构化知识，支持开发者高效学习OpenGL核心概念与实战技术。
+- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - libredwg 是一个开源的 DWG 文件格式解析库，使用 C 语言实现，支持 CAD 数据的读取与处理，通过 CI 和夜间构建保障稳定性，为 CAD 工具链提供底层支持。
+- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 和 reveal.js 构建 Markdown 驱动的幻灯片系统，支持实时预览与多端同步，核心亮点为无缝集成笔记与演示文稿工作流。
+- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持多云存储（如阿里云 OSS、七牛云、腾讯 COS 等）与图床（如 Imgur、SMMS），提供简洁高效的图形界面与自动化上传能力，核心亮点为多平台兼容与一键式多源上传。
+- **[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)** `Vue` - OpenPromptStudio 是基于 Vue 的 AIGC 提示词可视化编辑器，支持结构化提示词设计与协作，提升提示工程效率。核心亮点为拖拽式编辑、版本管理与多模型适配。
+- **[MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)** `TypeScript` - 将GPT与Zotero文献管理工具深度集成，通过TypeScript实现智能文献检索与摘要生成，支持自然语言查询与知识关联，提升科研效率。
+- **[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)** `JavaScript` - 一款可视化无代码网页爬虫工具，通过图形化界面设计自动化数据采集任务，支持参数配置与批量处理，显著降低非技术用户使用门槛。
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等，通过逆向解析与异步请求技术高效获取结构化数据，核心亮点为跨平台统一接口与高并发稳定性。
+- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI生成理想中的房间效果图，融合图像理解与生成能力，实现高效可视化设计重构。
+- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译桥接机制，实现笔记系统实时多语言切换，核心亮点为低侵入式集成与跨语言语义一致性保障。
+- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT架构实现视频理解与多轮对话，支持多大模型接入，通过Gradio构建交互界面，实现视频问答与内容生成。核心亮点为多模态理解与通用对话能力融合。
+- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库汇集了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，基于JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于社区共建与持续演进的兼容性支持。
+- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面支持用户对杂乱数据进行标准化、去重、分类和重构，核心亮点在于强大的数据重建与 Wikidata 语义关联能力。
+- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现实时高分辨率背景抠图，采用轻量化网络结构与高效推理优化，支持视频流与高清图像的快速精准边缘分割。
+- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 该扩展为 Stable Diffusion WebUI 提供增强型提示词输入界面，集成自动翻译、历史记录与收藏功能，提升提示词编辑效率与用户体验。
+- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** `Python` - Quivr 是一个聚焦于简化 RAG 集成的开源框架，支持多 LLM、多向量库与多文件类型，通过灵活配置快速实现生成式 AI 功能嵌入应用，降低开发门槛。
+- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 通过 TypeScript 构建智能 RSS 阅读器，整合 AI 与区块链技术，实现内容自动聚合与去中心化分发，支持多源信息一键追踪。核心亮点为 AI 驱动的内容理解与个性化推荐。
+- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA AI模型的图像修复工具，利用Stable Diffusion与LaMa技术实现精准去物、缺陷修复与内容替换，支持高保真图像编辑。
+- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端，基于 JavaScript 构建，提供高度可定制的聊天界面与插件生态，支持多模型接入与角色扮演，核心亮点在于灵活的 UI 自定义与强大的社区扩展能力。
+- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款免费在线图像标注工具，基于TypeScript构建，集成Pascal-VOC、SSD、PoseNet等模型，支持目标检测、关键点识别与标签管理，提供高效可视化标注体验。
+- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，实现AI自动生成PPT大纲并导出PPTX文件，支持多模板选择与在线生成，前端后端全开源。核心亮点为高效智能内容生成与无缝导出体验。
+- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现大众点评全站爬虫，突破动态字体加密难题，无需OCR即可精准提取文本数据，持续更新维护。
+- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是 Stability AI 社区驱动的生成式 AI 前端界面，基于 TypeScript 构建，提供稳定扩散模型的可视化操作与交互体验，支持图像生成、风格调整与模型管理。
+- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升效率与质量，支持文本到图像、图像修复等任务，具备生成细节丰富、风格多样的图像能力。
+- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地托管的网页应用，支持PDF的合并、转换、编辑、OCR等操作，基于Java构建并兼容Docker部署，提供安全离线的PDF处理能力。
+- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - 基于浏览器原生语音识别API实现网页端实时语音转文本，支持多语言指令识别与自定义命令绑定，无需后端依赖即可构建语音交互功能，核心亮点为轻量级、零配置、跨平台兼容。
+- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费VPN节点订阅链接，支持ClashX与V2Ray配置，整合多协议节点资源，一键生成可用配置文件，提升科学上网访问效率。
+- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 本仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定远程服务器。核心亮点在于详尽的操作步骤与实用工具推荐，适合初学者快速上手。
+- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑工具，通过可拖拽的控制点实现精细的图像生成与编辑，支持风格保持与结构一致性，核心亮点为交互式、高精度的动态图像操控。
+- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于AAAI 2022论文，实现无需trimap的实时人像抠图，采用轻量级深度网络在端侧高效生成高精度alpha matte，支持实时视频流处理。
+- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方部署，支持稳定扩散工作流中高效精准的背景移除，核心亮点为轻量化集成与可视化节点化操作。
+- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 该仓库收集并整理了多个 ComfyUI 工作流，用于高效构建 Stable Diffusion 图像生成流程，支持模块化节点配置与可视化编排，提升 AI 画图效率与可复用性。
+- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，提供模块化节点操作，支持高精度人物图像生成与风格化定制，核心亮点为中文界面与本地化部署优化。
+- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高效证件照生成与背景分割，结合FastAPI与Gradio提供可视化工具，支持多场景快速部署。
+- **[ZongqianLi/ReasonGraph](https://github.com/ZongqianLi/ReasonGraph)** `HTML` - ReasonGraph 通过可视化推理路径，帮助用户理解大模型的思维过程。基于 HTML 实现交互式图谱展示，支持 ACL 2025 Demo 与论文复现，核心亮点在于直观呈现多跳推理逻辑与决策链条。
+- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过上传截图自动转换为可运行的HTML/Tailwind/React/Vue代码，结合计算机视觉与大模型理解界面结构，实现高保真代码生成，核心亮点在于端到端自动化与多框架输出。
+- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，利用 HTML 语法与 Three.js 底层渲染，支持 WebXR 标准，让开发者轻松构建跨平台 VR/AR 应用。核心亮点是低代码化与高度可扩展性。
+- **[ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)** `Java` - RuoYi AI 是基于 Java 的全栈式 AI 开发平台，通过 RAG 与 Agent 技术实现知识增强型智能应用快速构建，支持多场景 AI 应用部署。
+- **[agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)** `TypeScript` - 基于 Next.js、Tailwind CSS 与 TypeScript 构建的现代化 AI Agent 对话界面，支持自托管部署，提供直观、可扩展的交互体验，核心亮点为极简开发与高度可定制的 Agent 交互能力。
+- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 与 Vue3 构建的多模型聊天客户端，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等主流大模型，通过统一界面实现跨平台高效对比与对话，核心亮点为多源模型并行与本地化部署。
+- **[ai-shifu/markdown-flow](https://github.com/ai-shifu/markdown-flow)** `JavaScript` - MarkdownFlow 通过集成 AI 能力扩展标准 Markdown，实现内容的个性化生成与交互式呈现，支持“写一次，个性化交付”核心体验。
+- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能 AI 照片生成工具，通过简化工作流实现一键生成高质量人像，支持风格迁移与细节优化，核心亮点在于易用性与生成质量的平衡。
+- **[akshata29/entaoai](https://github.com/akshata29/entaoai)** `TypeScript` - 基于Azure生态构建企业级私有数据问答系统，通过RAG架构融合Azure OpenAI与Cognitive Search，支持快速上传文档并实现自然语言交互，核心亮点为低代码部署与多源数据向量化检索。
+- **[alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG)** `JavaScript` - 基于D3和SVG生成高精度神经网络架构图，支持可交互、可嵌入的出版级可视化，适用于学术论文与技术文档。
+- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 该仓库收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，帮助开发者与设计师高效复用与协作。核心亮点为全面性与社区驱动的高质量整理。
+- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL-E 3的AI封面生成工具，采用TypeScript构建Web端交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
+- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript构建的AI壁纸生成工具，利用AI模型动态创作个性化壁纸，支持用户自定义风格与主题，具备高效渲染与一键应用能力。
+- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，支持用户发布、发现和使用定制化GPT应用，基于TypeScript构建，提供便捷的GPT托管与分发能力，核心亮点在于开放生态与快速部署。
+- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab环境，简化Wav2Lip高清视频口型同步制作流程，集成预训练模型与一键运行脚本，显著降低使用门槛。
+- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - 基于WebGL的大型地理空间数据可视化引擎，支持3D地图、GeoJSON、Mapbox/Amap等多源数据，通过高性能渲染实现海量地理数据实时交互展示。
+- **[apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)** `TypeScript` - Apify MCP Server 通过标准化协议连接 AI Agent 与海量网页自动化工具，实现对社交媒体、电商等复杂网站的数据自动提取，核心亮点在于开箱即用的可组合爬虫生态与高效 Agent 协作能力。
+- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库汇聚500个AI Agent实际应用案例，覆盖医疗、金融、教育等多个行业，通过开源项目链接展示AI Agent在真实场景中的落地路径，助力开发者快速理解与复用。
+- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为JavaScript实现的LeetCode题解集合，系统记录算法学习过程，涵盖常见数据结构与算法题型，提供清晰代码与思路解析。
+- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索与分析服务器，通过结构化查询与LLM理解实现高效学术内容检索与摘要生成，支持多模型接入与上下文推理。
+- **[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)** `JavaScript` - 基于AI嵌入技术实现Obsidian笔记间的智能关联，支持本地模型与主流大模型API，通过自然语言交互快速发现相关笔记内容，提升知识管理效率。
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** `Python` - 基于Playwright实现AI代理在网页上的自动化操作，使AI能像人类一样浏览、交互与执行任务，核心亮点是无需手动编写复杂爬虫逻辑即可完成网页自动化。
+- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展为 Stable Diffusion WebUI 提供实时中英提示词翻译功能，支持用户用母语编写提示，自动转换为英文生成图像，提升创作效率与可访问性。
+- **[camel-ai/owl](https://github.com/camel-ai/owl)** `Python` - OWL 构建面向真实世界任务自动化的通用多智能体系统，通过优化的智能体协作与工具调用机制实现复杂任务分解与执行，核心亮点在于高鲁棒性任务流程编排与上下文感知的动态决策。
+- **[chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)** `Python` - 提供免费接入ChatGPT、DeepSeek、Claude、Gemini、Grok等主流大模型API的统一接口服务，基于Python实现高效代理与调用，核心亮点为多模型兼容与零成本试用。
+- **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** `Python` - 基于Langchain整合ChatGLM、Qwen、Llama等大模型，构建本地知识库驱动的RAG与Agent应用，支持向量检索与流式响应，核心亮点为多模型兼容与本地化部署。
+- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - Chathub 是基于 TypeScript 构建的全功能聊天机器人客户端，支持浏览器扩展与 React 架构，整合多平台 AI 对话能力，提供统一交互入口与高效对话体验。
+- **[chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp)** `Python` - 基于 Python 构建的 Telegram 机器人 MCP 框架，通过集成 AI Agent 与外部工具实现对话式自动化任务处理，支持动态插件扩展与多模态交互，核心亮点在于低门槛接入与高灵活性的对话编排能力。
+- **[circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)** `Python` - EX-ChatGPT 通过深度集成 API 调用能力，赋予 ChatGPT 实时联网与工具执行能力，支持动态推理与外部交互，实现类 NewBing 的智能代理体验。
+- **[cline/cline](https://github.com/cline/cline)** `TypeScript` - Cline 是一款嵌入 IDE 的自主编码智能体，通过授权协作实现文件创建/编辑、命令执行与浏览器调用，基于 TypeScript 构建，以安全可控的方式提升开发效率。
+- **[cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)** `CSS` - 提供一键部署LLaMA大模型的轻量级方案，基于本地容器化运行，无需复杂配置，显著降低本地运行大模型的技术门槛。
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈，从零构建编程工具与系统，以实战方式深化对底层原理的理解，核心亮点是结合可运行代码的交互式教程。
+- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型图形化界面与后端，通过模块化节点实现高效、灵活的文生图、图生图等生成任务，支持 Python/PyTorch 生态，具备高度可定制性与可扩展性。
+- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署，通过TypeScript与NestJS构建高效服务，实现内容自动化聚合与推送。
+- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 汇集上百个可Docker一键部署的项目，提供完整地址与教程，覆盖AI、开发工具与实用应用，降低技术门槛，提升开发效率。
+- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于 TypeScript 构建的自动化文章分发平台，支持多渠道一键发布，集成 Node.js、MongoDB 与 Docker，实现高效内容分发。核心亮点为跨平台媒体适配与可扩展的发布工作流。
+- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - 面向深度学习教学与实践的交互式开源书籍，融合多框架代码、数学推导与讨论，支持PyTorch、TensorFlow、JAX等主流框架，全球500所高校采用。
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析矢量绘图数据实现手绘风格动画生成，支持关键帧编辑与流畅过渡，核心亮点在于低代码化动画创作与原生绘图体验融合。
+- **[danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)** `JavaScript` - Fabric 是一个开源 AI 增强框架，通过模块化 AI 提示库赋能人类高效解决问题，支持跨场景复用与协作式优化，核心亮点在于可组合、可共享的 AI 工具链。
+- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，实现自然语言到SQL的精准转换，支持复杂查询理解与上下文记忆。
+- **[deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)** `Unknown` - 该仓库致力于将 DeepSeek API 集成至主流软件，通过标准化接口实现高效调用，核心亮点在于开箱即用的集成方案与广泛的生态兼容性。
+- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库系统整理了产品与项目管理领域的优质学习资源，涵盖方法论、实战工具与行业趋势，通过分类导航实现高效知识获取，核心亮点是持续更新与社区驱动的高质量内容聚合。
+- **[devflowinc/trieve](https://github.com/devflowinc/trieve)** `Rust` - trieve 是基于 Rust 构建的全栈搜索与智能推荐平台，融合向量检索、RAG、实时分析能力，通过 API 提供高效、低延迟的智能查询服务，核心亮点为高性能向量搜索与端到端 RAG 支持。
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地化图形界面工具，基于 Electron 构建，无需依赖配置，简化 AI 绘图使用门槛。
+- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 该仓库提供Python模块，用于与Ryze Tello无人机通信，支持飞行控制、摄像头数据采集与实时视频流处理，核心亮点在于低代码接入与跨平台兼容性。
+- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于Vue3与Vite的轻量级微信专用Markdown编辑器，支持语法高亮、自定义主题、多图床与AI助手，集成TailwindCSS提升开发效率，专注内容创作与高效协作。
+- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于Next.js与T3 Stack构建的在线开源API分词工具，支持OpenAI等模型的token计数与文本分析，提供实时交互式体验，核心亮点为精准分词与低延迟响应。
+- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用自动图像增强与超分辨率框架，基于深度学习实现无需人工干预的图像质量提升，支持多场景、多噪声类型处理，核心亮点为端到端自动化与高保真重建能力。
+- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代 AIoT 开发平台，基于 HTML 构建可视化开发环境，支持边缘端 AI 模型部署与设备协同，核心亮点为低代码化 AIoT 应用快速构建与跨设备实时交互。
+- **[evennia/evennia](https://github.com/evennia/evennia)** `Python` - Evennia 是基于 Python 的开源 MUD/MUX/MUSH 多人文本游戏开发引擎，采用 Django 和 Twisted 架构，支持 Web 客户端与服务器，提供可扩展的文本冒险系统构建能力，核心亮点为高度模块化与社区驱动开发。
+- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1推理模型构建的开源聊天应用，通过实时网络搜索增强对话上下文，实现高精度、动态知识响应。核心亮点为轻量化架构与端到端集成。
+- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的虚拟白板工具，支持手绘风格的图形绘制与实时协作，利用 Canvas 实现流畅的绘图体验，核心亮点在于简洁直观的界面与跨平台协同能力。
+- **[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `JavaScript` - 该仓库系统化整理适用于ChatGPT及其他LLM工具的高效提示词，通过JavaScript实现结构化管理与调用，提升提示工程效率与复用性。核心亮点为可直接集成的提示模板库与开发者友好设计。
+- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - 基于深度学习的面部操控平台，支持人脸交换、唇形同步等功能，通过端到端模型实现高精度、实时化面部重演，核心亮点为跨场景适配与低延迟处理。
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** `TypeScript` - FireCrawl 将整个网站转化为 LLM 友好的 Markdown 或结构化数据，通过智能爬取与语义解析，实现高效网页内容提取与结构化输出，核心亮点在于对复杂网页的高保真内容还原与 AI 友好的数据格式转换。
+- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成美观地图海报，利用Python处理轨迹并融合地图渲染，支持自定义样式与多格式输出，核心亮点为一键生成高颜值可视化作品。
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 通过开源课程与实战项目帮助全球用户免费学习编程、数学与计算机科学，基于 TypeScript 构建全栈 Web 工具链，结合社区驱动内容与认证体系，实现高效自主学习。
+- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 Next.js 和 TypeScript 构建的现代化文档框架，支持 MDX 与 Contentlayer 内容管理，提供灵活的路由与样式能力，适用于构建高性能、可扩展的开发者文档站。
+- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于OpenAI API快速构建自定义ChatGPT应用，提供开箱即用的对话界面与部署能力，支持快速配置与私有化部署，核心亮点是极简集成与高度可定制化。
+- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件无依赖转换为HTML，基于纯JavaScript实现，支持保留格式与交互性，核心亮点为前端直出、无需后端服务。
+- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间调制机制，精准操控图像生成中特定区域的语义内容，支持任意条件输入。
+- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 一款自托管、离线运行的类ChatGPT聊天机器人，基于Llama 2与Code Llama，100%私有化，数据不离开本地设备，支持代码生成与推理。
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动排期与智能生成。
+- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 提供360°视频与空间音频的规格定义与处理工具，基于Python实现多维度空间媒体数据的编码、解析与渲染，核心亮点为跨平台兼容性与标准化数据流支持。
+- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务与付费的AI对话系统，集成Docker简化部署，可免费商用，适合快速构建私有化AI聊天应用。
+- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是一款基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合地图可视化技术，实现轨迹的动态播放与渲染，核心亮点在于轻量级、可嵌入的轨迹动画能力。
+- **[grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)** `JavaScript` - 基于MCP协议实现Cursor AI代理与Figma的双向通信，支持AI读取设计稿并程序化修改，提升设计协作效率。核心亮点为原生集成与低代码交互。
+- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 Web 界面，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
+- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭食材与家务管理工具，通过 PHP/Blade 构建，支持购物清单、食谱管理、库存跟踪及餐食计划，核心亮点在于本地化数据控制与高度可定制的轻量级 ERP 功能。
+- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的综合性学习项目集合，涵盖基础教程、抢票工具、地址库及网站爬虫，采用模块化设计与高效爬取策略，核心亮点为实战性强与易上手。
+- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/CSS/JavaScript 的开源演示框架，通过浏览器渲染实现动态幻灯片展示，支持自定义主题、动画与扩展插件，核心亮点为跨平台兼容与高度可定制化。
+- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库整理了全球优质的数据可视化库与资源，涵盖图表库、交互工具与可视化框架，助力开发者快速构建高效、美观的数据展示应用。
+- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐播放控制，通过 yt-dlp 下载音乐并结合 Docker 化部署，提供稳定高效的本地音乐服务。核心亮点为无缝对接小爱设备与自动化下载流程。
+- **[haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** `Python` - 基于Model Context Protocol构建的Excel智能服务端，通过LLM+Tool Calling实现自然语言驱动的Excel自动化操作，支持流式响应与标准输入输出，提升数据处理效率。
+- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度访问控制与事件触发，无需手动编写接口，实现数据层与前端/应用的高效对接。
+- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过JavaScript实现高效文献数据聚合与检索，支持精准学术溯源与知识图谱构建，核心亮点为免API密钥、低延迟响应与可扩展的文献分析链路。
+- **[hrishioa/lumentis](https://github.com/hrishioa/lumentis)** `TypeScript` - 基于AI实现一键生成全方位文档，支持从语音转录与文本快速构建结构化知识库，核心亮点为自动化内容提炼与多源信息融合。
+- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合AI绘画全流程资源，涵盖Stable Diffusion、AnimateDiff等主流模型的平台、教程与部署方案，提供从入门到进阶的完整指南，助力用户高效生成高质量图像。
+- **[huggingface/aisheets](https://github.com/huggingface/aisheets)** `TypeScript` - 基于AI模型无代码构建、丰富与转换数据集，利用TypeScript实现高效数据处理流程，核心亮点为集成LLM能力与低代码交互。
+- **[humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)** `Unknown` - 该仓库整理了ChatGPT与GPT-3相关的优质工具、演示项目与文档资源，为开发者提供一站式学习与开发参考，核心亮点在于内容高度精选且持续更新。
+- **[hwchase17/notion-qa](https://github.com/hwchase17/notion-qa)** `Python` - 基于Notion数据库构建的问答系统，利用Python实现结构化数据解析与LLM检索增强生成，支持自然语言查询知识库内容，核心亮点为高效整合Notion数据与大模型能力。
+- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown系统，支持从创意到论文、演示文稿与书籍的全流程创作，融合脚本化写作与类型排版，实现高效知识沉淀与多格式输出。
+- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保真图像生成，仅需一张参考图即可在数秒内生成高度一致的个性化图像，基于扩散模型与特征对齐技术，无需微调。
+- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库精选GPT-4o与gpt-image-1生成的高质量图像与提示词，涵盖动漫、吉卜力风格等多类型视觉创作，通过结构化整理展示AI图像生成的前沿潜力。
+- **[janhq/jan](https://github.com/janhq/jan)** `TypeScript` - Jan 是一款完全离线运行的开源 ChatGPT 替代品，基于 TypeScript 与 Tauri 构建，支持本地部署的 LLM 推理，无需依赖云端服务，保障数据隐私与安全。
+- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 该仓库为编程初学者提供系统化的技术面试指导，涵盖基础知识点梳理与实战题解，通过结构化内容帮助用户高效准备面试，核心亮点是面向零基础学习者的友好引导与实用题库整合。
+- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一款基于 Haskell 的通用标记转换工具，支持多种文档格式间的无损转换，核心亮点在于高度可扩展的解析器与渲染器架构，覆盖从 Markdown 到 PDF、HTML、LaTeX 等数十种格式。
+- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Redis构建的Python代理池，支持动态代理获取与自动检测，提升网络爬虫稳定性与效率，核心亮点为高可用代理自动筛选与分布式协同。
+- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持多端同步与离线阅读，通过高效资源抓取与本地缓存提升访问体验，核心亮点为兼容性与流畅性。
+- **[jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)** `Python` - 基于Jina与FastAPI构建生产级LangChain应用，实现LLM服务的高效部署与扩展，支持Agent协同与多模态数据处理，核心亮点为高并发响应与模块化架构设计。
+- **[jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)** `TypeScript` - 基于AI Agents实现持续搜索、阅读网页并推理，直至找到答案或耗尽预算，支持复杂问题的深度探究与信息整合。
+- **[jina-ai/reader](https://github.com/jina-ai/reader)** `TypeScript` - 通过前置代理URL实现任意网页内容结构化提取，支持LLM直接解析，核心技术为智能网页解析与语义压缩，核心亮点是零代码接入、高兼容性与低延迟响应。
+- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库整理了高质量的OSINT（开源情报）工具与资源，涵盖网站、平台与技术方法，帮助用户高效获取公开网络信息。核心亮点是系统化分类与持续更新的权威清单。
+- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式自定义，核心亮点为低门槛、高一致性的 UI 主题配置体验。
+- **[joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)** `Python` - 基于Python实现跨框架/语言的代码自动迁移，利用语法分析与模式匹配技术，高效转换代码结构，显著降低迁移成本与出错率。
+- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源知识，自动转换为Anki可管理的闪卡，结合Vue前端实现高效知识沉淀，实现从碎片信息到长期记忆的自动化转化。
+- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存豆瓣开放接口的结构化说明，便于开发者离线查阅与研究。通过静态文档归档，确保信息可追溯性，降低因接口变更或服务下线导致的开发中断风险。
+- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 的全栈云开发平台，提供函数计算、数据库、对象存储等 Serverless 能力，支持快速构建和部署应用，核心亮点是开箱即用的全链路开发体验与多云兼容架构。
+- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python实现豆瓣读书信息爬取，通过解析网页结构与反反爬策略，高效抓取书籍、评分、评论等数据，支持批量导出与结构化存储，核心亮点为稳定抓取与灵活数据处理。
+- **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** `Python` - Langflow 是基于 React Flow 的可视化低代码平台，用于构建、调试和部署基于大语言模型的 AI 工作流与多智能体系统，支持模块化组件编排与实时交互。
+- **[leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter)** `TypeScript` - 将邮件新闻稿自动转换为 Atom 订阅源，通过 TypeScript 实现解析与标准化处理，支持一键订阅与持续更新，核心亮点为零配置、高兼容性与可扩展的解析引擎。
+- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 一款专为微信视频号设计的高效视频下载工具，通过解析分享链接一键获取高清视频，支持批量下载与格式转换，操作简单无需复杂配置。
+- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于 Rust 与 Tauri 构建的跨平台 ChatGPT 桌面客户端，支持 Mac、Windows 和 Linux，通过 WebView 集成 OpenAI API，提供离线可用、高性能的本地化聊天体验。核心亮点为极致性能与原生系统集成。
+- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于Lepton AI构建对话式搜索演示，利用TypeScript实现低延迟、高可用的LLM驱动搜索交互，核心亮点为端到端的快速部署与自然语言理解能力。
+- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的高性能全栈 Web 框架，通过细粒度响应式渲染与同构渲染技术，实现极低延迟的网页应用构建，支持 SSR 和 WebAssembly，兼顾开发体验与运行性能。
+- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT一键生成，支持免费在线使用，用户输入主题即可自动生成结构化PPTX文件，核心亮点为零代码、高效出稿与开源可部署。
+- **[linkerlin/PUAX](https://github.com/linkerlin/PUAX)** `HTML` - 该仓库提供专为AI Agent设计的PUA提示词集合，基于HTML结构化组织，支持快速配置与复用，提升Agent任务执行效率与上下文理解能力。
+- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 是一个基于深度学习的图像 relighting 项目，通过 AI 生成技术实现光影风格的高效迁移与重渲染，支持精细控制光照方向与强度，核心亮点在于高保真光影还原与实时交互能力。
+- **[logseq/logseq](https://github.com/logseq/logseq)** `Clojure` - Logseq 是基于 Clojure/ClojureScript 构建的本地优先、隐私第一的知识管理与协作平台，支持 Markdown 与 Org-mode，通过图谱化组织笔记，实现知识的双向链接与全局视图。
+- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制AI聊天机器人，支持多平台快速接入与工作流编排，集成语音、绘图、人设调教等功能，实现个性化交互体验。
+- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合资源与技术实践，展示二线城市在数字化转型中的创新活力，推动区域技术交流与协作。
+- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 提供可直接复制粘贴的动态 UI 组件库，基于 React、TailwindCSS 与 Framer Motion 构建，支持 Next.js 项目快速集成，助力设计工程师高效实现精美交互效果。
+- **[maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)** `TypeScript` - 基于TypeScript构建的AI机器人群聊系统，通过智能Agent协作实现多轮对话与任务执行，支持自定义逻辑与上下文管理，核心亮点为高可扩展性与低延迟响应。
+- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本构建思维导图，通过 TypeScript 实现高效解析与可视化渲染，核心亮点是零配置、轻量级且支持实时编辑的纯文本到图形转换。
+- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区共建的 Swift 生态优秀库与资源列表，涵盖 iOS、Linux 平台的框架、扩展与工具，通过持续更新与贡献机制保持内容前沿，核心亮点是高覆盖率与活跃维护。
+- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于LangChain与LangGraph构建的AI PDF聊天机器人，支持文档问答与多轮交互，核心亮点为结构化文档解析与智能Agent决策流程。
+- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - Meilisearch 是一款基于 Rust 构建的高性能搜索引擎，支持语义搜索、混合搜索与实时搜索，通过向量数据库实现 AI 驱动的精准检索，适用于需低延迟、高精度搜索的场景。
+- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI构建的GPT AI助手，集成LINE消息平台与Vercel部署，实现高效对话交互。通过API对接与前端轻量化设计，提供低延迟响应与跨平台可访问性，核心亮点为全链路自动化部署与即时消息联动。
+- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是一个基于 jQuery 的 JavaScript 插件，可将 PPTX 文件转换为可交互的 HTML 页面，支持幻灯片结构与样式还原，便于在网页中嵌入和展示演示文稿。核心亮点在于轻量级、无需后端依赖的前端转换能力。
+- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于文本编辑器实现视频剪辑，通过Python脚本解析文本指令并自动执行剪辑操作，支持精准时间轴控制与多轨道处理，核心亮点为自然语言驱动的高效视频编辑流程。
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `TypeScript` - 该仓库提供基于 TypeScript 的模型上下文协议服务器，用于统一管理 LLM 推理中的上下文交互与状态，支持高效、可扩展的模型服务部署，核心亮点为标准化上下文传递与跨系统兼容性。
+- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，集成语音转文字与内容理解能力，支持一键生成字幕与精准片段提取，兼具高准确率与易用性。
+- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地模型的一站式AI数字人系统，支持视频与声音合成、声音克隆，通过一键部署简化模型管理，提升内容生成效率。
+- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的轻量级 JavaScript 3D 库，通过简化 Web 3D 开发流程，支持 WebXR、WebGPU 等前沿技术，实现高性能 3D 渲染与交互。核心亮点是跨平台兼容与生态丰富。
+- **[n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)** `TypeScript` - 利用本地运行的AI模型为网页浏览提供实时辅助，通过Chrome扩展注入AI能力，支持私有化部署与离线使用，核心亮点是低延迟响应与数据隐私保障。
+- **[nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** `Python` - FreeAskInternet 是一款本地运行的免费私有搜索聚合与答案生成系统，通过多 LLM 协作整合多引擎搜索结果，实现无需 GPU 的高效问答，保障数据隐私与零成本使用。
+- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 1000UserGuide 为独立开发者与创业者系统整理300+国内外推广渠道，涵盖SEO、营销、增长等实战路径，助力高效触达前1000名早期用户。
+- **[netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)** `Python` - 基于本地知识库的问答系统，支持多格式文档解析与向量化检索，结合大模型实现精准语义问答，核心亮点为全栈本地化部署与高效RAG架构。
+- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于本地部署的大型语言模型提供图形化交互界面，支持多种模型格式与高效推理，通过Web端实现零配置快速体验AI生成能力，核心亮点为易用性与高性能本地运行。
+- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，优化记忆曲线以提升学习效率，支持动态调整复习间隔，核心亮点为科学建模与高效记忆强化。
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - Open-WebUI 提供用户友好的界面，支持 Ollama、OpenAI API 等主流 LLM 接口，实现本地化部署与多模型统一管理，核心亮点在于开箱即用的自托管体验与直观的交互设计。
+- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** `Python` - 该插件通过自然语言查询实现对个人或工作文档的快速检索，基于ChatGPT构建，结合检索增强生成（RAG）技术，支持高效、准确的文档定位与信息提取。
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)** `Jupyter Notebook` - 本仓库提供基于 OpenAI API 的完整示例与指南，通过 Jupyter Notebook 演示如何调用 GPT-4、ChatGPT 等模型实现对话、文本生成、代码辅助等功能，核心亮点是即学即用的交互式教学范式。
+- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - 基于文本或图像生成3D对象，采用扩散模型与神经辐射场技术，实现高保真、可控的3D内容创作，核心亮点为零样本、快速生成与多模态输入支持。
+- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持多语言与自定义映射，核心亮点在于轻量、可扩展的编码架构与实时预览功能。
+- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反向提问的精选话术指南，帮助候选人深度了解团队与岗位，提升面试主动权与决策质量。
+- **[philippta/flyscrape](https://github.com/philippta/flyscrape)** `Go` - Flyscrape 是一款面向非编程用户的命令行网页抓取工具，基于 Go 语言开发，通过简洁指令实现高效数据采集，核心亮点为低门槛、高性能与跨平台兼容性。
+- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于Go语言构建的AI驱动照片管理应用，支持自托管与去中心化部署，利用AI实现智能分类、人脸识别与内容搜索，核心亮点为本地化隐私保护与高性能图像处理。
+- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿工具，复现 MS PowerPoint 核心功能并集成 AIPPT 能力，支持在线编辑与演示，实现高效云端协作与智能内容生成。
+- **[pipipi-pikachu/pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)** `JavaScript` - 将 PPTX 文件解析为结构化 JSON 数据，基于 JavaScript 实现轻量级解析器，支持多级幻灯片内容提取与元数据保留，核心亮点为高兼容性与易集成性。
+- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘画，基于TypeScript构建，强调本地优先协作，赋能团队高效协同创作。
+- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一款 Go 语言编写的数据库迁移工具，支持 SQL 与 Go 函数的混合迁移，提供跨数据库（MySQL、PostgreSQL、SQLite）的版本化 schema 管理，通过简洁的命令行接口实现安全可靠的数据库演进。
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 整合全球免费公开API资源，提供结构化列表与分类检索，支持开发者快速查找与接入各类API服务，核心亮点为持续更新、社区驱动与高可发现性。
+- **[rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)** `TypeScript` - 基于RAG技术构建的智能对话系统Web界面，通过LangChain与Ollama集成实现高效知识检索与生成，支持本地化部署与实时交互。
+- **[rahulnyk/graph_maker](https://github.com/rahulnyk/graph_maker)** `Jupyter Notebook` - 基于Jupyter Notebook构建可视化图谱生成工具，通过结构化数据输入与交互式探索，实现知识图谱的快速构建与展示，核心亮点在于低代码化与可复用的图谱模板。
+- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于React与TypeScript构建程序化视频生成工具，支持组件化视频创作与渲染，核心亮点为高效、可复用的视频工作流与Web端实时预览。
+- **[reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)** `Python` - 该仓库精选使用ChatGPT API的工具与应用，支持用户配置自定义API密钥，实现个人额度的自由、按需调用，提升使用灵活性与成本可控性。
+- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 LaTeX 用户优化 Zotero 的引用管理，通过 TypeScript 实现 BibTeX/ biblatex 兼容的引用键自动生成与智能同步，解决跨工具引用混乱问题，核心亮点是无缝集成与高精度键名控制。
+- **[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)** `TypeScript` - 基于浏览器的可视化工具，支持快速组装、配置与部署自主AI智能体，结合LangChain与OpenAI能力实现低代码Agent开发，核心亮点为开箱即用的Agent编排与云端部署体验。
+- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 该仓库汇聚高质量的 Rust 生态资源与开源项目，涵盖工具链、框架与库，助力开发者高效构建高性能应用。核心亮点为持续维护的精选清单与活跃社区贡献。
+- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成人物面部替换，支持图像与视频处理，界面简洁、部署便捷，核心亮点为低门槛、高还原度的实时换脸体验。
+- **[sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)** `Go` - Go语言原生OpenAI API客户端，支持ChatGPT、GPT-5、DALL·E、Whisper等核心模型调用，提供流式响应与高效接口封装，核心亮点为高兼容性与低延迟通信。
+- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护的元搜索引擎，通过聚合多个搜索服务结果实现无追踪搜索，基于 Python 构建，支持高度可配置的去中心化搜索体验。
+- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度图像/视频背景分离，无需绿幕，支持实时处理与端到端部署，核心亮点为高保真透明通道生成与轻量化模型设计。
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇集全球范围内高质量的开源项目与资源列表，覆盖技术、工具、学习资料等多个领域，通过社区协作持续维护与更新，实现高效知识发现与资源整合。
+- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 构建的开发者专用幻灯片工具，支持 Markdown 编写、实时预览与自定义主题，实现高效、代码驱动的演示文稿创作。核心亮点为无缝集成代码高亮、组件化 Slide 组件与即时协作能力。
+- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档内容转化为专业演示文稿，支持多模型切换与丰富模板，提升内容创作效率。
+- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - 统一管理多模型LLM API，支持一键部署与key分发，通过单可执行文件与Docker实现开箱即用，兼容主流大模型接口。
+- **[ssine/pptx2md](https://github.com/ssine/pptx2md)** `Python` - 将PPTX文件自动转换为结构化Markdown格式，基于Python解析Office Open XML规范，支持文本、段落、列表、标题等元素的精准提取与格式还原，核心亮点为高保真结构保留与多层级内容组织。
+- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于 Vercel AI SDK 与 GPT-3.5-turbo 构建的 Shakespeare 风格 AI 聊天机器人，通过微调模型实现经典文学语感还原，支持自然语言交互与文本生成。
+- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需代码改动，基于Rust实现高性能代理与协议适配，核心亮点是零侵入式接入与低延迟通信。
+- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Web前端与Rust原生能力，构建高性能、高安全性的桌面与移动应用，通过轻量级WebView实现跨平台原生体验。核心亮点在于极致性能与最小化资源占用。
+- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过浏览器可视化方式让用户实时调试神经网络结构与训练过程，核心亮点是零配置前端训练沙箱与动态参数调优反馈。
+- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无需 Electron，跨平台高效运行，显著降低资源占用。
+- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐技术，支持跨语言文本在图像中的精准渲染与修改，核心亮点在于统一框架下实现多语言、多风格、高保真文本合成。
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** `Python` - Crawl4AI 是一款开源的 LLM 友好型网络爬虫与数据采集工具，基于 Python 构建，支持智能页面解析与结构化数据提取，核心亮点为与大模型无缝集成、低代码配置和高效内容抽取。
+- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款免费开源的 AI 图像超分工具，基于 ESRGAN 模型实现跨平台（Windows/macOS/Linux）高清图像放大，支持 GPU 加速与本地运行，核心亮点为无依赖、高性能与隐私保护。
+- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 和 SQLite 的自托管笔记服务，支持 Markdown 编辑与标签化管理，提供私有化数据控制与轻量级社交互动，通过 Docker 部署实现开箱即用。
+- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高效渲染大规模图数据，通过物理模拟实现动态布局与交互，核心亮点为流畅的3D可视化与高性能WebGL渲染。
+- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多维度力导向图可视化，通过高性能Canvas渲染实现复杂网络动态交互，核心亮点为跨平台沉浸式图谱呈现与低延迟响应。
+- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，提供自定义模板与智能动画添加，实现高效高质量演示文稿一键生成。
+- **[vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)** `Python` - vocode-core 是一个模块化开源框架，用于构建基于语音的 LLM 代理，支持语音输入输出、对话管理与工具调用，核心亮点在于全链路语音交互能力与高可扩展性架构。
+- **[voideditor/void](https://github.com/voideditor/void)** `TypeScript` - 基于TypeScript的开源VS Code编辑器扩展，集成LLM能力实现智能代码生成与交互式开发，支持ChatGPT、Claude等模型接入，提供类Copilot的实时辅助体验。
+- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D框架，融合AI驱动的动态表情与交互逻辑，支持Web端实时渲染与多模态输入，核心亮点为轻量化部署与高保真角色表现。
+- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 基于JavaScript构建的豆瓣API服务，提供豆瓣数据的标准化接口访问，支持用户、电影、图书等资源的查询与聚合，核心亮点为低延迟响应与结构化数据输出。
+- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 基于Markdown文件自动生成美观的reveal.js幻灯片，支持实时预览与一键发布，核心亮点是极简输入与高保真输出的完美结合。
+- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 汇集中文优质RSS源中订阅量最高的内容，提供高效聚合与订阅服务，支持多平台统一管理，核心亮点为精准筛选与社区驱动的高质量内容推荐。
+- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与虚拟试穿技术，融合Avatar生成与衣物数字化，实现高保真虚拟形象与动态服饰模拟，核心亮点为端到端的衣着数字孪生与实时动画驱动。
+- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于ChatGPT等大模型自动生成PPT，将内容生成与幻灯片结构整合于单一文件，通过Go语言实现高效自动化处理，支持一键生成专业级演示文稿。
+- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到实战的全链路技术，涵盖抓包工具、爬虫框架、反爬破解、数据库操作及分布式实现，适合零基础入门与进阶实战。
+- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，实现公众号内容自动化采集与备份，支持多账号管理与结构化存储，核心亮点为高稳定性与易扩展的前后端架构。
+- **[wordware-ai/audioscribe](https://github.com/wordware-ai/audioscribe)** `TypeScript` - 基于TypeScript构建的音频转写工具，支持实时音频流处理与高精度语音识别，集成AI模型实现多语言、多方言识别，具备低延迟与高可扩展性。
+- **[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)** `HTML` - 构建面向开发者从零到精通的交互式知识图谱与学习路径体系，融合思维导图、周报机制与技术视野导航，支持高效知识管理与职业成长规划。
+- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 基于用户脚本（UserScript）技术，为ChatGPT提供数据安全增强与效率优化的浏览器插件，通过自动刷新、拦截跟踪、净化页面等机制实现安全、流畅、高效的AI交互体验。
+- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 音乐标签编辑器，基于Python实现本地音乐文件元数据批量修改，支持Docker部署与NAS/Navidrome集成，提升音乐管理效率。
+- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个面向数字人与大语言模型的 MCP 框架，通过统一接口连接多端（PC/移动/网页）与业务系统，支持 2.5D/3D 数字人及 OpenAI 兼容模型，实现跨平台智能交互。核心亮点在于高兼容性与低接入成本。
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 提供开源免费的GPT-4级大模型调用接口，支持GPT-4.1、o4、o3、DeepSeek-R1、Gemini 2.5等多模型，通过逆向工程实现低成本高性能语言模型服务，助力开发者快速构建AI应用。
+- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据（3D LiDAR点云、图像、LLM）的全栈标注平台，基于 TypeScript 构建，支持高精度标注与融合分析，核心亮点为多模态协同标注与实时协作能力。
+- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精选的编码面试准备材料，基于TypeScript实现，涵盖算法、系统设计与行为面试题，支持高效练习与复习。
+- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供轻量级、可复用的卡片组件服务，支持动态渲染与交互逻辑，核心亮点为模块化设计与高效渲染能力。
+- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比Midjourney中多样化的摄影参数、胶片类型及术语效果，为图像生成提供可复现的实验数据集，助力用户精准调参。
+- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一个开源自托管的链接分享与管理平台，基于Go与React构建，支持自定义可读短链接，通过SQLite实现轻量级数据存储，提升个人与团队链接管理效率。
+- **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** `TypeScript` - 基于Model Context Protocol（MCP）协议，将任意输入（如图片、文档、网页）通过AI模型转换为结构化Markdown，支持多模态输入与标准化输出，核心亮点为跨源内容统一转换能力。
+- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的动态展示，实现高效、美观的在线演示体验。
+- **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** `Python` - 基于GPT构建私有化文档交互系统，通过本地化部署实现数据零外泄，支持用户以自然语言高效查询私有文档，核心技术为RAG与本地LLM推理。
 
 ## Specialized Apps
 
-*351 个项目*
+*353 个项目*
 
-- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体全栈技术资源，涵盖协议、编解码、传输、实战项目与行业专家，助力开发者高效掌握流媒体核心技术。
-- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目集合，汇聚多元技术实践与开源作品，涵盖AI应用、工具链及垂直场景解决方案，通过协作共享推动创新落地。
-- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - ChatTTS 是一个面向日常对话的生成式语音模型，基于 PyTorch 与 torchaudio 构建，支持中英文自由切换的自然语音合成，通过端到端训练实现高保真语音生成，核心亮点为对话感强、语音自然流畅。
-- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过解析目标网站视频接口与页面结构，自动抓取无水印视频资源，支持抖音、快手、微博等主流平台，具备高兼容性与低资源消耗特点。
-- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成工具，通过可视化工作流实现低门槛 AI 创作，核心亮点在于灵活可扩展的节点式编辑与对本地部署的深度支持。
-- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是基于开源金融领域大语言模型的创新项目，通过 HuggingFace 发布训练好的模型，支持金融文本生成、情绪分析与技术分析，结合 Prompt Engineering 与 PyTorch 实现高效推理。核心亮点在于专注金融垂直领域，具备开箱即用的行业适配能力。
-- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、音效与虚拟人物口型同步的生成与理解，基于大模型实现多模态语音内容创作，支持高保真语音合成与Talking Head动画驱动。
-- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像中特定元素，融合多模态理解与生成能力，核心亮点为高精度语义对齐与上下文感知的替换效果。
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的开源Web界面，通过Gradio构建交互式图像生成平台，支持文生图、图生图、超分等核心功能，具备模块化插件扩展能力。
-- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 一款基于TypeScript开发的Photoshop插件，支持通过Automatic1111或ComfyUI后台生成Stable Diffusion图像，实现AI绘画一键嵌入设计流程，提升创作效率与用户体验。
-- **[AkshitIreddy/AI-Powered-Video-Tutorial-Generator](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator)** `JavaScript` - 基于AI生成视频教程，结合角色动画与幻灯片演示，通过Next.js与FastAPI构建全栈应用，实现高效内容创作。核心亮点为自动化视频合成与自然语言驱动的动画生成。
-- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 基于 React 与 Next.js 构建的开源隐私优先简历生成工具，支持完全本地化定制与无缝导出，采用 TailwindCSS 与 Material-UI 实现现代化界面，无需云端存储。
-- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 基于Docker化部署的程序员居家烹饪指南，通过结构化菜谱与自动化流程，帮助开发者高效复现中式家常菜，核心亮点为代码化食谱与环境一键部署。
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过AI自主代理实现代码生成与代码库构建，支持从需求到完整项目结构的自动化生成，核心亮点是端到端的代码工程自动化能力。
-- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - BUTSpeechFIT/DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端的语音处理流程，支持高效标注与模型评估，核心亮点在于模块化设计与可视化分析能力。
-- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻与言情网文创作，采用轻量化预训练策略实现高效生成，支持长文本连贯性与风格多样性。
-- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - 基于100% RNN架构的RWKV语言模型构建的开源ChatGPT替代品，支持高效推理与本地部署，核心亮点为高吞吐、低延迟的序列建模能力。
-- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++实现的微信聊天记录导出工具，通过解析iTunes备份与SILK音频格式，支持文本、图片、语音等多类型数据提取，具备高兼容性与低侵入性。
-- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文的全文双语翻译，完整保留原始排版与数学公式，支持多引擎接入与多种使用方式，显著提升科研文献跨语言阅读效率。
-- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控的大型生成模型，用于创建高质量3D资产。基于扩散模型与多模态条件控制，支持文本、图像到3D内容的高保真生成，具备精细几何与材质建模能力。
-- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人人体、面部、手部与足部关键点，基于深度学习与C++高效实现，支持多模态姿态估计，核心亮点为高精度与低延迟的实时处理能力。
-- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款生成与合规分析，核心亮点在于精准的法律语义理解与可解释推理能力。
-- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 基于 TypeScript 构建的一站式 AI 网页服务聚合平台，支持一键部署 ChatGPT 及多类 AI 工具，集成 MidJourney、Stable Diffusion 等模型，提供统一访问入口与可视化交互体验。
-- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI的数据库智能客户端，支持多数据库类型，通过自然语言生成SQL，实现高效数据查询与分析，核心亮点为高兼容性与精准Text-to-SQL能力。
-- **[Cormanz/smartgpt](https://github.com/Cormanz/smartgpt)** `Rust` - 基于Rust构建的智能体框架，使LLM可通过插件完成复杂任务，支持动态工具调用与安全执行，核心亮点为高性能与可扩展的插件系统。
-- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - 基于RSS技术聚合全球多平台内容，支持B站、微博、知乎等主流平台的实时信息订阅，通过TypeScript构建高效、可扩展的统一内容入口，实现信息自由流动。
-- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 一款基于 TypeScript 的浏览器扩展，通过集成 RSSHub 服务，一键发现并订阅 RSS 源，简化内容聚合流程，支持 Chrome 与 Firefox。核心亮点在于无缝对接开源 RSSHub 生态，实现零配置快速订阅。
-- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的去中心化网状 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全通信，核心亮点在于低延迟、高可扩展的点对点连接能力。
-- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建人生模拟游戏，通过动态数据分析与生成式叙事实现个性化人生重来体验，核心亮点在于AI驱动的深度人生决策推演与情感化反馈。
-- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言与表情细节还原，核心亮点为低延迟、高自然度的数字人驱动。
-- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，参考Alpaca设计，支持中文指令遵循任务。核心亮点为轻量级部署与中文语境优化。
-- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - 基于Conformer架构的开源工业级语音识别模型，支持普通话、方言及英文，兼具高精度语音与歌词识别能力，采用端到端训练与多语言融合策略实现SOTA性能。
-- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** `Python` - MetaGPT 是首个基于多智能体协作的自然语言编程框架，通过角色分工与自主协作实现从需求描述到代码生成的端到端自动化，核心亮点在于模拟真实软件公司运作模式。
-- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成个性化求职信并自动发送至中国雇主，提升求职效率。核心技术为LLM驱动的文本生成与自动化消息推送。
-- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，聚焦法律文本理解与生成，通过RAG增强法律知识检索与推理，提供精准法律服务。
-- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大模型的语音生成系统，支持文本到语音、语音克隆与跨语言合成，提供训练、推理与部署全栈能力，实现高自然度、细粒度控制的语音生成。
-- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一款多语言语音理解模型，基于 PyTorch 实现，支持多语言 ASR、语音情感识别与语音事件分类，具备跨语言泛化能力，适用于复杂语音场景的高精度理解。
-- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，助力医疗AI研发高效落地。
-- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域的人工智能与大语言模型研究论文整理与实践，通过Jupyter Notebook形式实现理论与代码的闭环验证，核心亮点为可复现的教育AI实验案例。
-- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - StoryDiffusion 通过多模态扩散模型与叙事结构建模，实现高质量故事生成与视觉化呈现，结合 Jupyter Notebook 交互式环境，支持可控、连贯的文本-图像协同创作，核心亮点在于叙事一致性与跨模态语义对齐。
-- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 语法实现应用的安装、卸载与更新，核心亮点在于与 Homebrew 生态无缝集成，支持广泛的应用分发。
-- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的中小型中文LLM资源，涵盖底座模型、微调应用、数据集与教程，支持低成本本地化AI能力构建。
-- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动完成视频字幕切割、翻译、对齐与配音，基于AI实现Netflix级本地化流程，支持多语言无缝转换与语音克隆。
-- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT/Ollama 构建，可一键生成中英文 PPT 内容，支持自然语言输入直接转换为结构化幻灯片，核心亮点在于低门槛、高效率的智能内容生成与多语言输出能力。
-- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性与可控性动画生成，基于多帧时序建模与姿态引导机制，支持复杂动作还原与风格保持。
-- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，在弱条件（如低质量输入、有限数据）下生成高表达力的动态人像视频，实现从音频到生动人脸动画的端到端生成。
-- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - 基于DINO与接地预训练融合，实现开放集目标检测，通过视觉-语言Transformer建模跨模态语义对齐，提升模型泛化能力与零样本迁移性能。
-- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion的生成能力提升低质量图像细节，显著改善现实场景下的图像质量，核心亮点为扩散先验与超分任务的深度融合。
-- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift开发的个性化日记应用，融合自然语言处理与情感分析技术，自动记录并智能整理用户日常体验，支持多模态输入与隐私安全存储，核心亮点为情感洞察与自动生成成长报告。
-- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT-v1 通过 AI 一键总结音视频与网页等内容，支持多平台输入（B站、YouTube、会议等），结合 LLM 实现高效内容提炼与对话交互，核心亮点在于全链路自动化与多源内容泛化处理。
-- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 基于Gemini-2.5-Flash-Image（Nano Banana）生成与编辑图像的精选视觉内容库，通过JavaScript实现高效展示与交互，突出Google前沿多模态生成能力。
-- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建可定制的个性化AI导师系统，通过动态提示工程实现自适应学习路径，支持多轮交互式教学与知识反馈优化。
-- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步生成与全景图像对齐的扩散模型，实现高保真文本到全景图像生成。采用Jupyter Notebook形式提供完整训练与推理流程，支持跨帧一致性控制。
-- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 是基于 LLM 与视觉模型融合的数字人对话系统，结合 Whisper 语音识别、SadTalker 面部动画生成与多模态交互技术，实现自然流畅的虚拟人物实时对话。核心亮点为高拟真度数字人语音驱动与多模态协同交互。
-- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于Web的阅读优化扩展，通过JavaScript实现一键提取网页精华内容，结合React与Readability技术，提供简洁、无干扰的沉浸式阅读体验。
-- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色语音克隆与视频对话，支持多角色沉浸式交互，通过声音克隆技术还原角色语音特征，打造拟真数字人对话体验。
-- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是一个基于 Python 的 AI 图像生成与风格化工具库，聚焦于多模态内容创作，支持高效模型推理与风格迁移，具备可扩展的生成框架与轻量化部署能力。
-- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人脸动态驱动，通过输入静态人像与驱动视频，生成高保真动态人脸视频，核心亮点为自然的表情迁移与流畅的运动捕捉。
-- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，将ChatGPT改造为具有猫娘人格的交互角色，融合萌系语言风格与拟人化行为逻辑，实现趣味性与可用性的平衡。
-- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - 开源DWG格式解析库，采用C语言实现，支持CAD文件读写与兼容性处理，通过CI与夜间构建保障稳定性，为CAD生态提供高效、轻量级底层支持。
-- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 的 Markdown 编写能力，结合 reveal.js 实现静态幻灯片生成，支持实时预览与代码高亮，核心亮点在于无缝集成笔记与演示文稿工作流。
-- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持 Imgur、GitHub、阿里云 OSS、七牛云、腾讯云 COS 等多平台一键上传，界面简洁高效，提升内容创作与技术文档编写中的图片管理效率。
-- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是基于 TensorFlow 的官方实现，通过改进生成对抗网络架构，实现高质量、高分辨率图像生成，核心亮点在于解耦噪声注入与梯度路径优化，显著提升生成图像的稳定性和细节清晰度。
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流平台，通过逆向分析与分布式抓取技术保障高效稳定采集，核心亮点为全链路兼容与低耦合架构设计。
-- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - SoftWhisper 基于 Whisper 模型提供高效音视频转写服务，支持自定义模型、语言、任务及时间片段，通过 beam size 调优提升转写精度，实现灵活精准的语音处理。
-- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI 生成理想中的房间效果图，融合图像理解与生成技术，实现直观、高效的室内设计创意表达。
-- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真应用，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的 Agent 协作架构与跨场景适配能力。
-- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 通过自然语言指令驱动多智能体协作，自动生成定制化软件代码，利用LLM实现需求理解与任务分解，核心亮点为端到端自动化开发流程与高度可扩展的Agent架构。
-- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化实现端侧部署。
-- **[OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)** `Python` - 基于VideoChatGPT等多模态大模型，实现视频理解与自然语言交互，支持视频问答、字幕生成与多语言模型接入，通过Gradio提供交互界面。
-- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面和强大的数据转换功能，帮助用户高效处理脏数据，支持数据重构、去重、标准化与数据关联，核心亮点在于灵活的行级操作与Wikidata集成。
-- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - SadTalker实现基于单张图像的音频驱动真人说话头像动画，通过学习真实3D运动系数，生成自然流畅的面部表情与动作，显著提升视觉真实感。
-- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇形同步，利用端到端深度学习模型在真实场景下精准匹配口型与语音，支持自由编辑与自然生成。核心亮点为高保真口型对齐与强泛化能力。
-- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格理论对大语言模型进行人格化探索，通过Python构建模拟人格特征的对话系统，揭示LLMs在行为模式与表达风格上的多样性，核心亮点在于将心理学框架与AI行为建模结合。
-- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，支持图像修复、风格迁移、人脸动画迁移、音视频同步唇动生成等多样化应用，采用先进的 GAN 架构与轻量化设计，实现高质量图像与视频生成。
-- **[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** `Python` - PaddlePaddle/PaddleSpeech 是一套高效易用的语音技术工具链，基于自监督学习与流式架构，支持高精度端到端语音识别、合成、说话人验证及语音翻译，具备实时处理与标点恢复能力。
-- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，结合多模态建模与时序生成技术，实现自然协同的口型同步与肢体动作表达，核心亮点在于高保真动态呈现与端到端流畅控制。
-- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现高分辨率实时背景抠图，采用轻量化网络结构与高效推理优化，支持1080p实时处理，精度与速度兼顾。
-- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch、TensorFlow等框架实现高鲁棒性视频抠图，支持多平台部署（ONNX、CoreML、TF.js），提供实时、高精度的前景提取能力，核心亮点为跨框架兼容与轻量化模型设计。
-- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 基于sd-webui的提示词增强扩展，提供直观输入界面、自动翻译、历史记录与收藏功能，显著提升图像生成提示词的编写效率与体验。
-- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成连贯、动态且可扩展的长视频，采用流式生成架构与时空一致性建模，显著提升长视频生成质量与效率。
-- **[Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)** `Python` - 基于文本到图像扩散模型实现零样本视频生成，通过时序一致性建模将静态图像生成扩展为动态视频，无需额外训练。核心亮点在于无需微调即可生成高质量连贯视频。
-- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化提示工程指南，通过结构化提示模板帮助用户精准控制模型输出，提升对话效率与可用性。核心亮点为覆盖多场景实用技巧与进阶调教方法。
-- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 基于本地GPT模型实现文档对话，支持私有化部署与数据零外泄，通过向量检索与本地推理技术，让用户在无网络环境下安全高效地与文档交互。
-- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用VITS架构与GPT-SoVITS联合训练，支持快速、高保真TTS建模，显著降低语音合成门槛。
-- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，可自动策划、生成与编辑 YouTube Shorts/TikTok 内容，结合多模态输入与自动化工作流实现端到端短视频生产。
-- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到口型生成，仅需一个唇动专家模型即可在复杂真实场景中生成自然口型同步效果，采用端到端训练与注意力机制优化时序对齐。
-- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - SEACrowd-datahub 旨在汇聚东南亚语言、区域与文化相关数据集，通过协作共建推动本地化AI研究。项目采用Python主导的开源流程，支持多语言数据标注与标准化处理，核心亮点在于覆盖广泛且具文化敏感性的语料资源。
-- **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)** `Python` - SWE-agent 通过大语言模型自动解析 GitHub 问题并生成修复方案，支持代码生成、安全漏洞挖掘与竞赛编程，基于 Agent 架构实现端到端自动化。
-- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整合AI竞赛经验与训练技巧的HTML集合仓库，聚焦计算机视觉、NLP、推荐系统等领域，通过结构化内容助力参赛者快速提升实战能力。
-- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA稳定扩散模型的图像修复工具，支持物体移除、缺陷修复与内容替换，利用潜空间扩散技术实现高精度图像修复，核心亮点为快速生成与自然融合效果。
-- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建实时互动AI角色，支持跨平台（移动端/网页/终端）自然对话，集成语音识别与合成，实现高度个性化的AI伴侣体验。
-- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端工具，基于 JavaScript 构建，提供高度可定制的聊天界面与插件系统，支持多模型接入与角色扮演交互，核心亮点在于灵活的界面配置与强大的社区生态扩展能力。
-- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款基于Web的开源图像标注工具，支持目标检测、关键点识别与Pascal-VOC格式导出，集成SSD与PoseNet模型，提供高效、免费的在线标注体验。
-- **[SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)** `TypeScript` - 基于DeepSeek等大语言模型，AI-to-PPTX可智能生成PPT大纲并支持多模板导出PPTX，前后端开源，实现高效智能演示文稿创作。
-- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是基于 TypeScript 构建的社区级生成式 AI 界面，集成 Stable Diffusion 等模型，提供可视化生成与交互体验，支持模型部署与社区共享，核心亮点在于低门槛的前端交互与可扩展的生成工作流。
-- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升训练与推理效率，支持文本到图像、图像修复等任务，核心亮点为生成质量高且计算资源需求较低。
-- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地部署的PDF多功能Web工具，基于Java实现PDF合并、转换、编辑、OCR等操作，支持Docker化部署，提供高效、安全的离线PDF处理能力。
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过AI Agents协同执行市场分析、策略生成与执行，结合实时数据处理与LLM推理，实现自动化、可扩展的智能投研闭环。
-- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型一键生成，核心亮点为跨模态对齐与端到端可微分建模。
-- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是一款基于扩散 Transformer 的多分辨率生成模型，具备细粒度中文理解能力，通过 Jupyter Notebook 提供交互式开发与推理能力，支持高精度图像生成与语义对齐。
-- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作手机应用，通过视觉理解与自然语言交互实现自动化任务执行，核心亮点为端到端的跨应用协作与上下文感知决策。
-- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 基于小型语言模型在命令行中生成3D文件，利用Go语言实现高效轻量级推理与模型调用，支持结构化提示与代码化输出，核心亮点为低资源环境下快速构建3D内容。
-- **[TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)** `Python` - 基于用户Zotero文献库，每日自动筛选并推荐相关arXiv论文，通过GitHub Action实现自动化，支持邮件推送，提升科研文献追踪效率。
-- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展、可进化架构，通过模块化设计实现文本生成与内容创作能力的持续迭代。
-- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - Qbot 是一个完全本地部署的 AI 自动量化交易机器人，基于 Jupyter Notebook 环境实现策略开发与回测，融合深度学习与量化金融模型，支持比特币等加密资产交易，具备高可解释性与隐私安全保障。
-- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费V2Ray与ClashX可用代理节点的订阅链接聚合，通过Python脚本自动抓取、筛选与更新节点池，支持多客户端配置，助力用户快速搭建科学上网通道。
-- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte基于潜空间扩散Transformer架构，实现高效视频生成，通过时空建模与高效采样策略，在保持高分辨率与时序连贯性的同时显著降低计算成本。
-- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令遵循，显著提升越南语自然语言理解与生成能力。
-- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及其升级版 MiniGPT-v2 是基于大语言模型与视觉编码器的多模态对话系统，通过对比学习对齐图文表征，实现高质量图像理解与自然语言交互，支持端到端训练与推理。核心亮点是轻量化架构与高性价比性能表现。
-- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏监督，仅需少量样本即可合成高质量新视角图像，核心亮点在于提升Few-shot NVS的泛化性与效率。
-- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 该仓库汇聚图相关大语言模型的前沿项目与资源，涵盖图结构建模、图神经网络与LLM融合等方向，通过精选高质量开源项目助力研究与开发。核心亮点在于系统性梳理图与语言模型交叉领域的创新实践。
-- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑框架，通过可交互的控制点实现精准图像 manipulation，支持自由形状编辑与自然风格保持，核心亮点在于结合隐空间优化与视觉反馈的实时交互。
-- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于大语言模型的自主智能体，通过RESTful API操控真实世界应用，实现自动化任务执行与系统协同。核心亮点为端到端的API驱动决策与执行闭环。
-- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于轻量级深度学习模型实现无需trimap的实时人像抠图，通过端到端网络直接预测Alpha通道，显著提升处理效率与精度。
-- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方集成，支持稳定扩散工作流中高效精准的图像背景移除，核心亮点为无缝对接ComfyUI节点化流程与低资源消耗的实时推理。
-- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 本仓库汇集多个 ComfyUI 工作流，支持 Stable Diffusion 图像生成的高效编排与自动化，通过节点化流程实现灵活定制，核心亮点为模块化设计与即插即用的多场景工作流模板。
-- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，支持精细化人脸生成与风格控制，提供直观节点化工作流。核心亮点为中文本地化优化与高保真肖像输出。
-- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高精度人脸检测与抠图，结合FastAPI与Gradio构建高效证件照生成工具，支持一键换底与尺寸适配。
-- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于 CVPR 2024 论文，实现高保真音频驱动的人脸生成，通过精细化时序同步机制提升口型与语音的一致性，显著改善真实感与自然度。
-- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语种语音训练的开源文生语音模型，采用高效架构实现高自然度与情感表达，性能媲美甚至超越主流商用TTS服务。
+- **[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)** `Unknown` - 系统整理音视频流媒体领域500+优质资料，涵盖协议、工具链、实践项目与行业专家资源，助力开发者高效掌握WebRTC、RTMP、FFmpeg等核心技术。
+- **[2noise/ChatTTS](https://github.com/2noise/ChatTTS)** `Python` - 基于Python与PyTorch构建的中文/英文对话语音生成模型，支持自然流畅的日常对话语音合成，采用端到端TTS架构实现高保真语音输出。
+- **[5ime/video_spider](https://github.com/5ime/video_spider)** `PHP` - 基于PHP实现多平台短视频去水印爬虫，通过逆向分析与动态请求模拟，批量抓取并剥离抖音、快手等平台视频水印，支持主流短视频平台内容无损提取。
+- **[6174/comflowyspace](https://github.com/6174/comflowyspace)** `TypeScript` - Comflowyspace 是基于 ComfyUI 与 Stable Diffusion 的开源图像视频生成 Web 工具，通过可视化节点流程降低 AI 创作门槛，支持灵活工作流编排，实现高效、可复用的多模态内容生成。
+- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** `Python` - 基于多Agent架构实现无需框架依赖的舆情分析系统，融合深度搜索与情感分析，实时捕捉公共舆论动态，辅助决策预测。
+- **[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** `Jupyter Notebook` - FinGPT 是开源金融领域大语言模型，基于 PyTorch 训练并部署于 Hugging Face，支持金融文本生成、情绪分析与技术分析，结合提示工程与强化学习实现智能投研辅助。核心亮点为领域专精与可复现性。
+- **[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** `Python` - AudioGPT 实现语音、音乐、声音与虚拟人物口型同步的生成与理解，基于多模态大模型实现跨模态语义对齐，核心亮点为端到端 Talking Head 生成与自然语言驱动的音视频合成。
+- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** `Unknown` - 基于AIGC技术实现图像内容的智能替换，支持用户通过自然语言指令动态修改图像元素，融合生成模型与图像理解能力，具备高精度语义对齐与视觉一致性保持。
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的Web图形界面，支持文生图、图生图、图像超分等功能，依托PyTorch与Gradio实现高效交互式生成，核心亮点为高度可扩展的插件生态与本地化部署能力。
+- **[AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)** `TypeScript` - 该插件将Stable Diffusion图像生成能力无缝集成至Photoshop，支持Automatic1111与ComfyUI双后端，通过TypeScript开发实现用户友好的AI绘画流程。核心亮点为跨平台AI创作与专业设计工具的深度协同。
+- **[AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)** `TypeScript` - 一款注重隐私的开源简历生成工具，基于 Next.js 与 TailwindCSS 构建，支持完全本地化定制与离线使用，确保用户数据安全可控。
+- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 该仓库为程序员提供在家做饭的实用指南，通过Dockerfile标准化厨房环境与流程，实现可复现、可共享的烹饪方案，核心亮点是将编程思维融入生活场景，提升烹饪效率与可维护性。
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** `Python` - 基于GPT-4的CLI平台，通过自主智能体驱动代码生成与项目构建，支持从需求描述自动生成完整代码库，核心亮点为端到端自动化开发流程。
+- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端流程，集成主流语音模型与聚类算法，支持快速实验与结果可视化，核心亮点在于低门槛、可复现的说话人聚类工作流。
+- **[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)** `Python` - 基于RWKV架构的中文小说生成模型，专注玄幻、言情等网文创作，采用Python实现高效文本生成，具备长序列建模优势与低推理成本。
+- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - ChatRWKV 是基于 100% RNN 架构的开源聊天模型，类 ChatGPT 交互体验，采用 PyTorch 实现，兼顾高效推理与长序列建模能力，核心亮点为纯 RNN 架构下的高性能语言生成。
+- **[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)** `C++` - 基于C++开发的微信聊天记录导出工具，通过解析iOS备份文件与SILK音频格式，实现聊天文本、图片、语音等多类型数据的完整提取与结构化导出，支持跨平台备份恢复。
+- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** `Python` - 基于AI实现PDF科学论文全文双语翻译，完整保留原版排版与数学公式，支持多引擎切换与多种使用方式，兼顾准确性与可读性。
+- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控制的大规模生成模型，用于创建高质量3D资产。基于生成式AI技术，支持文本、图像等多模态输入，实现高保真、可控的3D内容生成，核心亮点在于生成质量与控制精度的平衡。
+- **[CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)** `C++` - OpenPose 实时检测多人身体、面部、手部和脚部关键点，基于深度学习与C++优化，支持多模态姿态估计，具有高精度与低延迟特性。
+- **[CSHaitao/LexiLaw](https://github.com/CSHaitao/LexiLaw)** `Python` - LexiLaw 是基于中文法律场景优化的大模型，通过领域微调与法律知识增强，实现法律文本理解、条款分析与智能问答，核心亮点在于高准确率的法律语义解析与合规推理能力。
+- **[ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny)** `TypeScript` - 一站式集成ChatGPT及多种AI网页服务，基于TypeScript构建，支持一键部署与多模型接入，实现高效AI应用聚合与快速访问。
+- **[CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** `Java` - 基于AI驱动的数据库客户端，支持多数据库类型，通过自然语言生成SQL，提升数据查询效率与易用性，核心亮点为高兼容性与智能SQL生成。
+- **[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)** `Go` - 基于飞书平台集成GPT-4、GPT-4V、DALL·E-3与Whisper，实现语音对话、图像生成、文档分析与多轮讨论的全链路AI助理，通过Go语言高效构建端到端服务。
+- **[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)** `TypeScript` - RSSHub 通过抓取主流平台的动态内容并统一输出 RSS 订阅源，实现多平台信息聚合与自动化推送，基于 TypeScript 构建，支持 B站、微博、知乎等数十个平台。核心亮点是“全平台 RSS 化”与极简接入体验。
+- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华联合研发的多语言多任务语音识别模型，基于大规模语料联合训练，支持高精度跨语言语音转写与多任务理解，具备端到端推理能力。
+- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的轻量级去中心化网格 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全内网通信，核心亮点为低延迟、高可靠性与原生 Rust 安全性。
+- **[EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)** `Python` - 基于GPT-4的Advanced Data Analysis功能构建的人生模拟游戏，通过动态数据建模与决策推演，实现个性化人生重来体验，核心亮点在于真实感强的因果推演与多维度人生路径生成。
+- **[FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)** `Python` - 基于Python实现的Audio2Face技术，将音频实时转换为高保真面部动画，支持多语言语音驱动数字人表情与嘴型同步，核心亮点为低延迟、高自然度的语音驱动面部生成。
+- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，复用Alpaca范式实现中文任务精准响应，支持轻量化部署与领域适配。
+- **[FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR)** `Python` - FireRedASR 是开源工业级语音识别模型，基于 Conformer 架构支持普通话、方言及英语，兼具高精度语音与歌词识别能力，在公开基准上达 SOTA 水平。
+- **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** `Python` - Fosowl/agenticSeek 构建完全本地运行的自主AI代理，基于DeepSeek-R1实现离线推理与自主思考，支持网页浏览与代码生成，零API依赖，仅需电力成本。
+- **[Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa)** `Python` - 基于ChatGPT自动解析简历与职位描述，生成定制化求职信并自动发送至中国雇主，实现求职流程智能化。核心亮点为端到端自动化与中文职场语境适配。
+- **[FudanDISC/DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM)** `Python` - 基于大语言模型的中文法律智能系统，通过深度法律知识融合与推理能力，提供精准法律咨询、文书生成与案例分析服务，核心亮点为领域专用LLM与法律语义理解的深度融合。
+- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大语音模型的全栈语音生成系统，支持跨语言语音合成与克隆，融合细粒度控制与端到端训练，实现自然流畅的语音输出。
+- **[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)** `Python` - SenseVoice 是一个支持多语言的语音理解模型，基于 PyTorch 实现，具备语音识别、情感识别与语音事件分类能力，支持跨语言语音理解，可高效处理多语种语音输入。
+- **[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)** `Unknown` - 整理中文医学NLP核心资源，涵盖术语集、语料库、预训练模型与知识图谱，支持命名实体识别、信息抽取与问答系统构建，提升医学AI研发效率。
+- **[GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education)** `Jupyter Notebook` - 聚焦教育领域AI与大语言模型研究论文的整理与实证分析，通过Jupyter Notebook实现可复现的实验验证与教学案例演示，核心亮点是融合前沿LLM技术与教育场景的实践闭环。
+- **[HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2024 Spotlight论文，StoryDiffusion通过多模态扩散模型实现高质量故事图像生成，结合文本与视觉语义对齐技术，支持连贯叙事画面序列创作。核心亮点在于上下文感知的跨帧一致性控制。
+- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的轻量级中文大语言模型，涵盖底座模型、垂直领域微调、数据集与教程，支持低成本本地化应用。
+- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** `Python` - 一键全自动实现影视级字幕切割、翻译、对齐与配音，融合语音克隆与多语言语义理解，支持多模态输入输出，达成Netflix级本地化体验。
+- **[HuiMi24/chatppt](https://github.com/HuiMi24/chatppt)** `Python` - ChatPPT 基于 ChatGPT 与 Ollama 构建，通过自然语言输入自动生成中英文双语 PPT 内容，支持结构化输出与多轮交互优化，核心亮点在于低门槛、高效率的演示文稿自动化生成。
+- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性、可控制生成，基于深度学习模型实现角色动作精准驱动，支持个性化姿态与风格保留，显著提升角色动画生成质量与可控性。
+- **[HumanAIGC/EMO](https://github.com/HumanAIGC/EMO)** `Unknown` - 基于音频驱动的扩散模型，实现弱条件下的表情生动人物视频生成，仅需音频输入即可生成高表达力的动态肖像视频，突破传统方法对高质量视频输入的依赖。
+- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - Grounding DINO 实现了融合 DINO 与接地预训练的开放集目标检测，通过视觉-语言联合建模实现零样本泛化，支持开放世界下新类别识别与定位。
+- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion模型的语义先验提升低质量图像细节重建能力，显著提升视觉质量与结构保真度。
+- **[JanusChoi/rainbow-diary](https://github.com/JanusChoi/rainbow-diary)** `Swift` - 基于Swift构建的智能日记应用，利用本地化AI模型实现自然语言记录与情感分析，支持隐私保护下的智能分类与回顾，核心亮点为端到端本地化处理与轻量级高效推理。
+- **[JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)** `TypeScript` - BibiGPT v1 通过集成多源音视频与文本内容，实现一键 AI 总结与对话交互，支持 Bilibili、YouTube、网页、会议等多场景，基于 LLM 实现高效内容提炼与问答，核心亮点为全链路自动化与多平台覆盖。
+- **[JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)** `JavaScript` - 该仓库汇聚由Gemini-2.5-Flash-Image（Nano Banana）生成的高质量图像与提示词，展示谷歌前沿多模态生成能力，通过JavaScript工程化组织与可视化呈现，助力开发者快速探索AI视觉创作潜力。
+- **[JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)** `Unknown` - 基于GPT-4构建的可定制AI导师系统，通过动态提示工程实现个性化学习路径，支持多场景知识辅导与互动式教学。
+- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步扩散机制实现高质量全景图像生成，支持文本到全景图的精准控制，显著提升跨视角一致性。
+- **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** `Python` - Linly-Talker 构建基于 LLM 与视觉模型的数字人对话系统，融合 Whisper 语音识别、SadTalker 驱动虚拟形象，实现语音驱动的拟人化交互，具备高沉浸感与实时响应能力。
+- **[Kenshin/simpread](https://github.com/Kenshin/simpread)** `JavaScript` - 简悦（SimpRead）是一款基于React的浏览器扩展，通过简化网页内容、优化排版实现沉浸式阅读，支持Chrome与Firefox，核心亮点在于无干扰阅读体验与智能内容提取。
+- **[KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning)** `Python` - 基于ChatGLM2与SadTalker实现角色对话与语音克隆，支持沉浸式视频交互，用户可与任意虚拟角色进行自然对话并生成动态口型同步视频。
+- **[Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)** `Python` - Kolors 是由 Kwai-Kolors 团队开发的基于 Python 的多模态生成模型工具集，聚焦于图像与文本的高效协同生成，支持高保真图像生成与风格控制，核心亮点在于端到端的生成优化与轻量化部署能力。
+- **[KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)** `Python` - 基于深度学习实现人像动态化，通过关键点驱动与神经渲染技术，将静态肖像视频化，支持自然表情与头部运动，核心亮点为高保真面部细节还原与实时性优化。
+- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，引导ChatGPT模拟猫娘人格，实现拟人化交互体验，核心亮点在于情感化角色设定与自然语言反馈的深度融合。
+- **[LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)** `C` - libredwg 是一个开源的 DWG 文件格式解析库，使用 C 语言实现，支持 CAD 数据的读取与处理，通过 CI 和夜间构建保障稳定性，为 CAD 工具链提供底层支持。
+- **[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)** `TypeScript` - 基于 Obsidian 和 reveal.js 构建 Markdown 驱动的幻灯片系统，支持实时预览与多端同步，核心亮点为无缝集成笔记与演示文稿工作流。
+- **[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)** `TypeScript` - PicGo 是基于 Vue CLI 与 Electron 构建的跨平台图片上传工具，支持多云存储（如阿里云 OSS、七牛云、腾讯 COS 等）与图床（如 Imgur、SMMS），提供简洁高效的图形界面与自动化上传能力，核心亮点为多平台兼容与一键式多源上传。
+- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是 NVIDIA 官方发布的基于 TensorFlow 的生成对抗网络实现，通过改进的训练稳定性和生成质量，实现高分辨率图像合成。核心亮点在于路径长度正则化与谱归一化技术，显著提升图像细节与多样性。
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** `Python` - 基于Python实现多平台社交内容与评论的自动化爬取，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等，通过逆向解析与异步请求技术高效获取结构化数据，核心亮点为跨平台统一接口与高并发稳定性。
+- **[NullMagic2/SoftWhisper](https://github.com/NullMagic2/SoftWhisper)** `Python` - 基于Whisper模型的音视频转写工具，支持自定义模型、语言、任务及时间片段，通过调整束搜索参数实现精准转写，提升语音内容处理效率。
+- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** `TypeScript` - 用户上传房间照片，AI生成理想中的房间效果图，融合图像理解与生成能力，实现高效可视化设计重构。
+- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** `JavaScript` - AgentVerse 提供基于 LLM 的多智能体部署框架，支持任务求解与仿真场景，通过模块化设计实现智能体协同与动态交互，核心亮点在于可扩展的多智能体系统架构。
+- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** `Python` - 基于大语言模型的多智能体协作系统，通过自然语言输入自动生成定制化软件，实现从需求到代码的端到端自动化开发，核心亮点为智能体分工协同与上下文理解能力。
+- **[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** `Python` - MiniCPM-V 4.5 是一款可在手机端运行的类 GPT-4o 级多模态大模型，支持单图、多图及高帧率视频理解，基于轻量化架构与高效推理优化，实现端侧高性能多模态感知。
+- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集 ChatGPT 相关资源与实战技巧，涵盖 API 使用、提示工程、应用开发与生态工具，助力开发者高效构建智能对话应用。
+- **[OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)** `Java` - OpenRefine 是一款开源数据清洗与整理工具，通过可视化界面支持用户对杂乱数据进行标准化、去重、分类和重构，核心亮点在于强大的数据重建与 Wikidata 语义关联能力。
+- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - 基于音频驱动单图人脸动画生成，通过学习真实3D运动系数实现高保真口型同步与自然表情变化，结合3DMM与神经渲染技术提升视觉真实感。
+- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇同步重建，通过端到端模型在真实场景下精准对齐口型与语音，支持多说话人、多语种视频编辑，核心亮点为高保真口型同步与强泛化能力。
+- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格类型对大语言模型进行心理特质建模与探索，通过Python实现模型行为模拟与分类分析，揭示LLM的“性格”差异与交互模式。
+- **[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)** `Python` - PaddlePaddle/PaddleGAN 是基于 PaddlePaddle 的生成对抗网络库，聚焦图像生成与编辑任务，支持风格迁移、人脸修复、动作迁移、语音驱动表情合成等，采用轻量化模型与高效训练策略实现高质量生成。
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** `Python` - PaddleOCR 是一款支持 100+ 语言的轻量级 OCR 工具包，可将 PDF 和图像文档高效转为结构化数据，无缝对接 LLM，实现文档智能解析与知识提取。
+- **[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** `Python` - PaddlePaddle/PaddleSpeech 是一个功能全面的语音技术工具包，支持自监督学习、流式端到端语音识别与合成、说话人验证等，基于Transformer与Conformer架构实现高精度实时语音处理，荣获NAACL2022最佳演示奖。
+- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，融合多模态建模与运动预测技术，实现高保真同步的虚拟人表达。
+- **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** `Python` - 基于深度学习实现实时高分辨率背景抠图，采用轻量化网络结构与高效推理优化，支持视频流与高清图像的快速精准边缘分割。
+- **[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)** `Python` - 基于PyTorch等框架实现高鲁棒性视频抠图，支持多平台部署，通过深度学习模型精准分离前景与背景，兼具效率与精度。
+- **[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)** `Python` - 该扩展为 Stable Diffusion WebUI 提供增强型提示词输入界面，集成自动翻译、历史记录与收藏功能，提升提示词编辑效率与用户体验。
+- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成长时序、高一致性与可扩展的视频，采用流式生成与动态注意力机制，突破传统方法在长度与质量上的瓶颈。
+- **[Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)** `Python` - 基于ICCV 2023 Oral成果，该仓库利用文本到图像扩散模型实现零样本视频生成，通过时序一致性建模与跨帧特征复用，无需额外训练即可生成连贯视频。核心亮点在于无需微调即可实现高质量视频合成。
+- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化调教指南，通过精细化提示词设计提升模型指令遵循能力，帮助用户高效掌控模型输出。
+- **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** `Python` - 本地化文档对话系统，基于GPT模型实现文档问答，数据全程不离开设备，保障隐私。通过向量化存储与检索增强生成技术，实现高效精准的私有知识问答。
+- **[RSSNext/Folo](https://github.com/RSSNext/Folo)** `TypeScript` - RSSNext/Folo 通过 TypeScript 构建智能 RSS 阅读器，整合 AI 与区块链技术，实现内容自动聚合与去中心化分发，支持多源信息一键追踪。核心亮点为 AI 驱动的内容理解与个性化推荐。
+- **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** `Python` - 基于1分钟语音数据实现高质量语音克隆，采用GPT-SoVITS框架，结合VITS生成模型与GPT条件控制，支持快速、高保真语音合成。
+- **[RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)** `Python` - ShortGPT 是基于 GPT-4 的实验性 AI 框架，通过自动化脚本生成、AI 视频编辑与内容分发，实现 YouTube Shorts/TikTok 内容的端到端自动生成，核心亮点在于多阶段 AI Agent 协同工作流。
+- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到唇动生成，仅需语音输入即可合成自然逼真的唇部动作，采用端到端训练策略，支持复杂场景下的真实世界应用。
+- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - 该仓库聚焦东南亚语言、区域与文化数据的共建收集，通过Python工具链实现多源数据整合与标准化，核心亮点为本土化语料的开放共享与社区协作机制。
+- **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)** `Python` - SWE-agent 通过大语言模型自动解析 GitHub 问题并生成修复方案，支持自动化代码修复、安全漏洞挖掘与编程竞赛，基于智能代理架构实现端到端任务执行。
+- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整理AI竞赛经验与训练测试技巧，以HTML形式结构化呈现，涵盖CV、NLP、推荐系统等主流赛道，助力开发者高效复现与优化模型。
+- **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** `Python` - 基于SOTA AI模型的图像修复工具，利用Stable Diffusion与LaMa技术实现精准去物、缺陷修复与内容替换，支持高保真图像编辑。
+- **[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)** `JavaScript` - 基于LLM与多模态技术构建可实时对话的AI角色，支持跨平台（移动端、Web、终端）无缝交互，集成语音识别与合成，实现拟人化陪伴体验。
+- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端，基于 JavaScript 构建，提供高度可定制的聊天界面与插件生态，支持多模型接入与角色扮演，核心亮点在于灵活的 UI 自定义与强大的社区扩展能力。
+- **[SkalskiP/make-sense](https://github.com/SkalskiP/make-sense)** `TypeScript` - 一款免费在线图像标注工具，基于TypeScript构建，集成Pascal-VOC、SSD、PoseNet等模型，支持目标检测、关键点识别与标签管理，提供高效可视化标注体验。
+- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是 Stability AI 社区驱动的生成式 AI 前端界面，基于 TypeScript 构建，提供稳定扩散模型的可视化操作与交互体验，支持图像生成、风格调整与模型管理。
+- **[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)** `Python` - 基于潜在扩散模型实现高分辨率图像生成，通过压缩潜在空间提升效率与质量，支持文本到图像、图像修复等任务，具备生成细节丰富、风格多样的图像能力。
+- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** `Java` - 本地托管的网页应用，支持PDF的合并、转换、编辑、OCR等操作，基于Java构建并兼容Docker部署，提供安全离线的PDF处理能力。
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** `Python` - 基于多智能体架构的LLM金融交易框架，通过协同决策与动态策略生成实现自动化交易，融合市场分析与风险管理，核心亮点为可扩展的智能体编排与实时策略迭代。
+- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型输出，核心亮点为端到端一体化生成与高效推理优化。
+- **[Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** `Jupyter Notebook` - Hunyuan-DiT 是基于多分辨率扩散 Transformer 架构的中文图像生成模型，结合细粒度中文理解能力，通过 Jupyter Notebook 实现高效实验与可视化，支持高精度语义驱动图像生成。
+- **[TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)** `Python` - AppAgent 是基于 LLM 的多模态智能体框架，模拟人类操作智能手机应用，通过视觉与文本理解实现跨 app 自动化任务执行，核心亮点为端到端的多模态交互与真实设备级操作能力。
+- **[ThomasVuNguyen/MakeMe](https://github.com/ThomasVuNguyen/MakeMe)** `Go` - 通过CLI交互式调用小型语言模型生成3D文件，结合Go语言高效执行与轻量化推理，实现本地化、低资源的3D内容创作。核心亮点在于将LLM能力嵌入命令行工具链，提升设计效率。
+- **[TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)** `Python` - 基于用户Zotero文献库，每日自动筛选并推荐相关arXiv论文，通过GitHub Actions实现自动化推送，支持邮件订阅，提升科研信息获取效率。
+- **[Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)** `Python` - 基于开源GPT2.0构建的初代创作型AI系统，支持可扩展与可进化架构，通过模块化设计实现文本生成与内容创作的灵活部署。
+- **[UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)** `Jupyter Notebook` - 基于本地部署的AI量化交易机器人，融合深度学习与交易策略回测，支持比特币等加密资产自动交易，通过Jupyter Notebook实现全流程可解释研究与部署。
+- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费VPN节点订阅链接，支持ClashX与V2Ray配置，整合多协议节点资源，一键生成可用配置文件，提升科学上网访问效率。
+- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte 是基于潜在扩散变换器的视频生成模型，通过高效建模时空特征实现高质量视频生成，核心亮点在于融合扩散机制与Transformer架构，支持长时序生成与高分辨率输出。
+- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令跟随，显著提升越南语自然语言生成能力。
+- **[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)** `Python` - MiniGPT-4 及 MiniGPT-v2 为多模态大模型提供开源实现，通过视觉编码器与语言模型的轻量级对齐，实现图像理解与自然语言交互。核心亮点在于低资源部署与强泛化能力。
+- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏表示，仅需少量图像即可完成高质量新视角合成，核心亮点在于高效建模与低样本适应能力。
+- **[XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)** `Unknown` - 汇集图相关大模型的前沿项目与资源，涵盖图神经网络与大语言模型融合的技术实践，聚焦图结构数据的智能理解与生成，核心亮点为体系化整理与高价值开源生态聚合。
+- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑工具，通过可拖拽的控制点实现精细的图像生成与编辑，支持风格保持与结构一致性，核心亮点为交互式、高精度的动态图像操控。
+- **[Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)** `Python` - 基于LLM的自主智能体，通过RESTful API实现对真实应用的自动化控制，具备任务规划、API调用与状态管理能力，核心亮点是端到端的闭环执行与动态推理决策。
+- **[YuyaoGe/Awesome-Vibe-Coding](https://github.com/YuyaoGe/Awesome-Vibe-Coding)** `Unknown` - 该项目聚焦于AI驱动的代码生成与智能编程辅助，通过整合大语言模型与开发环境深度集成，实现自然语言到代码的高效转化，核心亮点在于低门槛的开发者体验与高精度的上下文感知生成能力。
+- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于AAAI 2022论文，实现无需trimap的实时人像抠图，采用轻量级深度网络在端侧高效生成高精度alpha matte，支持实时视频流处理。
+- **[ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)** `Python` - 基于ComfyUI实现BRIA RMBG图像去背模型的非官方部署，支持稳定扩散工作流中高效精准的背景移除，核心亮点为轻量化集成与可视化节点化操作。
+- **[ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)** `Unknown` - 该仓库收集并整理了多个 ComfyUI 工作流，用于高效构建 Stable Diffusion 图像生成流程，支持模块化节点配置与可视化编排，提升 AI 画图效率与可复用性。
+- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，提供模块化节点操作，支持高精度人物图像生成与风格化定制，核心亮点为中文界面与本地化部署优化。
+- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** `Python` - 基于CNN与UNet的轻量级AI算法，实现高效证件照生成与背景分割，结合FastAPI与Gradio提供可视化工具，支持多场景快速部署。
+- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于音频驱动实现高保真人脸合成，通过精细同步语音与面部动作，显著提升生成自然度与时序一致性，核心亮点在于引入时序对齐优化机制。
+- **[Zyphra/Zonos](https://github.com/Zyphra/Zonos)** `Python` - Zonos-v0.1 是一款基于超20万小时多语言语音数据训练的开源文本到语音模型，采用高效架构实现高保真与情感表达，性能媲美甚至超越主流商业TTS服务。
 - **[Zz-ww/SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)** `Python` - 基于SadTalker与Wav2Lip实现语音驱动的视频唇形合成，结合DAIN插帧技术提升动作流畅度，支持面部区域可配置增强，显著提升生成唇形的清晰度与自然度。
-- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过AI将截图一键转换为结构化前端代码（HTML/Tailwind/React/Vue），结合多模态理解与代码生成技术，实现视觉到代码的精准映射，核心亮点在于高保真还原与多框架输出。
-- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户语言并本地化转录存储，通过私有服务器实现完全数据自主，支持上下文感知的个性化对话交互。
-- **[adap/flower](https://github.com/adap/flower)** `Python` - Flower 是一个面向联邦学习的轻量级框架，支持多设备协同训练与模型聚合，基于 Python 与 gRPC 实现跨平台通信，核心亮点是灵活可扩展的联邦学习原语与对边缘设备的友好支持。
-- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，使用 HTML 语法构建 VR 内容，依托 Three.js 实现高性能 WebGL 渲染，支持主流 VR 设备与 WebXR 标准，开箱即用的组件化设计降低开发门槛。
-- **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** `Python` - 基于Python构建的Blender-MCP工具链，集成AI Agent与多模态处理能力，实现3D内容生成与智能交互的自动化流程，核心亮点在于统一工作流下的跨模态协同与可扩展性架构。
-- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能AI照片生成工具，通过简化操作流程与优化模型推理，实现高质量人像生成。核心亮点在于一键式风格迁移与细节保留技术。
-- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的开发与应用，基于Jupyter Notebook提供可交互的模型训练、微调与推理实践，涵盖多语言支持与本地化优化，核心亮点为面向东南亚语种的高效LLM适配与开源共享。
-- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL·E 3的AI封面生成工具，通过TypeScript构建高效Web交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
-- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript开发的AI壁纸生成工具，利用AI模型动态生成个性化高清壁纸，支持用户自定义风格与主题，实现一键生成与本地预览。核心亮点为高效渲染与多风格适配。
-- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于高斯溅射实现文本驱动的3D人体生成，结合扩散模型与3D高斯表示，支持高保真、可编辑的3D人体建模，显著提升生成效率与视觉质量。
-- **[andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)** `Python` - 基于Python构建的翻译智能体，利用LLM实现多语言自动翻译与上下文理解，支持动态调用翻译工具链，提升翻译准确率与本地化适配能力。
-- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，采用 Rust 语言构建，兼顾性能与安全，支持跨平台同步与自定义内容，核心亮点在于高效记忆强化与极简主义设计。
-- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量化模型实现移动端实时运行的数字人，采用优化推理架构与高效参数压缩技术，支持低延迟语音驱动动画生成，核心亮点为极致轻量与端侧部署能力。
-- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab工具，简化Wav2Lip音视频同步模型的部署与使用，支持高精度人脸唇动同步，通过一键运行提升易用性与效果。
-- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的特征点条件，实现高保真音频驱动的人脸动画生成，通过多模态建模与时空一致性优化，支持自然流畅的口型同步与微表情表达。
-- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现音视频驱动的简化半身人体动画生成，基于音频输入精准同步口型与身体动作，采用轻量化架构提升实时性与泛化能力，显著降低对复杂人体姿态数据的依赖。
-- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - L7 是基于 WebGL 的大规模地理空间数据可视化引擎，支持 GeoJSON、Mapbox、高德等多源地图数据，通过高性能渲染实现 3D 地理可视化，核心亮点为跨平台、高并发、低延迟的地理数据实时渲染。
-- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python实现机器学习与深度学习全流程实战，涵盖算法原理、代码实现与数据处理，结合PyTorch/TensorFlow等框架，助力开发者快速掌握AI核心技能。
-- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自 Project Gutenberg 的诗歌语料库，以 Jupyter Notebook 形式组织，支持文本清洗、结构化处理与分析，便于用于自然语言处理研究与训练。核心亮点在于高质量、可复现的诗歌数据管道。
-- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库系统梳理了500个AI代理在医疗、金融、教育等领域的实际应用案例，通过开源项目链接实现快速落地，展示AI代理在跨行业场景中的多样化解决方案与实践路径。
-- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch的实时语音克隆系统，5秒内完成声音克隆并生成任意语音内容，支持高保真、低延迟的TTS合成，核心亮点为极短训练周期与高质量语音还原。
-- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，适配Hugging Face生态，具备强大通用语言理解与生成能力。
-- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT 通过整合 LLM 与 PDF 内容解析，实现用户与 PDF 文档的自然语言对话，核心亮点在于本地化部署的 RAG 架构与高效文本处理能力。
-- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 基于多模型支持的学术型LLM交互平台，聚焦论文阅读、写作与代码解析，通过模块化插件与并行推理优化科研效率，支持本地与云端模型无缝切换。
-- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索分析服务，通过结构化检索与上下文理解，实现高效学术文献发现与深度分析，核心亮点为统一协议接口与多模型兼容能力。
-- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于稳定扩散模型的训练与微调，提供高效的LoRA与DreamBooth支持，通过轻量化训练方案降低硬件门槛，核心亮点是极简配置与高兼容性。
-- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将EPUB/Kindle等格式书籍一键翻译为指定语言，集成AI翻译引擎与格式保持技术，实现高质量、无损排版转换。
-- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于Boson AI的文本-音频基础模型，实现文本到高质量音频的端到端生成，融合语音合成与自然语言理解，支持多语种、情感化语音输出，核心亮点为高自然度与低延迟推理。
-- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展可将用户用母语编写的图像生成提示词自动翻译为英文，支持Stable Diffusion WebUI无缝使用，核心亮点是低侵入式集成与多语言实时翻译能力。
-- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于开源全流程训练的0.2B中文对话小模型，支持指令微调与三元组抽取微调，提供从数据清洗到RLHF优化的完整代码链路。
-- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好桌面客户端，支持GPT、Claude、Gemini、Ollama等多模型无缝接入，提供统一对话界面与本地化运行能力，核心亮点为跨平台兼容性与低延迟本地推理。
-- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 通过本地运行 OpenAI Whisper 实现音频的离线转录与翻译，无需依赖云端服务，保障数据隐私。支持多语言处理，适用于个人与企业级私有化场景。
-- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全的中华古诗词数据库，整合唐宋诗词与宋词数据，以JSON格式结构化存储，支持高效查询与应用开发，核心亮点为数据规模与完整性。
-- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型兼容服务，自动分析Paperless-ngx文档并智能打标，支持多模态输入与本地化部署，实现文档智能归档与检索。
-- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI模型的在线信息抽取工具，支持零样本事件、实体、关系抽取，可本地运行，适用于非结构化文本结构化处理，核心亮点为开箱即用的LLM驱动信息抽取流程。
-- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型可视化工具，通过模块化节点实现生成流程的灵活配置，支持高效推理与API集成，核心亮点在于高度可定制的图形化工作流设计。
-- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署与多源聚合，通过TypeScript与NestJS构建高效服务，实现订阅体验的优雅升级。
-- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于TypeScript构建的自动化文章分发平台，支持多渠道一键发布，集成Node.js与MongoDB，实现文章内容的高效聚合与跨平台分发，核心亮点为开箱即用的媒体适配器与Docker化部署。
-- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - D2L-EN 是一本交互式深度学习教材，融合多框架代码、数学推导与讨论，支持 PyTorch、TensorFlow、JAX 等主流框架，广泛应用于全球500所高校教学。
-- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析绘图结构并生成帧序列实现手绘风格动画，支持流畅过渡与关键帧控制，核心亮点为低代码化动画创作与实时预览。
-- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是一款开源摄影工作流应用与原始图像处理工具，基于 C 语言开发，提供非破坏性编辑、批量处理及专业级 RAW 转换功能，核心亮点在于高性能图像处理引擎与模块化架构。
-- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，支持自然语言转SQL，提升非技术用户数据分析效率。核心亮点为精准上下文理解与动态知识检索。
-- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 将PDF快速转换为高精度Markdown与JSON格式，基于Python实现结构化提取，结合OCR与LLM理解技术，精准还原文档内容与布局。
-- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于PyTorch等框架的先进2D/3D人脸分析项目，支持检测、对齐、识别与年龄估计，采用ArcFace等前沿模型实现高精度人脸处理，具备多平台部署能力。
-- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` - DeepSeek-V3 是一款高性能中文大语言模型，基于 Python 构建，支持长上下文与复杂推理任务，采用先进的训练架构与优化策略，实现高效推理与高精度生成。
-- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的多模态大模型，支持视觉与语言深度融合理解，通过动态路由机制提升推理效率与泛化能力，实现高精度图文问答与复杂场景理解。
-- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地运行方案，基于 Electron 构建图形化界面，无需依赖配置或技术背景即可快速生成高质量图像。
-- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 提供一套Python模块，用于与Ryze Tello无人机通信与控制，支持飞行指令、视频流获取与传感器数据读取，核心亮点为轻量级、易集成，适合快速开发无人机应用。
-- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于ICLR 2024 Oral的生成式高斯点云框架，通过文本或图像输入高效生成3D内容，利用可微分高斯溅射与扩散模型融合实现高质量3D重建与生成。
-- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用且自动的图像增强与超分辨率框架，基于深度学习实现端到端图像质量提升，支持多场景自适应处理，核心亮点在于无需人工干预的全流程自动化与高质量输出。
-- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 基于C语言实现的开源AI数字人工具链，支持离线视频生成与数字人克隆，融合多模态AI技术实现高保真语音驱动与动作合成，核心亮点为全本地化部署与低资源占用。
-- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端的语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、语音转换等多种任务，采用统一框架集成多种语音AI模型，具备高可复用性与模块化设计。
-- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代AIoT开发平台，基于ESP系列芯片构建，支持本地化AI推理与物联网协同，通过轻量级模型部署实现低功耗智能边缘计算，核心亮点为软硬一体的AIoT集成方案。
-- **[evennia/evennia](https://github.com/evennia/evennia)** `Python` - Evennia 是基于 Python 与 Django 的开源 MUD/MUX/MUSH 游戏开发引擎，支持多人文本互动与 Web 客户端接入，采用 Twisted 异步框架实现高效并发。核心亮点为高度可扩展的模块化架构与活跃社区生态。
-- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1模型构建的开源聊天应用，实现精准网络检索与深度推理结合，支持实时信息获取与复杂问题解答。
-- **[facebookresearch/sam2](https://github.com/facebookresearch/sam2)** `Jupyter Notebook` - SAM 2 提供图像分割模型的推理代码、预训练权重及示例笔记本，支持高效、精准的图像掩码生成，核心亮点在于零样本泛化与交互式分割能力。
-- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型权重与示例笔记本，支持零样本图像分割，通过提示输入实现高精度语义分割，核心亮点为通用性强、部署简便、支持多场景快速应用。
-- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - FaceFusion 是一款领先的面部操作平台，通过深度学习实现高精度人脸替换、唇形同步与面部动画生成，支持一键式操作与多模态输入，具备实时渲染与高保真输出能力。
-- **[fighting41love/funNLP](https://github.com/fighting41love/funNLP)** `Python` - 集成了中英文敏感词、命名实体识别、知识图谱、文本生成与摘要、语音识别与处理等NLP能力的综合性中文NLP资源库，基于Python实现，支持多场景应用与模型复用。
-- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源端到端TTS系统，支持高保真语音合成，融合VALLE与VITS前沿技术，实现自然流畅的语音生成。
-- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成视觉美观的运动海报，利用Python结合地图渲染与图形设计技术，支持跑步、骑行等轨迹可视化，核心亮点为一键生成高颜值分享图。
-- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 通过Python脚本一键修改Cursor设备ID并解除锁定状态，利用底层配置文件替换与校验机制实现快速解绑，核心亮点为操作简便、无需官方授权即可恢复使用。
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 提供免费开源编程与计算机科学课程，基于 TypeScript 构建 Web 工具与互动学习平台，核心亮点为社区驱动的全栈课程体系与实时编码练习。
-- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化人体引导实现可控且一致的人像动画生成，结合图像与视频生成技术，支持自然姿态迁移与细节保真。核心亮点在于引入3D先验提升运动连贯性与视觉一致性。
-- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 React.js 与 TypeScript 构建的现代化文档框架，支持 MDX、Contentlayer 和 App Router，提供灵活的文档内容管理与渲染能力，核心亮点在于开箱即用的 Next.js 集成与可扩展的文档结构设计。
-- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于 TypeScript 快速构建专属 ChatGPT 应用，集成 OpenAI API 实现对话能力，支持自定义提示词与接口配置，开箱即用且易于扩展。
-- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间注意力调制，精准控制生成内容的布局与位置，突破传统控制方法的模型依赖限制。
-- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 基于Llama 2与Code Llama的本地化、离线运行聊天机器人，全程私有化部署，无需数据外传，支持代码生成与自然语言交互，兼具高性能与隐私安全保障。
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动化发布与智能生成。
-- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理流水线基于深度学习实现蛋白质-配体复合物结构精准预测，采用端到端神经网络架构，支持多模态输入，显著提升生物分子相互作用建模能力。
-- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 该仓库提供360°视频与空间音频的规范与工具，基于Python实现编解码、元数据处理与播放支持，核心亮点在于对空间媒体标准的完整封装与跨平台兼容性。
-- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务及付费的AI对话系统，集成Docker实现快速部署，支持免费商用，适用于轻量级AI对话场景。
-- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合时间序列渲染生成动态轨迹动画，支持多格式输出与可视化配置，核心亮点在于高效轨迹解析与可定制化动画效果。
-- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 UI，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
-- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭物资与厨房管理 ERP 系统，通过 PHP 和 Blade 模板实现，支持食材库存、购物清单、食谱管理与智能餐食规划，核心亮点在于数据自主掌控与高度可定制化。
-- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，利用语义扰动与编码策略实现不可见水印，支持无密钥检测，保障内容版权与溯源。
-- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过将案例推理（CBR）融入大语言模型，实现数据科学任务的自动化编排与执行，支持从数据理解到建模的端到端流程，显著提升任务成功率与可解释性。
-- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的系列实用工具与学习项目，涵盖从零入门到实战应用，包含12306抢票、地址库、网站爬虫等，代码结构清晰，适合编程学习与工程实践。
-- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/JavaScript 的开源演示框架，通过简洁的 Markdown 语法与灵活的插件系统，实现响应式、可扩展的幻灯片展示，支持实时预览与多端兼容。
-- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 该插件将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索引用、自动生成文献笔记并实现智能引用，提升科研写作效率。核心亮点为无缝衔接参考文献管理与知识笔记系统。
-- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐自动下载与播放，使用 yt-dlp 下载音源并集成 Docker 化部署，支持 Vue 前端交互，提升家庭音乐播放自动化体验。
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于AI大模型一键生成高清短视频，集成Python与MoviePy实现自动化视频合成，支持TikTok风格内容快速生产，提升创作效率。
-- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过结构化数据查询与智能检索实现高效文献发现，核心亮点为开源、低延迟与学术语义优化。
-- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，融合策略生成、市场理解与执行决策，通过模块化Agent协同实现自动化交易闭环，核心亮点为中文语境下的金融认知对齐与动态策略演化。
-- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合国内外主流AI绘画平台与技术资源，涵盖Stable Diffusion系列模型的教程、参数配置、部署指南及行业动态，提供一站式学习与实践路径。
-- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown工具，支持从创意到论文、演示文稿与书籍的一体化创作，融合脚本化处理与高级排版能力，实现高效知识管理与多形态输出。
-- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent 通过智能代理架构实现从文本到幻灯片的生成与多维度评估，结合 LLM 与工作流引擎，支持内容生成、结构优化与质量评测，突破传统文本到幻灯片的简单映射。
-- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代 macOS 视频播放器，采用 Swift 开发，提供流畅的播放体验与简洁的界面设计，支持多种格式和硬件加速。
-- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 基于C++20与HNSW等技术构建的AI原生数据库，支持稠密向量、稀疏向量、张量与全文混合检索，实现高速精准的语义搜索，专为LLM应用优化。
-- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保持的图像生成，仅需1张参考图即可秒级生成高保真人脸图像，基于扩散模型与ID嵌入解耦技术，支持个性化角色创作与快速原型设计。
-- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库 curated 了由 GPT-4o 和 gpt-image-1 生成的高质量 AI 图像与提示词，展示 OpenAI 在文本到图像生成领域的前沿能力，支持多种风格如吉卜力风、动漫与卡通。
-- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集高质量 macOS 平台应用软件，涵盖开发、设计、效率等多个领域，通过精选与持续维护提供可靠工具清单，核心亮点为权威性与高实用性。
-- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持高效浏览与离线阅读，具备多端同步与智能标签管理，核心亮点是流畅的移动端体验与对成人内容的精准分类访问。
-- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 构建人工智能领域英中技术术语的全面映射数据库，通过结构化数据与持续更新机制实现术语精准翻译与跨语言知识对齐，核心亮点为术语覆盖率高、上下文关联性强。
-- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库是一个精心整理的开源情报（OSINT）工具与资源集合，涵盖网站、数据库、自动化脚本等，助力用户高效开展网络信息挖掘与分析，核心亮点在于资源全面性与持续更新。
-- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式定制，显著降低 UI 主题开发门槛。
-- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 是基于视觉-语言建模的 SVG 生成基础模型，将矢量化任务转化为代码生成，通过多模态输入精准输出高质量 SVG 代码，实现从图像到可编辑矢量的高效转换。
-- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 基于大模型构建可交互的人类行为模拟体，通过持续记忆与动态决策实现拟人化行为，支持多轮对话与情境演化，核心亮点为真实感与自主性结合。
-- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景的重建与生成，利用稀疏观测数据结合优化算法实现高保真重建，支持快速推理与可扩展生成。
-- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全流程自动化处理，支持全文总结、专业翻译、语言润色、审稿意见生成及回复建议，显著提升科研效率。
-- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT构建中文本地化版本，支持自主任务规划与执行，集成GPT-3.5/Turbo API，赋能AI自动化工作流。核心亮点为中文语境优化与社区驱动持续迭代。
-- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全类型书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标与全文检索，结合Next.js与React Native实现跨平台体验。
-- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的AI系统，通过结构化提示与生成控制实现连贯叙事，核心亮点在于将复杂故事生成分解为可复用的模块化流程。
-- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 聚焦云平台计费与支付领域知识整合，系统梳理成本管理、计量、发票、税务等核心环节，提供结构化参考指南。
-- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源文档，将知识高效转化为Anki记忆卡片，支持多种格式输入与自动化处理，实现知识资产的长效记忆闭环。
-- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 该仓库为高增长初创企业创始人和领导者精选权威资源，聚焦决策、领导力与创业实战，通过结构化分类与深度评述提供可落地的行动指南。
-- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建的科学智能代理发现框架，利用AI Agents协同完成科研任务自动化，集成文献检索与实验设计推理，核心亮点为可扩展的领域自适应代理编排机制。
-- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python的豆瓣读书数据爬虫，通过模拟请求与解析HTML实现高效数据采集，支持书目、评分、评论等多维度信息抓取，具备反反爬策略与结构化输出能力。
-- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 基于网页抓取与视频解析技术，实现微信视频号内容一键下载，支持多格式导出，操作简洁高效，无需登录即可获取高清视频资源。
-- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并以Cypher查询，实现股票关联关系的可视化与高效检索。核心亮点为轻量级、可复用的金融知识建模框架。
-- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于Rust与Tauri构建的跨平台ChatGPT桌面应用，支持Mac、Windows和Linux系统，通过WebView集成OpenAI API，提供本地化、高性能的AI对话体验，核心亮点为低资源占用与原生系统融合。
-- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于 Lepton AI 构建对话式搜索Demo，利用 TypeScript 实现高效前端交互与后端 LLM 接入，支持自然语言查询与实时结果反馈，核心亮点为低延迟响应与无缝集成的 AI 搜索体验。
-- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的现代 Web 框架，支持细粒度响应式编程与同构渲染，可编译为 WebAssembly 实现高性能前端应用。核心亮点在于极致性能与零运行时开销的响应式架构。
-- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT内容自动生成，支持免费在线使用，用户输入主题即可快速生成结构化PPTX文件，核心亮点为零代码、高效率、无缝集成。
-- **[lipku/LiveTalking](https://github.com/lipku/LiveTalking)** `Python` - 基于Python构建实时交互式数字人流媒体系统，融合Wav2Lip与ER-NeRF技术实现高保真唇形同步与三维动态渲染，支持低延迟直播互动。
-- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，结合图谱结构化数据与大模型推理，实现精准医疗问答与分析，核心亮点为知识图谱驱动的可解释性问答。
-- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建端到端问答Demo，通过语义检索与图谱推理实现精准医疗问答，核心亮点为知识增强与上下文关联推理。
-- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建成语义图谱，实现文档知识的可视化组织与高效检索。
-- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 通过引入条件控制机制，实现对扩散模型生成过程的精细调控，支持姿态、边缘、深度等多种控制信号输入，显著提升生成图像的可控性与精度。
-- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 实现图像的高效重光照，通过深度学习模型在保持细节的前提下精准调整光照效果，支持多场景灵活应用。核心亮点在于高保真重光照与快速推理能力。
-- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制聊天机器人，支持多平台快速接入与工作流编排，集成AI画图、语音对话与人设调教，实现高自由度交互体验。
-- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch复现AlphaFold 3，融合注意力机制与去噪扩散模型，实现蛋白质复合物结构高精度预测，支持多模态输入与端到端训练。
-- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 基于 Whisper 模型实现高精度语音识别与词级时间戳标注，并支持说话人分离（diarization），通过联合优化提升语音处理的细粒度与准确性。
-- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - MagicAnimate 基于扩散模型实现高保真、时序一致的人像动画生成，通过时空建模与运动先验引导，将静态图像驱动为自然流畅的动态视频，核心亮点在于无需额外姿态数据即可实现精准动作迁移。
-- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本生成思维导图，通过 TypeScript 实现高效解析与可视化渲染，支持结构化文本到图形的无缝转换，核心亮点为零配置、高兼容性与实时交互体验。
-- **[mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain)** `TypeScript` - 基于 LangChain 与 LangGraph 构建的 TypeScript 风格 AI PDF 聊天机器人，支持文档理解与多轮对话，核心亮点为结构化 Agent 流程与高效 RAG 集成。
-- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham的公开文章构建RAG系统，使用TypeScript实现文档嵌入、向量检索与上下文生成，支持自然语言问答与内容洞察，核心亮点为精准语义检索与可扩展的文本知识库架构。
-- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据关联，自动为音乐文件打标，提升音源管理效率。核心亮点为精准的 AcoustID 音频识别与开放数据库支持。
-- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理系统，通过GUI交互实现Windows自动化任务，融合Agent与Copilot能力，支持多工具协同与上下文记忆。
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是微软开源的前沿文本转语音系统，基于先进声学建模与深度学习技术，实现自然流畅、情感丰富的语音合成，支持多语言与个性化音色定制。
-- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一款开源敏感数据匿名化框架，支持文本、图像和结构化数据的 PII 检测与脱敏，融合 NLP、规则匹配与可定制化流水线，实现高效隐私保护。
-- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的生成式代理实现，通过轻量化LLM模拟人类行为交互，支持低延迟、低成本的自主智能体系统。核心亮点为可本地部署、高交互性与行为仿真真实性。
-- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于Python的文本编辑器式视频剪辑工具，通过自然语言指令实现精准剪辑，融合文本解析与视频处理技术，核心亮点为“所见即所得”的文本驱动剪辑体验。
-- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解论文核心思想与技术细节，提升科研与工程实践能力。
-- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端高保真语音修复与降噪能力。
-- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - FunASR 是基于 PyTorch 的端到端语音识别工具包，支持 Conformer、ParaFormer 等 SOTA 模型，提供语音识别、VAD、标点恢复等能力，开箱即用，性能领先。
-- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，结合Gradio实现一键式操作，支持高精度语音转写与自动字幕生成，核心亮点为端到端自动化与易用性。
-- **[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)** `Python` - 该仓库系统收集与R1（深度推理）相关的重要项目，聚焦大模型在复杂推理任务中的前沿实践，涵盖推理增强、强化学习优化与多阶段推理架构，构建高质量推理模型资源图谱。
-- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，实现人脸建模与个性化数字人生成，核心亮点为低代码化、高保真度与快速部署能力。
-- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地部署的AI数字人一站式系统，支持语音合成、声音克隆与视频生成，集成CozyVoice、Wav2Lip等模型，通过可视化界面实现一键部署与管理。
-- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的开源离线语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 构建模型，实现高性能、低延迟的端到端语音转文本。
-- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的 JavaScript 3D 库，通过简化 3D 图形开发流程，支持 WebGPU、WebXR 等前沿技术，实现高性能、跨平台的 3D 网页可视化。
-- **[mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)** `Jupyter Notebook` - 该仓库通过 Jupyter Notebook 形式系统化整理 GPT 提示工程实战案例，涵盖提示设计模式、优化技巧与实际应用场景，以可执行代码推动提示工程的标准化与可复用性。
-- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是一款基于 Flutter 的跨平台 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 多类生成能力，支持文生图、图生图、超分与上色，一站式满足多模态 AI 内容创作需求。
-- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图数据实时分析。
-- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本到语音合成引擎，支持情感与风格的精准调控，通过 prompt 引导实现自然流畅的语音生成。
-- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于技术文本生成与理解，支持代码生成、技术文档撰写与知识推理，核心亮点在于领域适配与高效推理能力。
-- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的 Android 实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言翻译，支持蓝牙 LE 传输语音，兼具高隐私性与实时性。
-- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转为Anki闪卡，基于GPT-4生成内容并支持批量导出，高效提升学习效率。
-- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于多模态AI技术实现漫画自动翻译，支持多种格式与语言，融合OCR、文本检测、图像修复与神经机器翻译，提供端到端桌面化翻译体验。
-- **[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)** `Python` - 基于Python的本地化大模型Web界面，支持多种LLM快速部署与交互，提供图形化操作与高级功能，开箱即用，降低本地AI使用门槛。
-- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，通过科学记忆曲线优化闪卡复习节奏，提升长期记忆效率。核心亮点在于精准预测遗忘点，实现个性化复习调度。
-- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - Shap-E 通过文本或图像生成3D物体，基于扩散模型实现跨模态生成，支持快速原型设计与创意表达，核心亮点在于高效生成与多模态输入融合。
-- **[opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)** `Python` - 基于Python的综合性PDF内容提取工具集，融合OCR、版面分析与结构化解析技术，支持多格式高保真内容还原，核心亮点为端到端自动化与高精度文本/表格提取。
-- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - OpenInterpreter/01 是一款开源语音交互系统，支持桌面、移动设备及ESP32芯片，通过语音指令实现设备控制与任务执行，核心亮点在于跨平台语音指令解析与本地化运行能力。
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是基于 Django 和 Angular 构建的开源文档管理系统，支持扫描、OCR 识别、自动索引与归档，通过机器学习实现智能分类与检索，提升纸质文档数字化效率。
-- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于Stable Diffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、绘画与写作的协同实验，展现AI在创意生成与开发辅助中的融合能力。
-- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于AI的私有化相册管理应用，利用Go语言与TensorFlow实现图像识别、自动标签与搜索，支持自托管与去中心化部署，提升个人照片管理智能化水平。
-- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿应用，复刻 MS PowerPoint 核心功能并支持 AI 自动生成幻灯片，提供云端协作与智能编辑体验。
-- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘制，基于TypeScript构建，强调协同与本地优先设计，提升团队协作与创意表达效率。
-- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器项目，聚焦AI代理与工具链的构建与集成，支持多模态交互与自动化任务执行，核心亮点在于统一生态与可扩展架构。
-- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐场景。
-- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - MotionGPT基于微调的大语言模型，实现文本到3D人体动作的生成，通过PyTorch框架完成端到端训练与推理，核心亮点在于利用LLM的语义理解能力实现自然语言驱动的通用动作合成。
-- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合命名实体识别与关系抽取技术，支持智能问答与辅助决策，提升农业信息检索与知识利用效率。
-- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转化为知识图谱，支持图增强生成与基于知识图谱的问答，利用自然语言处理与图结构建模实现语义关联挖掘。
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于 React 和 TypeScript 构建程序化视频生成工具，支持组件化视频创作与动态渲染，核心亮点是将前端开发范式无缝迁移至视频生产流程。
-- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 Zotero 提供强大的 BibTeX / biblatex 支持，通过 TypeScript 实现精准的引用键管理与 LaTeX 兼容输出，显著提升 LaTeX 用户的文献管理效率。
-- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成图像/视频中人脸的精准替换，支持多种风格迁移与自然融合，操作简便、响应迅速。
-- **[sail-sg/sailor2](https://github.com/sail-sg/sailor2)** `Unknown` - Sailor2 是面向东南亚多语言环境的包容性大语言模型，支持包括爪哇语、马来语、泰语等在内的16种区域语言，通过多语言预训练与本地化微调实现跨语言理解与生成，核心亮点在于覆盖广泛且低资源语言。
-- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护型元搜索引擎，聚合多家搜索服务结果，通过去中心化架构实现无追踪搜索，核心亮点在于完全匿名化处理与可自托管部署。
-- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度前景分离，无需绿幕即可将人物或物体从复杂背景中精确提取，支持实时处理与多场景适配。
-- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并分类开源 macOS 应用，涵盖开发、设计、效率等多领域，支持一键安装与社区共建，核心亮点为持续更新与高质量项目筛选。
-- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 旨在通过自动化流程从文档中高效提取结构化信息，结合 LLM 与 prompt 工程实现精准内容解析，支持 DOCX 等格式的智能转换与信息抽取。
-- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全面的华语现代诗歌语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成应用，核心亮点为高覆盖率与可扩展的文本处理 pipeline。
-- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，利用多模态大模型解析文本与图表，融合AI生成技术实现内容可视化，支持一键输出高质量科普视频。
-- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 通过 LLM 与 RAG 技术实现自然语言到 SQL/数据操作的转换，支持 CSV、Parquet、数据库等多源数据交互，让数据分析变为对话式体验。
-- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 的开发者专用幻灯片工具，支持 Markdown 直接编写幻灯片，提供实时预览与代码高亮，核心亮点是无缝集成开发体验与现代化 Web 技术栈。
-- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档转化为专业演示文稿，支持多模型、多模板，提升内容创作效率。
-- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建的全流程技术实践，整合数据抽取、实体识别与关系挖掘等模块，基于开源工具链实现高效知识建模，支持多源异构数据融合与可扩展的图谱存储与查询。
-- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - 基于PyTorch的端到端语音处理工具包，支持语音识别、语音分离、说话人辨识等任务，融合Transformer等深度学习模型，提供开箱即用的预训练模型与可复现的实验流程。
-- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于Vercel AI SDK与GPT-3.5-turbo，通过微调莎士比亚文学作品构建的AI对话bot，实现风格化文本生成与经典文学语境对话，核心亮点在于精准还原莎士比亚语言风格与修辞特色。
-- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，融合RAG与LLM推理能力，实现知识问答与课程讲解的交互式教学体验，支持动态知识更新与多轮对话。
-- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的AI模型，利用深度学习技术实现从文本到自然语音的端到端生成，支持多语言与情感表达，具备高保真音色还原能力。
-- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的高保真歌声转换系统，利用PyTorch实现端到端音色迁移，支持低延迟实时语音转换，核心亮点为高自然度音质与轻量化模型部署。
-- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Rust构建高性能、安全的桌面与移动应用，使用Web前端与WebView技术实现跨平台原生体验，兼顾开发效率与运行性能。
-- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生系统集成与轻量级高性能设计。
-- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库提供60个针对数据科学任务的ChatGPT高效提示词，覆盖数据清洗、建模、可视化等环节，通过结构化提示提升AI协作效率，核心亮点是实战导向与任务细化。
-- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 基于自然语言指令驱动 ChatGPT 生成 AR 内容，实现从文本到增强现实场景的自动化构建，核心亮点为零代码 AR 创作与多模态语义理解融合。
-- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，模拟人类行为与社会动态，通过多智能体交互实现对复杂社会现象的可解释洞察。
-- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无 Electron 依赖，支持跨平台高性能运行，实现高效、低资源占用的 Web 应用桌面化。
-- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现数据清洗、结构化与标注，支持法律文本分析与模型训练，核心亮点为高精度法律术语对齐与合规性数据标准化。
-- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、可复用的音频处理模块。
-- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐机制，支持任意文本在复杂场景中的精准渲染，核心亮点为跨语言、跨字体、高保真视觉生成。
-- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款开源免费的跨平台 AI 图像超分工具，基于 ESRGAN 模型实现图像高清化，支持 Linux、MacOS 和 Windows，通过 Electron 打包提供直观界面，显著提升低分辨率图像质量。
-- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 与 React 构建的自托管笔记服务，支持 Markdown、卡片式记事与微博客功能，采用 SQLite 存储，强调数据自主与隐私保护，通过 Docker 快速部署。
-- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多模态力导向图可视化，通过Canvas高效渲染大规模网络拓扑，实现交互式动态图谱展示。
-- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - 基于AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，兼容自定义模板与智能动画添加，提供在线体验。
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** `Python` - 基于Python构建的AI对冲基金团队系统，融合AI Agents与数据处理流程，实现自动化策略生成与市场分析，核心亮点为端到端智能投研闭环。
-- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D交互系统，融合AI驱动动画与实时语音响应，实现高沉浸感虚拟角色交互，核心亮点为轻量化部署与多模态自然交互。
-- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量级架构与高效训练策略，支持本地部署与快速推理，核心亮点为低资源占用与中文语义理解优化。
-- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 将 Markdown 文件一键转换为精美 reveal.js 演示文稿，支持实时预览与自定义主题，核心亮点在于极简工作流与高度可定制的幻灯片生成能力。
-- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 整理并聚合中文高质量RSS源，为用户提供订阅人数最多、内容优质的资讯聚合服务，支持一键订阅与高效阅读，核心亮点在于精准筛选与社区驱动的优质内容推荐。
-- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与动画生成，支持衣着数字化与虚拟试穿，融合多模态生成与三维渲染技术，实现高保真虚拟形象构建与动态交互。
-- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，核心亮点为轻量高效与跨平台兼容。
-- **[wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)** `Unknown` - 汇集中国本土大模型资源与实践，涵盖模型发布、开源项目、应用案例及技术文档，助力开发者快速掌握国内大模型生态。
-- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全LLM助手，支持GPT-4、Gemini等多模型接入与Dify工作流编排，实现私有化部署的智能客服与个人助手。
-- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于Go语言实现的单文件PPT自动生成工具，通过调用ChatGPT等后端API，将文本内容智能转换为结构化幻灯片，支持一键生成与本地化部署。核心亮点在于极简集成与高效输出。
-- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到进阶全链路技术，涵盖抓包工具、反反爬策略、多线程/分布式爬虫及实战项目，助力高效数据获取与处理。
-- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，支持公众号内容采集、备份与结构化存储，具备高稳定性与扩展性。
-- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 基于Python的本地音乐元数据编辑工具，支持批量修改MP3等格式标签，集成Docker部署与NAS/Navidrome兼容，提升音乐管理效率。
-- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - Real-ESRGAN 通过基于 PyTorch 的深度学习模型，实现通用图像与视频的超分辨率重建，针对 JPEG 压缩伪影与噪声进行优化，显著提升低质量图像的视觉质量。
-- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持文本描述生成与跨模态理解，利用Jupyter Notebook提供灵活实验与部署框架，核心亮点为强泛化能力与开箱即用的标签生成能力。
-- **[xszyou/Fay](https://github.com/xszyou/Fay)** `JavaScript` - fay 是一个连接数字人与大语言模型至业务系统的 MCP 框架，通过统一接口集成多模态数字人与 OpenAI 兼容模型，支持跨平台（PC/移动端/网页）部署与业务链路打通。核心亮点在于高适配性与低耦合架构。
-- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据训练的全栈标注平台，支持3D LiDAR点云、图像及LLM数据的高效标注与融合，基于TypeScript构建，具备高精度交互与协同标注能力。
-- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级中文对话场景。
-- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术融合旅游知识库，提供智能推荐与多模态交互体验，助力用户轻松畅游世界。
-- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - GeneFace 实现高质量、通用的3D会说话人脸生成，基于NeRF与PyTorch构建，支持从单张图像或音频驱动生成逼真动态人脸。核心亮点为高保真度与跨模态一致性。
-- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D会说话人脸合成，结合NeRF与运动先验建模，支持表情与语音驱动的动态渲染；ICLR 2024 Spotlight论文成果。
-- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书自动化生成，支持原文与译文同步排版，利用LLM进行高质量翻译与内容重构，核心亮点为端到端流程自动化与双语对照排版优化。
-- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大语言模型在小米AI音箱上的交互接入，通过API封装与语音双向通信，实现自然语言对话的本地化部署与低延迟响应，核心亮点为轻量化部署与跨设备语音交互能力。
-- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比 Midjourney 中多种摄影参数、胶片类型及术语效果，通过实验性生成验证视觉表现差异，助力用户精准掌握 AI 摄影创作策略。
-- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本描述生成高质量图像，核心亮点为端侧高效运行与隐私保护。
-- **[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)** `Python` - 基于Python构建的AI婴儿助手系统，结合自然语言理解与多模态感知，实现对婴儿行为的智能分析与响应，核心亮点为低延迟实时反馈与个性化成长建议生成。
-- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一款自托管的开源链接管理平台，通过 Go 后端与 React 前端构建可定制的短链服务，支持人性化的链接归档与共享，基于 SQLite 实现轻量高效的数据存储。
-- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源的双语对话语言模型，基于 GLM 架构，支持中英文高效交互，采用量化推理技术降低部署门槛，具备高性价比的对话理解与生成能力。
-- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多模型切换、多模态输入与知识库增强，实现企业级智能客服与自动化交互。
-- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱抽取与构建工具包，支持中文文本的实体、关系及属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
-- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - KnowLM 是一个面向中英文双语的开源大语言模型框架，基于 LLaMA 架构并融合 LoRA 微调与指令调优技术，支持高效预训练与推理，具备强推理与指令遵循能力。
-- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的高效复现与动态展示，实现代码即幻灯片的轻量化创作体验。
+- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** `Python` - 通过上传截图自动转换为可运行的HTML/Tailwind/React/Vue代码，结合计算机视觉与大模型理解界面结构，实现高保真代码生成，核心亮点在于端到端自动化与多框架输出。
+- **[adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus)** `TypeScript` - Adeus是一款开源AI可穿戴设备，实时捕捉用户说与听的内容，本地化转录存储并支持私有服务器部署，通过对话应用实现具备上下文感知的个性化AI交互。
+- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，利用 HTML 语法与 Three.js 底层渲染，支持 WebXR 标准，让开发者轻松构建跨平台 VR/AR 应用。核心亮点是低代码化与高度可扩展性。
+- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 与 Vue3 构建的多模型聊天客户端，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等主流大模型，通过统一界面实现跨平台高效对比与对话，核心亮点为多源模型并行与本地化部署。
+- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能 AI 照片生成工具，通过简化工作流实现一键生成高质量人像，支持风格迁移与细节优化，核心亮点在于易用性与生成质量的平衡。
+- **[aisingapore/sealion](https://github.com/aisingapore/sealion)** `Jupyter Notebook` - 该仓库聚焦东南亚地区大语言模型的构建与应用，基于 Jupyter Notebook 提供可复现的训练、微调与推理实验，支持多语言文本处理与本地化模型部署，核心亮点为面向东南亚语种的 LLM 适配与工程化实践。
+- **[all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)** `TypeScript` - 基于DALL-E 3的AI封面生成工具，采用TypeScript构建Web端交互界面，支持自然语言描述一键生成高质量封面图，核心亮点为精准语义理解与视觉呈现一致性。
+- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript构建的AI壁纸生成工具，利用AI模型动态创作个性化壁纸，支持用户自定义风格与主题，具备高效渲染与一键应用能力。
+- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，支持用户发布、发现和使用定制化GPT应用，基于TypeScript构建，提供便捷的GPT托管与分发能力，核心亮点在于开放生态与快速部署。
+- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于文本驱动生成高质量3D人体模型，结合高斯点云渲染技术实现高效、逼真的三维人体合成，支持细粒度语义控制与实时可视化。
+- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，使用 Rust 语言构建高效、跨平台的桌面与移动应用，核心亮点在于自适应记忆强化与高度可定制的卡片系统。
+- **[anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)** `Python` - 基于轻量级神经网络架构，实现移动端实时渲染的数字人模型，通过优化参数与推理效率，支持低功耗设备上的高保真语音驱动动画生成。
+- **[anothermartz/Easy-Wav2Lip](https://github.com/anothermartz/Easy-Wav2Lip)** `Jupyter Notebook` - 基于Jupyter Notebook的Colab环境，简化Wav2Lip高清视频口型同步制作流程，集成预训练模型与一键运行脚本，显著降低使用门槛。
+- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的地标条件，实现高保真音频驱动的肖像动画生成，通过多模态协同建模与精细姿态控制，大幅提升人脸动作自然度与可控性。
+- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现基于音频驱动的简化半身人像动画，通过轻量化模型与端到端流程生成自然流畅的说话表情与动作，核心亮点在于高保真口型同步与低计算开销的实时渲染。
+- **[antvis/L7](https://github.com/antvis/L7)** `TypeScript` - 基于WebGL的大型地理空间数据可视化引擎，支持3D地图、GeoJSON、Mapbox/Amap等多源数据，通过高性能渲染实现海量地理数据实时交互展示。
+- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python的AI学习实战资源库，涵盖机器学习、深度学习与NLP核心算法实现，结合PyTorch/TensorFlow框架提供可运行代码与数据集，助力从理论到实践的转化。
+- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自Project Gutenberg的诗歌语料库，以Jupyter Notebook形式组织，便于文本分析与机器学习实验。核心亮点是结构化、可复现的诗歌数据处理流程，支持自然语言处理研究与创意AI应用。
+- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** `Unknown` - 该仓库汇聚500个AI Agent实际应用案例，覆盖医疗、金融、教育等多个行业，通过开源项目链接展示AI Agent在真实场景中的落地路径，助力开发者快速理解与复用。
+- **[babysor/MockingBird](https://github.com/babysor/MockingBird)** `Python` - 基于PyTorch实现5秒内快速克隆声音并实时生成任意语音内容，支持高保真语音合成，核心技术为端到端TTS与轻量化声学建模。
+- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，具备强推理与对话能力，适用于各类NLP场景。
+- **[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)** `Python` - PDF GPT通过将PDF文档内容转化为可交互的对话知识库，利用大语言模型实现自然语言问答。基于RAG技术链，支持本地化部署与私有文档安全对话，是高效、开源的PDF智能问答解决方案。
+- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** `Python` - 为大语言模型提供面向学术场景的实用化交互接口，支持论文阅读、润色、写作及多语言翻译，模块化设计并兼容本地与云端多种LLM，提升科研效率。
+- **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** `Python` - 基于Model Context Protocol构建的arXiv论文搜索与分析服务器，通过结构化查询与LLM理解实现高效学术内容检索与摘要生成，支持多模型接入与上下文推理。
+- **[bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)** `Python` - 基于Python的Kohya_SS项目专注于LoRA微调训练，支持Stable Diffusion模型的高效图像生成定制，采用PyTorch与Hugging Face生态实现灵活训练流程，核心亮点为低资源消耗下的高精度模型适配。
+- **[bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** `Python` - 基于Calibre的电子书翻译插件，支持DeepL、OpenAI等API将epub/kindle等格式书籍一键翻译至目标语言，通过Python实现无缝集成与批量处理，核心亮点为多引擎切换与格式保持。
+- **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** `Python` - 基于文本-音频基础模型，实现跨模态语义理解与生成，支持语音合成、音频描述、文本到音频转换等任务，采用端到端训练与多任务学习提升泛化能力。
+- **[butaixianran/Stable-Diffusion-Webui-Prompt-Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)** `Python` - 该扩展为 Stable Diffusion WebUI 提供实时中英提示词翻译功能，支持用户用母语编写提示，自动转换为英文生成图像，提升创作效率与可访问性。
+- **[charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese)** `Python` - 基于0.2B参数的中文对话小模型ChatLM-mini-Chinese，开源全链路训练流程，涵盖数据清洗、tokenizer训练、预训练、SFT及RLHF，支持三元组抽取等下游任务微调。
+- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` - 基于TypeScript构建的用户友好型桌面客户端，集成GPT、Claude、Gemini、Ollama等多模型，支持本地与云端推理，提供统一对话界面与高效交互体验。
+- **[chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer)** `Unknown` - 本项目汇聚ChatGPT开源替代模型，涵盖文本与多模态大模型，提供模型列表与性能参考，助力开发者快速选型与部署。
+- **[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)** `Python` - Buzz 使用 OpenAI Whisper 实现音频离线转录与翻译，全程在本地运行，保障隐私安全，支持多语言处理，响应快速高效。
+- **[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)** `JavaScript` - 构建全球最全中华古诗词数据库，涵盖唐宋诗及两宋词，以JSON结构化存储，支持高效查询与分析，为诗词研究与AI应用提供高质量数据基础。
+- **[clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai)** `JavaScript` - 基于OpenAI API、Ollama及多模型支持，自动分析Paperless-ngx文档并智能打标，实现文档智能化管理与检索。
+- **[cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE)** `Python` - 基于OpenAI的LLM实现事件抽取与信息抽取的在线工具，支持零样本学习，可本地部署运行，适用于非结构化文本中的关键事件与关系提取。
+- **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** `Python` - ComfyUI 是基于节点图的稳定扩散模型图形化界面与后端，通过模块化节点实现高效、灵活的文生图、图生图等生成任务，支持 Python/PyTorch 生态，具备高度可定制性与可扩展性。
+- **[cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)** `TypeScript` - 基于微信读书内容生成微信公众号RSS，支持私有化部署，通过TypeScript与NestJS构建高效服务，实现内容自动化聚合与推送。
+- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 汇集上百个可Docker一键部署的项目，提供完整地址与教程，覆盖AI、开发工具与实用应用，降低技术门槛，提升开发效率。
+- **[crawlab-team/artipub](https://github.com/crawlab-team/artipub)** `TypeScript` - 基于 TypeScript 构建的自动化文章分发平台，支持多渠道一键发布，集成 Node.js、MongoDB 与 Docker，实现高效内容分发。核心亮点为跨平台媒体适配与可扩展的发布工作流。
+- **[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)** `TypeScript` - 基于TypeScript构建的Excalidraw动画工具，通过解析矢量绘图数据实现手绘风格动画生成，支持关键帧编辑与流畅过渡，核心亮点在于低代码化动画创作与原生绘图体验融合。
+- **[darktable-org/darktable](https://github.com/darktable-org/darktable)** `C` - darktable 是基于 C 语言开发的开源摄影工作流应用，专注于 RAW 照片的非破坏性编辑与处理，采用模块化架构支持高效图像处理与批量操作，核心亮点为高性能与跨平台兼容性。
+- **[dataease/SQLBot](https://github.com/dataease/SQLBot)** `Python` - 基于大模型与RAG技术的对话式SQL生成系统，实现自然语言到SQL的精准转换，支持复杂查询理解与上下文记忆。
+- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` - 基于Python实现PDF到Markdown与JSON的高效转换，融合OCR与LLM技术提升结构化提取精度，支持多格式兼容与高保真内容还原。
+- **[deepinsight/insightface](https://github.com/deepinsight/insightface)** `Python` - 基于多框架支持的2D/3D人脸分析项目，融合RetinaFace检测、ArcFace特征提取与人脸对齐技术，实现高精度人脸识别与年龄估计，支持PyTorch/MXNet/OneFlow/PaddlePaddle等生态。
+- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** `Unknown` - DeepSeek-R1 是一款高性能大语言模型，支持通用文本生成与推理任务，具备强上下文理解与代码生成能力，采用高效推理架构实现低延迟响应。
+- **[deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)** `Python` - DeepSeek-VL2 是基于混合专家架构的先进多模态大模型，支持视觉与语言的深度理解与推理，通过动态路由机制提升模型效率与表达能力。
+- **[divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)** `JavaScript` - Diffusion Bee 为 M1 Mac 用户提供一键部署 Stable Diffusion 的本地化图形界面工具，基于 Electron 构建，无需依赖配置，简化 AI 绘图使用门槛。
+- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 该仓库提供Python模块，用于与Ryze Tello无人机通信，支持飞行控制、摄像头数据采集与实时视频流处理，核心亮点在于低代码接入与跨平台兼容性。
+- **[doocs/md](https://github.com/doocs/md)** `Vue` - 一款基于Vue3与Vite的轻量级微信专用Markdown编辑器，支持语法高亮、自定义主题、多图床与AI助手，集成TailwindCSS提升开发效率，专注内容创作与高效协作。
+- **[dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)** `Python` - 基于生成式高斯点云技术，实现从2D图像或文本高效生成3D内容，通过可微分渲染与分布建模提升生成质量与效率，支持高保真、轻量级3D资产创建。
+- **[dreamoving/Phantom](https://github.com/dreamoving/Phantom)** `Python` - DreaMoving-Phantom 是一个通用自动图像增强与超分辨率框架，基于深度学习实现无需人工干预的图像质量提升，支持多场景、多噪声类型处理，核心亮点为端到端自动化与高保真重建能力。
+- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `C` - 开源AI虚拟人工具包，支持离线视频生成与数字人克隆，基于多模态AI技术实现语音、表情、动作同步，无需依赖云端服务。
+- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** `Python` - DB-GPT 是基于 AWEL 的 AI 原生数据应用开发框架，通过 Agent 与 RAG 技术实现智能数据库交互，支持私有化部署与安全访问，提升数据应用开发效率。
+- **[espnet/espnet](https://github.com/espnet/espnet)** `Python` - ESPNet 是一个端到端语音处理工具包，基于 PyTorch 实现，支持语音识别、合成、分离、增强、说话人辨认等任务，采用统一架构实现多场景语音处理，核心亮点是模块化设计与高可复用性。
+- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代 AIoT 开发平台，基于 HTML 构建可视化开发环境，支持边缘端 AI 模型部署与设备协同，核心亮点为低代码化 AIoT 应用快速构建与跨设备实时交互。
+- **[evennia/evennia](https://github.com/evennia/evennia)** `Python` - Evennia 是基于 Python 的开源 MUD/MUX/MUSH 多人文本游戏开发引擎，采用 Django 和 Twisted 架构，支持 Web 客户端与服务器，提供可扩展的文本冒险系统构建能力，核心亮点为高度模块化与社区驱动开发。
+- **[exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat)** `TypeScript` - 基于Exa搜索API与Deepseek R1推理模型构建的开源聊天应用，通过实时网络搜索增强对话上下文，实现高精度、动态知识响应。核心亮点为轻量化架构与端到端集成。
+- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的虚拟白板工具，支持手绘风格的图形绘制与实时协作，利用 Canvas 实现流畅的绘图体验，核心亮点在于简洁直观的界面与跨平台协同能力。
+- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建家庭级AI集群，通过轻量化部署与分布式协作实现本地化大模型运行，支持多设备协同与低延迟推理，核心亮点为零云端依赖与高度可扩展的边缘计算架构。
+- **[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)** `Jupyter Notebook` - 提供Segment Anything Model（SAM）的推理代码、模型下载链接及使用示例，支持零样本图像分割，通过提示（prompt）实现高效精准分割，核心亮点为通用性强、部署便捷。
+- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** `Python` - 基于深度学习的面部操控平台，支持人脸交换、唇形同步等功能，通过端到端模型实现高精度、实时化面部重演，核心亮点为跨场景适配与低延迟处理。
+- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** `Python` - AIHawk通过AI自动化技术实现个性化简历适配与多岗位智能投递，结合Selenium和大模型能力，显著提升求职效率，核心亮点在于全流程自动化与精准内容生成。
+- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源高保真TTS系统，融合VALLE与VITS优势，支持多语言零样本语音合成，具备自然流畅的语音生成能力。
+- **[flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)** `Python` - 基于GPX轨迹数据生成美观地图海报，利用Python处理轨迹并融合地图渲染，支持自定义样式与多格式输出，核心亮点为一键生成高颜值可视化作品。
+- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 一键修改Cursor设备ID以解除设备锁定，通过Python脚本绕过官方限制，实现快速恢复使用，核心亮点为操作简便、无需复杂配置。
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` - freeCodeCamp 通过开源课程与实战项目帮助全球用户免费学习编程、数学与计算机科学，基于 TypeScript 构建全栈 Web 工具链，结合社区驱动内容与认证体系，实现高效自主学习。
+- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化引导实现可控且一致的人像动画生成，结合隐空间运动建模与姿态对齐策略，支持高保真图像到视频的转换。核心亮点在于运动连贯性与身份一致性保障。
+- **[fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)** `TypeScript` - fumadocs 是基于 Next.js 和 TypeScript 构建的现代化文档框架，支持 MDX 与 Contentlayer 内容管理，提供灵活的路由与样式能力，适用于构建高性能、可扩展的开发者文档站。
+- **[futantan/OpenGpt](https://github.com/futantan/OpenGpt)** `TypeScript` - 基于OpenAI API快速构建自定义ChatGPT应用，提供开箱即用的对话界面与部署能力，支持快速配置与私有化部署，核心亮点是极简集成与高度可定制化。
+- **[genforce/freecontrol](https://github.com/genforce/freecontrol)** `Python` - FreeControl 实现无需训练即可对任意文本到图像扩散模型进行空间控制，通过可学习的条件嵌入与空间调制机制，精准操控图像生成中特定区域的语义内容，支持任意条件输入。
+- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** `TypeScript` - 一款自托管、离线运行的类ChatGPT聊天机器人，基于Llama 2与Code Llama，100%私有化，数据不离开本地设备，支持代码生成与推理。
+- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** `TypeScript` - 一款基于AI的社交媒体调度工具，使用TypeScript与Next.js构建，集成Redis实现高效任务调度，支持多平台内容自动排期与智能生成。
+- **[google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3)** `Python` - AlphaFold 3 推理管道基于深度学习精确预测生物分子复合物结构，采用图神经网络与多模态建模技术，实现蛋白质-蛋白质、蛋白质-DNA/RNA等复杂相互作用的高精度建模，核心亮点在于对生物大分子复合物的端到端联合建模能力。
+- **[google/spatial-media](https://github.com/google/spatial-media)** `Python` - 提供360°视频与空间音频的规格定义与处理工具，基于Python实现多维度空间媒体数据的编码、解析与渲染，核心亮点为跨平台兼容性与标准化数据流支持。
+- **[gptlink/gptlink](https://github.com/gptlink/gptlink)** `PHP` - 基于PHP与Hyperf框架，10分钟部署支持用户、订单、任务与付费的AI对话系统，集成Docker简化部署，可免费商用，适合快速构建私有化AI聊天应用。
+- **[gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)** `Java` - GPX Animator 是一款基于 Java 的 GPX 轨迹动画生成工具，通过解析 GPX 路径数据并结合地图可视化技术，实现轨迹的动态播放与渲染，核心亮点在于轻量级、可嵌入的轨迹动画能力。
+- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** `Python` - Gradio 用于快速构建和分享机器学习应用，通过 Python 代码一键生成交互式 Web 界面，支持模型部署与可视化，核心亮点是极简开发体验与无缝集成。
+- **[grocy/grocy](https://github.com/grocy/grocy)** `Blade` - Grocy 是一款自托管的网页端家庭食材与家务管理工具，通过 PHP/Blade 构建，支持购物清单、食谱管理、库存跟踪及餐食计划，核心亮点在于本地化数据控制与高度可定制的轻量级 ERP 功能。
+- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，通过语义扰动实现不可见盲水印，支持高鲁棒性文本水印生成与检测，核心亮点为语义一致性与抗篡改能力。
+- **[guosyjlu/DS-Agent](https://github.com/guosyjlu/DS-Agent)** `Python` - DS-Agent 通过结合案例推理增强大语言模型，实现数据科学任务的自动化执行，支持从问题理解到代码生成的全流程闭环。核心亮点在于动态检索相似历史案例并融合推理，显著提升任务准确率与可解释性。
+- **[gxcuizy/Python](https://github.com/gxcuizy/Python)** `Python` - 基于Python3实现的综合性学习项目集合，涵盖基础教程、抢票工具、地址库及网站爬虫，采用模块化设计与高效爬取策略，核心亮点为实战性强与易上手。
+- **[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)** `TypeScript` - 将学术引用管理器与 Obsidian 编辑器深度集成，支持在笔记中搜索文献、自动生成引用与文献笔记，提升研究写作效率。核心亮点为无缝衔接学术资料与知识管理。
+- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐播放控制，通过 yt-dlp 下载音乐并结合 Docker 化部署，提供稳定高效的本地音乐服务。核心亮点为无缝对接小爱设备与自动化下载流程。
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** `Python` - 基于大模型一键生成高清短视频，集成Python生态工具链，实现从文本到视频的自动化创作，核心亮点为全流程自动化与高质量输出。
+- **[hbiaou/openalex-mcp](https://github.com/hbiaou/openalex-mcp)** `JavaScript` - 基于OpenAlex免费API构建的学术文献研究MCP服务器，通过JavaScript实现高效文献数据聚合与检索，支持精准学术溯源与知识图谱构建，核心亮点为免API密钥、低延迟响应与可扩展的文献分析链路。
+- **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** `Python` - 基于多智能体LLM的中文金融交易框架，通过角色分工与协同决策实现自动化交易，结合实时行情与策略推理，提升中文场景下交易智能化水平。
+- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合AI绘画全流程资源，涵盖Stable Diffusion、AnimateDiff等主流模型的平台、教程与部署方案，提供从入门到进阶的完整指南，助力用户高效生成高质量图像。
+- **[iamgio/quarkdown](https://github.com/iamgio/quarkdown)** `Kotlin` - 基于Kotlin的超能力Markdown系统，支持从创意到论文、演示文稿与书籍的全流程创作，融合脚本化写作与类型排版，实现高效知识沉淀与多格式输出。
+- **[icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)** `Python` - PPTAgent基于大语言模型与智能体技术，实现从文本到高质量PPT的自动生成与多维度评估，支持复杂工作流调度与交互式优化，核心亮点在于端到端的智能幻灯片构建与可解释性评价体系。
+- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代化 macOS 视频播放器，使用 Swift 开发，提供简洁高效、高度可定制的视频播放体验，支持多格式解码与硬件加速。
+- **[infiniflow/infinity](https://github.com/infiniflow/infinity)** `C++` - 面向大语言模型应用的原生AI数据库，基于C++20与HNSW实现稠密向量、稀疏向量、张量与全文的极速混合检索，支持多向量与RAG场景。
+- **[instantX-research/InstantID](https://github.com/instantX-research/InstantID)** `Python` - InstantID 实现零样本身份保真图像生成，仅需一张参考图即可在数秒内生成高度一致的个性化图像，基于扩散模型与特征对齐技术，无需微调。
+- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库精选GPT-4o与gpt-image-1生成的高质量图像与提示词，涵盖动漫、吉卜力风格等多类型视觉创作，通过结构化整理展示AI图像生成的前沿潜力。
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集优质 macOS 桌面应用，涵盖开发、设计、效率等多个领域，通过精选与分类为用户提供高效工具导航，核心亮点是持续更新与高可信度筛选。
+- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持多端同步与离线阅读，通过高效资源抓取与本地缓存提升访问体验，核心亮点为兼容性与流畅性。
+- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库整理了高质量的OSINT（开源情报）工具与资源，涵盖网站、平台与技术方法，帮助用户高效获取公开网络信息。核心亮点是系统化分类与持续更新的权威清单。
+- **[jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)** `TypeScript` - 一款面向 shadcn/ui 组件的可视化无代码主题编辑器，基于 TypeScript 与 Tailwind CSS 构建，支持实时预览与样式自定义，核心亮点为低门槛、高一致性的 UI 主题配置体验。
+- **[joanrod/star-vector](https://github.com/joanrod/star-vector)** `Python` - StarVector 通过视觉-语言建模将图像向量化为高精度 SVG 代码，将矢量化任务转化为代码生成问题，实现视觉与文本输入的端到端生成。
+- **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** `Unknown` - 构建可交互的生成式虚拟人类，通过大语言模型模拟人类行为与对话，实现拟人化角色的动态交互与情境响应，核心亮点在于行为逻辑的持续演化与多轮对话的上下文连贯性。
+- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景重建与生成，通过优化高斯表示与渲染管线，支持高保真、低延迟的3D内容生成，适用于复杂几何结构的快速建模。
+- **[kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)** `Python` - 基于ChatGPT实现arXiv论文的全文总结、专业翻译、润色与审稿全流程自动化，通过智能Agent协同提升科研效率，核心亮点在于端到端科研工作流集成与多轮交互式优化。
+- **[kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH)** `Python` - 基于Auto-GPT的中文本地化版本，支持GPT-3.5-Turbo与GPT-4 API，通过AI Agent实现自主任务规划与执行，赋能个人与团队自动化工作流与内容创作。
+- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** `TypeScript` - 一款自托管的全场景书签应用，支持链接、笔记与图片的统一管理，基于AI自动打标并实现全文搜索，采用Next.js与React Native构建跨平台体验。
+- **[karpathy/LLM101n](https://github.com/karpathy/LLM101n)** `Unknown` - 基于LLM构建一个会讲故事的智能体，通过结构化提示工程与动态角色生成实现叙事创作，核心亮点在于可扩展的剧情引擎与上下文记忆机制。
+- **[kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing)** `Unknown` - 汇聚云平台计费与支付领域权威资源，涵盖成本管理、账单生成、定价策略等核心场景，通过结构化知识库助力企业实现精细化财务运营与自动化决策。
+- **[kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)** `Vue` - PDF Guru Anki 通过智能解析PDF等多源知识，自动转换为Anki可管理的闪卡，结合Vue前端实现高效知识沉淀，实现从碎片信息到长期记忆的自动化转化。
+- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 聚焦高增长初创企业创始人与领导者，精选权威资源与实战原则，通过结构化分类提供决策支持与领导力成长路径，核心亮点为“实战导向+思想深度”的精选内容体系。
+- **[lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery)** `Python` - 基于Python构建面向科学发现的AI智能体系统，通过多智能体协作与工具调用实现自动化科研流程，核心亮点为可扩展的Agent架构与领域知识融合能力。
+- **[lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider)** `Python` - 基于Python实现豆瓣读书信息爬取，通过解析网页结构与反反爬策略，高效抓取书籍、评分、评论等数据，支持批量导出与结构化存储，核心亮点为稳定抓取与灵活数据处理。
+- **[langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)** `Python` - 本地化Web研究与报告生成助手，基于Python构建全流程本地运行的AI研究代理，结合网络爬取、信息提取与大模型生成，实现无需云端的数据闭环处理。核心亮点为完全离线、隐私安全、端到端自动化报告生成。
+- **[lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)** `Unknown` - 一款专为微信视频号设计的高效视频下载工具，通过解析分享链接一键获取高清视频，支持批量下载与格式转换，操作简单无需复杂配置。
+- **[lemonhu/stock-knowledge-graph](https://github.com/lemonhu/stock-knowledge-graph)** `Python` - 基于公开网络数据构建小型证券知识图谱，使用Python爬取与清洗数据，通过Neo4j存储并用Cypher查询，实现股票关联关系的可视化与智能检索。核心亮点是轻量级架构与可扩展的图谱查询能力。
+- **[lencx/ChatGPT](https://github.com/lencx/ChatGPT)** `Rust` - 基于 Rust 与 Tauri 构建的跨平台 ChatGPT 桌面客户端，支持 Mac、Windows 和 Linux，通过 WebView 集成 OpenAI API，提供离线可用、高性能的本地化聊天体验。核心亮点为极致性能与原生系统集成。
+- **[leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)** `TypeScript` - 基于Lepton AI构建对话式搜索演示，利用TypeScript实现低延迟、高可用的LLM驱动搜索交互，核心亮点为端到端的快速部署与自然语言理解能力。
+- **[limaoyi1/Auto-PPT](https://github.com/limaoyi1/Auto-PPT)** `Python` - 基于GPT-3.5实现PPT一键生成，支持免费在线使用，用户输入主题即可自动生成结构化PPTX文件，核心亮点为零代码、高效出稿与开源可部署。
+- **[lipku/LiveTalking](https://github.com/lipku/LiveTalking)** `Python` - 基于NERF与Wav2Lip技术实现高保真实时数字人语音驱动，支持唇动同步与三维动态渲染，结合MuseTalk实现自然口型与表情交互，适用于直播、虚拟客服等实时互动场景。
+- **[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)** `Python` - 基于疾病中心的医学知识图谱构建与自动问答系统，采用Python实现知识抽取、图谱存储与RAG增强问答，核心亮点为结构化医学知识与自然语言交互的深度融合。
+- **[liuhuanyong/RAGOnMedicalKG](https://github.com/liuhuanyong/RAGOnMedicalKG)** `Python` - 基于大模型的RAG与医学知识图谱融合，构建可问答的医疗知识系统，通过检索增强生成提升答案准确性，实现demo级医学问答原型。
+- **[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)** `Python` - 基于NLP的关键信息抽取，将文本内容结构化并构建知识图谱，实现文档语义的可视化图谱呈现，提升信息理解与分析效率。
+- **[lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)** `Python` - ControlNet 实现对扩散模型的精细控制，通过引入额外条件输入（如边缘图、姿态图）引导生成过程，显著提升生成图像的可控性与一致性。核心亮点在于无需微调即可实现高精度控制。
+- **[lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light)** `Python` - IC-Light 是一个基于深度学习的图像 relighting 项目，通过 AI 生成技术实现光影风格的高效迁移与重渲染，支持精细控制光照方向与强度，核心亮点在于高保真光影还原与实时交互能力。
+- **[lss233/kirara-ai](https://github.com/lss233/kirara-ai)** `Python` - 基于多模态大模型的可定制AI聊天机器人，支持多平台快速接入与工作流编排，集成语音、绘图、人设调教等功能，实现个性化交互体验。
+- **[lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch)** `Python` - 基于PyTorch实现Google DeepMind的AlphaFold 3，采用注意力机制与去噪扩散模型，精准预测蛋白质结构及复合物构象，支持多模态生物分子建模。
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 通过量化与LoRA微调技术，实现单块4GB GPU上高效推理，支持中文指令生成，基于Jupyter Notebook提供可交互部署方案，显著降低大模型推理硬件门槛。
+- **[m-bain/whisperX](https://github.com/m-bain/whisperX)** `Python` - WhisperX 实现高精度语音识别并生成词级时间戳与说话人分离，基于 Whisper 模型改进，融合轻量级 diarization 与时间对齐算法，显著提升语音转写细节与可读性。
+- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - 基于扩散模型实现人体图像的时序一致动画生成，通过时空建模与运动先验优化，支持高保真、流畅的人体动作迁移，显著提升生成稳定性与视觉连贯性。
+- **[markmap/markmap](https://github.com/markmap/markmap)** `TypeScript` - 基于纯文本构建思维导图，通过 TypeScript 实现高效解析与可视化渲染，核心亮点是零配置、轻量级且支持实时编辑的纯文本到图形转换。
+- **[mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)** `TypeScript` - 基于Paul Graham经典文章构建RAG系统，使用TypeScript实现高效知识检索与生成，核心亮点是精准语义理解与上下文关联的问答能力。
+- **[memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)** `JavaScript` - 基于OpenAI构建的GPT AI助手，集成LINE消息平台与Vercel部署，实现高效对话交互。通过API对接与前端轻量化设计，提供低延迟响应与跨平台可访问性，核心亮点为全链路自动化部署与即时消息联动。
+- **[metabrainz/picard](https://github.com/metabrainz/picard)** `Python` - Picard 是基于 MusicBrainz 数据库的跨平台音乐标签工具，通过音频指纹匹配与元数据检索实现精准音乐信息自动标注，核心亮点为高精度音源识别与多格式标签写入。
+- **[microsoft/UFO](https://github.com/microsoft/UFO)** `Python` - 基于LLM的桌面级智能代理操作系统，通过GUI与Windows原生能力深度融合，实现自动化任务执行与人机交互，核心亮点为本地化运行与跨应用无缝协同。
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** `Unknown` - VibeVoice 是由 Microsoft 开源的前沿文本转语音系统，基于先进语音合成技术实现自然流畅的语音生成，支持多语种与情感表达，采用端到端神经网络架构，具备高可定制性与低延迟特性。
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** `Python` - 基于Python的文档转换工具，支持将Office文件及PDF等格式高效转为Markdown，融合OpenAI与LangChain能力，实现结构化内容提取与语义优化。
+- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的Jupyter Notebook实现可交互的生成式代理，模拟人类行为，低延迟、低成本，支持自主决策与动态对话。
+- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - 提供MLX框架下的机器学习示例代码，涵盖模型训练、推理与部署，基于Python实现高效轻量级AI应用，核心亮点为端到端流程完整、代码简洁易懂。
+- **[mli/autocut](https://github.com/mli/autocut)** `Python` - 基于文本编辑器实现视频剪辑，通过Python脚本解析文本指令并自动执行剪辑操作，支持精准时间轴控制与多轨道处理，核心亮点为自然语言驱动的高效视频编辑流程。
+- **[mli/paper-reading](https://github.com/mli/paper-reading)** `Unknown` - 聚焦深度学习经典与前沿论文的逐段精读，通过结构化解析帮助用户深入理解核心思想与技术细节，提升科研与工程实践能力。
+- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端的高质量语音修复与优化能力。
+- **[modelscope/FunASR](https://github.com/modelscope/FunASR)** `Python` - 基于PyTorch的端到端语音识别工具包，支持Paraformer、Conformer等SOTA模型，提供语音识别、VAD、标点恢复等能力，开箱即用且可定制化。
+- **[modelscope/FunClip](https://github.com/modelscope/FunClip)** `Python` - 基于LLM的开源视频语音识别与智能剪辑工具，集成语音转文字与内容理解能力，支持一键生成字幕与精准片段提取，兼具高准确率与易用性。
+- **[modelscope/facechain](https://github.com/modelscope/facechain)** `Jupyter Notebook` - FaceChain 是基于深度学习的数字孪生生成工具链，通过 Jupyter Notebook 提供端到端流程，支持从人脸数据采集到高保真数字人建模的自动化生成，核心亮点在于一键式部署与可复现的训练流程。
+- **[modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)** `TypeScript` - AIGCPanel 是基于本地模型的一站式AI数字人系统，支持视频与声音合成、声音克隆，通过一键部署简化模型管理，提升内容生成效率。
+- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的离线端到端语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 实现高效推理。核心亮点是低延迟、高精度的本地化语音转文本能力。
+- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的轻量级 JavaScript 3D 库，通过简化 Web 3D 开发流程，支持 WebXR、WebGPU 等前沿技术，实现高性能 3D 渲染与交互。核心亮点是跨平台兼容与生态丰富。
+- **[mylxsw/aidea](https://github.com/mylxsw/aidea)** `Dart` - AIdea 是基于 Flutter 的全功能 AI 应用，集成 GPT、通义千问、文心一言等大模型及 Stable Diffusion 图像生成能力，支持文生图、图生图、超分与上色，提供一体化 AI 创作体验。
+- **[netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)** `Python` - EmotiVoice 是基于 PyTorch 的多说话人、提示控制的文本转语音引擎，支持情感风格迁移与个性化语音合成，通过提示词精准调控语音情感与风格。
+- **[neukg/TechGPT](https://github.com/neukg/TechGPT)** `Python` - TechGPT 是一个面向技术领域的生成式预训练 Transformer 模型，基于 Python 构建，聚焦于代码理解、技术文档生成与智能问答，采用 RAG 与微调结合的技术路线，实现高精度技术内容生成与推理。
+- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的安卓实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言文本翻译，支持 SentencePiece 分词与蓝牙 LE 传输，保障隐私与实时性。
+- **[nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT)** `Dart` - 将讲座幻灯片自动转化为Anki闪卡，基于GPT-4实现内容理解与结构化生成，支持大规模批量处理，核心亮点为高精度知识提炼与无缝Anki导出。
+- **[ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate)** `Python` - 基于深度学习与计算机视觉技术，实现漫画多格式自动翻译，支持图像、PDF、EPUB等格式的文本检测、分割、翻译与修复，全流程自动化。
+- **[open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)** `Unknown` - 基于DSR模型的间隔重复算法，优化记忆曲线以提升学习效率，支持动态调整复习间隔，核心亮点为科学建模与高效记忆强化。
+- **[openai/shap-e](https://github.com/openai/shap-e)** `Python` - 基于文本或图像生成3D对象，采用扩散模型与神经辐射场技术，实现高保真、可控的3D内容创作，核心亮点为零样本、快速生成与多模态输入支持。
+- **[openinterpreter/01](https://github.com/openinterpreter/01)** `Python` - 开源语音交互系统，支持桌面、移动端及ESP32芯片，通过本地化语音识别与自然语言理解实现全栈语音控制，核心亮点为跨平台低延迟语音交互与边缘设备部署能力。
+- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** `Python` - paperless-ngx 是一款基于 Django 的开源文档管理系统，通过 OCR 与机器学习技术实现文档的自动扫描、索引与归档，支持 PDF 等多格式处理，提升文档管理效率。
+- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持多语言与自定义映射，核心亮点在于轻量、可扩展的编码架构与实时预览功能。
+- **[phodal/understand-prompt](https://github.com/phodal/understand-prompt)** `Jupyter Notebook` - 基于StableDiffusion、ChatGPT与GitHub Copilot的多模态AI探索，通过Jupyter Notebook实现编程、写作与图像生成的协同实验，展现AI在创意与开发中的融合应用。
+- **[photoprism/photoprism](https://github.com/photoprism/photoprism)** `Go` - 基于Go语言构建的AI驱动照片管理应用，支持自托管与去中心化部署，利用AI实现智能分类、人脸识别与内容搜索，核心亮点为本地化隐私保护与高性能图像处理。
+- **[pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)** `Vue` - PPTist 是一款基于 Vue 的在线演示文稿工具，复现 MS PowerPoint 核心功能并集成 AIPPT 能力，支持在线编辑与演示，实现高效云端协作与智能内容生成。
+- **[plait-board/drawnix](https://github.com/plait-board/drawnix)** `TypeScript` - 开源一体化白板工具，支持思维导图、流程图与自由绘画，基于TypeScript构建，强调本地优先协作，赋能团队高效协同创作。
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `Unknown` - 汇聚各类MCP服务器资源，提供可扩展的AI服务基础设施，支持多模态与智能代理协同，核心亮点在于统一接入标准与生态兼容性。
+- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** `Rust` - Qdrant 是基于 Rust 构建的高性能向量数据库与搜索引擎，支持大规模相似性搜索，采用 HNSW 算法实现高效近邻检索，适用于 AI 驱动的语义搜索与推荐。
+- **[qiqiApink/MotionGPT](https://github.com/qiqiApink/MotionGPT)** `Python` - 基于微调的大语言模型实现文本到3D人体动作的通用生成，利用PyTorch构建端到端框架，支持高保真、语义对齐的动作合成，核心亮点为无需复杂物理约束即可实现自然流畅的运动生成。
+- **[qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)** `Python` - 构建农业领域知识图谱，融合NER与关系抽取技术实现精准信息提取，基于RAG架构支持智能问答与辅助决策，提升农业数据利用率与智能化水平。
+- **[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)** `Jupyter Notebook` - 将任意文本转换为知识图谱，支持图增强生成与基于知识图谱的问答，通过结构化关系挖掘实现语义理解跃迁。
+- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** `TypeScript` - 基于React与TypeScript构建程序化视频生成工具，支持组件化视频创作与渲染，核心亮点为高效、可复用的视频工作流与Web端实时预览。
+- **[retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)** `TypeScript` - 为 LaTeX 用户优化 Zotero 的引用管理，通过 TypeScript 实现 BibTeX/ biblatex 兼容的引用键自动生成与智能同步，解决跨工具引用混乱问题，核心亮点是无缝集成与高精度键名控制。
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** `Rust` - Rust 是一种系统级编程语言，通过零成本抽象、内存安全和并发性保障，赋能开发者构建高效可靠的软件。其编译器与生态系统实现高性能代码生成与静态分析，核心亮点为安全与性能的统一。
+- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 开发的高性能 S3 兼容对象存储系统，支持平滑迁移与多平台共存，具备高并发、低延迟特性，适用于云原生数据密集型场景。
+- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成人物面部替换，支持图像与视频处理，界面简洁、部署便捷，核心亮点为低门槛、高还原度的实时换脸体验。
+- **[sail-sg/sailor2](https://github.com/sail-sg/sailor2)** `Unknown` - Sailor2 是面向东南亚多语言环境的包容性大语言模型，支持包括印尼语、马来语、泰语、越南语等在内的16种区域语言，通过多语言预训练与本地化微调实现跨语言理解与生成，核心亮点在于对低资源东南亚语言的深度覆盖与文化语境适配。
+- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护的元搜索引擎，通过聚合多个搜索服务结果实现无追踪搜索，基于 Python 构建，支持高度可配置的去中心化搜索体验。
+- **[senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting)** `Python` - 基于深度学习的背景抠图技术，实现高精度图像/视频背景分离，无需绿幕，支持实时处理与端到端部署，核心亮点为高保真透明通道生成与轻量化模型设计。
+- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并推荐开源 macOS 应用，涵盖开发、设计、生产力工具等类别，通过社区协作持续更新，助力用户发现高质量、免付费的 macOS 软件。
+- **[shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)** `Python` - ContextGem 通过构建高效的 LLM 数据提取流水线，实现对文档（如 DOCX）的结构化信息自动抽取，结合 prompt 工程与 NLP 技术，显著提升合同分析与文本智能处理效率。
+- **[sheepzh/poetry](https://github.com/sheepzh/poetry)** `Python` - 构建全球最全华语现代诗语料库，基于Python实现高效数据清洗与结构化处理，支持NLP研究与诗歌生成，核心亮点为海量高质量中文诗歌数据与标准化API接口。
+- **[showlab/Paper2Video](https://github.com/showlab/Paper2Video)** `Python` - 基于科学论文自动生成视频，融合文本理解与多模态生成技术，利用 LLM 解析论文内容并驱动视频合成，实现学术成果的可视化高效传播。
+- **[sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)** `Python` - PandasAI 让用户通过自然语言与数据库、数据湖（SQL、CSV、Parquet）交互，利用 LLMs 和 RAG 技术实现文本转 SQL 与数据洞察，提升数据分析效率。
+- **[slidevjs/slidev](https://github.com/slidevjs/slidev)** `TypeScript` - Slidev 是基于 Vite 和 Vue 构建的开发者专用幻灯片工具，支持 Markdown 编写、实时预览与自定义主题，实现高效、代码驱动的演示文稿创作。核心亮点为无缝集成代码高亮、组件化 Slide 组件与即时协作能力。
+- **[sligter/LandPPT](https://github.com/sligter/LandPPT)** `Python` - 基于LLM的智能PPT生成平台，可自动将文档内容转化为专业演示文稿，支持多模型切换与丰富模板，提升内容创作效率。
+- **[songjiang0909/awesome-knowledge-graph-construction](https://github.com/songjiang0909/awesome-knowledge-graph-construction)** `Unknown` - 该仓库聚焦知识图谱构建，整合数据抽取、实体关系识别与图谱存储技术，采用自动化流水线实现从非结构化文本到结构化知识网络的转化，核心亮点为高兼容性与可扩展的图谱构建框架。
+- **[speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)** `Python` - SpeechBrain 是基于 PyTorch 的端到端语音处理工具包，支持语音识别、说话人识别、语音增强与分离等任务，采用模块化设计与预训练模型，显著降低语音AI研发门槛。
+- **[steven-tey/shooketh](https://github.com/steven-tey/shooketh)** `TypeScript` - 基于 Vercel AI SDK 与 GPT-3.5-turbo 构建的 Shakespeare 风格 AI 聊天机器人，通过微调模型实现经典文学语感还原，支持自然语言交互与文本生成。
+- **[sugarforever/WTFAcademyChatBot](https://github.com/sugarforever/WTFAcademyChatBot)** `Jupyter Notebook` - 基于Jupyter Notebook构建的AI教学对话机器人，结合LLM与结构化知识库，实现教学内容的交互式问答与知识点解析，核心亮点为可复用的教学实验环境与动态知识注入能力。
+- **[suno-ai/bark](https://github.com/suno-ai/bark)** `Jupyter Notebook` - 基于文本提示生成高质量音频的生成式模型，采用Jupyter Notebook实现端到端推理与调优，支持多语言语音合成与音色克隆，核心亮点为高自然度语音生成与灵活的文本驱动控制。
+- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的开源歌声转换模型，利用PyTorch实现端到端的音色迁移，支持高保真语音合成与风格迁移，核心亮点为低延迟推理与多风格适配能力。
+- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Web前端与Rust原生能力，构建高性能、高安全性的桌面与移动应用，通过轻量级WebView实现跨平台原生体验。核心亮点在于极致性能与最小化资源占用。
+- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过浏览器可视化方式让用户实时调试神经网络结构与训练过程，核心亮点是零配置前端训练沙箱与动态参数调优反馈。
+- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生 macOS 集成与高度可定制的语法高亮和命令系统。
+- **[travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)** `Unknown` - 该仓库整理了60个针对数据科学任务的ChatGPT高效提示词，涵盖数据清洗、建模、可视化等环节，通过结构化提示提升AI输出质量与一致性，核心亮点在于场景化、可复用的提示工程范式。
+- **[trzy/ChatARKit](https://github.com/trzy/ChatARKit)** `C` - 通过自然语言指令驱动ChatGPT生成AR内容，实现零代码构建增强现实体验，结合C语言底层性能优化与AI推理能力，提升交互响应速度与沉浸感。
+- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，通过多智能体交互模拟人类行为与社会动态，实现对复杂社会现象的可解释性研究与洞察。
+- **[tw93/Pake](https://github.com/tw93/Pake)** `Rust` - 一键将任意网页打包为轻量级桌面应用，基于 Rust 与 Tauri 构建，无需 Electron，跨平台高效运行，显著降低资源占用。
+- **[twang2218/law-datasets](https://github.com/twang2218/law-datasets)** `Jupyter Notebook` - 该仓库构建中国法律领域专用语料库，基于Jupyter Notebook实现法律文本的结构化处理与分析，支持法律知识挖掘与智能应用开发。核心亮点在于高质量本地化法律数据集与可复现的处理流程。
+- **[tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)** `Python` - 基于Python的音频分析库，支持特征提取、分类、分割等任务，融合信号处理与机器学习技术，提供高效、模块化音频处理能力。
+- **[tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)** `Python` - AnyText 实现多语言视觉文本生成与编辑，基于扩散模型与文本-图像对齐技术，支持跨语言文本在图像中的精准渲染与修改，核心亮点在于统一框架下实现多语言、多风格、高保真文本合成。
+- **[upscayl/upscayl](https://github.com/upscayl/upscayl)** `TypeScript` - Upscayl 是一款免费开源的 AI 图像超分工具，基于 ESRGAN 模型实现跨平台（Windows/macOS/Linux）高清图像放大，支持 GPU 加速与本地运行，核心亮点为无依赖、高性能与隐私保护。
+- **[usememos/memos](https://github.com/usememos/memos)** `Go` - 基于 Go 和 SQLite 的自托管笔记服务，支持 Markdown 编辑与标签化管理，提供私有化数据控制与轻量级社交互动，通过 Docker 部署实现开箱即用。
+- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多维度力导向图可视化，通过高性能Canvas渲染实现复杂网络动态交互，核心亮点为跨平台沉浸式图谱呈现与低延迟响应。
+- **[veasion/AiPPT](https://github.com/veasion/AiPPT)** `JavaScript` - AI智能生成PPT，支持主题、文档、网址输入，可解析渲染原生图表、动画与3D特效，提供自定义模板与智能动画添加，实现高效高质量演示文稿一键生成。
+- **[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)** `C++` - Nebula Graph 是一个分布式、高可用的开源图数据库，采用 C++ 开发，支持水平扩展与强一致性，基于 Raft 协议实现高可用，适用于大规模图数据的高效存储与查询。
+- **[wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d)** `TypeScript` - 基于TypeScript构建的数字人Live2D框架，融合AI驱动的动态表情与交互逻辑，支持Web端实时渲染与多模态输入，核心亮点为轻量化部署与高保真角色表现。
+- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量架构与中文语料优化训练，支持本地部署与快速推理，核心亮点为低资源高效训练与中文适配。
+- **[webpro/reveal-md](https://github.com/webpro/reveal-md)** `JavaScript` - 基于Markdown文件自动生成美观的reveal.js幻灯片，支持实时预览与一键发布，核心亮点是极简输入与高保真输出的完美结合。
+- **[weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list)** `Unknown` - 汇集中文优质RSS源中订阅量最高的内容，提供高效聚合与订阅服务，支持多平台统一管理，核心亮点为精准筛选与社区驱动的高质量内容推荐。
+- **[weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human)** `Unknown` - 聚焦2D/3D/4D数字人建模与虚拟试穿技术，融合Avatar生成与衣物数字化，实现高保真虚拟形象与动态服饰模拟，核心亮点为端到端的衣着数字孪生与实时动画驱动。
+- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，适用于专业音频处理场景。
+- **[whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat)** `Go` - 基于Go语言构建的企业微信/微信安全AI助手，支持GPT-4、Gemini、DeepSeek等多模型接入及Dify工作流，实现私有化部署的智能客服与个人助理，保障数据安全。
+- **[williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)** `Go` - 基于ChatGPT等大模型自动生成PPT，将内容生成与幻灯片结构整合于单一文件，通过Go语言实现高效自动化处理，支持一键生成专业级演示文稿。
+- **[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)** `Python` - 本仓库系统讲解Python爬虫从基础到实战的全链路技术，涵盖抓包工具、爬虫框架、反爬破解、数据库操作及分布式实现，适合零基础入门与进阶实战。
+- **[wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)** `Python` - 基于Python与Vue.js构建的稳定运行4年微信公众号爬虫，实现公众号内容自动化采集与备份，支持多账号管理与结构化存储，核心亮点为高稳定性与易扩展的前后端架构。
+- **[xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)** `Python` - 音乐标签编辑器，基于Python实现本地音乐文件元数据批量修改，支持Docker部署与NAS/Navidrome集成，提升音乐管理效率。
+- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - 基于PyTorch实现的Real-ESRGAN模型，针对通用图像与视频复原任务，有效提升超分辨率、去噪及JPEG压缩伪影去除效果，支持真实场景复杂退化建模。
+- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持复杂场景理解与文本生成，采用Jupyter Notebook交互式开发，具备强泛化能力与可扩展性。
+- **[xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)** `TypeScript` - Xtreme1 是面向多模态数据（3D LiDAR点云、图像、LLM）的全栈标注平台，基于 TypeScript 构建，支持高精度标注与融合分析，核心亮点为多模态协同标注与实时协作能力。
+- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2架构实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级对话系统构建。
+- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精选的编码面试准备材料，基于TypeScript实现，涵盖算法、系统设计与行为面试题，支持高效练习与复习。
+- **[yaosenJ/LvBanGPT](https://github.com/yaosenJ/LvBanGPT)** `Python` - LvBan恣行-AI旅游助手基于Python构建，通过AI Agents实现个性化行程规划与实时陪伴，结合RAG技术整合旅游知识库，为用户提供智能化、场景化的一站式旅行服务。
+- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - 基于NeRF与PyTorch实现高保真3D动态人脸合成，支持任意语音驱动的自然表情与口型同步，核心技术为隐式神经表示与时空一致性建模。
+- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D动态人脸生成，融合NeRF与运动估计技术，支持自然口型同步与视角自由切换，ICLR 2024 Spotlight论文成果。
+- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供轻量级、可复用的卡片组件服务，支持动态渲染与交互逻辑，核心亮点为模块化设计与高效渲染能力。
+- **[yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** `Python` - 基于AI实现双语epub电子书的自动化生成，通过Python脚本调用翻译模型将单语内容转换为双语对照格式，支持多语言适配与排版优化，核心亮点在于端到端流程简化与高质量翻译融合。
+- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` - 基于Python实现ChatGPT等大模型与小米AI音箱的交互，通过本地化部署与语音指令驱动，实现自然语言对话的端侧落地，核心亮点为低延迟语音交互与轻量化模型适配。
+- **[ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource)** `Unknown` - 该仓库系统测试与对比Midjourney中多样化的摄影参数、胶片类型及术语效果，为图像生成提供可复现的实验数据集，助力用户精准调参。
+- **[ynagatomo/ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2)** `Swift` - 一款基于 Stable Diffusion v2 的 iOS 图像生成应用，使用 Swift 实现本地化推理，支持用户通过文本提示生成高质量图像，核心亮点在于端到端本地运行与流畅的移动端体验。
+- **[yourselfhosted/slash](https://github.com/yourselfhosted/slash)** `Go` - 一个开源自托管的链接分享与管理平台，基于Go与React构建，支持自定义可读短链接，通过SQLite实现轻量级数据存储，提升个人与团队链接管理效率。
+- **[zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B)** `Python` - ChatGLM-6B 是一个开源双语对话语言模型，基于 Python 实现，支持中英文流畅对话，采用高效推理优化技术，具备低资源部署能力与高对话质量。
+- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B的开源双语对话大模型，支持高效本地部署与推理，具备中文与英文双语对话能力，核心亮点为低资源消耗下的高性能对话表现。
+- **[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** `Python` - 基于大模型构建多平台接入的智能聊天机器人，支持多轮对话、多模态输入与企业知识库集成，可灵活切换主流大模型，实现企业级智能客服自动化服务。
+- **[zjunlp/DeepKE](https://github.com/zjunlp/DeepKE)** `Python` - 基于PyTorch的开源知识图谱构建工具包，支持中文文本的实体、关系与属性抽取，融合Prompt与Few-shot学习，适用于低资源场景下的文档级信息抽取。
+- **[zjunlp/KnowLM](https://github.com/zjunlp/KnowLM)** `Python` - 基于开源大模型框架构建的双语知识型语言模型，支持指令微调与LoRA高效训练，融合GPT-3与LLaMA架构优势，提升中文与英文推理能力。
+- **[zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md)** `Python` - 基于Reveal.js与Markdown构建可交互的Web幻灯片框架，支持蒋炎岩老师主题内容的动态展示，实现高效、美观的在线演示体验。
 
 ## others
 
-*186 个项目*
+*178 个项目*
 
-- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 中国独立开发者项目集合，汇聚多元技术实践与开源作品，涵盖AI应用、工具链及垂直场景解决方案，通过协作共享推动创新落地。
-- **[567-labs/instructor](https://github.com/567-labs/instructor)** `Python` - 基于 Pydantic v2 构建 LLM 结构化输出的工具库，通过类型注解实现精准输出校验与函数调用，提升生成结果的可预测性与可靠性。
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** `Python` - 基于Stable Diffusion的开源Web界面，通过Gradio构建交互式图像生成平台，支持文生图、图生图、超分等核心功能，具备模块化插件扩展能力。
-- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 基于Docker化部署的程序员居家烹饪指南，通过结构化菜谱与自动化流程，帮助开发者高效复现中式家常菜，核心亮点为代码化食谱与环境一键部署。
-- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码与代码并行的网页应用构建工具，基于 ReactJS 与 FastAPI 构建，支持快速搭建可交互的 Web 应用，核心亮点在于低门槛开发与前后端一体化部署能力。
-- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - BUTSpeechFIT/DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端的语音处理流程，支持高效标注与模型评估，核心亮点在于模块化设计与可视化分析能力。
-- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 通过高效可扩展的图神经网络方法，实现异构关系数据中稳定且归纳式的实体嵌入学习，支持图与超图结构，基于 PyTorch 生态构建。核心亮点在于高效率与强泛化性。
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` - Litellm 是一个支持 100+ 大模型 API 的统一 Python SDK 与代理服务器，通过 OpenAI 兼容接口实现跨平台 LLM 调用，支持自动路由、负载均衡与成本监控。
-- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - 基于100% RNN架构的RWKV语言模型构建的开源ChatGPT替代品，支持高效推理与本地部署，核心亮点为高吞吐、低延迟的序列建模能力。
-- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 集成中文NLP数据集与常用英文数据集的检索平台，基于Python构建高效索引与搜索功能，支持多任务类型精准匹配。
-- **[CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)** `Unknown` - SuperCLUE 是面向中文通用大模型的综合性评估基准，通过多维度任务评测模型性能，支持对齐、推理、对话等能力的量化分析，核心亮点在于覆盖中文场景的全面性与评测标准的严谨性。
-- **[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)** `Vue` - 基于 Express 与 Vue3 构建的 ChatGPT 演示网页，提供简洁直观的对话交互界面，通过前后端分离架构实现高效通信与动态渲染，核心亮点在于低门槛部署与流畅的用户体验。
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` - Cherry Studio 是基于 Electron 和 TypeScript 构建的桌面端多 LLM 服务商客户端，支持 OpenAI、Anthropic 等主流模型接入，提供统一交互界面与高效代理调度能力，核心亮点为跨平台统一接入与插件化代理架构。
-- **[CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)** `Python` - 基于Llama3/Llama3.1的中文对话模型微调与魔改版本，提供完整训练、推理、评测与部署教程，支持本地化高效部署与中文场景优化。
-- **[DataoceanAI/Dolphin](https://github.com/DataoceanAI/Dolphin)** `Python` - Dolphin 是由 DataoceanAI 与清华大学联合研发的多语言多任务自动语音识别模型，采用端到端训练技术，支持高精度跨语言语音转写与多任务处理，核心亮点在于统一架构下的多语言泛化能力与低延迟推理性能。
-- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的去中心化网状 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全通信，核心亮点在于低延迟、高可扩展的点对点连接能力。
-- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，参考Alpaca设计，支持中文指令遵循任务。核心亮点为轻量级部署与中文语境优化。
-- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitBook 是开源的前端框架，用于构建现代化的文档站点，支持 Markdown 与 Git 集成，通过 TypeScript 实现高性能、可扩展的文档展示与协作体验，核心亮点在于开箱即用的文档渲染与版本管理能力。
-- **[Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)** `Jupyter Notebook` - 该仓库系统整理了嵌入模型相关的优质教程、项目与社区资源，以Jupyter Notebook形式呈现，涵盖主流模型原理与实战应用，便于开发者快速上手与对比评估。
-- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 语法实现应用的安装、卸载与更新，核心亮点在于与 Homebrew 生态无缝集成，支持广泛的应用分发。
-- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的中小型中文LLM资源，涵盖底座模型、微调应用、数据集与教程，支持低成本本地化AI能力构建。
-- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - 基于DINO与接地预训练融合，实现开放集目标检测，通过视觉-语言Transformer建模跨模态语义对齐，提升模型泛化能力与零样本迁移性能。
-- **[IceClear/StableSR](https://github.com/IceClear/StableSR)** `Python` - 基于扩散先验实现真实世界图像超分辨率，利用Stable Diffusion的生成能力提升低质量图像细节，显著改善现实场景下的图像质量，核心亮点为扩散先验与超分任务的深度融合。
-- **[InternLM/InternLM](https://github.com/InternLM/InternLM)** `Python` - InternLM系列是面向中文场景的开源大语言模型，支持长文本理解与高效推理，采用Flash Attention优化性能，提供从预训练到微调的完整生态。
-- **[KAIST-Visual-AI-Group/SyncDiffusion](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)** `Jupyter Notebook` - 基于NeurIPS 2023的SyncDiffusion模型，通过时序同步生成与全景图像对齐的扩散模型，实现高保真文本到全景图像生成。采用Jupyter Notebook形式提供完整训练与推理流程，支持跨帧一致性控制。
-- **[L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `Unknown` - 该仓库通过精心设计的提示词工程，将ChatGPT改造为具有猫娘人格的交互角色，融合萌系语言风格与拟人化行为逻辑，实现趣味性与可用性的平衡。
-- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于PyTorch与Lightning框架实现高效可扩展的LLM全链路工程化，支持多场景快速落地。
-- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术脉络。
-- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过编码率压缩Transformer架构，在保持模型性能的同时显著降低计算与存储开销，采用白盒可解释的稀疏化与编码优化策略，实现高效压缩。
-- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是基于 TensorFlow 的官方实现，通过改进生成对抗网络架构，实现高质量、高分辨率图像生成，核心亮点在于解耦噪声注入与梯度路径优化，显著提升生成图像的稳定性和细节清晰度。
-- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译管理机制，实现笔记内容的实时多语种切换，核心亮点在于零配置本地化与插件生态兼容性。
-- **[OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)** `Unknown` - 汇集ChatGPT相关资源与应用，涵盖API使用、提示工程、开发工具与实战案例，为开发者提供一站式学习与实践指南。
-- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库归档了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，通过JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于持续迭代的社区协作与高兼容性。
-- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python构建的已弃用推理引擎，曾用于高效部署和运行大语言模型，支持灵活的模型接入与推理调度，核心亮点为轻量级架构与可扩展的推理接口设计。
-- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - SadTalker实现基于单张图像的音频驱动真人说话头像动画，通过学习真实3D运动系数，生成自然流畅的面部表情与动作，显著提升视觉真实感。
-- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇形同步，利用端到端深度学习模型在真实场景下精准匹配口型与语音，支持自由编辑与自然生成。核心亮点为高保真口型对齐与强泛化能力。
-- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格理论对大语言模型进行人格化探索，通过Python构建模拟人格特征的对话系统，揭示LLMs在行为模式与表达风格上的多样性，核心亮点在于将心理学框架与AI行为建模结合。
-- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，结合多模态建模与时序生成技术，实现自然协同的口型同步与肢体动作表达，核心亮点在于高保真动态呈现与端到端流畅控制。
-- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成连贯、动态且可扩展的长视频，采用流式生成架构与时空一致性建模，显著提升长视频生成质量与效率。
-- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化提示工程指南，通过结构化提示模板帮助用户精准控制模型输出，提升对话效率与可用性。核心亮点为覆盖多场景实用技巧与进阶调教方法。
-- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 本仓库为大语言模型综述论文的官方GitHub页面，系统梳理LLMs发展历程、核心技术与应用场景，涵盖预训练、指令微调、提示学习、RLHF等关键范式，提供结构化知识图谱与前沿动态追踪。
-- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - SEACrowd-datahub 旨在汇聚东南亚语言、区域与文化相关数据集，通过协作共建推动本地化AI研究。项目采用Python主导的开源流程，支持多语言数据标注与标准化处理，核心亮点在于覆盖广泛且具文化敏感性的语料资源。
-- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与响应速度。
-- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整合AI竞赛经验与训练技巧的HTML集合仓库，聚焦计算机视觉、NLP、推荐系统等领域，通过结构化内容助力参赛者快速提升实战能力。
-- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用场景下的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在 API 调用任务中的准确率与可靠性，核心亮点为首个系统性评估 LLM 工具调用能力的开源框架。
-- **[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)** `JavaScript` - SillyTavern 是面向高级用户的大型语言模型前端工具，基于 JavaScript 构建，提供高度可定制的聊天界面与插件系统，支持多模型接入与角色扮演交互，核心亮点在于灵活的界面配置与强大的社区生态扩展能力。
-- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境配置与自动化依赖管理，核心亮点在于极简操作与高度可定制的启动方案。
-- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现的大众点评全站爬虫，通过动态字体加密破解技术实现非OCR方式数据采集，支持持续更新与高稳定性爬取。
-- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互式实验与部署环境，支持多种规模的 LLM 推理与微调，核心亮点在于开源透明与易用的本地化部署能力。
-- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - TalAter/annyang 是基于 JavaScript 的网页语音识别工具，通过浏览器原生 Web Speech API 实现语音转文本，支持实时语音输入与自然语言交互，核心亮点是轻量级、无需后端依赖、开箱即用。
-- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型一键生成，核心亮点为跨模态对齐与端到端可微分建模。
-- **[VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)** `Python` - 提供免费V2Ray与ClashX可用代理节点的订阅链接聚合，通过Python脚本自动抓取、筛选与更新节点池，支持多客户端配置，助力用户快速搭建科学上网通道。
-- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte基于潜空间扩散Transformer架构，实现高效视频生成，通过时空建模与高效采样策略，在保持高分辨率与时序连贯性的同时显著降低计算成本。
-- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令遵循，显著提升越南语自然语言理解与生成能力。
-- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 该仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定可靠的远程服务器，核心亮点在于流程清晰、适配多场景部署需求。
-- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏监督，仅需少量样本即可合成高质量新视角图像，核心亮点在于提升Few-shot NVS的泛化性与效率。
-- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** `Python` - DragGAN 是基于 GAN 的图像编辑框架，通过可交互的控制点实现精准图像 manipulation，支持自由形状编辑与自然风格保持，核心亮点在于结合隐空间优化与视觉反馈的实时交互。
-- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于 CVPR 2024 论文，实现高保真音频驱动的人脸生成，通过精细化时序同步机制提升口型与语音的一致性，显著改善真实感与自然度。
-- **[Zz-ww/SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync)** `Python` - 基于SadTalker与Wav2Lip实现语音驱动的视频唇形合成，结合DAIN插帧技术提升动作流畅度，支持面部区域可配置增强，显著提升生成唇形的清晰度与自然度。
-- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A 是一个开放协议，通过标准化接口实现异构智能体应用间的通信与互操作，基于 TypeScript 构建轻量级服务器与协议栈，核心亮点在于打破智能体孤岛，支持跨平台协同。
-- **[adap/flower](https://github.com/adap/flower)** `Python` - Flower 是一个面向联邦学习的轻量级框架，支持多设备协同训练与模型聚合，基于 Python 与 gRPC 实现跨平台通信，核心亮点是灵活可扩展的联邦学习原语与对边缘设备的友好支持。
-- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，使用 HTML 语法构建 VR 内容，依托 Three.js 实现高性能 WebGL 渲染，支持主流 VR 设备与 WebXR 标准，开箱即用的组件化设计降低开发门槛。
-- **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** `JavaScript` - 一款基于 Electron 的桌面应用，支持并发调用 ChatGPT、Bing Chat、Claude、文心一言等多款主流大模型，通过统一界面实现跨平台多对话管理，核心亮点为高效集成与实时对比生成结果。
-- **[alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG)** `JavaScript` - 基于 D3 和 SVG 的神经网络架构可视化工具，可生成出版级精度的神经网络示意图，支持高度可定制化的图形绘制与动态布局。
-- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，助力团队高效构建一致的用户界面。通过社区协作与持续维护，提升设计与开发协同效率。
-- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写机制避免内存溢出，支持大文件快速解析与生成，兼顾性能与稳定性。
-- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript开发的AI壁纸生成工具，利用AI模型动态生成个性化高清壁纸，支持用户自定义风格与主题，实现一键生成与本地预览。核心亮点为高效渲染与多风格适配。
-- **[all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)** `TypeScript` - 一个第三方GPT商店，基于TypeScript构建，支持GPT应用的发布、发现与集成，提供统一的开发与部署框架，核心亮点是开箱即用的GPT商店生态与标准化接口。
-- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于高斯溅射实现文本驱动的3D人体生成，结合扩散模型与3D高斯表示，支持高保真、可编辑的3D人体建模，显著提升生成效率与视觉质量。
-- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，采用 Rust 语言构建，兼顾性能与安全，支持跨平台同步与自定义内容，核心亮点在于高效记忆强化与极简主义设计。
-- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现音视频驱动的简化半身人体动画生成，基于音频输入精准同步口型与身体动作，采用轻量化架构提升实时性与泛化能力，显著降低对复杂人体姿态数据的依赖。
-- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python实现机器学习与深度学习全流程实战，涵盖算法原理、代码实现与数据处理，结合PyTorch/TensorFlow等框架，助力开发者快速掌握AI核心技能。
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `JavaScript` - 收集主流聊天机器人（如ChatGPT、Claude、Gemini）的系统提示词，通过JavaScript解析与整理，揭示模型行为底层逻辑，助力提示工程与安全研究。
-- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量公开数据集，按主题分类便于检索与使用，助力研究与开发高效获取可信数据源。核心亮点为结构化整理与持续更新。
-- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为 JavaScript 实现的 LeetCode 题解集合，系统性记录算法与数据结构的解题过程，涵盖常见面试题型与优化思路，助力开发者高效备赛。
-- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能开发的130亿参数中文大语言模型，基于Hugging Face生态构建，支持高效推理与多场景应用，具备优秀的中文理解与生成能力，通过CEval、MMLU等权威评测验证性能。
-- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，适配Hugging Face生态，具备强大通用语言理解与生成能力。
-- **[chathub-dev/chathub](https://github.com/chathub-dev/chathub)** `TypeScript` - 基于React与TypeScript构建的全功能聊天机器人客户端，支持多平台接入与浏览器扩展集成，提供统一对话界面与高效交互体验，核心亮点在于跨平台一致性与低延迟响应。
-- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能的 Rust 日期时间库，提供精准的日期时间处理、时区支持与格式解析，基于 Rust 类型系统实现安全可靠的操作，核心亮点为零成本抽象与广泛的时间计算能力。
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈（如HTTP服务器、数据库、编译器）从零构建，强化编程底层理解，结合渐进式教程与可运行代码，实现深度学习与工程实践融合。
-- **[coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)** `Unknown` - 该仓库汇聚上百个可一键部署的开源项目，支持Docker化运行，提供项目地址与详细教程，大幅降低技术门槛，助力快速搭建AI与开发工具链。
-- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - D2L-EN 是一本交互式深度学习教材，融合多框架代码、数学推导与讨论，支持 PyTorch、TensorFlow、JAX 等主流框架，广泛应用于全球500所高校教学。
-- **[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)** `Jupyter Notebook` - 基于吴恩达大模型课程中文版，通过Jupyter Notebook提供LLM入门实践教程，涵盖模型调用、提示工程与应用开发，内容系统、代码可运行，适合快速上手大模型开发。
-- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个高效专家并行通信库，基于 CUDA 实现低延迟、高吞吐的专家间通信，优化大规模语言模型推理中的专家并行计算效率，核心亮点为细粒度通信调度与显存利用率提升。
-- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是面向大规模深度学习模型的分布式训练与推理优化库，通过 ZeRO、模型并行、流水线并行等技术实现高效训练与推理，支持百亿至万亿参数模型。
-- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库精选优质资源，帮助产品经理与项目管理者系统学习产品管理知识与实践方法，涵盖战略规划、用户研究、敏捷开发等核心领域，通过结构化内容提升专业能力。
-- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 提供一套Python模块，用于与Ryze Tello无人机通信与控制，支持飞行指令、视频流获取与传感器数据读取，核心亮点为轻量级、易集成，适合快速开发无人机应用。
-- **[dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)** `TypeScript` - 基于 Next.js 和 T3 Stack 构建的在线 Tokenizer 交互平台，支持 OpenAPI 兼容模型的 token 估算与分析，提供实时输入输出的可视化对比。核心亮点为零配置接入、多模型兼容与直观交互体验。
-- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收录各类AI自主代理项目，涵盖从自动规划到任务执行的完整链路，基于大语言模型实现端到端自动化，核心亮点为生态整合与社区驱动的开放协作。
-- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` - Excalidraw 是一个基于 TypeScript 的在线协作白板工具，支持手绘风格的图表绘制，通过 Canvas 实现流畅绘图与实时协作，核心亮点为低延迟交互与简洁直观的界面设计。
-- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** `Python` - 基于Transformer与VQ-VAE架构的开源端到端TTS系统，支持高保真语音合成，融合VALLE与VITS前沿技术，实现自然流畅的语音生成。
-- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 通过Python脚本一键修改Cursor设备ID并解除锁定状态，利用底层配置文件替换与校验机制实现快速解绑，核心亮点为操作简便、无需官方授权即可恢复使用。
-- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件通过纯JavaScript转换为HTML，支持跨平台展示与交互，无需依赖服务器端处理，核心亮点为前端完整解析与动态渲染。
-- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低内存运行，支持多种量化模型部署，核心亮点为极致性能与跨平台兼容性。
-- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，利用语义扰动与编码策略实现不可见水印，支持无密钥检测，保障内容版权与溯源。
-- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库精选优质数据可视化库与资源，帮助开发者快速定位高效绘图工具，支持多种图表类型与交互功能，提升数据呈现与分析效率。
-- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐自动下载与播放，使用 yt-dlp 下载音源并集成 Docker 化部署，支持 Vue 前端交互，提升家庭音乐播放自动化体验。
-- **[happyapplehorse/agere](https://github.com/happyapplehorse/agere)** `Python` - 该工具用于构建和驱动专为AI项目定制的工作流，支持AI代理的快速开发与部署，基于Python实现灵活可扩展的流程编排。核心亮点在于模块化设计与对AI工作流的深度适配。
-- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度权限控制与事件触发，无需手动编写接口，实现数据层与应用层的高效联动。
-- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术对ChatGLM-6B进行高效微调，支持LoRA与QLoRA，显著降低显存占用并提升训练效率，适用于资源受限环境下的对话模型定制。
-- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流技术，兼容LLaMA、GPT、Qwen、DeepSeek、Gemma等主流架构，提供开箱即用的指令微调与量化训练方案。
-- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** `Python` - ColossalAI 通过高效的模型并行与分布式计算技术，实现大模型训练与推理的低成本、高性能，支持多类型并行策略与异构硬件部署。
-- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** `Unknown` - 该仓库整合国内外主流AI绘画平台与技术资源，涵盖Stable Diffusion系列模型的教程、参数配置、部署指南及行业动态，提供一站式学习与实践路径。
-- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代 macOS 视频播放器，采用 Swift 开发，提供流畅的播放体验与简洁的界面设计，支持多种格式和硬件加速。
-- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - 基于Python的跨框架机器学习代码转换工具，支持JAX、PyTorch、TensorFlow与NumPy间自动转换，通过语法分析与语义映射实现高效迁移，核心亮点为高保真度与零手动重构。
-- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库 curated 了由 GPT-4o 和 gpt-image-1 生成的高质量 AI 图像与提示词，展示 OpenAI 在文本到图像生成领域的前沿能力，支持多种风格如吉卜力风、动漫与卡通。
-- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集高质量 macOS 平台应用软件，涵盖开发、设计、效率等多个领域，通过精选与持续维护提供可靠工具清单，核心亮点为权威性与高实用性。
-- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 为编程初学者提供系统化的技术面试指南，内容涵盖基础知识、算法题解与面试技巧，通过结构化整理帮助学习者高效准备面试。核心亮点是面向零基础用户的友好路径设计与持续更新的题库资源。
-- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一个用 Haskell 实现的通用标记转换工具，支持多种文档格式间的高效转换，核心亮点在于强大的解析器架构与可扩展的插件机制。
-- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Python的分布式代理池工具，通过Redis管理高效可用代理，支持爬虫自动切换与验证，提升网络请求稳定性与匿名性，核心亮点为高可用代理自动筛选与负载均衡。
-- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持高效浏览与离线阅读，具备多端同步与智能标签管理，核心亮点是流畅的移动端体验与对成人内容的精准分类访问。
-- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT模型从零训练，仅需2小时完成，采用高效优化与轻量化架构设计，显著降低训练成本与资源门槛。
-- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 构建人工智能领域英中技术术语的全面映射数据库，通过结构化数据与持续更新机制实现术语精准翻译与跨语言知识对齐，核心亮点为术语覆盖率高、上下文关联性强。
-- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库是一个精心整理的开源情报（OSINT）工具与资源集合，涵盖网站、数据库、自动化脚本等，助力用户高效开展网络信息挖掘与分析，核心亮点在于资源全面性与持续更新。
-- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，直接操作GPU内存与计算，无框架依赖，展现底层模型训练的完整流程与极致性能优化。
-- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，突出可读性与教学价值。
-- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - 基于极简设计实现中等规模GPT的高效训练与微调，采用纯Python与轻量级架构，支持快速实验与部署，核心亮点为简洁性与高性能结合。
-- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零开始构建神经网络，结合直观可视化与数学推导，系统讲解深度学习核心原理与实现细节，核心亮点在于理论与实践深度融合。
-- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 该仓库为高增长初创企业创始人和领导者精选权威资源，聚焦决策、领导力与创业实战，通过结构化分类与深度评述提供可落地的行动指南。
-- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 提供灵活的 LLM 推理优化框架，通过动态 KV 缓存管理与高效内存调度，显著提升大模型推理吞吐与延迟表现，支持多种部署场景。
-- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存公开API接口信息，便于开发者查阅与研究，采用静态托管方式实现高效访问与版本追溯。核心亮点在于完整保留原始文档结构与历史版本。
-- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 构建的全栈云开发平台，提供函数计算、数据库、对象存储等能力，支持快速部署与协同开发，核心亮点在于开箱即用的 Serverless 架构与一体化开发体验。
-- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化与元提示词设计框架，通过标准化模板提升提示工程效率，助力用户高效构建高精度 Prompt，已在全球超万名用户中验证。
-- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的现代 Web 框架，支持细粒度响应式编程与同构渲染，可编译为 WebAssembly 实现高性能前端应用。核心亮点在于极致性能与零运行时开销的响应式架构。
-- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2 实现175B大模型在18GB GPU内存下的全参数微调，基于零阶优化与显存卸载技术，突破显存瓶颈，显著降低大模型调优硬件门槛。
-- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 在单张 4GB GPU 上实现高效推理，采用 QLoRA 量化技术降低显存占用，结合 Jupyter Notebook 提供易用的部署与交互环境，显著降低大模型本地运行门槛。
-- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合区域资源与技术实践，推动二线城市数字化创新，展现区域科技活力与实践价值。
-- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 是面向设计工程师的开源 UI 组件库，基于 React 与 TailwindCSS 提供可复用的动画组件，支持 Framer Motion 实现流畅交互，开箱即用，免费供开发者快速搭建现代化前端界面。
-- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区维护的 Swift 生态优质库与资源清单，涵盖 iOS、Linux 平台的框架、扩展与工具，通过协作方式持续更新，助力开发者高效构建 Swift 应用。
-- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是基于 jQuery 的 PPTX 转 HTML 工具，通过解析 PowerPoint 文件结构并转换为可交互的 HTML 内容，实现无依赖的演示文稿在线展示。核心亮点为轻量级、支持跨浏览器渲染与动态交互。
-- **[microsoft/autogen](https://github.com/microsoft/autogen)** `Python` - AutoGen 是一个用于构建智能体（AI Agents）的编程框架，支持多智能体协作与交互，通过 LLM 驱动实现复杂任务的自动化分解与执行，核心亮点在于灵活的智能体编排与可扩展的通信机制。
-- **[microsoft/promptbench](https://github.com/microsoft/promptbench)** `Python` - PromptBench 提供统一的大型语言模型评估框架，支持对抗攻击、提示工程与鲁棒性测试，通过标准化评测流程提升模型可靠性与可比性。
-- **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** `Python` - MLX 示例仓库提供基于 MLX 框架的 Python 实现案例，聚焦轻量级机器学习模型的高效部署与推理，涵盖模型加载、优化与推理全流程，核心亮点为原生支持 Apple Silicon 加速与低延迟推理。
-- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - mlc-ai/mlc-llm 是一个基于 TVM 的通用大模型部署引擎，通过机器学习编译技术实现跨平台高效推理，支持多种 LLM 模型的轻量化部署与低延迟推理，核心亮点是极致性能优化与硬件自适应能力。
-- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端高保真语音修复与降噪能力。
-- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的开源离线语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 构建模型，实现高性能、低延迟的端到端语音转文本。
-- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的 JavaScript 3D 库，通过简化 3D 图形开发流程，支持 WebGPU、WebXR 等前沿技术，实现高性能、跨平台的 3D 网页可视化。
-- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 该仓库系统整理了300+适合独立开发者与创业者的用户增长渠道，涵盖国内外主流推广路径，提供结构化指南以高效获取前1000名早期用户，助力产品冷启动。
-- **[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)** `C++` - GPT4All 使用户能在本地设备上运行大型语言模型，支持跨平台部署，采用轻量级 C++ 实现高效推理，核心亮点是无需云端依赖的开源、可商用本地化 LLM 推理能力。
-- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类与去重，通过高效嵌入模型实现大规模数据洞察。
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** `JavaScript` - OpenWebUI 提供开源、自托管的用户友好型大语言模型交互界面，支持 Ollama、OpenAI API 等多源模型接入，通过 Web 界面实现高效 LLM 对话与管理，核心亮点在于低门槛部署与多模型统一管理。
-- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - GPT-2 是开源的大型语言模型，基于 Transformer 架构，通过无监督多任务学习实现通用文本生成。其代码实现支持模型训练与推理，为研究与应用提供基础范式。核心亮点在于首次展示大规模无监督预训练在多种自然语言任务上的泛化能力。
-- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是 Python 中核心的数据分析与处理库，提供灵活的带标签数据结构（如 DataFrame）和丰富的统计、操作功能，支持高效数据清洗、转换与分析。
-- **[paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)** `TypeScript` - 一款基于TypeScript的Emoji编码工具，将文本高效转换为emoji序列，支持语义保留与可逆解码，核心亮点在于轻量级实现与高兼容性。
-- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反问面试官的高质量问题清单，帮助候选人深度评估团队技术氛围与成长空间，内容覆盖技术栈、工程实践与职业发展。
-- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是 PostgreSQL 的开源向量相似性搜索扩展，基于 C 语言实现高效近邻搜索，支持向量存储与快速相似性查询，核心亮点为无缝集成数据库与向量检索。
-- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 基于Jupyter Book构建的开源AI知识体系，系统梳理当前快速演进的开源AI生态，通过结构化内容与持续更新机制，为开发者提供清晰的技术导航与学习路径。
-- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一个基于 Go 语言的数据库迁移工具，支持 SQL 与 Go 函数混合迁移，可灵活管理数据库模式变更，提供版本化、可复用的数据库演进能力。
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 汇集全球免费公共API资源，提供结构化列表与分类检索，支持开发者快速发现与集成开放接口，核心亮点是持续维护的高质量API索引与社区协作机制。
-- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 本项目基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点在于教学式代码实现与可复现的完整训练 pipeline。
-- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 汇集高质量的 Rust 生态资源与代码库，涵盖工具链、框架、库及学习资料，通过社区驱动方式持续维护，助力开发者高效构建高性能、安全可靠的系统。
-- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 构建的高性能 S3 兼容对象存储系统，支持与 MinIO、Ceph 等平台共存迁移，提供低延迟、高吞吐的数据持久化能力，核心亮点在于云原生架构与高效内存管理。
-- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Open XML标准，使用Python高效生成PowerPoint文档，支持复杂格式与内容动态渲染，核心亮点为轻量级、高兼容性与灵活的API设计。
-- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护型元搜索引擎，聚合多家搜索服务结果，通过去中心化架构实现无追踪搜索，核心亮点在于完全匿名化处理与可自托管部署。
-- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并分类开源 macOS 应用，涵盖开发、设计、效率等多领域，支持一键安装与社区共建，核心亮点为持续更新与高质量项目筛选。
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇聚全球优质主题资源清单，通过社区协作持续维护高质量链接，覆盖技术、创意、生活等多个领域，以统一格式提升信息发现效率。
-- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - One-API 是一款统一管理多模型 LLM API 的代理系统，通过单可执行文件与 Docker 一键部署，实现 OpenAI、Claude、Gemini 等主流模型的 API 统一接入与 key 管理，支持灵活分发与二次使用。
-- **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** `Python` - DSPy 是一个面向语言模型编程的框架，通过可微分编程与模块化设计，将提示工程转变为可训练的程序逻辑，提升 LLM 应用的可靠性与可复现性。
-- **[sunface/rust-course](https://github.com/sunface/rust-course)** `Rust` - 本仓库是面向中文学习者的高质量 Rust 入门教程，通过生动示例与系统讲解，帮助开发者掌握无需 GC 的高性能语言，涵盖编程范式与现代生态。
-- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的高保真歌声转换系统，利用PyTorch实现端到端音色迁移，支持低延迟实时语音转换，核心亮点为高自然度音质与轻量化模型部署。
-- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需修改代码，通过Rust实现高效代理与协议适配，核心亮点是零侵入式集成与低延迟MCP服务部署。
-- **[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** `Python` - 基于Python实现斯坦福Alpaca模型的训练代码与数据生成流程，采用指令微调技术构建高效语言模型，核心亮点为开源可复现的训练pipeline与高质量指令数据集构建方法。
-- **[tensorflow/playground](https://github.com/tensorflow/playground)** `TypeScript` - 基于TypeScript构建的交互式神经网络实验平台，通过可视化界面实时调整网络结构与参数，支持即时训练与结果反馈，核心亮点为低门槛的深度学习可视化探索。
-- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生系统集成与轻量级高性能设计。
-- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库是《提问的智慧》中文翻译版，系统性指导用户如何高效、清晰地提出问题，提升信息获取与沟通效率。通过结构化方法论，帮助用户在技术社区、团队协作中精准表达需求。核心亮点在于将沟通技巧转化为可复用的提问范式。
-- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记，涵盖LLMs训练与优化，采用Jupyter Notebook形式实现零门槛实操，核心亮点为即开即用的完整流程与高效轻量级模型支持。
-- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高性能交互式三维网络可视化，核心亮点为流畅的物理模拟与浏览器端实时渲染。
-- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多模态力导向图可视化，通过Canvas高效渲染大规模网络拓扑，实现交互式动态图谱展示。
-- **[verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)** `Jupyter Notebook` - 该数据集收集15,140条ChatGPT提示词，涵盖Reddit、Discord等真实场景，包含1,405条 jailbreak 提示，用于研究LLM安全漏洞与对抗性输入。基于Jupyter Notebook提供可复现分析环境。
-- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 提供豆瓣平台数据的开放API服务，基于JavaScript实现高效数据抓取与接口封装，支持多维度内容查询与实时同步，核心亮点为稳定高并发访问与结构化数据输出。
-- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量级架构与高效训练策略，支持本地部署与快速推理，核心亮点为低资源占用与中文语义理解优化。
-- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，核心亮点为轻量高效与跨平台兼容。
-- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇集了众多AI编程工具的系统提示词、内部工具及开源模型，涵盖从代码生成到开发环境集成的完整链路，助力开发者高效构建AI增强型编程体验。
-- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 一款基于用户脚本的ChatGPT增强插件，通过自动刷新、数据安全拦截与页面净化等机制，提升使用效率与隐私保护，实现安全、流畅的AI交互体验。
-- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - Real-ESRGAN 通过基于 PyTorch 的深度学习模型，实现通用图像与视频的超分辨率重建，针对 JPEG 压缩伪影与噪声进行优化，显著提升低质量图像的视觉质量。
-- **[xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)** `Jupyter Notebook` - 基于开源多模态模型实现高精度图像识别，支持文本描述生成与跨模态理解，利用Jupyter Notebook提供灵活实验与部署框架，核心亮点为强泛化能力与开箱即用的标签生成能力。
-- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持多模型一键部署与推理，兼容主流开源模型，实现本地或云端高效运行。
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 基于反向工程实现免费调用GPT-4、GPT-4o、DeepSeek R1等主流大模型API，提供统一Python接口，支持多模型快速切换与本地部署，核心亮点为高可用性与低成本接入。
-- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一套支持多款主流大模型训练的工具链，基于 Python 实现，集成 LoRA/QLoRA 等高效微调技术，可灵活部署于本地或云端，显著降低大模型训练门槛。
-- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级中文对话场景。
-- **[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)** `TypeScript` - 该仓库为软件工程师提供精心整理的编码面试备考资料，涵盖算法、系统设计与行为面试题，基于TypeScript实现结构化内容管理，支持高效学习与练习。
-- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - GeneFace 实现高质量、通用的3D会说话人脸生成，基于NeRF与PyTorch构建，支持从单张图像或音频驱动生成逼真动态人脸。核心亮点为高保真度与跨模态一致性。
-- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D会说话人脸合成，结合NeRF与运动先验建模，支持表情与语音驱动的动态渲染；ICLR 2024 Spotlight论文成果。
-- **[ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)** `TypeScript` - 基于TypeScript构建的流光卡片API，提供高效、可复用的卡片组件服务，支持动态内容渲染与交互逻辑封装，核心亮点在于模块化设计与低延迟响应。
-- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，提供本地CPU/GPU环境下的训练与部署方案，支持LoRA微调与量化，实现高效中文大模型推理。核心亮点为全链条本地化、低资源适配与中文优化。
-- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B开源双语大语言模型，支持中英文对话理解与生成，采用量化部署与高效推理优化，实现本地化部署与低资源运行。
+- **[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)** `Unknown` - 汇集中国独立开发者项目，聚焦AI与Web工具创新，通过开源协作共享开发成果，展现多样化技术实践与产品思路。
+- **[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)** `Dockerfile` - 该仓库为程序员提供在家做饭的实用指南，通过Dockerfile标准化厨房环境与流程，实现可复现、可共享的烹饪方案，核心亮点是将编程思维融入生活场景，提升烹饪效率与可维护性。
+- **[Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)** `JavaScript` - Atri-Labs/engine 是一个开源的无代码/低代码 Web 应用构建工具，基于 React 和 FastAPI 构建，支持快速搭建可交互的前端界面与后端服务，核心亮点在于可视化开发与全栈一体化部署能力。
+- **[BUTSpeechFIT/DiariZen](https://github.com/BUTSpeechFIT/DiariZen)** `Jupyter Notebook` - DiariZen 是一个面向说话人分离的工具包，基于 Jupyter Notebook 提供端到端流程，集成主流语音模型与聚类算法，支持快速实验与结果可视化，核心亮点在于低门槛、可复现的说话人聚类工作流。
+- **[BaseModelAI/cleora](https://github.com/BaseModelAI/cleora)** `Jupyter Notebook` - Cleora AI 提供高效可扩展的归纳实体嵌入模型，基于异构关系数据学习稳定嵌入，支持图与超图结构，采用 PyTorch 生态实现端到端训练与推理。核心亮点为高效率、强泛化性与对动态数据的适应能力。
+- **[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)** `Python` - ChatRWKV 是基于 100% RNN 架构的开源聊天模型，类 ChatGPT 交互体验，采用 PyTorch 实现，兼顾高效推理与长序列建模能力，核心亮点为纯 RNN 架构下的高性能语言生成。
+- **[CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY)** `Unknown` - CLAY-3D/OpenCLAY 是一个可控制的大规模生成模型，用于创建高质量3D资产。基于生成式AI技术，支持文本、图像等多模态输入，实现高保真、可控的3D内容生成，核心亮点在于生成质量与控制精度的平衡。
+- **[CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)** `Python` - 该仓库构建中文NLP数据集统一检索平台，整合中文及常用英文数据集，支持多任务类型快速查找，提升模型训练与评测效率，核心亮点为结构化索引与多维度筛选。
+- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** `TypeScript` - NextChat 是一款轻量快速的跨平台 AI 助手，基于 React 和 Tauri 构建，支持 Web、iOS、MacOS、Android、Linux 与 Windows，集成 GPT-4o、Claude、Gemini 等多模型，提供流畅的本地化对话体验。
+- **[DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)** `TypeScript` - 基于RSSHub生态的浏览器扩展，一键发现并订阅RSS源，支持Chrome/Firefox，通过TypeScript实现跨平台兼容与高效集成，核心亮点是极简订阅流程与高可用源发现。
+- **[EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)** `Rust` - EasyTier/EasyTier 是基于 Rust 构建的轻量级去中心化网格 VPN，支持 WireGuard 协议，实现高效 P2P 穿透与安全内网通信，核心亮点为低延迟、高可靠性与原生 Rust 安全性。
+- **[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)** `C` - 基于LLaMA架构的中文指令微调模型，采用LoRA低资源高效微调方案，复用Alpaca范式实现中文任务精准响应，支持轻量化部署与领域适配。
+- **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** `Python` - 基于多语言大语音模型的全栈语音生成系统，支持跨语言语音合成与克隆，融合细粒度控制与端到端训练，实现自然流畅的语音输出。
+- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` - GitbookIO/gitbook 是基于 TypeScript 构建的开源前端框架，用于构建现代化文档站点，支持 Markdown 编写与 Git 管理，提供可定制的文档展示与协作体验。
+- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)** `Ruby` - Homebrew/homebrew-cask 是 macOS 上管理二进制应用的命令行工具，通过简洁的 CLI 实现软件安装、更新与卸载，核心亮点为标准化、自动化与社区驱动的软件分发流程。
+- **[HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)** `Unknown` - 整理可私有化部署的轻量级中文大语言模型，涵盖底座模型、垂直领域微调、数据集与教程，支持低成本本地化应用。
+- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** `Unknown` - Animate Anyone 实现人物图像到视频的高一致性、可控制生成，基于深度学习模型实现角色动作精准驱动，支持个性化姿态与风格保留，显著提升角色动画生成质量与可控性。
+- **[IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)** `Python` - Grounding DINO 实现了融合 DINO 与接地预训练的开放集目标检测，通过视觉-语言联合建模实现零样本泛化，支持开放世界下新类别识别与定位。
+- **[InternLM/InternLM](https://github.com/InternLM/InternLM)** `Python` - InternLM系列是面向中文场景的开源大语言模型，支持长上下文与高效推理，采用Flash Attention优化训练与部署性能，提供从预训练到微调的完整技术栈。
+- **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** `Python` - Lightning-AI/litgpt 提供20+高性能大语言模型的完整训练、微调与部署方案，基于 PyTorch 与 Lightning 构建，支持高效分布式训练与推理优化，核心亮点为开箱即用的可扩展训练流水线与低资源部署能力。
+- **[MLGroupJLU/LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)** `Unknown` - 该仓库为大语言模型评估综述论文的官方GitHub页面，系统梳理LLM评估方法、基准测试与挑战，提供全面的学术参考与技术演进脉络。
+- **[Ma-Lab-Berkeley/CRATE](https://github.com/Ma-Lab-Berkeley/CRATE)** `Python` - CRATE 通过白盒架构设计实现 Transformer 模型的高效压缩与稀疏化，基于代码级可解释的率失真优化，显著降低模型冗余度而不牺牲性能。
+- **[NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)** `Python` - StyleGAN2 是 NVIDIA 官方发布的基于 TensorFlow 的生成对抗网络实现，通过改进的训练稳定性和生成质量，实现高分辨率图像合成。核心亮点在于路径长度正则化与谱归一化技术，显著提升图像细节与多样性。
+- **[Obsidian-Forge/obsidian-i18n](https://github.com/Obsidian-Forge/obsidian-i18n)** `TypeScript` - 基于TypeScript构建的Obsidian多语言支持插件，通过动态资源加载与翻译桥接机制，实现笔记系统实时多语言切换，核心亮点为低侵入式集成与跨语言语义一致性保障。
+- **[OpenMindClub/awesome-translators](https://github.com/OpenMindClub/awesome-translators)** `JavaScript` - 该仓库汇集了自2018年以来信息分析课程参与者共同开发的Zotero文献翻译器，基于JavaScript实现对多种学术资源的自动解析与翻译，核心亮点在于社区共建与持续演进的兼容性支持。
+- **[OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner)** `Python` - 基于Python的已弃用推理引擎，用于高效运行大语言模型，支持模型部署与推理服务，核心亮点为轻量级架构与多模型兼容性。
+- **[OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)** `Python` - 基于音频驱动单图人脸动画生成，通过学习真实3D运动系数实现高保真口型同步与自然表情变化，结合3DMM与神经渲染技术提升视觉真实感。
+- **[OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking)** `Python` - 基于音频驱动实现Talking Head视频的唇同步重建，通过端到端模型在真实场景下精准对齐口型与语音，支持多说话人、多语种视频编辑，核心亮点为高保真口型同步与强泛化能力。
+- **[PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)** `Python` - 基于MBTI人格类型对大语言模型进行心理特质建模与探索，通过Python实现模型行为模拟与分类分析，揭示LLM的“性格”差异与交互模式。
+- **[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)** `Python` - PaddlePaddle/PaddleSpeech 是一个功能全面的语音技术工具包，支持自监督学习、流式端到端语音识别与合成、说话人验证等，基于Transformer与Conformer架构实现高精度实时语音处理，荣获NAACL2022最佳演示奖。
+- **[PantoMatrix/PantoMatrix](https://github.com/PantoMatrix/PantoMatrix)** `Python` - PantoMatrix 通过语音驱动生成逼真的面部与身体动画，融合多模态建模与运动预测技术，实现高保真同步的虚拟人表达。
+- **[Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V)** `Python` - StreamingT2V 实现从文本生成长时序、高一致性与可扩展的视频，采用流式生成与动态注意力机制，突破传统方法在长度与质量上的瓶颈。
+- **[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)** `Unknown` - 提供ChatGPT中文场景化调教指南，通过精细化提示词设计提升模型指令遵循能力，帮助用户高效掌控模型输出。
+- **[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)** `Python` - 该仓库为《大型语言模型综述》论文的官方GitHub页面，系统梳理LLM发展脉络，涵盖预训练、指令微调、提示学习、思维链及RLHF等核心技术，提供结构化知识图谱与文献索引。
+- **[Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** `Python` - 基于深度学习实现高精度语音到唇动生成，仅需语音输入即可合成自然逼真的唇部动作，采用端到端训练策略，支持复杂场景下的真实世界应用。
+- **[SEACrowd/seacrowd-datahub](https://github.com/SEACrowd/seacrowd-datahub)** `Python` - 该仓库聚焦东南亚语言、区域与文化数据的共建收集，通过Python工具链实现多源数据整合与标准化，核心亮点为本土化语料的开放共享与社区协作机制。
+- **[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** `C++` - 基于C++实现高性能本地化大语言模型推理服务，支持LLaMA等模型低延迟部署，采用异步流水线与内存优化技术，显著提升吞吐与能效比。
+- **[SWHL/AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections)** `HTML` - 整理AI竞赛经验与训练测试技巧，以HTML形式结构化呈现，涵盖CV、NLP、推荐系统等主流赛道，助力开发者高效复现与优化模型。
+- **[ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)** `Python` - Gorilla 专注于大语言模型在函数调用（Tool Calls）上的训练与评估，通过构建高质量函数调用数据集并设计评测基准，提升 LLM 在真实 API 调用任务中的准确率与可靠性。
+- **[SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher)** `Batchfile` - SillyTavern-Launcher 提供一键启动 SillyTavern 及其扩展组件的批处理脚本，简化本地部署流程，支持多环境快速配置，核心亮点为零配置快速上线与跨平台兼容性。
+- **[Sniper970119/dianping_spider](https://github.com/Sniper970119/dianping_spider)** `Python` - 基于Python实现大众点评全站爬虫，突破动态字体加密难题，无需OCR即可精准提取文本数据，持续更新维护。
+- **[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)** `Jupyter Notebook` - StableLM 是 Stability AI 发布的一系列开源语言模型，基于 Jupyter Notebook 提供可交互的训练与推理环境，支持灵活的模型定制与实验，核心亮点在于开放性与可复现性。
+- **[Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio)** `TypeScript` - StableStudio 是 Stability AI 社区驱动的生成式 AI 前端界面，基于 TypeScript 构建，提供稳定扩散模型的可视化操作与交互体验，支持图像生成、风格调整与模型管理。
+- **[TalAter/annyang](https://github.com/TalAter/annyang)** `JavaScript` - 基于浏览器原生语音识别API实现网页端实时语音转文本，支持多语言指令识别与自定义命令绑定，无需后端依赖即可构建语音交互功能，核心亮点为轻量级、零配置、跨平台兼容。
+- **[Tencent-Hunyuan/Hunyuan3D-1](https://github.com/Tencent-Hunyuan/Hunyuan3D-1)** `Python` - Tencent-Hunyuan/Hunyuan3D-1 实现文本与图像到3D内容的统一生成，基于深度学习框架融合多模态输入，支持高保真3D模型输出，核心亮点为端到端一体化生成与高效推理优化。
+- **[Vchitect/Latte](https://github.com/Vchitect/Latte)** `Python` - Latte 是基于潜在扩散变换器的视频生成模型，通过高效建模时空特征实现高质量视频生成，核心亮点在于融合扩散机制与Transformer架构，支持长时序生成与高分辨率输出。
+- **[VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT)** `Python` - PhoGPT 是面向越南语的生成式预训练模型，基于 Transformer 架构，通过大规模语料预训练并微调以支持指令跟随，显著提升越南语自然语言生成能力。
+- **[WangZeyu9965/vps](https://github.com/WangZeyu9965/vps)** `Unknown` - 本仓库提供国外VPS的搭建教程，涵盖环境配置、安全加固与服务部署，帮助用户快速搭建稳定远程服务器。核心亮点在于详尽的操作步骤与实用工具推荐，适合初学者快速上手。
+- **[Wanggcong/SparseNeRF](https://github.com/Wanggcong/SparseNeRF)** `Python` - SparseNeRF通过知识蒸馏实现深度排序的稀疏表示，仅需少量图像即可完成高质量新视角合成，核心亮点在于高效建模与低样本适应能力。
+- **[ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)** `Python` - 基于AAAI 2022论文，实现无需trimap的实时人像抠图，采用轻量级深度网络在端侧高效生成高精度alpha matte，支持实时视频流处理。
+- **[ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)** `Python` - 基于ComfyUI的中文肖像生成工具，集成Stable Diffusion模型，提供模块化节点操作，支持高精度人物图像生成与风格化定制，核心亮点为中文界面与本地化部署优化。
+- **[ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)** `Python` - SyncTalk 基于音频驱动实现高保真人脸合成，通过精细同步语音与面部动作，显著提升生成自然度与时序一致性，核心亮点在于引入时序对齐优化机制。
+- **[a2aproject/A2A](https://github.com/a2aproject/A2A)** `TypeScript` - A2A协议构建开放通信框架，实现异构智能体间无缝互操作，基于TypeScript实现跨平台、低耦合的Agent间协作，核心亮点为标准化接口与去中心化通信机制。
+- **[adap/flower](https://github.com/adap/flower)** `Python` - Flower 是一个面向联邦学习的轻量级框架，支持跨设备、跨平台的分布式模型训练，基于 Python 与 gRPC 构建，兼容 PyTorch、TensorFlow 等主流深度学习框架，核心亮点是易集成、高可扩展性与隐私保护。
+- **[aframevr/aframe](https://github.com/aframevr/aframe)** `JavaScript` - A-Frame 是基于 Web 的虚拟现实开发框架，利用 HTML 语法与 Three.js 底层渲染，支持 WebXR 标准，让开发者轻松构建跨平台 VR/AR 应用。核心亮点是低代码化与高度可扩展性。
+- **[aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto)** `Python` - EasyPhoto 是基于 Stable Diffusion 的智能 AI 照片生成工具，通过简化工作流实现一键生成高质量人像，支持风格迁移与细节优化，核心亮点在于易用性与生成质量的平衡。
+- **[alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG)** `JavaScript` - 基于D3和SVG生成高精度神经网络架构图，支持可交互、可嵌入的出版级可视化，适用于学术论文与技术文档。
+- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `Unknown` - 该仓库收集全球优秀的设计系统资源，涵盖组件库、设计规范与模式库，帮助开发者与设计师高效复用与协作。核心亮点为全面性与社区驱动的高质量整理。
+- **[alibaba/easyexcel](https://github.com/alibaba/easyexcel)** `Java` - 基于Java的高效Excel处理工具，采用流式读写技术解决大文件内存溢出问题，支持xlsx/xls格式，实现高性能数据解析与导出。
+- **[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)** `TypeScript` - 基于TypeScript构建的AI壁纸生成工具，利用AI模型动态创作个性化壁纸，支持用户自定义风格与主题，具备高效渲染与一键应用能力。
+- **[alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian)** `Python` - 基于文本驱动生成高质量3D人体模型，结合高斯点云渲染技术实现高效、逼真的三维人体合成，支持细粒度语义控制与实时可视化。
+- **[ankitects/anki](https://github.com/ankitects/anki)** `Rust` - Anki 是基于智能间隔重复算法的闪卡学习工具，使用 Rust 语言构建高效、跨平台的桌面与移动应用，核心亮点在于自适应记忆强化与高度可定制的卡片系统。
+- **[antgroup/echomimic](https://github.com/antgroup/echomimic)** `Python` - EchoMimic基于可编辑的地标条件，实现高保真音频驱动的肖像动画生成，通过多模态协同建模与精细姿态控制，大幅提升人脸动作自然度与可控性。
+- **[antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)** `Python` - EchoMimicV2实现基于音频驱动的简化半身人像动画，通过轻量化模型与端到端流程生成自然流畅的说话表情与动作，核心亮点在于高保真口型同步与低计算开销的实时渲染。
+- **[apachecn/ailearning](https://github.com/apachecn/ailearning)** `Python` - 基于Python的AI学习实战资源库，涵盖机器学习、深度学习与NLP核心算法实现，结合PyTorch/TensorFlow框架提供可运行代码与数据集，助力从理论到实践的转化。
+- **[aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-poetry-corpus)** `Jupyter Notebook` - 该仓库提供来自Project Gutenberg的诗歌语料库，以Jupyter Notebook形式组织，便于文本分析与机器学习实验。核心亮点是结构化、可复现的诗歌数据处理流程，支持自然语言处理研究与创意AI应用。
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** `JavaScript` - 收集并整理主流聊天机器人（如ChatGPT、Claude、Gemini）的系统提示词，通过JavaScript实现结构化提取与解析，支持快速对比分析与安全研究。核心亮点在于高精度提取与可扩展的提示词库管理。
+- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** `Unknown` - 汇聚高质量开放数据集，按主题分类便于检索与使用，提升数据获取效率，助力研究与开发。
+- **[azl397985856/leetcode](https://github.com/azl397985856/leetcode)** `JavaScript` - 该仓库为JavaScript实现的LeetCode题解集合，系统记录算法学习过程，涵盖常见数据结构与算法题型，提供清晰代码与思路解析。
+- **[baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)** `Python` - Baichuan-13B 是由百川智能研发的130亿参数中文大语言模型，基于Python实现，支持多场景对话与文本生成，具备强中文理解与生成能力，通过Hugging Face生态实现高效部署与评测。
+- **[baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)** `Python` - Baichuan-7B 是由百川智能开发的70亿参数大规模预训练语言模型，基于Python实现，支持中文与多语言任务，具备强推理与对话能力，适用于各类NLP场景。
+- **[chronotope/chrono](https://github.com/chronotope/chrono)** `Rust` - Chrono 是一个高性能、功能丰富的 Rust 日期时间库，支持多种时区、解析与格式化，提供安全的不可变时间类型与丰富的 API，核心亮点在于零开销抽象与对 RFC 标准的全面支持。
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` - 通过动手实现经典技术栈，从零构建编程工具与系统，以实战方式深化对底层原理的理解，核心亮点是结合可运行代码的交互式教程。
+- **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** `Python` - 面向深度学习教学与实践的交互式开源书籍，融合多框架代码、数学推导与讨论，支持PyTorch、TensorFlow、JAX等主流框架，全球500所高校采用。
+- **[databrickslabs/dolly](https://github.com/databrickslabs/dolly)** `Python` - Dolly 是由 Databricks 训练的大型语言模型，基于其机器学习平台构建，支持文本生成、对话理解等任务，具备高效推理与企业级部署能力。核心亮点在于结合 Databricks 生态实现模型全生命周期管理。
+- **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** `Cuda` - DeepEP 是一个基于 CUDA 的高效专家并行通信库，通过优化跨设备专家路由与通信，显著提升大规模模型推理的并行效率，核心亮点在于低延迟、高吞吐的专家间通信机制。
+- **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** `Python` - DeepSpeed 是基于 PyTorch 的深度学习优化库，通过 ZeRO、模型并行、流水线并行等技术实现千亿乃至万亿参数模型的高效训练与推理，显著降低显存占用与通信开销。
+- **[dend/awesome-product-management](https://github.com/dend/awesome-product-management)** `CSS` - 该仓库系统整理了产品与项目管理领域的优质学习资源，涵盖方法论、实战工具与行业趋势，通过分类导航实现高效知识获取，核心亮点是持续更新与社区驱动的高质量内容聚合。
+- **[dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python)** `Python` - 该仓库提供Python模块，用于与Ryze Tello无人机通信，支持飞行控制、摄像头数据采集与实时视频流处理，核心亮点在于低代码接入与跨平台兼容性。
+- **[duckdb/duckdb](https://github.com/duckdb/duckdb)** `C++` - DuckDB 是一款嵌入式分析型 SQL 数据库，基于 C++ 构建，支持在进程内高效执行 OLAP 查询，核心亮点是极致的性能与轻量级部署能力。
+- **[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `Unknown` - 收集并整理各类AI自主代理项目，涵盖AutoGPT、BabyAGI、GPT Engineer等主流框架，提供技术演进与实践参考，助力开发者快速构建自动化智能体系统。
+- **[espressif/esp-box](https://github.com/espressif/esp-box)** `HTML` - ESP-BOX 是乐鑫科技推出的下一代 AIoT 开发平台，基于 HTML 构建可视化开发环境，支持边缘端 AI 模型部署与设备协同，核心亮点为低代码化 AIoT 应用快速构建与跨设备实时交互。
+- **[evennia/evennia](https://github.com/evennia/evennia)** `Python` - Evennia 是基于 Python 的开源 MUD/MUX/MUSH 多人文本游戏开发引擎，采用 Django 和 Twisted 架构，支持 Web 客户端与服务器，提供可扩展的文本冒险系统构建能力，核心亮点为高度模块化与社区驱动开发。
+- **[exo-explore/exo](https://github.com/exo-explore/exo)** `Python` - 基于日常设备构建家庭级AI集群，通过轻量化部署与分布式协作实现本地化大模型运行，支持多设备协同与低延迟推理，核心亮点为零云端依赖与高度可扩展的边缘计算架构。
+- **[fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id)** `Python` - 一键修改Cursor设备ID以解除设备锁定，通过Python脚本绕过官方限制，实现快速恢复使用，核心亮点为操作简便、无需复杂配置。
+- **[fudan-generative-vision/champ](https://github.com/fudan-generative-vision/champ)** `Python` - Champ 通过3D参数化引导实现可控且一致的人像动画生成，结合隐空间运动建模与姿态对齐策略，支持高保真图像到视频的转换。核心亮点在于运动连贯性与身份一致性保障。
+- **[g21589/PPTX2HTML](https://github.com/g21589/PPTX2HTML)** `JavaScript` - 将PPTX文件无依赖转换为HTML，基于纯JavaScript实现，支持保留格式与交互性，核心亮点为前端直出、无需后端服务。
+- **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** `C++` - LLM推理引擎，基于C/C++实现高效低资源部署，采用ggml张量计算库，支持多种LLM模型本地运行，核心亮点为极致性能与跨平台兼容性。
+- **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** `Python` - 将敏感信息隐匿嵌入文本中，通过语义扰动实现不可见盲水印，支持高鲁棒性文本水印生成与检测，核心亮点为语义一致性与抗篡改能力。
+- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** `JavaScript` - reveal.js 是基于 HTML/CSS/JavaScript 的开源演示框架，通过浏览器渲染实现动态幻灯片展示，支持自定义主题、动画与扩展插件，核心亮点为跨平台兼容与高度可定制化。
+- **[hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz)** `Unknown` - 该仓库整理了全球优质的数据可视化库与资源，涵盖图表库、交互工具与可视化框架，助力开发者快速构建高效、美观的数据展示应用。
+- **[hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)** `Python` - 基于小爱音箱实现音乐播放控制，通过 yt-dlp 下载音乐并结合 Docker 化部署，提供稳定高效的本地音乐服务。核心亮点为无缝对接小爱设备与自动化下载流程。
+- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** `TypeScript` - 基于数据库自动生成实时GraphQL API，支持细粒度访问控制与事件触发，无需手动编写接口，实现数据层与前端/应用的高效对接。
+- **[hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning)** `Python` - 基于PEFT技术实现ChatGLM-6B的高效微调，支持LoRA与QLoRA，显著降低显存消耗并提升训练效率，便于在消费级硬件上部署定制化对话模型。
+- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** `Python` - 统一高效微调100+大语言模型与视觉语言模型，支持LoRA、QLoRA、MoE等主流方法，兼容LLaMA、Gemma、Qwen、DeepSeek等多架构，提升训练效率与资源利用率。
+- **[iina/iina](https://github.com/iina/iina)** `Swift` - iina 是基于 mpv 框架的现代化 macOS 视频播放器，使用 Swift 开发，提供简洁高效、高度可定制的视频播放体验，支持多格式解码与硬件加速。
+- **[ivy-llc/ivy](https://github.com/ivy-llc/ivy)** `Python` - Ivy-LLC/ivy 实现 PyTorch、TensorFlow、JAX、NumPy 等主流框架间的机器学习代码自动转换，基于统一抽象层实现跨框架兼容性，核心亮点是零运行时开销的框架无关代码生成。
+- **[jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)** `JavaScript` - 该仓库精选GPT-4o与gpt-image-1生成的高质量图像与提示词，涵盖动漫、吉卜力风格等多类型视觉创作，通过结构化整理展示AI图像生成的前沿潜力。
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `JavaScript` - 收集优质 macOS 桌面应用，涵盖开发、设计、效率等多个领域，通过精选与分类为用户提供高效工具导航，核心亮点是持续更新与高可信度筛选。
+- **[jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner)** `Unknown` - 该仓库为编程初学者提供系统化的技术面试指导，涵盖基础知识点梳理与实战题解，通过结构化内容帮助用户高效准备面试，核心亮点是面向零基础学习者的友好引导与实用题库整合。
+- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` - pandoc 是一款基于 Haskell 的通用标记转换工具，支持多种文档格式间的无损转换，核心亮点在于高度可扩展的解析器与渲染器架构，覆盖从 Markdown 到 PDF、HTML、LaTeX 等数十种格式。
+- **[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)** `Python` - 基于Redis构建的Python代理池，支持动态代理获取与自动检测，提升网络爬虫稳定性与效率，核心亮点为高可用代理自动筛选与分布式协同。
+- **[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)** `Dart` - 基于Flutter开发的跨平台漫画应用，专为e-hentai/exhentai设计，支持多端同步与离线阅读，通过高效资源抓取与本地缓存提升访问体验，核心亮点为兼容性与流畅性。
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** `Python` - 基于Python实现26M参数GPT从零训练，2小时内完成，采用轻量级架构与高效优化策略，显著降低大模型训练门槛。
+- **[jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)** `Unknown` - 该仓库构建了人工智能领域中英技术术语的全面映射数据库，通过系统化整理与校对，支持精准术语翻译与知识对齐，显著提升跨语言技术沟通效率。
+- **[jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)** `Unknown` - 该仓库整理了高质量的OSINT（开源情报）工具与资源，涵盖网站、平台与技术方法，帮助用户高效获取公开网络信息。核心亮点是系统化分类与持续更新的权威清单。
+- **[justimyhxu/GRM](https://github.com/justimyhxu/GRM)** `Unknown` - 基于大规模高斯重建模型，实现高效3D场景重建与生成，通过优化高斯表示与渲染管线，支持高保真、低延迟的3D内容生成，适用于复杂几何结构的快速建模。
+- **[karpathy/llm.c](https://github.com/karpathy/llm.c)** `Cuda` - 基于原始C/CUDA实现轻量级LLM训练，聚焦底层算子优化与GPU并行计算，代码简洁可读，便于理解模型训练全流程，核心亮点为极简架构与高性能CUDA实现。
+- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** `Python` - 基于PyTorch实现OpenAI GPT的最小化训练框架，采用简洁代码复现Transformer核心结构与训练流程，支持从零训练小型语言模型，核心亮点是代码清晰、可读性强、易于教学与二次开发。
+- **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** `Python` - nanoGPT 是一个极简高效的 Python 项目，用于训练和微调中等规模 GPT 模型，基于纯 PyTorch 实现，强调代码简洁性与可读性，适合快速上手与实验。
+- **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** `Jupyter Notebook` - 通过交互式 Jupyter Notebook 从零构建神经网络，结合理论推导与代码实现，系统讲解深度学习核心原理，核心亮点是手写反向传播与动态计算图直观演示。
+- **[kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo)** `Unknown` - 聚焦高增长初创企业创始人与领导者，精选权威资源与实战原则，通过结构化分类提供决策支持与领导力成长路径，核心亮点为“实战导向+思想深度”的精选内容体系。
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** `Python` - kvcache-ai/ktransformers 是一个面向前沿大模型推理优化的灵活框架，通过动态KV缓存管理与高效推理调度，显著提升LLM推理吞吐与延迟性能，支持多种优化策略的插拔式集成。
+- **[kxy000/doubanapi](https://github.com/kxy000/doubanapi)** `Unknown` - 该仓库为豆瓣API文档的备份，旨在长期保存豆瓣开放接口的结构化说明，便于开发者离线查阅与研究。通过静态文档归档，确保信息可追溯性，降低因接口变更或服务下线导致的开发中断风险。
+- **[labring/laf](https://github.com/labring/laf)** `TypeScript` - Laf 是基于 TypeScript 的全栈云开发平台，提供函数计算、数据库、对象存储等 Serverless 能力，支持快速构建和部署应用，核心亮点是开箱即用的全链路开发体验与多云兼容架构。
+- **[langgptai/LangGPT](https://github.com/langgptai/LangGPT)** `Jupyter Notebook` - LangGPT 提供结构化提示词与元提示词框架，通过可复用的提示模板体系赋能用户高效设计高质量提示，助力 AI 交互提效。
+- **[leptos-rs/leptos](https://github.com/leptos-rs/leptos)** `Rust` - Leptos 是基于 Rust 的高性能全栈 Web 框架，通过细粒度响应式渲染与同构渲染技术，实现极低延迟的网页应用构建，支持 SSR 和 WebAssembly，兼顾开发体验与运行性能。
+- **[liangyuwang/zo2](https://github.com/liangyuwang/zo2)** `Python` - ZO2实现175B大模型在18GB显存下全参数微调，基于零阶优化与显存分片技术，突破GPU显存瓶颈，显著降低大模型定制化门槛。
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** `Jupyter Notebook` - AirLLM 70B 通过量化与LoRA微调技术，实现单块4GB GPU上高效推理，支持中文指令生成，基于Jupyter Notebook提供可交互部署方案，显著降低大模型推理硬件门槛。
+- **[madawei2699/xian-IT](https://github.com/madawei2699/xian-IT)** `Unknown` - 该仓库聚焦西安本地互联网生态建设，通过整合资源与技术实践，展示二线城市在数字化转型中的创新活力，推动区域技术交流与协作。
+- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** `Python` - 基于扩散模型实现人体图像的时序一致动画生成，通过时空建模与运动先验优化，支持高保真、流畅的人体动作迁移，显著提升生成稳定性与视觉连贯性。
+- **[magicuidesign/magicui](https://github.com/magicuidesign/magicui)** `MDX` - MagicUI 提供可直接复制粘贴的动态 UI 组件库，基于 React、TailwindCSS 与 Framer Motion 构建，支持 Next.js 项目快速集成，助力设计工程师高效实现精美交互效果。
+- **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)** `Ruby` - 该仓库是一个由社区共建的 Swift 生态优秀库与资源列表，涵盖 iOS、Linux 平台的框架、扩展与工具，通过持续更新与贡献机制保持内容前沿，核心亮点是高覆盖率与活跃维护。
+- **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** `Rust` - Meilisearch 是一款基于 Rust 构建的高性能搜索引擎，支持语义搜索、混合搜索与实时搜索，通过向量数据库实现 AI 驱动的精准检索，适用于需低延迟、高精度搜索的场景。
+- **[meshesha/PPTXjs](https://github.com/meshesha/PPTXjs)** `JavaScript` - PPTXjs 是一个基于 jQuery 的 JavaScript 插件，可将 PPTX 文件转换为可交互的 HTML 页面，支持幻灯片结构与样式还原，便于在网页中嵌入和展示演示文稿。核心亮点在于轻量级、无需后端依赖的前端转换能力。
+- **[microsoft/presidio](https://github.com/microsoft/presidio)** `Python` - Presidio 是一个开源敏感数据保护框架，通过 NLP、规则匹配和可定制流水线，实现文本、图像和结构化数据中的 PII 检测、脱敏与匿名化，支持多模态数据处理。
+- **[microsoft/promptbench](https://github.com/microsoft/promptbench)** `Python` - PromptBench 是一个统一的大语言模型评测框架，支持多种提示工程与对抗攻击测试，通过标准化流程评估 LLM 的性能与鲁棒性，核心亮点在于可扩展的基准测试模块与多维度评估指标。
+- **[mkturkcan/generative-agents](https://github.com/mkturkcan/generative-agents)** `Jupyter Notebook` - 基于本地运行的Jupyter Notebook实现可交互的生成式代理，模拟人类行为，低延迟、低成本，支持自主决策与动态对话。
+- **[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)** `Python` - MLC-LLM 是一个基于 TVM 编译的通用大语言模型部署引擎，通过模型编译优化实现跨平台高效推理，支持多种 LLM 架构与硬件部署。核心亮点为极致性能与低资源占用。
+- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** `Python` - MLflow 是开源的 AI/LLM 应用构建平台，支持模型全生命周期管理，通过统一跟踪、可观测性与评估能力，赋能团队高效构建与治理 AI 应用。
+- **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** `Python` - 基于PyTorch的开源语音处理工具包，支持语音增强、分离与目标说话人提取，集成SOTA预训练模型，提供端到端的高质量语音修复与优化能力。
+- **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** `C++` - DeepSpeech 是基于深度神经网络的离线端到端语音识别引擎，支持在树莓派等设备上实时运行，采用 TensorFlow 实现高效推理。核心亮点是低延迟、高精度的本地化语音转文本能力。
+- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** `JavaScript` - Three.js 是基于 WebGL 的轻量级 JavaScript 3D 库，通过简化 Web 3D 开发流程，支持 WebXR、WebGPU 等前沿技术，实现高性能 3D 渲染与交互。核心亮点是跨平台兼容与生态丰富。
+- **[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)** `HTML` - 1000UserGuide 为独立开发者与创业者系统整理300+国内外推广渠道，涵盖SEO、营销、增长等实战路径，助力高效触达前1000名早期用户。
+- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** `Java` - Neo4j 是一个高性能图数据库，基于 Java 构建，通过 Cypher 查询语言高效管理复杂关系数据，核心亮点在于原生图存储与遍历优化，支持大规模图分析与实时查询。
+- **[niedev/RTranslator](https://github.com/niedev/RTranslator)** `C++` - Niedev/RTranslator 是一款基于本地运行的安卓实时翻译应用，利用 ONNX Runtime 加载 NLLB 模型实现离线、低延迟的多语言文本翻译，支持 SentencePiece 分词与蓝牙 LE 传输，保障隐私与实时性。
+- **[nomic-ai/nomic](https://github.com/nomic-ai/nomic)** `Python` - 基于Python构建的多模态数据处理框架，支持文本、图像、音频、视频等非结构化数据的嵌入、聚类、去重与主题建模，高效结构化海量数据。
+- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` - Ollama 是一个本地化大模型运行框架，支持 GPT-OSS、DeepSeek-R1、Gemma 3 等主流 LLM，通过 Go 语言实现高效部署与推理，提供简洁 CLI 与 REST API，开箱即用。
+- **[openai/gpt-2](https://github.com/openai/gpt-2)** `Python` - 实现GPT-2模型的完整代码与训练流程，支持无监督多任务学习，通过大规模文本自监督训练构建通用语言模型，核心亮点在于验证了语言模型作为通用学习器的潜力。
+- **[pandas-dev/pandas](https://github.com/pandas-dev/pandas)** `Python` - pandas 是面向 Python 的高效数据处理与分析库，提供类似 R data.frame 的带标签数据结构，支持灵活的数据清洗、转换与统计分析，核心亮点在于易用性与强大的向量化操作能力。
+- **[perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)** `Unknown` - 提供技术面试中反向提问的精选话术指南，帮助候选人深度了解团队与岗位，提升面试主动权与决策质量。
+- **[pgvector/pgvector](https://github.com/pgvector/pgvector)** `C` - pgvector 是基于 PostgreSQL 的开源向量相似性搜索扩展，通过 C 语言实现高效近似最近邻搜索，支持大规模向量数据的快速检索与存储。核心亮点是与关系型数据库无缝集成，兼具高性能与易用性。
+- **[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** `TeX` - 系统梳理开源AI领域最新进展，基于Jupyter Book构建结构化知识体系，通过TeX实现高质量排版与可维护的动态内容生成。
+- **[pressly/goose](https://github.com/pressly/goose)** `Go` - Goose 是一款 Go 语言编写的数据库迁移工具，支持 SQL 与 Go 函数的混合迁移，提供跨数据库（MySQL、PostgreSQL、SQLite）的版本化 schema 管理，通过简洁的命令行接口实现安全可靠的数据库演进。
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** `Python` - 整合全球免费公开API资源，提供结构化列表与分类检索，支持开发者快速查找与接入各类API服务，核心亮点为持续更新、社区驱动与高可发现性。
+- **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** `Jupyter Notebook` - 基于PyTorch从零实现类ChatGPT的大型语言模型，通过Jupyter Notebook逐步讲解Transformer架构与训练流程，核心亮点为完整可复现的端到端教学实践。
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** `Rust` - Rust 是一种系统级编程语言，通过零成本抽象、内存安全和并发性保障，赋能开发者构建高效可靠的软件。其编译器与生态系统实现高性能代码生成与静态分析，核心亮点为安全与性能的统一。
+- **[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)** `Rust` - 该仓库汇聚高质量的 Rust 生态资源与开源项目，涵盖工具链、框架与库，助力开发者高效构建高性能应用。核心亮点为持续维护的精选清单与活跃社区贡献。
+- **[rustfs/rustfs](https://github.com/rustfs/rustfs)** `Rust` - RustFS 是基于 Rust 开发的高性能 S3 兼容对象存储系统，支持平滑迁移与多平台共存，具备高并发、低延迟特性，适用于云原生数据密集型场景。
+- **[s0md3v/roop](https://github.com/s0md3v/roop)** `Python` - 基于Python实现一键式人脸替换，利用深度学习模型快速完成人物面部替换，支持图像与视频处理，界面简洁、部署便捷，核心亮点为低门槛、高还原度的实时换脸体验。
+- **[scanny/python-pptx](https://github.com/scanny/python-pptx)** `Python` - 基于Python实现Open XML格式PowerPoint文档的生成与操作，支持复杂幻灯片结构、样式与内容动态插入，核心亮点为纯Python实现、无需Office依赖、高度可定制化。
+- **[searxng/searxng](https://github.com/searxng/searxng)** `Python` - SearXNG 是一款开源隐私保护的元搜索引擎，通过聚合多个搜索服务结果实现无追踪搜索，基于 Python 构建，支持高度可配置的去中心化搜索体验。
+- **[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)** `Unknown` - 整理并推荐开源 macOS 应用，涵盖开发、设计、生产力工具等类别，通过社区协作持续更新，助力用户发现高质量、免付费的 macOS 软件。
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** `Unknown` - 汇集全球范围内高质量的开源项目与资源列表，覆盖技术、工具、学习资料等多个领域，通过社区协作持续维护与更新，实现高效知识发现与资源整合。
+- **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** `JavaScript` - 统一管理多模型LLM API，支持一键部署与key分发，通过单可执行文件与Docker实现开箱即用，兼容主流大模型接口。
+- **[svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)** `Python` - 基于VITS架构的开源歌声转换模型，利用PyTorch实现端到端的音色迁移，支持高保真语音合成与风格迁移，核心亮点为低延迟推理与多风格适配能力。
+- **[sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point)** `Rust` - 将现有Web服务器一键转换为MCP服务器，无需代码改动，基于Rust实现高性能代理与协议适配，核心亮点是零侵入式接入与低延迟通信。
+- **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** `Rust` - 基于Web前端与Rust原生能力，构建高性能、高安全性的桌面与移动应用，通过轻量级WebView实现跨平台原生体验。核心亮点在于极致性能与最小化资源占用。
+- **[textmate/textmate](https://github.com/textmate/textmate)** `Objective-C++` - TextMate 是一款专为 macOS 设计的图形化文本编辑器，基于 Objective-C++ 与 Cocoa 框架构建，提供高效、可扩展的代码与文本编辑体验，核心亮点在于原生 macOS 集成与高度可定制的语法高亮和命令系统。
+- **[tsinghua-fib-lab/AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** `Python` - 基于大语言模型驱动的智能体构建大规模社会仿真系统，通过多智能体交互模拟人类行为与社会动态，实现对复杂社会现象的可解释性研究与洞察。
+- **[tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)** `Unknown` - 该仓库提供《提问的智慧》中文版，系统性指导用户如何高效、精准地提出问题，提升沟通效率与信息获取质量。通过结构化方法论与实用范例，帮助用户在技术协作、学习研究等场景中实现高质量提问。
+- **[unslothai/notebooks](https://github.com/unslothai/notebooks)** `Jupyter Notebook` - 提供100+基于Google Colab、Kaggle等平台的微调教程笔记本，涵盖LLM训练与优化全流程，支持快速上手与实验验证，核心亮点为轻量高效、即开即用的Fine-tuning实战资源。
+- **[vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph)** `HTML` - 基于ThreeJS/WebGL实现的3D力导图组件，支持高效渲染大规模图数据，通过物理模拟实现动态布局与交互，核心亮点为流畅的3D可视化与高性能WebGL渲染。
+- **[vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)** `HTML` - 基于D3力导算法与WebGL的React组件，支持2D/3D/VR/AR多维度力导向图可视化，通过高性能Canvas渲染实现复杂网络动态交互，核心亮点为跨平台沉浸式图谱呈现与低延迟响应。
+- **[wanglin2/douban_api](https://github.com/wanglin2/douban_api)** `JavaScript` - 基于JavaScript构建的豆瓣API服务，提供豆瓣数据的标准化接口访问，支持用户、电影、图书等资源的查询与聚合，核心亮点为低延迟响应与结构化数据输出。
+- **[wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh)** `Python` - 基于Python从零实现小参数量中文大语言模型，采用轻量架构与中文语料优化训练，支持本地部署与快速推理，核心亮点为低资源高效训练与中文适配。
+- **[werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** `C++` - 基于Xiph RNNoise的语音降噪插件，采用C++实现低延迟实时降噪，支持VST2/3、AU、LV2、LADSPA等多种音频插件格式，适用于专业音频处理场景。
+- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** `Unknown` - 该仓库汇聚多个开源AI开发工具的系统提示、内部工具与模型，聚焦AI辅助编程与开发效率提升，通过标准化提示工程与可复用组件加速AI原生开发。
+- **[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)** `JavaScript` - 基于用户脚本（UserScript）技术，为ChatGPT提供数据安全增强与效率优化的浏览器插件，通过自动刷新、拦截跟踪、净化页面等机制实现安全、流畅、高效的AI交互体验。
+- **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** `Python` - 基于PyTorch实现的Real-ESRGAN模型，针对通用图像与视频复原任务，有效提升超分辨率、去噪及JPEG压缩伪影去除效果，支持真实场景复杂退化建模。
+- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` - Xinference 提供统一接口替换 OpenAI GPT，支持本地/云端部署任意开源 LLM，通过单行代码实现模型切换与高效推理，兼容 llama3、qwen、mistral 等主流模型。
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** `Python` - 提供开源免费的GPT-4级大模型调用接口，支持GPT-4.1、o4、o3、DeepSeek-R1、Gemini 2.5等多模型，通过逆向工程实现低成本高性能语言模型服务，助力开发者快速构建AI应用。
+- **[yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)** `Python` - Firefly 是一款支持多款主流大模型训练的工具，基于 Python 实现，集成 LoRA、QLoRA 等高效微调技术，支持 Qwen、Llama3、Mistral 等 20+ 模型的训练与部署。核心亮点为统一接口、高效训练与广泛模型兼容。
+- **[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)** `Python` - 基于GPT2架构实现中文闲聊对话模型，融合DialoGPT的MMI思想，提升对话连贯性与自然度，适用于轻量级对话系统构建。
+- **[yerfor/GeneFace](https://github.com/yerfor/GeneFace)** `Python` - 基于NeRF与PyTorch实现高保真3D动态人脸合成，支持任意语音驱动的自然表情与口型同步，核心技术为隐式神经表示与时空一致性建模。
+- **[yerfor/Real3DPortrait](https://github.com/yerfor/Real3DPortrait)** `Python` - 基于单张图像实现高保真3D动态人脸生成，融合NeRF与运动估计技术，支持自然口型同步与视角自由切换，ICLR 2024 Spotlight论文成果。
+- **[ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)** `Python` - 基于中文LLaMA与Alpaca模型，支持本地CPU/GPU部署与LoRA微调，实现高效低门槛的中文大语言模型训练与推理，融合量化技术降低部署成本。
+- **[zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B)** `Python` - 基于ChatGLM2-6B的开源双语对话大模型，支持高效本地部署与推理，具备中文与英文双语对话能力，核心亮点为低资源消耗下的高性能对话表现。
 
 ---
 
@@ -2169,4 +2177,4 @@
 
 ---
 
-*📅 最后更新: 2025-10-30 03:07:44 | 🤖 AI智能分析生成*
+*📅 最后更新: 2025-10-31 03:05:13 | 🤖 AI智能分析生成*
